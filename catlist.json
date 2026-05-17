@@ -17625,5 +17625,14 @@
     "title": "熱浪頂端的電子追逐",
     "number": 1923,
     "timestamp": "2026-05-17 16:43 UTC"
+  },
+  {
+    "inspiration": "印度新德里的三名16歲青少年發明了一款名為「Plas-Stick」的天然可降解羅望子種子粉末，能讓飲水中的微塑料凝聚成塊並用磁鐵輕易清除，因而榮獲2026年亞洲環境地球獎（The Earth Prize Asia）。",
+    "timestamp": "2026-05-17 17:46 UTC",
+    "model": "gemini-3-pro-image-preview",
+    "status": "success",
+    "number": 1924,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-17_1746_UTC.webp",
+    "title": "螢光下的微塑捕手"
   }
 ]
