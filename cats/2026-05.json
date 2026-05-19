@@ -8664,5 +8664,36 @@
     "story": "在印度古吉拉特邦的深夜診所裡，一隻充滿好奇心的貓咪正用輕巧的貓掌，撥弄著桌上剛被救援出來的受困蛇類骨骼標本。強烈的螢光燈穿透了空間，在古舊的絹本背景上，以神秘的雙色調X光視覺，層層拆解並多視角呈現出貓咪與爬蟲類之間那緊繃卻又靜止的生命結構。",
     "inspiration": "印度古吉拉特邦的Z世代年輕人正流行透過即時通訊軟體WhatsApp建立通報與互助網絡，在當地自發性地投入拯救受困野生鳥類與蛇類的行列。",
     "title": "幽光下的骨骼圓舞曲"
+  },
+  {
+    "avoid_list": [
+      "倫勃朗光線",
+      "織物紋理與麻布質感",
+      "前腳按壓或觸碰物品",
+      "鏡子自拍構圖",
+      "莫蘭迪色調",
+      "直打閃光燈與強烈陰影",
+      "大地色系與赤陶色",
+      "散落的黃銅齒輪",
+      "暴風雪朦朧背景",
+      "復古拍立得與即棄相機風格",
+      "冷藍調與青色調",
+      "幾何線條與窗格"
+    ],
+    "title": "交響夜行的序曲",
+    "story": "在充斥著未來感符號的黑白都市裡，霓虹燈光化作實體的五線譜。這隻貓咪在熙攘的十字路口敏捷地躍起，用肉墊捕捉那些跳動的音符碎屑，成為這款虛擬手遊裡最神祕的隱藏版任務角色。",
+    "prompt": "A polished mobile gacha game promotional character illustration of a British Shorthair cat playfully chasing falling music notes in the middle of a pedestrian crosswalk. The artwork features a striking high-contrast black and white monochrome color palette with a rich tonal range. Surrounding the cat are futuristic technological ring light illumination structures and shimmering particle effects, including sparkle and glitter overlays and magical glow dust. The composition is styled as a portfolio presentation, framed on both sides by vertical color palette swatch bars and stacked color blocks. The text '2026-05-19 10:30 UTC' is cleanly and visually integrated into the interface design. Commercial game key art quality, dynamic expressive pose, smooth cel shading, and a distinct anime shine accent.",
+    "comment_id": 4486856707,
+    "number": 1942,
+    "inspiration": "original",
+    "idea": "這是一幅採用手遊立繪風格的角色卡面，精緻的黑白單色調中，一隻英國短毛貓正在斑馬線中央追逐飄落的音符，四周圍繞著環形燈般的科技光圈與閃光亮粉效果，邊框則巧妙融合了配色條設計。",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Gacha Game Character Art",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Ring Light",
+      "texture": "Sparkle Glitter Accents",
+      "color_palette": "Monochrome / Black and White"
+    }
   }
 ]
