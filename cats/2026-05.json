@@ -8968,5 +8968,39 @@
     "title": "星軌間的掌印",
     "prompt": "A miniature diorama with a tilt-shift effect showing a calico cat focused on using its front paws to fiddle with the gears of an antique astronomical instrument. The scene is crafted like a tiny detailed world with a toy-like scale model. The artistic medium combines colored chalk art on a dark background with a fine sand texture, showing visible hatching strokes and dusty matte textures. Inscribed clearly and visually displayed on a metallic section of the instrument is the text '2026-05-20 06:38 UTC'. The lighting features moonlight illumination with cool blue tones and a gentle silvery glow, creating a quiet nighttime atmosphere. The color scheme is a luxurious gold and black, with metallic gold accents against a deep black background, evoking an opulent mood.",
     "story": "深夜的皇家天文台裡安靜得只剩齒輪微鳴。這隻好奇的守門貓輕巧地躍上黃銅渾天儀，伸出爪子撥動著軌道模型，彷彿在為繁星重新編排夜空的舞步。月光穿透天窗灑落，在黑色的夜幕與金色的儀器上，鍍上一層如沙般細膩的奢華光芒。"
+  },
+  {
+    "prompt": "A four-panel comic strip layout with a vertical poster composition, featuring a curious tabby cat intensely focusing and pouncing with its paws at a live green frog trapped inside a sealed lettuce salad bag. The central focal point blends realistic details with an expressive manga page style. The image incorporates a distinct woven fabric texture with visible linen threads and a cool blue-teal color grading with icy undertones. The scene is illuminated by soft diffused natural light, creating an even, gentle tone with no harsh shadows. The side panel includes elegant calligraphy elements and a red seal accent, surrounded by ornamental borders, evoking the serene and calm mood of an East Asian movie poster. The text '2026-05-20 10:16 UTC' is visually displayed and integrated cleanly into the composition.",
+    "title": "生菜裡的綠色驚喜",
+    "idea": "在融合冷藍色織品紋理的四格漫畫中，一隻虎斑貓正專注地在生菜沙拉袋旁試圖捕捉一隻意外現蹤的活青蛙，構圖呈現直式書法海報的留白美感。",
+    "style_picks": {
+      "art_style": "Four-panel Comic",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Fabric / Textile",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "news_inspiration": [
+      "澳洲埃斯佩蘭斯的一名居民在從超市購買的密封包裝萵苣沙拉袋中，意外發現了一隻活生生的青蛙。",
+      "美國密蘇里州聖路易斯的紅雀隊棒球總教練馬摩爾，親自為幾位在球場看台上赤裸上身慶祝的熱情球迷買單購買球票，以支持他們的狂熱舉動。",
+      "在一場慈善拍賣會中，有買家出資高達900萬美元，成功標下與投資大師華倫·巴菲特以及NBA球星史蒂芬·柯瑞在美國共進私人午餐的機會。"
+    ],
+    "comment_id": 4497345783,
+    "number": 1953,
+    "inspiration": "澳洲埃斯佩蘭斯的一名居民在從超市購買的密封包裝萵苣沙拉袋中，意外發現了一隻活生生的青蛙。",
+    "avoid_list": [
+      "正交投影視角",
+      "等距攝影視角",
+      "燭光與 dancing shadows",
+      "高飽和鮮豔粉彩光點",
+      "復古褪色色調",
+      "螢光與霓虹色彩",
+      "微縮與巨大體型對比",
+      "用鼻子嗅聞植物或食物",
+      "用爪子撥弄或排列物品",
+      "純黑貓咪配單眼金色",
+      "清楚顯示的日期時間戳記"
+    ],
+    "story": "主人剛從超市買回密封的萵苣沙拉袋，卻赫然發現裡面有一隻活生生的綠色小青蛙在跳動。家中的虎斑貓立刻進入狩獵狀態，隔著透明塑料與柔和的漫射光，用貓爪緊緊盯著這個意想不到的「附贈玩具」。"
   }
 ]
