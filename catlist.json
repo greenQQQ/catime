@@ -17886,5 +17886,16 @@
     "timestamp": "2026-05-20 02:05 UTC",
     "status": "success",
     "number": 1950
+  },
+  {
+    "title": "月光下的充氣麻糬",
+    "character": "mochi",
+    "status": "success",
+    "inspiration": "original",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-20_0302_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 1951,
+    "timestamp": "2026-05-20 03:02 UTC",
+    "character_name": "麻糬"
   }
 ]

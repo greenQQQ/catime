@@ -8906,5 +8906,37 @@
       "color_palette": "Morandi Color Palette"
     },
     "idea": "在融合非洲未來主義幾何美學的幾內亞灣前衛生態保護區中，一隻斑紋貓正趴在沙質紋理的先進太陽能浮體上，用前爪輕輕撥弄一隻剛孵化的亞洲棕長頸龜幼體。畫面採用莫蘭迪色調與高調明亮光，並以故事插畫分格呈現這場跨物種的科技與自然邂逅。"
+  },
+  {
+    "title": "月光下的充氣麻糬",
+    "idea": "在微縮景觀的深夜老街麵包店裡，一隻充氣PVC質感的橘白胖貓「麻糬」正奮力鑽進一個剛好卡住牠的透明塑膠袋，整體呈現冷調藍青色的半色調網點風格。",
+    "character": "mochi",
+    "inspiration": "original",
+    "avoid_list": [
+      "正交投影視角",
+      "等距攝影視角",
+      "燭光與 dancing shadows",
+      "高飽和鮮豔粉彩光點",
+      "復古褪色色調",
+      "螢光與霓虹色彩",
+      "微縮與巨大體型對比",
+      "用鼻子嗅聞植物或食物",
+      "用爪子撥弄或排列物品",
+      "純黑貓咪配單眼金色",
+      "清楚顯示的日期時間戳記"
+    ],
+    "prompt": "A miniature tilt-shift photograph mixed with retro halftone dot illustration style, featuring the literal cat Mochi inside a quiet nighttime miniature bakery. Mochi is a chubby, short-legged, spherical shorthair cat with a white base coat and solid orange patches without tabby stripes. On the right half of his face (viewer's perspective), an orange mask extends from the nose bridge across the right cheek to the right ear, while the left side of his face remains entirely white. He has large round amber eyes, a pink nose with a tiny orange center dot, an orange-and-white ringed tail, a solid white belly, and a heart-shaped orange saddle patch on his upper back. His right front paw is an orange mitten to the wrist, while his left front paw is pure white. The cat has a high-gloss, inflatable PVC texture with puffy, air-filled balloon-like tension. Mochi is squeezed tightly into a transparent plastic bread bag, looking like a packaged peanut mochi. The scene has a cool blue-teal color grading with icy undertones, illuminated by a gentle silvery moonlight glow. The art style features a visible CMYK print aesthetic, graphic dot matrix texture, and a retro newspaper print halftone effect. The composition uses a selective focus band with blurred foreground and background for a toy-like miniature effect. In a clear, modern digital font on the image, the date and time '2026-05-20 03:02 UTC' is visually displayed.",
+    "news_inspiration": [],
+    "comment_id": 4494122987,
+    "story": "深夜的老街麵包店空無一人，只有月光透過窗戶灑在剛出爐的圓麵包上。貪吃的麻糬巡邏到這裡，被一個散發香氣的透明袋子吸引，牠不顧自己圓滾滾的身材，硬是把頭跟前腳塞了進去，結果卡在袋子裡動彈不得，在月色下像極了一顆被包裝好的巨大花生麻糬。",
+    "style_picks": {
+      "art_style": "Halftone",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Moonlight",
+      "texture": "Inflatable PVC",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "number": 1951,
+    "character_name": "麻糬"
   }
 ]
