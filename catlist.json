@@ -18236,5 +18236,14 @@
     "timestamp": "2026-05-23 18:52 UTC",
     "status": "success",
     "number": 1986
+  },
+  {
+    "number": 1987,
+    "title": "古卷燭影移",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-23_2000_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-05-23 20:00 UTC",
+    "inspiration": "original",
+    "status": "success"
   }
 ]

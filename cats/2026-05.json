@@ -10131,5 +10131,34 @@
       "texture": "Glossy Plastic / Toy",
       "color_palette": "Retro Faded Tones"
     }
+  },
+  {
+    "number": 1987,
+    "title": "古卷燭影移",
+    "prompt": "A handscroll-style photograph captured with a handheld slow shutter, showing a ginger cat in a dim, ancient library extending its paw to toy with an open, yellowed parchment scroll. Intentional motion blur and soft light streaks from flickering candles create a dreamy time-passing effect, with a right-to-left visual narrative across an extreme wide panoramic composition. The scene features layered depth from an oblique bird's-eye angle, lit by the warm orange glow of candlelight that casts soft dancing shadows. The overall aesthetic has a warm sepia patina and retro faded color palette with washed-out vintage tones and low contrast, emulating an aged silk scroll texture with visible weave and weathered paper stains. The text '2026-05-23 20:00 UTC' is visually displayed in the corner of the image. Shot on film, nostalgic warmth, candid movement.",
+    "story": "深夜的藏書閣空無一人，唯有幾盞微弱的燭光在風中搖曳。這隻守書的橘貓在書架間輕盈穿梭，偶爾停下腳步，用肉墊按壓著古老文獻上的文字，彷彿試圖解開百年前的秘密。慢速快門記錄下了牠尾巴輕擺與燭影晃動的軌跡，在如古絹般斑駁的歲月質感中，留下了一抹復古褪色的溫暖身影。",
+    "comment_id": 4526396469,
+    "avoid_list": [
+      "四足著地",
+      "等距攝影視角",
+      "高飽和螢光燈",
+      "閃光燈直打",
+      "超寫實動漫風格",
+      "貼紙拼貼邊框",
+      "奢華黑金調",
+      "手作機關偶",
+      "棉花糖雲朵",
+      "幾何排列古文物"
+    ],
+    "idea": "在幽暗的古老藏書閣中，一隻橘貓正伸出爪子撥弄著一本敞開的泛黃羊皮古卷，整幅畫面以手持慢門與長卷全景構圖呈現，充滿時間流逝的動態美感。",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Handheld Slow Shutter",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Candlelight",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Retro Faded Tones"
+    }
   }
 ]
