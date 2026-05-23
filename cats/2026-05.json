@@ -10023,5 +10023,41 @@
     "idea": "這是一幅採用超寫實動漫風格與等距攝影視角的場景，一隻優雅的黑色孟買貓正在巨大的金色薔薇珊瑚群落間輕盈穿梭，宛如置身於海底的奢華宮殿。",
     "title": "深海金碧的巡航",
     "prompt": "A perfectly isometric photography view of an elegant black Bombay cat gracefully weaving through a vast, sprawling colony of giant metallic gold and green rose coral, resembling a luxurious underwater palace. In the style of a realistic-anime hybrid and polished 3D render with clean geometry and smooth materials. The cat is agilely moving its limbs, chasing tiny deep-sea fish glowing with gold light under moonlight illumination. The scene is cast in cool blue tones with a gentle silvery glow, creating a quiet nighttime atmosphere with soft global illumination. A dramatic spotlight highlights the opulent gold and black color scheme with luxurious metallic gold accents against a deep black background. Injected visually into the scene, the text '2026-05-23 14:25 UTC' is clearly displayed. Cinema 4D aesthetic, hyperrealistic anime details, capturing a majestic midnight underwater adventure without any miniature effect."
+  },
+  {
+    "avoid_list": [
+      "配色條邊框",
+      "浮空島嶼與漂浮場景",
+      "在控制台或收銀台上踩踏與按壓",
+      "專注地嗅聞或凝視特定物件",
+      "四格漫畫與拼貼邊框結構",
+      "高飽和度的霓虹與螢光燈光",
+      "微縮立體模型與盲盒風格",
+      "古代文物與化石挖掘現場",
+      "無陰影的冷白日光燈照明",
+      "雙色調極簡與黑白單色風格",
+      "精緻擬人化與手作機關偶質感",
+      "電影感的微光與大氣照明"
+    ],
+    "title": "金輪之上的守護者",
+    "comment_id": 4525868125,
+    "number": 1984,
+    "idea": "這是一幅採用金色與黑色奢華色調的白板記號筆畫，透過鏡子自拍構圖展現一隻貓咪在繁華街頭的單車籃裡，身後閃爍著蝴蝶光與透明樹脂般質感的街景。",
+    "style_picks": {
+      "art_style": "Whiteboard Marker Art",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Translucent Resin",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "story": "在津巴布韋的偏遠村落間，這隻黑金斑紋的貓咪安穩地蹲坐在「疫苗單車隊」的車頭籃子裡，陪伴著社區衛生工作者穿梭於挨家挨戶的顛簸山路中。牠用爪子輕輕撥弄著掛在車把上的反光鏡，在夕陽餘暉下，彷彿正在與鏡頭前的世界進行一場溫馨的紀錄片自拍。",
+    "news_inspiration": [
+      "美國德州（Texas）科學家鑑定出一個距今8000萬年前的新海中掠食者物種「帝王泰羅龍」（Tylosaurus rex）巨型化石，揭示了古代海洋中曾存在一隻長達43英尺的恐怖獵手。",
+      "奧地利維也納（Vienna）的大學獸醫學專家首次記錄到一頭名叫維洛妮卡（Veronika）的母牛展現出罕見的工具使用能力，打破了過往認為只有黑猩猩等高智商動物才會使用多功能工具的認知。",
+      "津巴布韋（Zimbabwe）的卡里巴與胡倫韋農村地區，發起了一項由社區衛生工作者組成的「疫苗單車隊」計畫，騎單車挨家挨戶為偏遠地區的女孩接種HPV疫苗，目前已成功幫助超過2.2萬人。",
+      "英國蘇格蘭（Scotland）立法成為全球第一個規定境內所有新建房屋都必須安裝「雨燕磚」的國家，這項政策將為因環境改變而數量急遽減少的雨燕提供更多安全築巢的溫馨空間。"
+    ],
+    "inspiration": "津巴布韋（Zimbabwe）的卡里巴與胡倫韋農村地區，發起了一項由社區衛生工作者組成的「疫苗單車隊」計畫，騎單車挨家挨戶為偏遠地區的女孩接種HPV疫苗，目前已成功幫助超過2.2萬人。",
+    "prompt": "A whiteboard marker drawing on glass with a casual sketch feel and slightly faded ink, capturing a mirror selfie composition. The image shows a cat sitting inside a bicycle basket, with its paw playfully touching a rearview mirror. The background features a bustling village street in Zimbabwe with a translucent resin material quality, showing an amber-like clarity and embedded elements. The lighting is a glamorous butterfly lighting with an overhead key light creating a symmetrical shadow under the nose and soft even illumination. The color scheme is a luxurious gold and black, with metallic gold accents against a deep black background, creating an opulent mood. The date and time '2026-05-23 15:53 UTC' is visually displayed in the corner of the image."
   }
 ]
