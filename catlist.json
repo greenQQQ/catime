@@ -18379,5 +18379,18 @@
     "number": 2001,
     "title": "琥珀工坊的秋日凝視",
     "inspiration": "original"
+  },
+  {
+    "number": 2002,
+    "inspiration": "加拿大溫哥華的范度森植物園正舉辦名為「奇蹟」的春季花卉展，由當地藝術家使用大量鮮花打造出巨型章魚、吸睛蜂巢等驚豔的植物藝術裝置。",
+    "title": "鏡中春櫻漫步",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character_name": "麻糬",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-24_2144_UTC.webp",
+    "is_seasonal": true,
+    "season": "spring",
+    "timestamp": "2026-05-24 21:44 UTC",
+    "character": "mochi",
+    "status": "success"
   }
 ]
