@@ -10495,5 +10495,34 @@
     "news_inspiration": [],
     "title": "混凝土迷宮與螢光蝶",
     "character": "lingling"
+  },
+  {
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Gacha Game Character Art",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Butterfly Lighting",
+      "texture": "Gold Leaf Cloud Ornament",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "story": "時間的巨輪在老舊的鐘錶店裡緩緩轉動，唯獨這隻貓能看見齒輪間卡住的微小光陰。牠輕巧地在零件堆中穿梭，每次伸爪撥弄，都讓停滯的時光重新流淌，而蝴蝶光正巧灑在牠專注的側臉與金箔祥雲紋理的背景上。",
+    "idea": "這是一幅黑白單色調的手遊立繪，採用故事插畫分格排版，呈現一隻玳瑁貓在古老鐘錶工作坊內，用後腳站立、前腳踏在齒輪边缘，正專注地用肉墊撥弄精細發條的場景。",
+    "number": 1998,
+    "avoid_list": [
+      "螺旋漩渦構圖",
+      "伸出前爪撥弄",
+      "復古褪色色調",
+      "用鼻子嗅聞",
+      "夢幻粉彩色系",
+      "衍紙藝術紋理",
+      "化石與貓",
+      "亮面塑膠質感",
+      "慢速快門時間流逝",
+      "在老街櫻花樹下"
+    ],
+    "prompt": "A black and white monochrome gacha game promotional character illustration with high contrast and a rich tonal range. Illustrated story page layout with multiple irregular panels arranged on one page, a decorative title banner at top, and integrated dialogue bubbles following a shoujo manga narrative flow. The central scene shows a tortoiseshell cat standing on its hind legs inside an ancient clockwork workshop, its front paw resting on the edge of a gear, focused on adjusting a delicate mainspring with its paw pad. Background features luxurious gold leaf ornamental clouds, traditional East Asian auspicious cloud motifs, and an embossed metallic finish with intricate curling swirl patterns on a dark ground. The lighting is a dramatic butterfly lighting with an overhead key light creating a symmetrical shadow under the nose and a glamour portrait effect. Visually displayed clearly within the image is the date and time text '2026-05-24 16:50 UTC'.",
+    "inspiration": "original",
+    "title": "光陰的齒輪之舞",
+    "comment_id": 4529399940
   }
 ]
