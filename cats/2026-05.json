@@ -10873,5 +10873,44 @@
     },
     "comment_id": 4535059486,
     "title": "鏡中鏡的斑斕足跡"
+  },
+  {
+    "season": "spring",
+    "style_picks": {
+      "art_style": "Stained Glass",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Spotlight",
+      "texture": "Concrete",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "inspiration": "original",
+    "news_inspiration": [
+      "大韓民國首爾：首爾成立了全球首座機器人主題樂園「Galaxy Robot Park」，由人形機器人登台大跳 K-pop 明星的熱門舞曲，吸引大量遊客前來體驗科技與娛樂的結合。",
+      "厄瓜多加拉巴哥群島：科學家在加拉巴哥群島深達近 6000 英尺的深海中，發現了一種僅有高爾夫球大小、通體碧藍的全新神祕章魚物種。",
+      "英國倫敦：英國著名插畫家昆廷·布萊克籌備超過20年的「昆廷·布萊克插畫中心」即將於 6 月在倫敦開幕，這座建於 18 世紀水廠舊址的建築將成為全球最大的插畫專門博物館。",
+      "阿根廷伊貝拉國家公園：在科學家與環保組織數十年的復育努力下，該地區暌違 70 年首次觀測到野生美洲豹的蹤跡，象徵著當地生態重野化取得重大里程碑。"
+    ],
+    "idea": "在冷色調的彩色玻璃穹頂下，一隻如棉花糖般的純白布偶貓，正沿著融入混凝土質感的螺旋漩渦階梯，在聚光燈照耀的櫻花樹下奮力追逐蝴蝶，白毛上沾滿了粉色花瓣。",
+    "avoid_list": [
+      "用爪子撥弄精密鐘錶發條與齒輪",
+      "莫蘭迪色調與灰調柔和粉彩",
+      "雙腳直立且前爪輕搭在工作檯邊緣",
+      "秋日琥珀色調與倫勃朗光影",
+      "金箔祥雲與傳統東亞祥雲紋理",
+      "故事插畫分格與多個不規則漫畫分鏡排版",
+      "微縮立體模型搭配50mm鏡頭與微距攝影",
+      "黑白單色調的高對比底片風格",
+      "貓咪用前腳按壓翻開的立體摺紙書",
+      "在畫面角落清晰顯示視覺日期時間文字",
+      "採用Cinema 4D質感的精緻3D渲染"
+    ],
+    "character": "lingling",
+    "is_seasonal": true,
+    "title": "穹頂下的琉璃春追",
+    "prompt": "A literal four-legged Ragdoll-like longhair cat named Lingling, with extremely fluffy pure white #FFFFFF longhair, a small round face nearly hidden in fur, huge round sapphire-blue #0F52BA eyes, a pale pink nose, and a visible pink #FF69B4 ribbon bow collar with a small golden #FFD700 bell centered beneath the knot, leaping to chase a blue-winged butterfly. The scene is rendered in a stained glass window art style with bold black outlines, translucent jewel-toned segments, and a backlit glow. The composition features a spiral vortex architectural staircase made of raw concrete texture with a brutalist aesthetic, coiling around the cat with a strong rotational perspective and a dizzying sense of depth. A narrow beam spotlight illuminates the cat and a cherry blossom tree shedding pink flower petals, which cling to the cat's pure white fur. The background features a cool blue-teal color grading with icy undertones under a stained glass dome ceiling. The date and time '2026-05-25 16:57 UTC' is visually displayed in the corner of the image.",
+    "number": 2009,
+    "character_name": "鈴鈴",
+    "story": "鈴鈴在春天的花園裡發現了一隻翅膀閃爍藍光的蝴蝶。她興奮地順著螺旋階梯一路往上追，雖然因為毛髮太過蓬鬆而顯得有些笨拙，還差點撞上彩繪玻璃窗，但脖子上的粉紅鈴鐺依然隨著她輕快的步伐，在宏偉的幾何空間裡迴盪著清脆的叮鈴聲。",
+    "comment_id": 4535874244
   }
 ]

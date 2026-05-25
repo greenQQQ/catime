@@ -18450,5 +18450,18 @@
     "character_name": "墨墨",
     "title": "鏡中鏡的斑斕足跡",
     "status": "success"
+  },
+  {
+    "season": "spring",
+    "inspiration": "original",
+    "is_seasonal": true,
+    "character": "lingling",
+    "title": "穹頂下的琉璃春追",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-25_1657_UTC.webp",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 2009,
+    "character_name": "鈴鈴",
+    "timestamp": "2026-05-25 16:57 UTC"
   }
 ]
