@@ -18532,5 +18532,14 @@
     "number": 2016,
     "character": "captain",
     "status": "success"
+  },
+  {
+    "number": 2017,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-05-26 17:18 UTC",
+    "title": "烈陽下的金色漫步",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-05/cat_2026-05-26_1718_UTC.webp",
+    "status": "success",
+    "inspiration": "愛爾蘭氣象局於昨日（5月25日）發表報告，在強大高壓脊影響下，該國多個氣象站同步刷新了有觀測紀錄以來的五月份最高溫紀錄。"
   }
 ]

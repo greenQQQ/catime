@@ -11148,5 +11148,39 @@
       "texture": "Shibori Textile",
       "color_palette": "High Saturation Vivid"
     }
+  },
+  {
+    "number": 2017,
+    "idea": "這是一幅採用等距3D插圖與復古海報風格的畫面，一隻花斑貓正在愛爾蘭沿海燈塔的木質頂樓上，耐心地伸長身體去嗅聞一盆因異常高溫而提早盛開的熱帶向日葵。",
+    "avoid_list": [
+      "長卷全景構圖",
+      "遞迴德羅斯特效應",
+      "移軸攝影微縮效果",
+      "霓虹螢光色調",
+      "藍青冷色調",
+      "體積光與塵埃微粒",
+      "貓爪子撥弄物體",
+      "機械改造與賽博科技",
+      "巨型黑夜花卉植物",
+      "X光透視骨骼與齒輪"
+    ],
+    "comment_id": 4546821106,
+    "title": "烈陽下的金色漫步",
+    "prompt": "A 3D isometric illustration and vintage poster art style depicting a calico cat stretching its body to sniff a blooming tropical sunflower on the wooden top floor of an Irish coastal lighthouse. The scene is set in warm, washed-out vintage tones with a retro faded color palette and clean geometric forms. The natural wood grain texture with visible knots and lines is prominent on the floor. Sunlight streams through the window, creating dramatic backlighting with a glowing rim light that outlines the cat's silhouette. Inscribed clearly into the corner of the design in bold typography is the timestamp '2026-05-26 17:18 UTC'. Mid-century modern design influence, low contrast, nostalgic film-era warmth, and polished playful rendering.",
+    "news_inspiration": [
+      "德國科學家近日成功研發出一項新技術，能利用普通的無線網路（WiFi）訊號精準識別房內的人員身份。",
+      "愛爾蘭氣象局於昨日（5月25日）發表報告，在強大高壓脊影響下，該國多個氣象站同步刷新了有觀測紀錄以來的五月份最高溫紀錄。",
+      "美國紐約公共圖書館於五月初迎來了英國王后卡蜜拉的特別到訪，親自探望館內珍藏的小熊維尼珍貴原始玩偶。",
+      "日本研究團隊透過分析古老樹木的年輪與歷史觀測紀錄，成功追溯出八百年前一場曾導致中世紀天空出現奇異紅光的劇烈太陽風暴。"
+    ],
+    "style_picks": {
+      "art_style": "Vintage Poster",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Wood Grain",
+      "color_palette": "Retro Faded Tones"
+    },
+    "story": "五月的愛爾蘭迎來了歷史性的罕見熱浪，連海風都變得滾燙。駐守燈塔的貓咪發現頂樓窗台的木紋地板被曬得發熱，而那株本不該在此刻綻放的向日葵，正散發出令牠好奇的溫暖香氣。",
+    "inspiration": "愛爾蘭氣象局於昨日（5月25日）發表報告，在強大高壓脊影響下，該國多個氣象站同步刷新了有觀測紀錄以來的五月份最高溫紀錄。"
   }
 ]
