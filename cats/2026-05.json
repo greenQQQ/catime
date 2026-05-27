@@ -11539,5 +11539,36 @@
       "美國密西根州卡爾頓的機場高中畢業生迎來傳統的「拖拉機日」，數十名學生不開汽車，改開著各式農用拖拉機和高爾夫球車帥氣上學，以此向當地的農業傳統致敬。",
       "法國網球公開賽於巴黎羅蘭·加洛斯球場開打，地主外卡選手阿爾圖爾·熱亞（Arthur Gea）在單打首秀首盤因內急不得不直接奔下球場，成為賽事一幕尷尬又逗趣的插曲。"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Architectural Blueprint",
+      "composition": "Extreme Low Angle",
+      "lighting": "Candlelight",
+      "texture": "Film Grain",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "news_inspiration": [],
+    "comment_id": 4559429725,
+    "story": "深夜的古老鐘錶工作坊裡，桌上攤開了繁複的建築與機械藍圖。一隻暹羅貓在微弱的蠟燭光芒下悄悄巡視，對著一枚剛拆卸下的發條齒輪伸出爪子，每一次撥弄，都在底片顆粒感十足的單色光影中，留下了指針走動般的細碎聲響。",
+    "title": "光影刻度間的巡遊",
+    "number": 2028,
+    "avoid_list": [
+      "鏡子自拍構圖",
+      "等距攝影視角",
+      "中片幅攝影風格",
+      "迷你藍色章魚",
+      "橘色手套右腳",
+      "向日葵與愛爾蘭燈塔",
+      "莫蘭迪色調房間",
+      "生物朋克咖啡廳",
+      "文藝復興油畫風格",
+      "蝴蝶光與魚眼扭曲",
+      "粗壯的棕黑虎斑",
+      "草莓大福與傳統市場"
+    ],
+    "inspiration": "original",
+    "idea": "在黑白單色與建築藍圖的線條世界中，一隻輕盈的暹羅貓正以極低角度被捕捉，牠在燭光搖曳的搖晃陰影下，用前爪輕輕撥弄著散落於草圖上的舊黃銅齒輪與發條零件。",
+    "prompt": "An extreme low angle shot of a Siamese cat gently batting at old brass gears and clockwork springs scattered across an architectural blueprint. The background is a stark black and white monochrome world of precise technical drawing lines, measurements, and annotations. The scene is illuminated by a single warm orange flickering candlelight that casts soft dancing shadows, creating a high contrast tonal range. The date and time '2026-05-27 23:08 UTC' is visually displayed in the corner. Taken with a 35mm lens, f/2.8, visible analog film grain texture, organic photographic imperfections, rich contrast, candid moment."
   }
 ]
