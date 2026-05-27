@@ -11360,5 +11360,37 @@
     "character_name": "墨墨",
     "character": "momo",
     "idea": "這是一幅將生物朋克風格與粉彩色系融合的獨特畫面，純黑的墨墨在充滿充氣PVC質感生物組織的未來咖啡廳窗邊，透過一塊有機生物鏡面進行鏡子自拍構圖，上方一道聚光燈精準打在牠身上。"
+  },
+  {
+    "title": "月影絲絨的獨白",
+    "number": 2023,
+    "comment_id": 4553067619,
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Pencil Sketch",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Moonlight",
+      "texture": "Silk",
+      "color_palette": "Morandi Color Palette"
+    },
+    "story": "月光透過窗戶灑在朦朧的莫蘭迪色調房間裡，一隻優雅的波斯貓正用爪子撥弄撥放中的復古相機。鏡子裡倒映出牠專注的眼神，以及身下如流水般滑順的絲綢衣物，定格了這幕深夜的靜謐與頑皮。",
+    "prompt": "A pencil sketch on paper capturing a mirror selfie composition of an elegant Persian cat on a luxurious silk fabric in a vintage dressing room at night. The artwork features visible graphite strokes, hatching, and cross-hatching to create depth. Soft moonlight illuminates the scene with a gentle silvery glow and cool blue tones, utilizing a desaturated Morandi muted color palette with dusty grey undertones. The reflection in the mirror reveals the cat intently interacting with a vintage camera, with the luminous, smooth texture of the flowing silk drape beneath it creating delicate light reflections. Visually displayed clearly in a corner of the image is the timestamp '2026-05-27 08:58 UTC'.",
+    "news_inspiration": [],
+    "avoid_list": [
+      "移軸攝影與微縮模型",
+      "霓虹螢光色系與環形燈",
+      "極低角度與X光透視風格",
+      "Y2K風格與未來電子溫室",
+      "超廣角鏡頭與試管實驗室",
+      "中片幅攝影與硬光日照",
+      "漁港碼頭與直打閃光燈",
+      "等距攝影與復古海報風格",
+      "工筆畫風格與黑金日晷",
+      "木紋桌面與溫暖燭光",
+      "機械改造與生物發光植物",
+      "雙色調強烈對比與暗黑花卉",
+      "邊角顯示日期時間文字"
+    ],
+    "idea": "這是一幅採用鉛筆素描風格繪製的畫作，捕捉一隻貓咪在深夜的復古更衣室裡，趴在絲綢布料上對著穿衣鏡進行鏡子自拍構圖的瞬間。"
   }
 ]
