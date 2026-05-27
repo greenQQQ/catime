@@ -11321,5 +11321,44 @@
       "邊角顯示日期時間文字"
     ],
     "prompt": "A cubism art piece of a clever tuxedo cat interacting with a multi-purpose Swiss Army knife using its paw. The scene is viewed through a extreme fisheye wide-angle lens, creating a strong barrel distortion, an exaggerated foreground, and a dynamic 360-degree feel. The setting is an abstract angular plane of polished marble texture, featuring natural vein patterns and luxurious, cool smooth finishes. The style embodies geometric fragmented forms, multiple simultaneous perspectives, and analytical decomposition. Lit by butterfly lighting with an overhead key light creating a symmetrical shadow. The color scheme is a retro faded color palette with washed-out vintage tones, low contrast, and nostalgic film-era warmth. The date and time '2026-05-27 00:04 UTC' is visually displayed in the corner of the image."
+  },
+  {
+    "style_picks": {
+      "art_style": "Biopunk",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Spotlight",
+      "texture": "Inflatable PVC",
+      "color_palette": "Pastel Colors"
+    },
+    "inspiration": "original",
+    "avoid_list": [
+      "移軸攝影與微縮模型",
+      "霓虹螢光色系與環形燈",
+      "極低角度與X光透視風格",
+      "Y2K風格與未來電子溫室",
+      "超廣角鏡頭與試管實驗室",
+      "中片幅攝影與硬光日照",
+      "漁港碼頭與直打閃光燈",
+      "等距攝影與復古海報風格",
+      "工筆畫風格與黑金日晷",
+      "木紋桌面與溫暖燭光",
+      "機械改造與生物發光植物",
+      "雙色調強烈對比與暗黑花卉",
+      "邊角顯示日期時間文字"
+    ],
+    "comment_id": 4551499232,
+    "story": "墨墨走進了這間由活體細胞與粉色充氣聚合物築成的生物朋克咖啡廳。牠優雅地躍上窗台，看著鏡子裡自己那閃爍著金琥珀色光芒的雙眼與獨特的金色耳環，伸出覆滿黑色短毛的貓掌，輕輕觸碰著如氣墊般微微起伏的粉藍色活體牆面。在聚光燈的照射下，牠緞面般的黑毛與周圍黏稠又夢幻的未來科技質地形成強烈對比。",
+    "title": "粉色細胞壁的獨白",
+    "news_inspiration": [
+      "肯亞：四隻極度瀕危的東非紫羚在捷克動物園接受多年照顧後，成功搭乘飛機回到肯亞的野生棲息地，為該物種的復育帶來重大希望。",
+      "丹麥：一部紀錄格陵蘭島八支球隊不畏冰雪、爭奪足球冠軍賽的紀錄片在數位平台上映，展現了極地居民對足球運動的無比熱情。",
+      "美國：愛荷華州的尼爾史密斯國家野生動物避難所誕生了一隻機率僅百萬分之一、在美洲原住民文化中被視為神聖象徵的罕見白藍牛寶寶。",
+      "澳洲：西澳大學的海洋科學家發現，過去被認為是單一物種的南極海蛞蝓，在歷經數百萬年的冰期循環後，實際上已演化出至少75個獨特物種。"
+    ],
+    "number": 2022,
+    "prompt": "A close-up photograph of a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur, large luminous golden-amber eyes, long white whiskers, and a single small gold hoop earring in its left ear, sitting by a window in a biopunk cafe. The cat is capturing a mirror selfie composition using an organic biological mirror, showing its visible reflection and intimate close-up perspective. The environment features a soft pastel color palette of gentle pink, lavender, mint, and baby blue, with inflatable PVC material, high-gloss balloon-like surfaces, and puffy rounded forms of biological tissue. A narrow beam spotlight from above creates dramatic high-contrast lighting with sharp light edges on the cat. The current date and time '2026-05-27 05:08 UTC' is visually displayed in the corner of the image. Shot on a 35mm lens, f/1.8, candid framing, authentic photographic texture with subtle grain and natural light depth.",
+    "character_name": "墨墨",
+    "character": "momo",
+    "idea": "這是一幅將生物朋克風格與粉彩色系融合的獨特畫面，純黑的墨墨在充滿充氣PVC質感生物組織的未來咖啡廳窗邊，透過一塊有機生物鏡面進行鏡子自拍構圖，上方一道聚光燈精準打在牠身上。"
   }
 ]
