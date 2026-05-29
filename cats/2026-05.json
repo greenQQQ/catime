@@ -11924,5 +11924,42 @@
     "idea": "一隻斑虎貓在一座由數百根巨大毛線交織而成的繽紛巨型迷宮中央，正伸出後腳專注地抓癢，整體畫面以水彩畫融合螺旋漩渦構圖與虹彩全息質感呈現。",
     "inspiration": "荷蘭烏特勒支正舉辦第八屆亞歐文化節，透過大型編織裝置藝術與當代舞蹈等多樣跨國合作，探討各國文化間的交流與融合。",
     "comment_id": 4575126326
+  },
+  {
+    "character_name": "船長",
+    "news_inspiration": [
+      "在英國樸茨茅斯海岸，超過200名志工參與了該國史上最大規模的亞潮帶牡蠣礁修復行動，將逾2萬隻牡蠣投放到海中以改善水質與減少侵蝕。",
+      "一隻從英國南安普敦偷偷溜上貨船的小紅狐，在抵達美國紐約港後被送往布朗克斯動物園隔離治療，目前已完全康復並被命名為「巴西爾」。",
+      "美國丹佛即將舉辦第七屆邊緣節（Fringe Festival），吸引了眾多獨立表演者與小丑齊聚一堂，帶來充滿趣味與創意的搞笑舞台演出。"
+    ],
+    "character": "captain",
+    "inspiration": "一隻從英國南安普敦偷偷溜上貨船的小紅狐，在抵達美國紐約港後被送往布朗克斯動物園隔離治療，目前已完全康復並被命名為「巴西爾」。",
+    "title": "港口的深夜邂逅",
+    "avoid_list": [
+      "黑金奢華色調",
+      "霓虹螢光色彩",
+      "粉彩色系復古風格",
+      "專注地用鼻子輕觸嗅聞",
+      "黑貓墨墨戴單隻金色耳環",
+      "故事插畫分格排版",
+      "3D等距或鳥瞰特殊視角",
+      "玻璃或樹脂透明質感墊子",
+      "閃光燈直打與強烈陰影",
+      "古董店或舊書店陳設",
+      "雙色調與全息虹彩效果",
+      "微型雕像與古老文物化石"
+    ],
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Fisheye Lens",
+      "lighting": "Ring Light",
+      "texture": "Gold Leaf Cloud Ornament",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "prompt": "A smartphone snapshot of a large, stocky brown classic tabby cat with bold black stripes and a broad, muscular build, with scruffy, untidy, slightly coarse fur. The cat's left eye is permanently concealed by a natural dark-pigmented fur patch, while its right eye is a piercing emerald green. Its left ear has a prominent V-shaped notch, a faded red bandana is tied loosely around its neck, and it has a white chest bib and white mitten paws. The cat is pinning down a terrified small red fox on a pier with its front paw. The scene is captured through a fisheye wide-angle lens with strong barrel distortion and an exaggerated foreground, creating a 360-degree feel. High-contrast black and white monochrome photography with a rich tonal range, dramatic shadows, and highlights. The lighting is an even frontal ring light illumination, creating a circular catchlight in the cat's green eye. The background is a dark New York harbor dock at night. In the corner of the frame, the date and time text '2026-05-29 16:33 UTC' is visually displayed as a digital camera timestamp. Casual composition with an authentic everyday moment feel, shot on a mobile phone camera.",
+    "idea": "在黑白單色調與強烈變形的魚眼鏡頭下，一隻戴眼罩的壯碩虎斑貓「船長」正用前爪按住一隻剛從貨船溜下、一臉驚恐的小紅狐，畫面邊緣帶有手機隨拍的日常感與微弱的環形燈倒影，背景是深夜的紐約港碼頭。",
+    "comment_id": 4577589649,
+    "story": "一隻從英國偷偷溜上貨船的小紅狐「巴西爾」才剛在紐約港靠岸，就遇上了碼頭老大「船長」。船長一改往日的沉穩，敏捷地飛撲將這隻外來客攔截，用強壯的白手套爪子將牠壓制在防波堤上，銳利的翠綠色右眼正嚴肅地審視著這個不速之類。這場異國狐貓的深夜遭遇戰，被路過船員的手機鏡頭意外捕捉了下來。",
+    "number": 2040
   }
 ]
