@@ -11961,5 +11961,36 @@
     "comment_id": 4577589649,
     "story": "一隻從英國偷偷溜上貨船的小紅狐「巴西爾」才剛在紐約港靠岸，就遇上了碼頭老大「船長」。船長一改往日的沉穩，敏捷地飛撲將這隻外來客攔截，用強壯的白手套爪子將牠壓制在防波堤上，銳利的翠綠色右眼正嚴肅地審視著這個不速之類。這場異國狐貓的深夜遭遇戰，被路過船員的手機鏡頭意外捕捉了下來。",
     "number": 2040
+  },
+  {
+    "avoid_list": [
+      "黑金奢華色調",
+      "霓虹螢光色彩",
+      "粉彩色系復古風格",
+      "專注地用鼻子輕觸嗅聞",
+      "黑貓墨墨戴單隻金色耳環",
+      "故事插畫分格排版",
+      "3D等距或鳥瞰特殊視角",
+      "玻璃或樹脂透明質感墊子",
+      "閃光燈直打與強烈陰影",
+      "古董店或舊書店陳設",
+      "雙色調與全息虹彩效果",
+      "微型雕像與古老文物化石"
+    ],
+    "idea": "在普普藝術風格的漂浮木紋小島上，一隻橘貓正伸出前爪試圖撥弄一架懸浮的復古打字機鍵盤。",
+    "prompt": "Pop art style illustration of a miniature floating island with natural wood grain texture, rich warm tones, and visible knots. On the levitating platform, an orange cat is stretching its front paw to press the keys of a floating vintage typewriter. The scene is set against a high saturation vivid bright blue sky with bold vibrant hues, eye-catching contrast, and white clouds. The artwork features thick outlines, Ben-Day dots, and an energetic palette inspired by Warhol. The composition uses an aerial perspective, illuminated by overhead fluorescent lighting, neutral white 5000K for institutional flat illumination with no shadows. The date and time '2026-05-29 19:26 UTC' is visually displayed in the image.",
+    "news_inspiration": [],
+    "number": 2041,
+    "title": "浮島上的打字練習",
+    "comment_id": 4579101945,
+    "story": "這座島嶼懸浮在飽和度極高的亮藍色天空中，強烈的日光燈照射出鮮明的線條與色塊。貓咪對這台會發出清脆聲響的機器充滿好奇，每按下一顆按鍵，似乎就在為這個奇幻世界敲打出新的節奏。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Pop Art",
+      "composition": "Floating Island Scene",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "High Saturation Vivid"
+    }
   }
 ]
