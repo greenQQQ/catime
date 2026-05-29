@@ -12030,5 +12030,45 @@
     ],
     "idea": "在充滿黏土動畫風格的老街傳統市場攤位前，圓滾滾的橘白貓麻糬正伸出牠那隻像戴了橘色手套的右前腳，興奮地撲向一個由充氣PVC材質製成、高爾夫球大小的鮮豔藍色小章魚玩具。",
     "prompt": "在充滿黏土動畫風格的老街傳統市場攤位前，圓滾滾的橘白貓麻糬正伸出牠那隻像戴了橘色手套的右前腳，興奮地撲向一個由充氣PVC材質製成、高爾夫球大小的鮮豔藍色小章魚玩具。. The date and time '2026-05-29 21:42 UTC' is visually displayed in the image. claymation style, sculpted clay characters, visible fingerprint textures, stop-motion aesthetic, die-cut sticker collage composition, central character surrounded by layered sticker cutouts, white outline borders, chibi side characters and floating props decorating the frame, scrapbook-style overlay, harsh midday sunlight, hard edge shadows, high contrast natural daylight, gritty urban realism, strong directional sun, unforgiving illumination, inflatable PVC material, high-gloss balloon-like surface, puffy rounded forms, air-filled tension, warm amber color grading, autumn palette, golden yellows, burnt orange, cozy nostalgic warmth\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Mochi — chubby rounded shorthair with a white #FFFFFF base coat and bright orange #FF8C00 patches. RIGHT half-face (viewer perspective) bears an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear; LEFT face remains entirely white. Dorsal: heart-shaped orange #FF8C00 saddle centered on the upper back. RIGHT front paw: solid orange #FF8C00 mitten to the wrist. LEFT front paw: pure white #FFFFFF. Eyes: large round amber #FFBF00. Nose: pink #FFB6C1 with a tiny orange center dot. Tail: orange-and-white ringed bands. Body: short stubby legs and spherical torso. [HARD CONSTRAINTS] 1) RIGHT half-face orange mask ONLY — LEFT face MUST be white. 2) Heart-shaped orange saddle present on dorsal back. 3) RIGHT front paw orange mitten, LEFT front paw white — NEVER reversed. 4) White belly ALWAYS. 5) Amber #FFBF00 eyes ONLY — NEVER blue or green. 6) Shorthair ONLY — NEVER fluffy or long. 7) Orange patches solid — NO tabby stripes within patches. End.\nNEGATIVE CONSTRAINTS (must not appear): left face orange, left paw orange, fully orange cat, tabby stripes, striped markings, mackerel pattern, longhair, fluffy coat, orange belly, both paws orange, both paws white, missing back patch, no heart saddle, slender build, skinny cat, green eyes, blue eyes, symmetrical face markings, even face split, grey patches, black patches, calico tricolor, tortoiseshell, missing nose dot, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catgirl, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature.\n"
+  },
+  {
+    "character_name": "鈴鈴",
+    "idea": "在融合櫻花樹與分形幾何螺旋圖騰的立體分割畫面上，一隻蓬鬆如棉花糖的白色長毛貓在織品般細緻的草地上追逐蝴蝶，白毛上沾滿了粉色花瓣。",
+    "style_picks": {
+      "art_style": "Fractal Geometry",
+      "composition": "Split View",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Fabric / Textile",
+      "color_palette": "High Saturation Vivid"
+    },
+    "prompt": "Split view composition image with a sharp vertical cut line. Left half is a photorealistic depiction of Lingling, an extremely fluffy pure white longhair cat with a small round face, huge round sapphire-blue eyes, pink nose, and a pink ribbon bow collar with a small golden bell clearly visible and centered beneath the bow. Her white fur is scattered with pink cherry blossom petals as she playfully chases a blue butterfly on a vibrant green grass field with a woven fabric texture and visible linen threads. Right half is a wireframe diagram featuring intricate Mandelbrot patterns, fractal geometry art, and infinite recursive detail. Natural soft diffused light and even illumination cast across the scene. The color palette features high saturation vivid colors and bold vibrant hues. The date and time '2026-05-29 23:02 UTC' is visually displayed clearly in the corner of the image.",
+    "number": 2043,
+    "story": "鈴鈴在春天的櫻花樹下興奮地撲向一隻藍色蝴蝶，卻因為太專注而一頭撞上了佈滿分形幾何花紋的溫室玻璃牆，瞬間原地趴下翻肚撒嬌。清脆的鈴聲在自然漫射光中迴盪，她身上那對寶石藍的星星眼與滿身的粉色花瓣，在鮮豔的高飽和分割畫面中顯得格外軟萌可愛。",
+    "season": "spring",
+    "is_seasonal": true,
+    "news_inspiration": [
+      "美國加州聖荷西的一場動漫節上，有角色扮演者販售浸泡過自己雙腳的獨特果汁，奇特的行銷手法引發網路熱烈討論。",
+      "紐西蘭保育團隊宣布當地的瀕危鳥類鴞鸚鵡（kākāpō）迎來史上最佳繁殖季，成功孵化超過100隻雛鳥，甚至有獸醫透過心肺復甦術成功救活剛出生的幼雛。",
+      "日本環境省正式將國家幸運象徵「丹頂鶴」自瀕危物種名單中移除，這得益於北海道釧路濕地等地區長達一世紀的持續保育努力，使其數量成功恢復至近2000隻。",
+      "科學家在阿根廷南部的巴塔哥尼亞地區發現了一種生活於7000萬年前的全新猛禽類恐龍化石，其特殊的頸部結構顯示牠可能像現代蒼鷺一樣以捕魚為生。"
+    ],
+    "character": "lingling",
+    "avoid_list": [
+      "黑金奢華色調",
+      "霓虹螢光色彩",
+      "粉彩色系復古風格",
+      "專注地用鼻子輕觸嗅聞",
+      "黑貓墨墨戴單隻金色耳環",
+      "故事插畫分格排版",
+      "3D等距或鳥瞰特殊視角",
+      "玻璃或樹脂透明質感墊子",
+      "閃光燈直打與強烈陰影",
+      "古董店或舊書店陳設",
+      "雙色調與全息虹彩效果",
+      "微型雕像與古老文物化石"
+    ],
+    "inspiration": "original",
+    "comment_id": 4580542310,
+    "title": "櫻落分形處的鈴音"
   }
 ]
