@@ -11992,5 +11992,43 @@
       "texture": "Wood Grain",
       "color_palette": "High Saturation Vivid"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Inflatable PVC",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "number": 2042,
+    "character_name": "麻糬",
+    "news_inspiration": [
+      "德國康斯坦茲的研究團隊發現，信鴿可能擁有令人意想不到的導航機制，藉由其肝臟內富含鐵質的特定免疫細胞來感知方向。",
+      "在厄瓜多加拉巴哥群島近六千英尺深的海域中，科學家發現了一種體型僅高爾夫球大小的全新章魚物種，並因其鮮豔外觀被暱稱為可愛的小藍章魚。",
+      "為紀念百年前逝世的加泰隆尼亞現代主義建築先驅高第，西班牙巴塞隆納近日舉辦系列活動，向世人重新介紹其多座著名與鮮為人知的經典建築傑作。",
+      "台灣沿海地區近日發現了一種體型比芝麻還要小的全新海蛞蝓物種，其極其微小且獨特的特徵令生物學家大為驚嘆。"
+    ],
+    "comment_id": 4580118222,
+    "story": "剛在乾貨攤飽餐一頓的麻糬，在巡邏老街時被地攤上一個奇特的新奇玩具吸引。這隻圓呼呼的花生麻糬貓瞇起大圓眼，在硬光日照的溫暖琥珀色光影下，挺著微胖的肚子好奇地圍著小藍章魚轉圈，忍不住伸出前爪試探。整個畫面被豐富的貼紙拼貼邊框包圍，充滿童趣與活潑的色彩。",
+    "inspiration": "在厄瓜多加拉巴哥群島近六千英尺深的海域中，科學家發現了一種體型僅高爾夫球大小的全新章魚物種，並因其鮮豔外觀被暱稱為可愛的小藍章魚。",
+    "title": "老街裡的藍色奇遇",
+    "character": "mochi",
+    "avoid_list": [
+      "黑金奢華色調",
+      "霓虹螢光色彩",
+      "粉彩色系復古風格",
+      "專注地用鼻子輕觸嗅聞",
+      "黑貓墨墨戴單隻金色耳環",
+      "故事插畫分格排版",
+      "3D等距或鳥瞰特殊視角",
+      "玻璃或樹脂透明質感墊子",
+      "閃光燈直打與強烈陰影",
+      "古董店或舊書店陳設",
+      "雙色調與全息虹彩效果",
+      "微型雕像與古老文物化石"
+    ],
+    "idea": "在充滿黏土動畫風格的老街傳統市場攤位前，圓滾滾的橘白貓麻糬正伸出牠那隻像戴了橘色手套的右前腳，興奮地撲向一個由充氣PVC材質製成、高爾夫球大小的鮮豔藍色小章魚玩具。",
+    "prompt": "在充滿黏土動畫風格的老街傳統市場攤位前，圓滾滾的橘白貓麻糬正伸出牠那隻像戴了橘色手套的右前腳，興奮地撲向一個由充氣PVC材質製成、高爾夫球大小的鮮豔藍色小章魚玩具。. The date and time '2026-05-29 21:42 UTC' is visually displayed in the image. claymation style, sculpted clay characters, visible fingerprint textures, stop-motion aesthetic, die-cut sticker collage composition, central character surrounded by layered sticker cutouts, white outline borders, chibi side characters and floating props decorating the frame, scrapbook-style overlay, harsh midday sunlight, hard edge shadows, high contrast natural daylight, gritty urban realism, strong directional sun, unforgiving illumination, inflatable PVC material, high-gloss balloon-like surface, puffy rounded forms, air-filled tension, warm amber color grading, autumn palette, golden yellows, burnt orange, cozy nostalgic warmth\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Mochi — chubby rounded shorthair with a white #FFFFFF base coat and bright orange #FF8C00 patches. RIGHT half-face (viewer perspective) bears an orange #FF8C00 mask extending from the nose bridge across the RIGHT cheek to the RIGHT ear; LEFT face remains entirely white. Dorsal: heart-shaped orange #FF8C00 saddle centered on the upper back. RIGHT front paw: solid orange #FF8C00 mitten to the wrist. LEFT front paw: pure white #FFFFFF. Eyes: large round amber #FFBF00. Nose: pink #FFB6C1 with a tiny orange center dot. Tail: orange-and-white ringed bands. Body: short stubby legs and spherical torso. [HARD CONSTRAINTS] 1) RIGHT half-face orange mask ONLY — LEFT face MUST be white. 2) Heart-shaped orange saddle present on dorsal back. 3) RIGHT front paw orange mitten, LEFT front paw white — NEVER reversed. 4) White belly ALWAYS. 5) Amber #FFBF00 eyes ONLY — NEVER blue or green. 6) Shorthair ONLY — NEVER fluffy or long. 7) Orange patches solid — NO tabby stripes within patches. End.\nNEGATIVE CONSTRAINTS (must not appear): left face orange, left paw orange, fully orange cat, tabby stripes, striped markings, mackerel pattern, longhair, fluffy coat, orange belly, both paws orange, both paws white, missing back patch, no heart saddle, slender build, skinny cat, green eyes, blue eyes, symmetrical face markings, even face split, grey patches, black patches, calico tricolor, tortoiseshell, missing nose dot, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catgirl, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature.\n"
   }
 ]
