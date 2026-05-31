@@ -12701,5 +12701,35 @@
       "color_palette": "Monochrome / Black and White"
     },
     "number": 2062
+  },
+  {
+    "number": 2063,
+    "avoid_list": [
+      "懸浮浮島與大理石廢墟",
+      "等距3D插圖視角",
+      "多視角服裝展示排版",
+      "微縮景觀與小人模型對比",
+      "絞染布藝質感背景",
+      "用鼻子專注嗅聞",
+      "爪子撥弄古董齒輪",
+      "霓虹螢光與虹彩全息質感",
+      "莫蘭迪與秋日琥珀色調",
+      "三點打光與邊緣輪廓光",
+      "35mm底片隨拍風格"
+    ],
+    "idea": "這是一幅結合未來主義與低多邊形（Low Poly）風格的故事插畫分格作品，描繪一隻貓在暴風雪朦朧的雙色調極地氣象站中，用爪子撥弄氣象監測儀器。",
+    "story": "在極地的強烈暴風雪中，一隻耐寒的挪威森林貓溜進了未來主義風格的無人氣象站。牠趴在充滿幾何線條的控制台上，好奇地用前爪撥弄著閃爍的氣象數據圓盤，試圖捕捉螢幕上跳動的低多邊形光影。窗外是漫天風雪的混沌雙色調世界，而站內這隻四足生靈正以獨特的方式參與著未來的科技運作。",
+    "style_picks": {
+      "art_style": "Futurism",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Snowstorm Haze",
+      "texture": "Low Poly",
+      "color_palette": "Duotone"
+    },
+    "prompt": "An illustrated story page layout featuring multiple irregular panels in a Futurism art style and Low-poly aesthetic. The main panel shows a hardy Norwegian Forest Cat inside a futuristic polar weather station, curiously patting at blinking weather monitoring instruments and a geometric digital data dial with its paw. The text '2026-05-31 16:54 UTC' is visually displayed on one of the console's digital screens. The scene uses an angular kinetic composition with dynamic motion lines and fragmented overlapping forms. Outside the window, a heavy falling snow veil, fogged distance, and muted diffused daylight create a snowstorm atmospheric lighting. The artwork has a bold graphic duotone color treatment with a cold blue-white palette. Flat shaded triangular faces and polygon mesh facets give a digital origami feel. The page includes integrated dialogue bubbles and a decorative title banner at the top, following a slice-of-life storybook narrative flow.",
+    "comment_id": 4587422387,
+    "title": "極境風暴的觀測者",
+    "inspiration": "original",
+    "news_inspiration": []
   }
 ]
