@@ -12763,5 +12763,36 @@
     "story": "墨墨在舊書店深處的密室裡，發現了一批沾滿液態金屬光澤的古老鐘錶構件。牠優雅地穿梭其間，用肉墊將齒輪與指針撥弄成完美對稱的矩陣，在上方冷靜地俯瞰自己的傑作。",
     "comment_id": 4587566725,
     "prompt": "A studio portrait photography flat lay overhead view of Momo, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur, athletic proportions, and calm expression. She has large luminous golden-amber eyes, long prominent white whiskers, a tiny natural white locket tuft on her ventral chest, a single dark-grey ring at her tail tip, and a single small gold hoop earring on her left ear from the viewer's perspective. The cat is calmly using her paw to neatly arrange vintage precision watch components and clock gears at precise 90-degree angles in an organized grid layout on a clean background. The ancient metallic parts are coated in high saturation vivid colors with a liquid metal surface, showing a mercury-like reflective flow and molten mirror finish. Shot with a 50mm lens, f/4.0, professional overhead key lighting creating soft even illumination and symmetrical shadows, showcasing sharp textures and realistic photographic depth. The text '2026-05-31 17:53 UTC' is clearly and visually displayed in a clean, modern font in the corner of the frame."
+  },
+  {
+    "story": "船長原本在懸浮的碼頭高處巡視，卻在見到飛魚的瞬間破功。牠忘卻了平日的威嚴，在絲綢般滑順的漫射光中，化身為最勇猛的獵手，在晃動的半空中留下一道充滿張力的斑紋殘影。",
+    "comment_id": 4587749331,
+    "character_name": "船長",
+    "style_picks": {
+      "art_style": "Handheld Slow Shutter",
+      "composition": "Floating Island Scene",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Silk",
+      "color_palette": "High Saturation Vivid"
+    },
+    "idea": "在手持慢門的強烈動感下，一隻戴眼罩的壯碩虎斑貓在港口漂浮的層疊魚箱上，於高飽和鮮豔色調中奮力撲向一條飛躍的鰹魚。",
+    "news_inspiration": [],
+    "avoid_list": [
+      "用爪子輕輕撥弄",
+      "古董齒輪零件",
+      "日期時間字樣",
+      "低角度與等距攝影",
+      "棉花糖或微型章魚",
+      "雙色調或琥珀色調",
+      "復古未來與極地氣象站",
+      "液態金屬或生物發光",
+      "溫暖燭光與閃爍影子",
+      "黑白單色與底片顆粒"
+    ],
+    "number": 2065,
+    "character": "captain",
+    "title": "破浪者的本能之躍",
+    "inspiration": "original",
+    "prompt": "A candid action photograph with handheld slow shutter, intentional motion blur, and light streaks capturing a dynamic flowing movement. A large stocky four-legged brown classic tabby cat with bold black stripes and a scruffy, untidy coarse fur texture is captured in mid-air, powerfully pouncing toward a leaping bonito fish over stacked, floating fish crates at a harbor. The cat's left eye from the viewer perspective is permanently hidden by a natural dark-pigmented fur patch marking with no straps or fabric, while its right eye is a piercing emerald green. It has a prominent V-shaped notch on its left ear, a faded red bandana loosely tied around its neck, a white chest bib, white mitten paws, a thick sturdy tail, and a distinctive M-mark on its forehead. The scene is illuminated by soft diffused natural light under an overcast sky with even illumination, no harsh shadows, and a luminous smooth surface reflection reminiscent of silk fabric texture. The shot features a high saturation vivid colors energetic palette with bold vibrant hues and eye-catching contrast. In the corner of the frame, the text '2026-05-31 19:00 UTC' is visually displayed. Taken with a 35mm lens at f/2.8, capturing an aerial perspective of the miniature landscape on a levitating platform with white clouds, showing a dreamy time-passing effect and realistic film grain."
   }
 ]
