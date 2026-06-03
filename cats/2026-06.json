@@ -587,5 +587,45 @@
     "title": "雙星的遙遠囈語",
     "story": "澳洲的研究團隊剛破解了困擾多年的雙星宇宙訊號，而這隻對頻率極度敏感的貓咪，似乎早就在漂浮的廢鐵島嶼上接收到了這組來自外太空的神秘呼喚。在黃金時刻的餘暉照耀下，霓虹螢光的訊號軌跡與天線上的老舊鐵鏽形成了強烈對比，記錄下這場貓咪與遙遠星系的無聲對話。",
     "idea": "這是一幅結合超現實拼貼肖像與浮島場景的藝術創作，展現一隻斑虎貓正趴在半空中漂浮的斑駁生鏽天線上，用鼻子專注地嗅聞一組從霓虹雙星模型中發射出的螢光色波形訊號。"
+  },
+  {
+    "prompt": "Voxel art, Minecraft-style pixelated cubes and blocky textures, clean lighting, playful 3D render. A large stocky brown classic tabby cat with bold black stripes, a broad muscular build, and scruffy, coarse, untidy fur sits on a 3D geometric pier made of sea-blue and cyan pixel blocks. The cat has a prominent V-shaped notch on its left ear, a distinctive M-mark on its forehead, a white chest bib, and white mitten paws on all four feet. Its left eye (viewer perspective) is permanently concealed by a natural dark-pigmented fur patch, while its right eye is a single piercing emerald green, staring down at the water. A faded red bandana is tied loosely around its neck, and a rough straw hat sits on its head. The cat's thick tail rests on a thick, warm, aged leather cushion with a rich grain pattern. A dramatic narrow beam spotlight casts sharp light edges with a deep darkness falloff over the cool blue-teal color-graded geometric harbor, creating an icy, crisp atmosphere. In a recursive Droste effect, smaller versions of the cat fishing on the pier are embedded within the pier itself, looping infinitely. The date and time '2026-06-03 22:57 UTC' is visually and clearly displayed in the image.",
+    "story": "人稱「船長」的粗獷老貓頭戴一頂粗糙的草帽，用那隻翠綠色的單眼盯著水面上的浮標，尾巴如船舵般在厚實的皮革墊上輕擺。四周明亮的聚光燈打在像素方塊上，將整座漁港變成了冷色調的幾何迷宮。牠雖是一隻四足家貓，卻在層層遞迴的微縮時空中，散發著退休討海人特有的沉穩氣固。",
+    "news_inspiration": [
+      "在奧地利維也納的獸醫大學，科學家首次記錄到名為「Veronika」的乳牛展現出靈活使用多功能工具的罕見能力，打破了以往認為只有靈長類動物才會用工具的認知。",
+      "三名來自印度孟買的青少年憑藉運用印度料理常見的「羅望子粉」發明出能輕鬆過濾微塑膠的裝置，成功在瑞士日內瓦榮獲全球地球獎（Global Earth Prize）。",
+      "澳洲大堡礁的凱恩斯外海一處公民科學項目中，科學家發現了一座面積達3973平方公尺（約半個足球場大）的巨型珊瑚群，被認為是目前文字記錄中世界上最大的單體珊瑚之一。",
+      "美國紐約州伊薩卡的公墓地下發現了估計高達550萬隻在地底築巢的蜜蜂，科學家指出這可能是目前有記錄以來最龐大的蜜蜂群聚棲息地之一。"
+    ],
+    "season": "summer",
+    "is_seasonal": true,
+    "idea": "在海藍色與青色像素方塊砌成的立體碼頭防波堤上，一隻像素風格的獨眼虎斑貓正低頭凝視著海面，畫面的防波堤上正重複嵌套著更小的貓咪釣魚場景，形成奇幻的德羅斯特效應。",
+    "title": "方塊碼頭的迴圈守望",
+    "inspiration": "original",
+    "comment_id": 4617414853,
+    "number": 2087,
+    "character": "captain",
+    "avoid_list": [
+      "四足姿態與動作",
+      "前爪伸手捕捉或輕撥",
+      "體積光與閃光亮粉效果",
+      "粗糙混凝土與幾何空間",
+      "黑白單色與富色調範圍",
+      "高調明亮光線與極簡陰影",
+      "溫暖琥珀色調與金黃色澤",
+      "對稱構圖與建築框架",
+      "數位故障藝術與線條分割",
+      "巨型物件與強制透視",
+      "故事插畫分格與多視角排版",
+      "細緻冰霜結晶紋理"
+    ],
+    "style_picks": {
+      "art_style": "Voxel / Minecraft Style",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Spotlight",
+      "texture": "Leather",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "character_name": "船長"
   }
 ]
