@@ -627,5 +627,42 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "character_name": "船長"
+  },
+  {
+    "number": 2088,
+    "prompt": "A tilt-shift photograph of Mochi, a chubby rounded four-legged shorthair cat with a white base coat, bright orange patches, and a spherical torso, stretching its neck to sniff a rusted metal bento box inside a traditional market kitchen. Mochi has large round amber eyes, a short stubby build, a pink nose with a tiny orange center dot, and an orange-and-white ringed tail. Its right half-face (viewer perspective) has an orange mask extending from the nose bridge to the right ear, while its left face is pure white. Its dorsal upper back features a heart-shaped orange saddle patch. Its right front paw is a solid orange mitten to the wrist, its left front paw is pure white, and its belly is white. There are no tabby stripes within the solid orange patches. An innovative X-ray radiograph and translucent skeletal style blends with the scene: the weathered bento box shows an oxidized patina, peeling paint layers, and warm orange-brown corrosion, but in a gold and black color scheme with luxurious metallic gold accents against a deep black background, its interior is revealed via a monochrome blue-white medical imaging aesthetic to contain a golf-ball-sized deep sea blue octopus. Shot with a 35mm lens, f/1.8, selective focus band, miniature toy-like effect with blurred foreground and background, vibrant saturated colors, and soft diffused natural light under an overcast sky. The date and time '2026-06-04 00:27 UTC' is visually displayed in the corner of the image.",
+    "style_picks": {
+      "art_style": "X-Ray Style",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Rust / Weathered",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "comment_id": 4617872567,
+    "avoid_list": [
+      "四足姿態與動作",
+      "前爪伸手捕捉或輕撥",
+      "體積光與閃光亮粉效果",
+      "粗糙混凝土與幾何空間",
+      "黑白單色與富色調範圍",
+      "高調明亮光線與極簡陰影",
+      "溫暖琥珀色調與金黃色澤",
+      "對稱構圖與建築框架",
+      "數位故障藝術與線條分割",
+      "巨型物件與強制透視",
+      "故事插畫分格與多視角排版",
+      "細緻冰霜結晶紋理"
+    ],
+    "title": "微觀市場的藍色誘惑",
+    "character_name": "麻糬",
+    "idea": "在傳統市場的鐵皮廚房中，透過極具創新的X光透視風格結合移軸微縮效果，清晰呈現一隻圓滾滾的橘白貓「麻糬」正伸長脖子，抽嗅著一個外表佈滿鐵鏽舊化痕跡、內裡卻在X光下顯現出高爾夫球大小的「深海藍色章魚」海鮮便當。",
+    "character": "mochi",
+    "inspiration": "科學家在厄瓜多加拉巴哥群島附近近6,000英尺深的海域中，正式確認並發表了一種全新物種：體型僅有高爾夫球大小的超萌「深海藍色章魚」。",
+    "news_inspiration": [
+      "義大利米蘭的艾曼紐二世迴廊完成了一項特別的古蹟修復，將長期被遊客因祈求好運而瘋狂踩踏、踩出凹坑的著名「公牛馬賽克」生殖器部位修復完成。",
+      "科學家在厄瓜多加拉巴哥群島附近近6,000英尺深的海域中，正式確認並發表了一種全新物種：體型僅有高爾夫球大小的超萌「深海藍色章魚」。",
+      "英國蘇格蘭愛丁堡一家自1997年開張、原本面臨倒閉危機的傳統中式外賣店，在創辦人的網紅女兒於社群媒體發布病毒式短片後爆紅，成功吸引大批人潮並迎來轉機。"
+    ],
+    "story": "貪吃的麻糬在老街市場巡邏時，被攤位角落一個神祕的鐵皮便當盒吸引。在獨特的奢華金黑調透視視角下，牠圓滾滾的花生身型與便當盒裡剛被捕獲的稀有藍色章魚新物種重疊，交織出一幅市場偷吃計畫的趣味微縮奇觀。"
   }
 ]
