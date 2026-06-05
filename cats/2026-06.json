@@ -1090,5 +1090,41 @@
     "character": "momo",
     "character_name": "墨墨",
     "story": "夜深了，舊書店的霓虹招牌在窗外閃爍，將琥珀色的光暈細密地灑在木質紋理上。墨墨悄悄跳上中央的書桌，它長長的白色鬍鬚在光影中微微顫動，金琥珀色的眼睛專注地看著書頁上古老的天體運行圖，彷彿在獨自鑽研繁星的奧秘。"
+  },
+  {
+    "inspiration": "澳洲大堡礁的公民科學計畫團隊日前在凱恩斯外海發現一個面積將近半個足球場大的巨型巨孔珊瑚群落，被認為是目前文字記錄中最大的珊瑚之一。",
+    "title": "紺碧深處的珊瑚王國",
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Isometric Photography",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Metallic Surface",
+      "color_palette": "High Saturation Vivid"
+    },
+    "avoid_list": [
+      "合成波美學",
+      "黑光螢光",
+      "低角度仰拍",
+      "用前爪撥弄",
+      "正交投影視角",
+      "硬光日照與硬邊陰影",
+      "雕塑黏土質感",
+      "極簡幾何構圖",
+      "德羅斯特效應",
+      "歐普藝術錯視",
+      "雙重曝光融合",
+      "精密音樂盒或沙漏機關"
+    ],
+    "comment_id": 4634071131,
+    "number": 2101,
+    "prompt": "A real captured photo with isometric angle of a metallic sculpted clay cat with visible fingerprint textures in a claymation style. The cat is lying on the edge of a grand deep-sea palace made of vibrant coral reefs, looking down with a curious expression. Schools of colorful tropical fish swim through the massive coral labyrinth. The scene features dramatic Rembrandt lighting with a single light source at 45 degrees creating a signature triangle of light on the shadowed cheek, bold high saturation vivid colors, and a stop-motion aesthetic. The text '2026-06-05 17:45 UTC' is visually displayed in the corner of the image. Perfectly isometric photography, sharp reflections on the polished metal surface of the cat, no miniature effect.",
+    "story": "這隻好奇的金屬小貓跟隨潛水艇悄悄潛入深海，意外迷失在這座剛被發現的巨型巨孔珊瑚群落中。牠將身體穩穩地伏在古老而堅硬的珊瑚礁岩上，看著成群的熱帶魚在宛如足球場般壯闊的珊瑚迷宮間悠游，彷彿成了這座神祕海底王國的守護者。",
+    "news_inspiration": [
+      "美國加州近期正式啟用了一座全新的野生動物跨越橋，日前成功記錄到三隻黑尾鹿搶先「開箱」體驗，安全穿梭於兩側棲地。",
+      "中國科學家在古生物研究中發現了迅猛龍的全新近親物種化石，科學家推測這種「四翼」恐龍曾在古代森林的樹林間穿梭獵食。",
+      "澳洲大堡礁的公民科學計畫團隊日前在凱恩斯外海發現一個面積將近半個足球場大的巨型巨孔珊瑚群落，被認為是目前文字記錄中最大的珊瑚之一。",
+      "西班牙考古學家在挖掘一座古老修道院時，成功辨識出十四世紀一位王后的遺骸，同時也意外發現多具埋錯墳墓的中古世紀骸骨。"
+    ],
+    "idea": "在倫勃朗光與高飽和鮮豔色彩交織的等距攝影視角下，一隻全身散發獨特金屬質感的黏土動畫小貓，正趴在由繽紛珊瑚構成的宏偉深海宮殿邊緣，用好奇的眼神俯瞰著無數色彩斑斕的海洋生物在周圍穿梭。"
   }
 ]
