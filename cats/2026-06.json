@@ -1016,5 +1016,41 @@
       "角落清晰顯示日期與時間文字"
     ],
     "number": 2098
+  },
+  {
+    "prompt": "A double exposure art piece blending a stray cat with the silhouettes of people chatting at a Human Library event in Copenhagen. The cat, sculpted with a gritty clay texture and a matte surface with subtle imperfections, is positioned at an extreme low angle shot, looking up from beside a plaza flowerbed. Overlapping within the cat's form is a silhouette filled with a crowd under harsh midday sunlight with hard edge shadows and high contrast natural daylight. The color scheme features warm earthy tones, including terracotta, olive green, and warm brown. Visually displayed clearly in the scene are the date and time '2026-06-05 12:30 UTC'.",
+    "inspiration": "丹麥哥本哈根市推行了一項創新的「真人圖書館」計畫，讓造訪當地的遊客與居民不再只是借閱書籍，而是可以直接「借閱」不同背景的真人進行面對面對話與文化交流。",
+    "story": "哥本哈根推行了真人圖書館計畫，讓遊客直接與當地人面對面傾聽彼此的人生故事。一隻流浪的小斑貓正悄悄尾隨一位剛被『借閱』的老爺爺，在刺眼的午后陽光下，牠趴在磨損的石磚路上，一邊舔著爪子，一邊豎起耳朵聆聽著那些陌生又溫暖的人類聲音。",
+    "comment_id": 4631600105,
+    "news_inspiration": [
+      "德國科學家利用先進的3D成像技術，在威瑪市由著名作家歌德收藏的4000萬年前琥珀中，驚喜發現了保存極為完好的絕種螞蟻等三隻古老昆蟲。",
+      "奧地利維也納獸醫大學的研究團隊發現，一頭名叫維羅妮卡（Veronika）的乳牛具備罕見且多用途的工具使用能力，打破了以往認為只有靈長類動物才會持續使用工具的認知。",
+      "丹麥哥本哈根市推行了一項創新的「真人圖書館」計畫，讓造訪當地的遊客與居民不再只是借閱書籍，而是可以直接「借閱」不同背景的真人進行面對面對話與文化交流。",
+      "辛巴威卡里巴與胡倫威等農村地區，推行了由社區衛生工作者組成的「疫苗單車隊」，騎車深入偏遠村落為無法前往醫院的女孩們挨家挨戶接種HPV疫苗。"
+    ],
+    "avoid_list": [
+      "移軸微縮效果",
+      "德羅斯特效應無限嵌套",
+      "合成波美學風格",
+      "粉彩與莫蘭迪低彩度色調",
+      "斑駁生鏽天線與老舊鐵鏽痕跡",
+      "懸浮或漂浮的混凝土碎塊與天線",
+      "溫和柔和的自然漫射光與無陰影",
+      "古老時鐘齒輪與發條機關",
+      "粗糙棕色舊皮革地墊",
+      "用前爪或鼻子輕觸撥弄物體",
+      "貓咪趴在或坐在微縮模型與沙盤中央",
+      "角落清晰顯示日期與時間文字"
+    ],
+    "idea": "運用雙重曝光（Double Exposure）將一隻粗獷黏土質感、毛色混雜大地色系的街貓，與丹麥哥本哈根「真人圖書館」在硬光日照下交談的人潮剪影融合，從極低角度呈現牠在廣場花圃旁悄悄觀望的神態。",
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Extreme Low Angle",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Earth Tones"
+    },
+    "number": 2099,
+    "title": "傾聽心聲的影子"
   }
 ]
