@@ -1812,5 +1812,42 @@
     "news_inspiration": [],
     "inspiration": "original",
     "story": "午後的自然漫射光穿透溫室的鐵藝窗櫺，一隻好奇的斑紋貓正伸出前爪，試圖捕捉空氣中懸浮的立體全像投影。隨著牠的撲弄，鮮豔的高飽和度光影在牠毛皮上折射，虛擬與現實的邊界在鑄鐵雕花的陰影間變得模糊而迷人。"
+  },
+  {
+    "idea": "在黑與紅的強烈雙色調下，這幅畫作採用特林吉特圖騰藝術的粗獷線條與螺旋漩渦構圖，描繪一隻巨大的虎斑貓「船長」正用白手套貓掌撥弄著一條從漁船掉落的肥美鰹魚。",
+    "avoid_list": [
+      "莫蘭迪低飽和色調",
+      "環形燈均勻正面光",
+      "視覺嵌入日期時間戳",
+      "蝴蝶光對稱光影",
+      "35mm鏡頭膠片顆粒質感",
+      "天鵝絨吸光啞光質感",
+      "藍青色調冷冽光芒",
+      "專注撥弄操作複雜儀器",
+      "棉花糖蓬鬆雲朵",
+      "對稱構圖實驗室場景",
+      "鏡面反射與折射迷宮"
+    ],
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Tlingit Formline Art",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Neon Lighting",
+      "texture": "Leather",
+      "color_palette": "Duotone"
+    },
+    "story": "夜幕降臨在霓虹燈閃爍的漁港碼頭，褪色紅色頭巾在海風中飄揚。威嚴的船長本在最高處巡邏，卻在見到甲板上跳動的鮮魚瞬間破功，獨眼流露出無法掩飾的渴望，伸出厚實的貓掌撲向獵物。",
+    "number": 2122,
+    "title": "獨眼船長的霓虹港灣",
+    "comment_id": 4642793928,
+    "character": "captain",
+    "news_inspiration": [
+      "美國紐約於 2026 年 6 月 6 日舉行第 158 屆貝爾蒙特錦標賽，賽馬「黃金節奏」（Golden Tempo）奪冠，其練馬師 Cherie DeVaux 成為歷史上首位在同一年贏得肯塔基德比與貝爾蒙特錦標賽的女練馬師。",
+      "歐洲南方天文台等國際天文團隊於 2026 年 6 月 3 日宣布，科學家利用韋伯太空望遠鏡（JWST）搭配重力透鏡效應，成功測量出一個距離地球 100 億光年、擁有 60 億倍太陽質量的早期宇宙休眠黑洞之精確質量。",
+      "歐盟於 2026 年 6 月 6 日正式宣布將希臘從經濟危機觀察名單中除名，標誌著該國歷經長達 16 年的財政重組與經濟復甦終於取得具體成果。",
+      "美國加州於 2026 年 6 月 5 日正式啟用最新落成的野生動物跨越橋，並紀錄到 3 隻黑尾鹿成為首批成功穿越該橋樑的野生動物，有效降低公路路殺風險。"
+    ],
+    "prompt": "Tlingit art formline design illustration of a large stocky brown classic tabby cat with bold black stripes, scruffy coarse fur texture, a distinctive M-mark on forehead, a thick sturdy tail, and white mitten paws on all four feet. Its left eye is permanently concealed by a natural dark-pigmented fur patch, while its single right eye is piercing emerald green, and its left ear features a prominent V-shaped notch. A faded red bandana is tied loosely around its neck. The cat is using its white mitten paw to swat at a plump bonito fish falling from a fishing boat. The scene is structured in a spiral vortex composition, with dynamic formline curves coiling around the subject, utilizing a strong rotational perspective and centered vanishing point for a dizzying sense of depth from a cinematic low angle. The color palette is a strict duotone of bold black and vibrant red, evoking the Pacific Northwest indigenous totem style with strong graphic impact. Visually displayed clearly within the image text is the date and time '2026-06-07 13:17 UTC'.",
+    "character_name": "船長"
   }
 ]
