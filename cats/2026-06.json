@@ -2198,5 +2198,38 @@
     "idea": "在極簡塗鴉線條畫風中，一隻戴著草帽的獨眼虎斑貓在海邊防波堤正中央，以完美的對稱構圖專注地看著魚線垂入液態金屬般波動的粉彩色海面。",
     "comment_id": 4651263967,
     "is_seasonal": true
+  },
+  {
+    "avoid_list": [
+      "伸出前爪試圖撥弄物品",
+      "微縮模型與立體浮島場景",
+      "雙色調與強烈色彩對比",
+      "墨流藝術與流動水墨線條",
+      "溫暖琥珀色的黃金時刻光線",
+      "融合傳統元素與幾何美學",
+      "角落視覺化顯示日期與時間",
+      "貓咪在特定場景內巡邏或探險",
+      "笨拙或專注捕捉特定小生物",
+      "粗糙混凝土與幾何色塊基底",
+      "大理石紋理與光滑亮面質感",
+      "背光勾勒的邊緣光與輪廓線"
+    ],
+    "comment_id": 4652563995,
+    "idea": "在蠟筆兒童畫的分割畫面中，圓滾滾的橘白貓麻糬正卡在傳統夜市攤位的木箱裡，努力用頭頂開蓋子，身旁圍繞著粗糙的沙質紋理與復古褪色色調。",
+    "title": "夜市木箱的燭光秘密",
+    "story": "夜市收攤後，只剩下一盞微弱的燭光。貪吃的麻糬循著香氣鑽進了裝紅豆餅的木箱，結果因為身體太胖卡在裡面，一邊瞇眼哈欠，一邊用粉紅小鼻頭頂著木蓋。隔壁畫面的攤位老闆正無奈地看著這顆卡住的花生麻糬，哭笑不得。",
+    "prompt": "A split-view composition crayon drawing with a childlike hand-drawn look. A chubby, rounded shorthair cat named Mochi is stuck inside a traditional night market wooden cake box, trying to push the lid open with its head. Mochi has a white base coat with solid bright orange patches and no tabby stripes; the right half of its face has an orange mask covering the right cheek and ear while the left face is entirely white, large round amber eyes, a pink nose with a tiny orange dot, a heart-shaped orange saddle on its upper back, a solid orange right front paw, and a white left front paw. A single candle burns nearby casting a warm orange flickering glow and creating a cozy atmosphere with soft dancing shadows. Fine sand texture and wind-sculpted grain detail are embedded into the paper background. Retro faded color palette with washed-out vintage tones. The timestamp '2026-06-08 19:13 UTC' is visually displayed in the corner of the image.",
+    "style_picks": {
+      "art_style": "Crayon Children's Drawing",
+      "composition": "Split View",
+      "lighting": "Candlelight",
+      "texture": "Sand Texture",
+      "color_palette": "Retro Faded Tones"
+    },
+    "character_name": "麻糬",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "character": "mochi",
+    "number": 2133
   }
 ]
