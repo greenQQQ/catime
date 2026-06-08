@@ -2016,5 +2016,45 @@
       "巨型機械蝴蝶或章魚雕塑迷宮"
     ],
     "inspiration": "original"
+  },
+  {
+    "idea": "在向日葵田的一角，這幅酒精墨水藝術作品以極致的倫勃朗光影，將一隻蓬鬆的白色長毛貓融入由摺紙組成的雙色調 Knolling 排列場景中。",
+    "comment_id": 4644509642,
+    "title": "葵田蜂影的呢喃",
+    "style_picks": {
+      "art_style": "Alcohol Ink Art",
+      "composition": "Knolling Photography",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Origami",
+      "color_palette": "Duotone"
+    },
+    "avoid_list": [
+      "在畫面角落清晰顯示日期與時間",
+      "莫蘭迪色調與灰土色底蘊",
+      "用前爪好奇地撥弄或拍打",
+      "35mm鏡頭與真實底片顆粒",
+      "冷色調藍青色鐵鏽與舊化",
+      "蝴蝶光或環形燈的均勻正面照明",
+      "一隻貓伸出前爪的強制透視",
+      "白色蓬鬆布偶貓或長毛貓",
+      "橘白相間或虎斑貓的專注側影",
+      "傳統蒸籠或大理石紋理表面",
+      "微縮立體模型或多視角分格構圖",
+      "巨型機械蝴蝶或章魚雕塑迷宮"
+    ],
+    "season": "summer",
+    "inspiration": "美國紐約州伊薩卡的一座公墓地底下，科學家驚奇發現了一個估計擁有550萬隻地棲蜂的巨大群落，成為目前有記錄以來最大的蜜蜂聚集地之一。",
+    "character_name": "鈴鈴",
+    "prompt": "Alcohol ink art and origami style, a corner of a sunflower field, Knolling layout flat lay overhead view. An extremely fluffy pure white longhair Ragdoll-like cat named Lingling, with a small round face nearly hidden in voluminous cloud-like fur, huge round sapphire-blue eyes, a pale pink nose and inner ears, wearing a pink ribbon bow collar with a small golden bell clearly visible and centered, and a mini straw hat with a sunflower. The cat is clumsily chasing a huge flying ground bee and bumping into neatly arranged geometric folded paper leaves, tumbling backward in mid-action. Origami style folded paper sculptures, sharp angular folds and clean geometric creases are arranged at 90-degree angles in an organized grid. Duotone color treatment using only two contrasting colors, blended with fluid vibrant colors, unpredictable organic patterns, and translucent layers of alcohol ink. High-contrast Rembrandt lighting from a single 45-degree light source creates dramatic chiaroscuro and a signature triangle of light on the shadowed side. The date and time '2026-06-07 23:56 UTC' is visually and clearly displayed in the image.",
+    "news_inspiration": [
+      "哈薩克野生動物保護倡議在世界環境日期間，成功將全球最後一批真正的野馬釋放到該國的草原上，幫助改善當地的土壤碳儲存並降低野火風險。",
+      "義大利都靈的祖雲達斯足球俱樂部與世界摔角娛樂（WWE）宣布達成全新戰略合作，於週末舉辦的 Clash 大賽中展示了聯名冠軍腰帶，成功將足球與娛樂摔角文化相結合。",
+      "美國紐約州伊薩卡的一座公墓地底下，科學家驚奇發現了一個估計擁有550萬隻地棲蜂的巨大群落，成為目前有記錄以來最大的蜜蜂聚集地之一。",
+      "一項追蹤超過10萬人並發表於《英國醫學雜誌》的長期研究指出，在日常鍛鍊中保持多樣化的運動種類，比單純增加單一運動量更能有效降低死亡風險並延長壽命。"
+    ],
+    "character": "lingling",
+    "number": 2128,
+    "is_seasonal": true,
+    "story": "鈴鈴戴著迷你草帽與太陽花，在金黃色向日葵田裡好奇探險。她正笨拙地追逐著一隻飛舞的巨大地棲蜂，卻不小心一頭撞上了排列整齊的幾何紙雕葉片，在光影交錯中往後彈了一下。"
   }
 ]
