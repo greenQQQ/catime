@@ -640,7 +640,7 @@ def fetch_news_inspiration() -> list[str]:
                     print(f"  News {i}: {item[:80]}...")
                 return news
             if attempt == 0:
-                print(f"  News parse failed (attempt 1), retrying in 3s...")
+                print("  News parse failed (attempt 1), retrying in 3s...")
                 time.sleep(3)
             else:
                 print("  News parse failed (attempt 2), skipping news inspiration.")
