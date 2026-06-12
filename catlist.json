@@ -19950,5 +19950,18 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "inspiration": "中國科學家在印度洋深處發現了全球已知面積最大的海底「鯨落」群，為深海生態系統提供了豐富的養分，並吸引大量獨特的海洋生物聚集。",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-12_0013_UTC.webp"
+  },
+  {
+    "season": "summer",
+    "number": 2159,
+    "model": "gemini-3-pro-image-preview (fallback from codex: codex-image-service request failed: Remote end closed connection without response)",
+    "character": "momo",
+    "is_seasonal": true,
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-12_0525_UTC.webp",
+    "inspiration": "考古學家在巴哈馬的拿索港首次獲准進行水下探測，並成功發現了三艘可追溯至18世紀海盜黃金時代的古老海盜船殘骸。",
+    "status": "success",
+    "timestamp": "2026-06-12 05:25 UTC",
+    "title": "幽藍月影下的海盜秘藏",
+    "character_name": "墨墨"
   }
 ]

@@ -3112,5 +3112,46 @@
       "texture": "Shibori Textile",
       "color_palette": "Monochrome / Black and White"
     }
+  },
+  {
+    "story": "在巴哈馬拿索港的深夜月光下，墨墨躺在古老海宅的冰涼竹蓆上。身為舊書店常客的牠，此時正用前爪撥弄著剛從海底沉船遺骸中打撈出來的古老羅盤，與現代碳纖維探測工具井然有序地並排在一起，彷彿在清點海盜的秘密寶藏。",
+    "idea": "這是一幅結合魚拓藝術風格與 Knolling 排列攝影構圖的作品，展現純黑短毛貓墨墨在老宅的竹蓆上優雅地納涼，身旁整齊排列著具有碳纖維質感的現代潛水儀器與18世紀海盜古物。",
+    "season": "summer",
+    "number": 2159,
+    "news_inspiration": [
+      "紐西蘭奧馬魯近日舉辦了年度「蒸氣龐克節」，大批愛好者穿著融合維多利亞風格與科幻元素的復古服飾，參與了茶包決鬥及茶壺賽跑等趣味競賽。",
+      "考古學家在巴哈馬的拿索港首次獲准進行水下探測，並成功發現了三艘可追溯至18世紀海盜黃金時代的古老海盜船殘骸。",
+      "在法國坎城影展期間，一隻在參展電影中表現亮眼的狗狗獲得了專為犬類演員設立的趣味「金棕櫚狗獎」，引來滿場掌聲。",
+      "科學家在澳大利亞凱恩斯附近的的大堡礁水域，發現了一個面積接近半個足球場大的巨型雙裂獨孔珊瑚群落，這是目前已知最龐大的珊瑚紀錄之一。"
+    ],
+    "prompt": "Gyotaku art style illustration of Momo, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur, a tiny natural white locket tuft on her chest, a single dark-grey ring at her tail tip, and large luminous golden-amber eyes. In her left ear at the mid-ear edge, she wears a single small gold hoop earring. She has long prominent white whiskers and a calm expression. Momo is lying down on a cool bamboo mat in an old house, elegantly pawing at an 18th-century pirate compass. Beside her, modern carbon fiber diving instruments with a glossy clear coat weave pattern and historical pirate artifacts are meticulously arranged in a Knolling photography flat lay layout, organized in a clean grid at 90-degree angles. Traditional Japanese direct ink impression print aesthetic with textured relief surfaces and monochrome contact print elements. The scene is illuminated by cool blue-teal moonlight, casting a gentle silvery glow and creating a quiet, serene summer night atmosphere with icy undertones. The date and time '2026-06-12 05:25 UTC' is clearly and neatly displayed in the corner of the image.",
+    "character": "momo",
+    "is_seasonal": true,
+    "inspiration": "考古學家在巴哈馬的拿索港首次獲准進行水下探測，並成功發現了三艘可追溯至18世紀海盜黃金時代的古老海盜船殘骸。",
+    "style_picks": {
+      "art_style": "Gyotaku Print",
+      "composition": "Knolling Photography",
+      "lighting": "Moonlight",
+      "texture": "Carbon Fiber",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "title": "幽藍月影下的海盜秘藏",
+    "comment_id": 4687779153,
+    "avoid_list": [
+      "用鼻子好奇地嗅聞",
+      "大地色系溫室",
+      "故事插畫分格",
+      "極致蓬鬆的白毛貓鈴鈴",
+      "文藝復興風格",
+      "粉紅鈴鐺發出清脆",
+      "微縮立體模型場景",
+      "超廣角鏡頭捕捉",
+      "溫暖的燭光下",
+      "蝴蝶光照亮",
+      "經典的倫勃朗光",
+      "微縮鐵道模型",
+      "可愛的貓咪正在享受美好的一天"
+    ],
+    "character_name": "墨墨"
   }
 ]
