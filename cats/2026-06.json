@@ -3263,5 +3263,41 @@
       "color_palette": "Cool Tones (Blue / Teal)"
     },
     "inspiration": "在法國巴黎，隨著塞納河重新向數萬名游泳愛好者開放，城市水域展現出全新的盛夏活力。"
+  },
+  {
+    "avoid_list": [
+      "用鼻子好奇地嗅著",
+      "用前爪或肉墊撥弄或按壓",
+      "老宅的竹蓆上納涼",
+      "超廣角鏡頭12-18mm透視",
+      "微縮鐵道或微型貨櫃模型",
+      "風格派幾何線條美學",
+      "蝴蝶光照亮並在鼻子下方形成對稱陰影",
+      "黑光螢光與霓虹色彩",
+      "純黑貓墨墨配戴單個金色耳環",
+      "故事插畫分格或多面板版面",
+      "立體主義與德羅斯特效應無限遞迴",
+      "1950年代美式餐廳與復古吧檯"
+    ],
+    "style_picks": {
+      "art_style": "Manga",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Fabric / Textile",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "story": "三位印度少年發明的羅望子過濾器成了貓咪的新玩具。每當乾淨的水滴從布質濾網緩緩滲出，這隻四腳著地的折耳貓就會精準地用舌頭接住，在清涼的藍青色實驗室裡享受著最純淨的消暑點心。",
+    "inspiration": "來自印度由三位16歲青少年組成的團隊，利用印度料理常見的羅望子粉發明出微塑料過濾器，成功榮獲全球地球獎。",
+    "idea": "在等距3D插圖的漫畫風格中，一隻毛茸茸的蘇格蘭折耳貓正趴在佈滿織品質感的濾水實驗桌上，用粉嫩的舌頭舔舐著從羅望子微塑料過濾器中滴落的純淨水珠，整個場景籠罩在冷藍與青色的自然漫射光下。",
+    "title": "藍調實驗室的淨水禮讚",
+    "comment_id": 4694365232,
+    "number": 2163,
+    "news_inspiration": [
+      "在厄瓜多加拉巴哥群島的海域，科學家發現了一種體型極小、能蜷縮在手掌心中的全新物種「藍色章魚」。",
+      "來自印度由三位16歲青少年組成的團隊，利用印度料理常見的羅望子粉發明出微塑料過濾器，成功榮獲全球地球獎。",
+      "瓜地馬拉的農夫們開始轉向運用傳統古馬雅智慧，以當地植物調配出有機殺蟲劑，成功減少對化學農藥的依賴。",
+      "西班牙巴塞隆納於6月10日舉行盛大慶典，由教宗方濟各十四世親自為聖家堂新建成的耶穌基督之塔進行祝聖祈福。"
+    ],
+    "prompt": "A fluffy Scottish Fold cat lying flat on a laboratory workbench, meticulously licking a pure droplet of water as it drips from a novel tamarind microplastic filter. The scene is a 3D isometric illustration in a distinct manga style, featuring clean ink lines, subtle screentone shading, and highly expressive eyes for the cat. The workbench surface has a detailed woven fabric texture with visible linen threads and a tactile soft appearance. Infused into the design is the text '2026-06-12 18:57 UTC' visually displayed on the filter equipment. The entire composition is bathed in soft, diffused natural light reminiscent of an overcast sky, creating even illumination with no harsh shadows and gentle tones. The color palette is defined by a cool blue-teal color grading, icy undertones, and a crisp, serene atmosphere that enhances the polished, playful rendering."
   }
 ]
