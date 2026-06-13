@@ -20063,5 +20063,18 @@
     "status": "success",
     "number": 2169,
     "title": "幽靈粒子的凝望"
+  },
+  {
+    "inspiration": "original",
+    "season": "summer",
+    "title": "葵田間的金色捉迷藏",
+    "is_seasonal": true,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 2170,
+    "character_name": "鈴鈴",
+    "timestamp": "2026-06-13 13:21 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-13_1321_UTC.webp",
+    "status": "success",
+    "character": "lingling"
   }
 ]

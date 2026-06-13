@@ -3506,5 +3506,39 @@
       "無限遞迴遞迴"
     ],
     "title": "幽靈粒子的凝望"
+  },
+  {
+    "inspiration": "original",
+    "season": "summer",
+    "title": "葵田間的金色捉迷藏",
+    "comment_id": 4698648151,
+    "is_seasonal": true,
+    "idea": "這是一幅將裝飾藝術風格與莫蘭迪色調融合的視覺創作，一隻巨大的白色蓬鬆布偶貓在向日葵田迷宮中，透過強烈的強制透視感向鏡頭伸出粉紅肉掌，捕捉在水晶玻璃般剔透的光線中閃爍的蝴蝶。",
+    "prompt": "An Art Deco style digital painting of a giant, extremely fluffy pure white longhair Ragdoll cat named Lingling, featuring a small round face nearly hidden in voluminous cloud-like pure white fur and huge round sapphire-blue eyes. She wears a pink ribbon bow collar with a small golden bell clearly visible and centered beneath the bow knot. She is wearing a mini straw hat adorned with a sunflower. The scene is a maze of dense sunflower fields under summer volumetric lighting with dramatic depth, god rays, and dust particles catching the light. Forced perspective composition with a dynamic confrontational framing as the cat's fluffy front paw with pink paw pads is thrust toward the camera in exaggerated foreshortening. She is reaching to catch a gold, transparent glass butterfly with light refraction and prismatic reflections. The artwork uses a Morandi muted color palette of desaturated soft pastels, dusty grey undertones, and quiet elegance combined with luxurious symmetry and geometric patterns. The text '2026-06-13 13:21 UTC' is visually displayed clearly in the corner of the image.",
+    "story": "盛夏的陽光透過厚重的雲層，化為一縷縷溫柔的莫蘭迪色體積光。頭戴迷你草帽、別著太陽花的鈴鈴，在密密麻麻的向日葵田裡興奮地探險，當一隻散發著玻璃質感的金黃蝴蝶飛過，她忍不住瞪大寶石藍的星星眼，伸出毛茸茸的前爪奮力一撲，脖子上的粉紅鈴鐺隨之發出清脆的叮鈴聲。",
+    "number": 2170,
+    "style_picks": {
+      "art_style": "Art Deco",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Volumetric Light",
+      "texture": "Glass / Crystal",
+      "color_palette": "Morandi Color Palette"
+    },
+    "character_name": "鈴鈴",
+    "avoid_list": [
+      "冷藍青色調",
+      "低頭專注嗅聞或啃咬",
+      "前爪按住古老卷軸或地圖",
+      "蒸汽龐克結合蝴蝶或飛行船",
+      "等距投影或微縮移軸視覺",
+      "生物發光與螢光菌絲藤蔓",
+      "雙色調高對比色彩處理",
+      "實驗室或精密科學觀測站場景",
+      "35mm鏡頭搭配底片質感與長曝光殘影",
+      "石階或鐵軌等具有條紋延伸感的背景",
+      "特定小貓名字與繁複外觀特徵卡片"
+    ],
+    "news_inspiration": [],
+    "character": "lingling"
   }
 ]
