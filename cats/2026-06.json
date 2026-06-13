@@ -3366,5 +3366,39 @@
       "color_palette": "Duotone"
     },
     "idea": "這是一幅以雙色調為主的立體紙藝景作品，從俯瞰視角展現一隻戴眼罩的壯碩虎斑貓，在散發沙質紋理的雨中老酒吧屋頂上，正專注地用前爪按住一張被風吹動的航海圖。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Cubism",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Spotlight",
+      "texture": "Carbon Fiber",
+      "color_palette": "Earth Tones"
+    },
+    "avoid_list": [
+      "用爪子撥弄",
+      "等距3D插圖",
+      "冷藍青色調",
+      "硬光日照",
+      "生物發光螢光",
+      "蒸汽龐克機械",
+      "絞染紋理",
+      "35mm鏡頭拍攝",
+      "石階與河畔場景",
+      "迷你浮水衣",
+      "無限遞迴遞迴"
+    ],
+    "title": "鐵軌上的幾何獨舞",
+    "inspiration": "越南河內著名的「火車街」近日因一組外國遊客在鐵軌上載歌載舞並拍攝網路短影音，引發各界對於旅遊禮儀與公共秩序的熱烈討論。",
+    "idea": "在融合立體主義的多維幾何視覺中，一隻貓咪以移軸微縮效果呈現，正於越南河內狹窄的鐵軌中央專注地低頭嗅聞一架掉落的微型空拍機。",
+    "story": "喧囂的火車街上，外國遊客正頂著聚光燈般的強烈日照在鐵軌上載歌載舞、拍攝短影音。一隻擁有碳纖維般硬朗幾何線條的大地色系流浪貓，完全不理會身旁的熱鬧歌舞，只是好奇地湊近遊客因狂歡而不慎掉落的空拍機，形成一幅公共秩序與動物天性碰撞的立體派畫面。",
+    "number": 2166,
+    "prompt": "A Cubism art painting of a stray cat with geometric fragmented forms and abstract angular planes in an earth tone palette of terracotta, olive green, and warm brown. The scene is set on a narrow Hanoi train track, rendered with a tilt-shift miniature toy-like effect featuring a selective focus band and blurred foreground and background. The cat, exhibiting a subtle carbon fiber weave pattern on its body, is intently sniffing a fallen high-tech miniature drone in the center of the tracks. The composition utilizes multiple simultaneous perspectives and analytical decomposition. A dramatic narrow beam spotlight creates high-contrast, sharp light edges, and deep darkness falloff. Visually displayed in the image, the date and time '2026-06-13 00:12 UTC' is cleanly incorporated into the scene's geometry.",
+    "news_inspiration": [
+      "英國倫敦的一名印度裔餐廳經理在看見一名三歲女童於高空窗台搖搖欲墜時及時出手接住，並笑稱這全靠他平常練習板球接球的反射神經。",
+      "法國巴約的歷史珍寶「巴約掛毯」展開極致精密的無震動跨海運送任務，預計於九月正式在英國大英博物館展出。",
+      "越南河內著名的「火車街」近日因一組外國遊客在鐵軌上載歌載舞並拍攝網路短影音，引發各界對於旅遊禮儀與公共秩序的熱烈討論。"
+    ],
+    "comment_id": 4696702765
   }
 ]
