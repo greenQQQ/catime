@@ -4434,5 +4434,36 @@
       "圓滾滾的橘白貓麻糬",
       "壯碩虎斑貓船長"
     ]
+  },
+  {
+    "number": 2197,
+    "comment_id": 4724308786,
+    "news_inspiration": [],
+    "prompt": "A psychedelic art and die-cut sticker collage illustration of an elegant black Bombay cat playfully batting at a floating golden silk ribbon in mid-air. The scene features a central character surrounded by layered sticker cutouts with white outline borders, chibi props, and a scrapbook-style overlay frame. Illuminated by ring light effects creating circular catchlights in the cat's eyes. The floating silk fabric has a luminous smooth surface, delicate light reflections, and a luxurious sheen. The composition is set against a deep black background with luxurious metallic gold accents, swirling patterns, and melting distorted forms. The text '2026-06-16 22:46 UTC' is visually displayed and integrated into the image.",
+    "title": "金絲幻線的獨舞",
+    "avoid_list": [
+      "霓虹螢光色",
+      "莫蘭迪色調",
+      "微縮模型與移軸效果",
+      "古早味彈珠汽水或小船",
+      "35mm鏡頭搭配f/2.8光圈",
+      "5000K冷冽日光燈與螢光燈",
+      "伸出前爪撥弄或磨爪",
+      "迷你章魚生物",
+      "底片顆粒與復古褪色色調",
+      "深夜酒吧或深夜魚市場",
+      "圓滾滾的橘白貓麻糬",
+      "壯碩虎斑貓船長"
+    ],
+    "idea": "在金黑色調的迷幻風格世界中，一隻優雅的黑色孟買貓正在用爪子輕輕撥弄一條漂浮在半空中的金色絲綢緞帶，四周環繞著如黑膠唱片般的環形燈效與豐富的貼紙拼貼邊框。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Psychedelic Art",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Ring Light",
+      "texture": "Silk",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "story": "這隻黑貓在奢華的金色殿堂中追逐著那條如流水般滑順的黑色與金色絲綢。環形燈光將牠的身影拉長，與迷幻的幾何圖形交織在一起。牠敏捷地躍過那些彷彿撕貼在空間邊緣的復古圖騰，自顧自地享受著這場光影與質感的盛宴。"
   }
 ]
