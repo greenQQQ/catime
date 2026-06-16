@@ -4398,5 +4398,41 @@
       "法屬玻里尼西亞與環保組織聯手，正式宣布建立一個面積相當於法國本土大小的巨型海洋保護區，為全球海洋保育寫下歷史新頁。"
     ],
     "season": "summer"
+  },
+  {
+    "comment_id": 4723395794,
+    "news_inspiration": [
+      "在尼日爾的撒哈拉沙漠中，一名男子被拍到一邊騎著駱駝一邊使用筆記型電腦工作的奇特畫面，引發網路社群熱烈討論。",
+      "英國科學家在最新研究中揭開了捕蠅草快速閉合的祕密，發現其毛髮觸發機制會使葉片外側表面細胞軟化，從而引導葉片迅速關閉。",
+      "南非一名男孩在海灘散步時，幸運發現了一顆擁有200萬年歷史的古代大象祖先牙齒化石。",
+      "日本推出了名為「米之屋」的特色雞蛋品牌，因飼料配方調整，使其產出的雞蛋蛋黃呈現極為罕見且吸引目光的純白色。"
+    ],
+    "story": "在充斥著未來科技感的植物實驗室裡，科學家們正忙著研究捕蠅草葉片細胞軟化的秘密。這隻實驗室的編外貓咪趁人不注意，悄悄溜上泛著銀色液態光澤的檯面，把濕漉漉的粉嫩鼻頭湊近那株正欲閉合的綠色植物。微弱的蝴蝶光勾勒出牠專注的輪廓，與周圍冰冷的藍青色調儀器形成一種既衝突又和諧的畫意美感。",
+    "title": "微觸植物的靜謐",
+    "prompt": "A Pictorialism style photograph of a British Shorthair cat lying on a laboratory counter with a liquid metal, mercury-like reflective surface. The cat is curiously sniffing a Venus flytrap. The scene is shot from a straight-on perspective, framed inside a die-cut sticker collage composition with white outline borders, scrapbook-style overlays, and chibi props decorating the edges. Illuminated by butterfly lighting from directly overhead, casting a distinctive symmetrical shadow under the cat's nose. The image features a cool blue-teal color grading with icy undertones, high contrast shadows, and a deliberate soft focus that creates an atmospheric, early fine art photography feel. The text '2026-06-16 20:35 UTC' is visually stamped clearly in the corner of the image. Shot on a 50mm lens, f/2.8, with subtle film grain, capturing a genuine candid moment.",
+    "style_picks": {
+      "art_style": "Pictorialism Photography",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Butterfly Lighting",
+      "texture": "Liquid Metal",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "idea": "這是一幅採用畫意攝影風格的相片，冷冽的藍青色調中，一隻英國短毛貓正趴在滿是液態金屬質感水煙的實驗檯上，好奇地用鼻子輕嗅著一株捕蠅草。整體畫面被巧妙地框在帶有童趣的貼紙拼貼邊框之中，頂部的蝴蝶光精準灑落，投射出柔和而對比鮮明的陰影。",
+    "number": 2196,
+    "inspiration": "英國科學家在最新研究中揭開了捕蠅草快速閉合的祕密，發現其毛髮觸發機制會使葉片外側表面細胞軟化，從而引導葉片迅速關閉。",
+    "avoid_list": [
+      "霓虹螢光色",
+      "莫蘭迪色調",
+      "微縮模型與移軸效果",
+      "古早味彈珠汽水或小船",
+      "35mm鏡頭搭配f/2.8光圈",
+      "5000K冷冽日光燈與螢光燈",
+      "伸出前爪撥弄或磨爪",
+      "迷你章魚生物",
+      "底片顆粒與復古褪色色調",
+      "深夜酒吧或深夜魚市場",
+      "圓滾滾的橘白貓麻糬",
+      "壯碩虎斑貓船長"
+    ]
   }
 ]
