@@ -4606,5 +4606,41 @@
       "texture": "Translucent Resin",
       "color_palette": "Cool Tones (Blue / Teal)"
     }
+  },
+  {
+    "number": 2202,
+    "title": "尋聲而至的秋日秘密",
+    "idea": "這是一幅採用極簡塗鴉線條畫風格的溫馨插畫，描繪一隻虎斑貓在溫暖的琥珀秋日色調中，順著空中飄來的興奮人聲，用鼻子輕輕嗅聞著藏有秘密的木桶。",
+    "inspiration": "一項由英國與國際學者發表於《皇家學會開放科學》的最新趣味研究發現，山羊在沒有經過任何特殊訓練的情況下，竟然能單純順著人類「看不見的身影」所發出的興奮說話聲方向，成功找到藏有食物的桶子。",
+    "news_inspiration": [
+      "在美國勞倫斯市，當地的坎薩斯大學管弦樂團與大批市民熱情齊聚，為前來當作世界盃基地營的阿爾及利亞足球隊演奏其國歌並夾道歡迎，成為賽事外最溫馨的文化交流焦點。",
+      "一項由英國與國際學者發表於《皇家學會開放科學》的最新趣味研究發現，山羊在沒有經過任何特殊訓練的情況下，竟然能單純順著人類「看不見的身影」所發出的興奮說話聲方向，成功找到藏有食物的桶子。",
+      "阿根廷足球巨星梅西在其國家隊生涯的第200場里程碑賽事中大放異彩、單場攻入三球，不僅帶領球隊擊敗對手，更追平了世界盃歷史上的個人總進球紀錄。",
+      "科學家利用最新的基因編輯技術成功將原本紅色的萵苣「變綠」，卻意外發現這個過程促使植物體內累積了更多其他對人體健康大有幫助的益處化合物。"
+    ],
+    "style_picks": {
+      "art_style": "Minimalist Doodle Line Art",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Butterfly Lighting",
+      "texture": "Sand Texture",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "avoid_list": [
+      "伸出前爪撥弄",
+      "貼紙拼貼邊框",
+      "莫蘭迪色調",
+      "螢光燈與日光燈照明",
+      "黑白單色調",
+      "35mm鏡頭",
+      "微縮碼頭與魚市場",
+      "全息全像投影",
+      "橘白貓麻糬",
+      "白貓鈴鈴",
+      "時間戳記日期",
+      "雜誌封面與排版佈局"
+    ],
+    "comment_id": 4733595708,
+    "story": "空氣中瀰漫著沙質紋理的復古感，頂部投射下的蝴蝶光照亮了牠專注的輪廓。牠沒有受過任何訓練，卻單純憑著對人類聲音的信任，在故事插畫分格的引導下，一步步找到了裝滿鮮魚的寶庫。",
+    "prompt": "A warm illustration in a minimalist line drawing doodle style, capturing a tabby cat following a cheerful human voice from the air, gently sniffing a secret wooden barrel. The composition features multiple irregular panels arranged on one page in an illustrated storybook layout with a decorative title banner at the top, following a slice-of-life narrative flow. Illumination comes from a top-down butterfly lighting style, casting a soft, symmetrical shadow under the cat's nose. The visual texture has a fine sand-like grain, reminiscent of warm golden granules. Colored in a warm amber and autumn palette with golden yellows and burnt orange, exuding cozy nostalgic warmth. Visually displayed clearly in the corner of the image is the exact text '2026-06-17 17:42 UTC'."
   }
 ]
