@@ -5075,5 +5075,40 @@
       "絞染質感"
     ],
     "news_inspiration": []
+  },
+  {
+    "idea": "這是一幅採用高飽和鮮豔色像素藝術風格的作品，以服裝多視角展示的構圖，呈現一隻玳瑁貓在古老木造溫室裡，專注地用鼻子嗅聞一株剛被發現帶有木紋質感的神祕沙漠苔蘚，光線呈現溫暖的倫勃朗光。",
+    "story": "科學家在安札-博雷戈沙漠有了驚人發現，而這隻好奇的玳瑁貓則成了溫室裡的第一位審查員。牠環繞著這株珍貴的沙漠苔蘚，從不同視角仔細端詳並用敏銳的嗅覺探索，試圖理解植物組織內隱藏的真菌秘密。溫室內濃郁的木頭香氣與高飽和度的像素光影交織，記錄下這場貓咪與微觀科學的靜謐邂逅。",
+    "number": 2216,
+    "avoid_list": [
+      "用爪子撥弄",
+      "霓虹螢光色",
+      "莫蘭迪色調",
+      "鏡子自拍構圖",
+      "硬光日照",
+      "古董店",
+      "雙色調",
+      "微縮移軸",
+      "傳統老街",
+      "機械老鼠或蝴蝶",
+      "絞染質感"
+    ],
+    "inspiration": "美國加州：加州大學河濱分校的研究團隊在安札-博雷戈沙漠研究站採集的沙漠苔蘚中，首次發現植物組織內隱藏著共生真菌，此重大發現可能重寫科學界對苔蘚生物學的認知。",
+    "title": "綠苔間的像素凝視",
+    "prompt": "A high-saturation vivid pixel art and retro 8-bit style image showcasing a tortoiseshell cat in an old wooden greenhouse. The composition uses a multi-view product showcase layout and fashion design sheet format, featuring front, back, side views, and a detail close-up arranged in panels with labeled views against a clean backdrop. The cat is focused, sniffing a newly discovered mysterious desert moss that has a visible, natural wood grain texture with organic tactile surfaces. The scene is illuminated by dramatic Rembrandt lighting, with a single light source at 45 degrees creating a signature triangle of light on the shadowed cheek and intense chiaroscuro. The color palette consists of bold vibrant hues and rich warm tones with eye-catching contrast. The text '2026-06-19 14:39 UTC' is visually displayed and integrated into the image.",
+    "news_inspiration": [
+      "澳洲凱恩斯：大堡礁的公民科學計畫中，研究人員發現了一個面積將近半個足球場大的巨大巨柱微孔珊瑚（Pavona clavus）群落，為有紀錄以來體型最大的珊瑚之一。",
+      "比利時魯汶：魯汶大學科學家在權威期刊發表最新研究指出，太陽在數十億年後演化膨脹時可能因強烈星風而大量流失質量，使地球軌道擴大，從而有機會免於被太陽吞噬的命運。",
+      "美國加州：加州大學河濱分校的研究團隊在安札-博雷戈沙漠研究站採集的沙漠苔蘚中，首次發現植物組織內隱藏著共生真菌，此重大發現可能重寫科學界對苔蘚生物學的認知。",
+      "丹麥哥本哈根：自2020年起推廣的「真人圖書館」閱讀花園在哥本哈根持續受到歡迎，提供民眾前往「借閱」並與不同背景的真人面對面交流對談的獨特文化體驗。"
+    ],
+    "style_picks": {
+      "art_style": "Pixel Art",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Wood Grain",
+      "color_palette": "High Saturation Vivid"
+    },
+    "comment_id": 4752532654
   }
 ]
