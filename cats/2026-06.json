@@ -4983,5 +4983,38 @@
     ],
     "story": "墨墨優雅地躍上古董店高處的陳列架，身旁點綴著幾盞古典蠟燭，微弱的燭光在未來感十足的充氣PVC裝飾上反射出斑斕的霓虹螢光。牠微微側頭，金琥珀色的眼睛在鏡子裡閃爍，左耳的金環與胸前的白色領結在動態扭曲的未來主義線條中，勾勒出一幅既神祕又前衛的靜謐畫面。",
     "title": "幻彩鏡中的墨色流光"
+  },
+  {
+    "number": 2213,
+    "idea": "在挪威田野的微縮立體模型中，一隻貓咪正低頭嗅著一把從地底冒出的維京古劍，畫面融合了獨特的貢德畫線條與斑點藝術風格。",
+    "news_inspiration": [
+      "在挪威的一處田野中，一名年僅六歲的男童意外發現了一把從地底冒出的維京時期古劍。",
+      "美國芝加哥的奧巴馬總統中心（Obama Presidential Center）於今日（2026年6月19日）正式落成並對公眾開放。",
+      "台灣台南市的幾處古老神廟因其獨特且打破傳統的「門神」彩繪，吸引了文化學者與遊客前來探索城市隱藏的海岸與歷史故事。"
+    ],
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Miniature Diorama",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Shibori Textile",
+      "color_palette": "Neon Fluorescent"
+    },
+    "prompt": "A miniature diorama with a tilt-shift effect showing a cat sniffing a legendary ancient Viking sword emerging from the soil in a Norwegian field. The scene is rendered in an intricate Gond painting style with fine line and dot patterns. Glowing neon fluorescent colors of electric pink, lime green, and hot cyan contrast against a dark, organic flowing Shibori resist-dyed textile pattern sky in an indigo blue palette. Dramatic backlighting creates a rim light and glowing silhouette edges around the cat and sword. Visually displayed clearly in the corner of the image is the text '2026-06-19 00:18 UTC'.",
+    "avoid_list": [
+      "用爪子撥弄",
+      "粉彩色調",
+      "故事插畫分格",
+      "古絹質感",
+      "服裝多視角展示",
+      "獨眼虎斑貓船長",
+      "莫蘭迪色調",
+      "雙色調",
+      "透明樹脂",
+      "佈滿苔蘚"
+    ],
+    "inspiration": "在挪威的一處田野中，一名年僅六歲的男童意外發現了一把從地底冒出的維京時期古劍。",
+    "comment_id": 4747192041,
+    "story": "六歲男童在鬆軟的泥土中挖出了沉睡千年的傳奇，而隨行的家貓成了第一個見證者。牠圍繞著那柄雕刻著神祕紋路的古刃踩踏，在霓虹螢光色的輪廓光中，歷史的塵埃彷彿與絞染質感的夜空融為一體。",
+    "title": "千年的泥土與微光"
   }
 ]
