@@ -20752,5 +20752,16 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "status": "success",
     "inspiration": "在英國舉行的皇家雅士谷賽馬會（Royal Ascot）上，觀賽嘉賓紛紛戴上極具創意且色彩斑斕的浮誇帽子，成為賽場外最亮眼的文化與時尚焦點。"
+  },
+  {
+    "timestamp": "2026-06-21 21:02 UTC",
+    "number": 2239,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character": "mochi",
+    "status": "success",
+    "title": "霓虹蒸籠裡的凝視",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-21_2102_UTC.webp",
+    "inspiration": "original",
+    "character_name": "麻糬"
   }
 ]

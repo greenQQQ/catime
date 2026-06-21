@@ -5876,5 +5876,38 @@
       "color_palette": "Gold and Black Luxury"
     },
     "inspiration": "在英國舉行的皇家雅士谷賽馬會（Royal Ascot）上，觀賽嘉賓紛紛戴上極具創意且色彩斑斕的浮誇帽子，成為賽場外最亮眼的文化與時尚焦點。"
+  },
+  {
+    "number": 2239,
+    "comment_id": 4763288890,
+    "character": "mochi",
+    "avoid_list": [
+      "伸出前爪撥弄",
+      "四樓公寓陽台",
+      "古老地標新橋",
+      "冷藍色調",
+      "藍青色色調",
+      "冰霜結晶紋理",
+      "木紋質感控制室",
+      "生鏽鐵窗台",
+      "紐約尼克隊奪冠",
+      "體積光與神祕光影",
+      "傳統魚拓藝術風格",
+      "等距攝影視角"
+    ],
+    "prompt": "A modern museum gallery installation view of a monumental artwork dominating the space, with tiny human figures standing nearby for scale contrast. The scene features polished wooden floors, track lighting, and clean white walls creating a contemporary exhibition atmosphere. The artwork is presented in a strict orthographic projection, with a straight-on flat rendering and technical illustration style, completely free of perspective distortion. The focus is a giant glowing translucent resin steaming basket, illuminated by overhead fluorescent lighting with a neutral white 5000K institutional flat illumination and no shadows. Inside the amber-like clarity of the glossy smooth resin, a chubby rounded shorthair cat named Mochi is stuck and squinting. Mochi has a spherical torso, short stubby legs, a white belly, and amber eyes. His right half-face (viewer perspective) has a solid orange mask extending from the nose bridge to the right ear, while his left face is pure white. His dorsal upper back features a heart-shaped solid orange saddle. His right front paw is a solid orange mitten to the wrist, and his left front paw is pure white. The resin basket glows with neon fluorescent colors, including electric pink, lime green, and hot cyan against a darker background. Visually displayed clearly in the image is the date and time text '2026-06-21 21:02 UTC'.",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Gallery Installation Scene",
+      "composition": "Orthographic Projection",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Translucent Resin",
+      "color_palette": "Neon Fluorescent"
+    },
+    "title": "霓虹蒸籠裡的凝視",
+    "idea": "這是一幅在現代美術館展出的前衛裝置藝術作品，以正交投影視角呈現橘白胖貓「麻糬」卡在半透明樹脂製成的巨型發光蒸籠裡。",
+    "story": "貪吃的麻糬在深夜溜進了一家充滿未來感的霓虹傳統老街麵包店，試圖偷吃剛出爐的巨大花生麻糬。沒想到牠圓滾滾的身軀直接塞進了透明樹脂做的展示蒸籠，在螢光燈的強烈照射下，牠動彈不得地瞇著眼，宛如一件活生生的普普藝術品。",
+    "inspiration": "original",
+    "character_name": "麻糬"
   }
 ]
