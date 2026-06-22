@@ -20820,5 +20820,16 @@
     "inspiration": "original",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-22_2031_UTC.webp",
     "status": "success"
+  },
+  {
+    "title": "水晶蒸籠上的巡邏者",
+    "character": "mochi",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-22_2230_UTC.webp",
+    "inspiration": "original",
+    "character_name": "麻糬",
+    "number": 2246,
+    "timestamp": "2026-06-22 22:30 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success"
   }
 ]

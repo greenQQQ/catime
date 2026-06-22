@@ -6084,5 +6084,43 @@
       "color_palette": "Morandi Color Palette"
     },
     "story": "一隻可愛的貓咪正在享受美好的一天。"
+  },
+  {
+    "title": "水晶蒸籠上的巡邏者",
+    "character": "mochi",
+    "idea": "這是一幅採用特林吉特圖騰藝術風格描繪的鳥瞰畫面，橘白相間的胖家貓麻糬正趴在老街點心攤的巨型水晶玻璃蒸籠頂端，試圖用肉墊撥弄裡面的花生麻糬，整體呈現背光輪廓與簡練的雙色調視覺。",
+    "inspiration": "original",
+    "character_name": "麻糬",
+    "news_inspiration": [
+      "在墨西哥的墨西哥城，一隻名叫馬林（Merlín）的寵物鴨因經常在街頭散步而被封為當地的世界盃非官方吉祥物，甚至在總統新聞簡報會上搶盡風頭。",
+      "在奧地利維也納的獸醫學研究中，科學家首次紀錄到一頭名叫維羅妮卡（Veronika）的母牛展現出使用多用途工具的罕見能力，打破了人們對牛群智商的既定印象。",
+      "在英國的皇家雅士谷（Royal Ascot）賽馬賽事中，大批觀賽民眾穿戴充滿創意與色彩繽紛的誇張帽子亮相，成為賽場外最吸睛的文化時尚焦點。",
+      "在克羅埃西亞，一匹僅一個月大的小馬跟隨主人搬進了公寓大樓的四樓居住，而友善的鄰居們對此不但不介意，反而覺得非常新奇溫馨。"
+    ],
+    "number": 2246,
+    "prompt": "A bird's-eye view, top-down perspective from straight above looking down, capturing a dramatic duotone graphic art piece in the Tlingit indigenous totem style with bold formline design, ovoid shapes, and U-shapes. The subject is a literal chubby rounded shorthair cat named Mochi with a spherical torso and short stubby legs, depicted as a literal four-legged cat. Mochi has a white base coat with solid orange patches and no tabby stripes: the right half of his face (viewer's right) has a solid orange mask covering the cheek and ear while his left face is pure white; his upper back features a distinct heart-shaped orange saddle; his right front paw is a solid orange mitten to the wrist while his left front paw is pure white; he has a white belly and large round amber eyes. Mochi is on his stomach on top of a massive, transparent crystal glass food steamer at an old street market stall, using his solid orange right front paw to pat at peanut mochi inside. The transparent glass material creates light refraction and crystalline clarity. The composition features heavy backlighting, a glowing silhouette, and rim light defining the edges against a dark background in a stark two-color palette of red and black on a stylized surface. Visually displayed clearly in the corner of the image is the text '2026-06-22 22:30 UTC'.",
+    "avoid_list": [
+      "2026年時間戳記",
+      "純白蓬鬆布偶貓鈴鈴",
+      "粉紅絲帶蝴蝶結領結與金色鈴鐺",
+      "正交投影無透視變形",
+      "剛出土的古老器物",
+      "歐普藝術幾何圖形空間",
+      "閃爍亮粉與魔幻發光微粒",
+      "用鼻子輕嗅或拍打",
+      "35mm鏡頭搭配底片顆粒",
+      "戲劇性倫勃朗光與深邃光影",
+      "溫暖大地色系與粗糙紋理",
+      "黑光螢光與高飽和霓虹色彩"
+    ],
+    "style_picks": {
+      "art_style": "Tlingit Formline Art",
+      "composition": "Bird's-Eye View",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Glass / Crystal",
+      "color_palette": "Duotone"
+    },
+    "story": "老街市場的蒸籠剛起鍋，圓滾滾的麻糬就憑藉著對食物的敏銳嗅覺爬上了攤位頂端。牠那橘白相間的圓潤身軀在半透明的水晶玻璃質感中被圖騰化，正瞇著眼、流著口水，用戴著橘色手套的右前腳拍打著蒸籠邊緣。攤位老闆早已見怪不怪，任由這隻市場吉祥物在上方進行牠的「例行巡邏」。",
+    "comment_id": 4773667886
   }
 ]
