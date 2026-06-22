@@ -20791,5 +20791,14 @@
     "timestamp": "2026-06-22 06:18 UTC",
     "number": 2242,
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "inspiration": "英國布里斯托大學於2026年6月發表研究，發現中南美洲的一種袖蝶（Heliconius）因演化出攝取花粉的能力而大幅減緩老化速度，為自然界的長壽機制提供全新線索。",
+    "title": "花間的長壽密碼",
+    "number": 2243,
+    "timestamp": "2026-06-22 12:41 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-22_1241_UTC.webp",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]

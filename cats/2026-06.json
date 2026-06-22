@@ -5976,5 +5976,40 @@
     "number": 2242,
     "news_inspiration": [],
     "prompt": "A professional knolling photography, flat lay overhead view of a stray orange cat lying on a table, intently inspecting a circuit board made of glowing microchips and microresistors. The setting is a cyberpunk underground electronic workshop filled with warm earth-tone woven fabric curtains. Objects and electronic components are neatly arranged at 90-degree angles in an organized grid layout on a clean background. Backlighting creates a dramatic rim light that outlines the cat's silhouette with glowing edges. The image captures tactile soft textures, visible threads of linen in terracotta, olive green, and warm brown tones. The date and time '2026-06-22 06:18 UTC' is visually stamped on the corner of the surface. Shot on a 35mm lens, f/2.8, shallow depth of field, realistic photographic texture."
+  },
+  {
+    "story": "在基因奇蹟的溫室裡，這隻貓咪發現了能延緩衰老的神秘袖蝶花粉。牠穿梭在粉嫩的巨型花瓣間，每一次呼吸都讓牠的毛皮泛起如彩虹般的全息光暈。這不是魔法，而是大自然留給貓族最美麗的長壽密碼。",
+    "style_picks": {
+      "art_style": "Oil Painting",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Direct Flash",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Pastel Colors"
+    },
+    "inspiration": "英國布里斯托大學於2026年6月發表研究，發現中南美洲的一種袖蝶（Heliconius）因演化出攝取花粉的能力而大幅減緩老化速度，為自然界的長壽機制提供全新線索。",
+    "title": "花間的長壽密碼",
+    "number": 2243,
+    "idea": "這幅油畫採用故事插畫分格，展現一隻全身散發虹彩全息光澤的橘貓在滿佈粉彩色系巨型花朵的溫室中，用鼻子輕嗅並採集獨特花粉的定格瞬間，畫面在直打閃光燈下顯得魔幻而聚焦。",
+    "prompt": "An illustrated story page layout with multiple panels and a decorative title banner at the top, done in a rich oil painting style with thick impasto brushstrokes and visible canvas texture. The scene depicts an orange cat with an iridescent holographic material fur shift, creating a rainbow color shift and pastel prismatic reflections like bubble-like holographic film. The cat is inside a soft pastel color palette greenhouse filled with gentle pink, lavender, mint, and baby blue giant flowers, delicately sniffing and gathering unique pollen. The lighting is a harsh direct on-camera flash with blown-out highlights and hard shadows, giving it a raw candid snapshot look mixed with a shoujo manga narrative flow and slice-of-life storybook composition. The date and time '2026-06-22 12:41 UTC' is visually displayed in the corner of the image.",
+    "avoid_list": [
+      "用爪子撥弄",
+      "鏡子自拍構圖",
+      "歐普藝術",
+      "木紋質感",
+      "冷藍色調",
+      "螢光霓虹燈",
+      "黑金相間",
+      "極低角度",
+      "體積光",
+      "35mm鏡頭",
+      "傳統魚拓藝術風格"
+    ],
+    "comment_id": 4768414444,
+    "news_inspiration": [
+      "英國布里斯托大學於2026年6月發表研究，發現中南美洲的一種袖蝶（Heliconius）因演化出攝取花粉的能力而大幅減緩老化速度，為自然界的長壽機制提供全新線索。",
+      "澳洲保育團隊成功將鴨嘴獸重新引渡回雪蓮溪（Hacking River），並在2026年6月證實牠們已在該流域順利繁衍，這是該區域數代以來的首次野外繁殖紀錄。",
+      "英國倫敦鞭子快德動物園（Whipsnade Zoo）於2026年6月中旬迎來了七隻瀕危的北非獵豹幼崽誕生，為這類稀有大型貓科動物的保育工作注入強心針。",
+      "美國近期的一項社會調查顯示，自全球疫情之後，當地的父親們正經歷世代觀念轉變，投入在照顧孩子與家庭的時間顯著增加，而投入有薪工作的工作時間則相對減少。"
+    ]
   }
 ]
