@@ -6011,5 +6011,42 @@
       "英國倫敦鞭子快德動物園（Whipsnade Zoo）於2026年6月中旬迎來了七隻瀕危的北非獵豹幼崽誕生，為這類稀有大型貓科動物的保育工作注入強心針。",
       "美國近期的一項社會調查顯示，自全球疫情之後，當地的父親們正經歷世代觀念轉變，投入在照顧孩子與家庭的時間顯著增加，而投入有薪工作的工作時間則相對減少。"
     ]
+  },
+  {
+    "number": 2244,
+    "avoid_list": [
+      "用爪子撥弄",
+      "鏡子自拍構圖",
+      "歐普藝術",
+      "木紋質感",
+      "冷藍色調",
+      "螢光霓虹燈",
+      "黑金相間",
+      "極低角度",
+      "體積光",
+      "35mm鏡頭",
+      "傳統魚拓藝術風格"
+    ],
+    "comment_id": 4771023777,
+    "news_inspiration": [
+      "挪威一名六歲男孩在參與學校戶外教學時，於一處田地發現了埋藏在地底、距今約1200年前的維京時期古劍。",
+      "美國耶魯大學發表一項打破傳統老化觀念的長期研究，指出65歲以上的長者中有近半數隨著年齡增長，在生理或心理健康上反而有所提升。",
+      "以色列考古學家在鄰近古代羅馬行省首都附近的一處釀酒槽內，挖掘出兩尊保存極為完好的羅馬時期半身石雕像。",
+      "英國劍橋大學的專家們成功重建了17世紀植物學家約翰·雷（John Ray）所設計、距今已有336年歷史的古老花園，以紀念這位創造「花瓣」與「花粉」詞彙的自然史之父。"
+    ],
+    "title": "古園裡的叮鈴奇遇",
+    "idea": "在黏土動畫風格與正交投影的視角下，一隻極度蓬鬆、長著寶石藍大眼的純白布偶貓「鈴鈴」，正趴在英式復古褪色色調的古老花園泥土裡，用粉紅肉掌好奇地撥弄著一把剛出土、帶有微弱金屬質感的古老維京鐵劍。",
+    "prompt": "Claymation style, sculpted clay characters with visible fingerprint textures, stop-motion aesthetic, orthographic projection, no perspective distortion, straight-on flat rendering, technical illustration style. An extremely fluffy pure white longhair Ragdoll-like cat named Lingling, featuring voluminous cloud-like pure white fur, a small round face nearly hidden in fur, and huge round sapphire-blue eyes with a gentle sparkle occupying a third of the face. Lingling has a pale pink nose and inner ears, and wears a pink ribbon bow collar with a small golden bell clearly visible and centered beneath the bow knot. She is crouching in old garden dirt, using her pink paw pads to curiously poke a newly unearthed, faintly metallic ancient Viking iron sword. Retro faded color palette with washed-out vintage tones, low contrast, nostalgic film-era warmth. Cinematic lighting with volumetric light rays and dramatic shadows. A digital timestamp reading '2026-06-22 17:23 UTC' is visually displayed and subtly burnt into the lower corner of the image.",
+    "style_picks": {
+      "art_style": "Claymation",
+      "composition": "Orthographic Projection",
+      "lighting": "Cinematic Lighting",
+      "texture": "Metallic Surface",
+      "color_palette": "Retro Faded Tones"
+    },
+    "character_name": "鈴鈴",
+    "story": "鈴鈴跟著花店主人來到這座剛被重建的古老花園，卻在追逐蝴蝶時不小心撞到土堆，反而讓一柄埋藏千年的維京古劍重見天日。她歪著頭，大大的星星眼裡滿是驚奇，脖子上的粉紅鈴鐺隨著她試圖嗅聞鐵鏽氣味的動作，發出清脆的叮鈴聲。",
+    "character": "lingling",
+    "inspiration": "挪威一名六歲男孩在參與學校戶外教學時，於一處田地發現了埋藏在地底、距今約1200年前的維京時期古劍。"
   }
 ]
