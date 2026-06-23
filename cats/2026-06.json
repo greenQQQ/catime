@@ -6197,5 +6197,36 @@
       "texture": "Moss Overgrowth",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Spotlight",
+      "texture": "Metallic Surface",
+      "color_palette": "Morandi Color Palette"
+    },
+    "inspiration": "original",
+    "story": "在廢棄已久的重工業廠房深處，巨型機械在莫蘭迪色調的灰藍與霧粉中呈現冷冽的金屬質感。一道強烈的聚光燈從破碎的天窗打下，沿著漩渦狀排列的齒輪構圖層層遞進，聚焦在焦點中心那隻專注調皮的四足貓咪身上。",
+    "idea": "一張帶有獨特拍立得相紙邊框的照片，捕捉了一隻斑虎貓正趴在老舊鋼鐵工廠的巨型齒輪組上，用爪子撥弄一根金屬彈簧的瞬間。",
+    "avoid_list": [
+      "2026年時間戳記",
+      "純白蓬鬆布偶貓鈴鈴",
+      "粉紅絲帶蝴蝶結領結與金色鈴鐺",
+      "正交投影無透視變形",
+      "剛出土的古老器物",
+      "歐普藝術幾何圖形空間",
+      "閃爍亮粉與魔幻發光微粒",
+      "用鼻子輕嗅或拍打",
+      "35mm鏡頭搭配底片顆粒",
+      "戲劇性倫勃朗光與深邃光影",
+      "溫暖大地色系與粗糙紋理",
+      "黑光螢光與高飽和霓虹色彩"
+    ],
+    "number": 2249,
+    "comment_id": 4776548009,
+    "prompt": "A Polaroid instant photo with a classic white border frame, capturing a candid shot of a tabby cat perched on massive industrial iron gears, playfully batting at a metal spring with its paw. The composition follows a sharp spiral vortex perspective, with circular machinery coiling around the central subject, creating a dizzying sense of depth from a cinematic low angle. A narrow beam of spotlight cuts through the deep darkness from a high angle, casting sharp reflections on the brushed metallic surfaces. The color palette features desaturated Morandi tones of dusty grey, muted blue, and soft pastels, with a slightly faded, warm undertone characteristic of vintage film. Visually displayed in a subtle digital or stamped font in the corner of the image is the timestamp '2026-06-23 06:50 UTC'. Shot on a 35mm lens, f/2.8, with realistic film grain and sharp light edges.",
+    "title": "鋼鐵漩渦中的微光",
+    "news_inspiration": []
   }
 ]
