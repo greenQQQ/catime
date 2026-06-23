@@ -20842,5 +20842,14 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-22_2358_UTC.webp",
     "status": "success"
+  },
+  {
+    "model": "gemini-3.1-flash-image-preview (fallback from gemini-3-pro-image-preview, reason: timeout after 240.0s) (fallback from codex: codex-image-service request failed: Remote end closed connection without response)",
+    "timestamp": "2026-06-23 02:58 UTC",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-23_0258_UTC.webp",
+    "number": 2248,
+    "title": "霓虹苔原的深海訪客",
+    "inspiration": "厄瓜多加拉巴哥群島附近海域發現了一種僅有手掌大小、外表呈現鮮豔藍色的全新章魚物種。",
+    "status": "success"
   }
 ]
