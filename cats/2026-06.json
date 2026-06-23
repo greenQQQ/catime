@@ -6402,5 +6402,38 @@
     "story": "天真好奇的鈴鈴在灑滿三點打光的復古陽台上，正興奮地盯著一隻落在斑駁鐵器上的蝴蝶。她那寶石藍的大眼睛閃閃發亮，脖子上的粉紅蝴蝶結鈴鐺隨著她興奮的微調動作發出清脆的叮鈴聲，下一秒她就因為太專注而一頭撞上了旁邊的舊花盆。",
     "idea": "這是一幅採用油畫風格與復古褪色色調繪製的畫作，畫面四周帶有細緻的配色條邊框，展現一隻全身毛量極蓬鬆的白色布偶貓風格貓咪「鈴鈴」，在充滿鐵鏽舊化質感的陽台欄杆上追逐蝴蝶。",
     "number": 2254
+  },
+  {
+    "character": "mochi",
+    "style_picks": {
+      "art_style": "Oriental Mythic Poster",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Neon Lighting",
+      "texture": "Silk",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "prompt": "Oriental mythic poster art of Mochi, a chubby rounded shorthair cat with a white base coat, solid orange patches, and short stubby legs, lying on a luxurious flowing black silk fabric drape with metallic gold leaf accents. Mochi has a solid orange mask covering only the right half-face and right ear while the left face remains entirely white, large round amber eyes, a pink nose with a tiny orange center dot, a heart-shaped orange saddle on its upper back, a solid orange right front paw mitten, a pure white left front paw, a white belly, and an orange-and-white ringed tail. Mochi is curiously staring at a glowing bowl of Taiwanese braised pork rice that emits colorful neon lighting. The scene is set in a moody urban night street market with reflections on wet surfaces. The composition is a die-cut sticker collage with a scrapbook-style overlay, featuring a white outline border around Mochi, vertical calligraphy panels, red seal stamps, chibi props, and traditional Chinese ink cloud ornaments. The date and time '2026-06-23 22:58 UTC' is visually displayed in text embedded within the image.",
+    "inspiration": "original",
+    "number": 2255,
+    "avoid_list": [
+      "水晶玻璃蒸籠",
+      "維多利亞式鑄鐵鏤空溫室",
+      "老舊鋼鐵工廠巨型齒輪",
+      "鳥瞰畫面俯瞰",
+      "長卷式等距攝影",
+      "魚眼鏡頭與長曝光",
+      "用爪子撥弄",
+      "戴著橘色手套的右前腳",
+      "左眼戴著眼罩的壯碩虎斑貓",
+      "倫勃朗光強烈明暗對比",
+      "環形燈般柔和水面反光",
+      "莫蘭迪色調灰藍與霧粉"
+    ],
+    "news_inspiration": [],
+    "character_name": "麻糬",
+    "story": "深夜的老街攤位亮起迷幻的霓虹燈，宛如神話中的奇幻市集。貪吃的麻糬趁著老闆不注意，悄悄溜上鋪著黑金絲綢的展示台，瞪大那雙放大了兩倍的圓滾滾大眼睛，對著眼前那碗彷彿有靈氣的試吃品流口水。這顆會走路的花生麻糬，又在牠的深夜巡邏任務中找到了最完美的目標。",
+    "idea": "在融合東方奇幻海報風格的深夜老街市場中，圓滾滾的橘白貓麻糬正趴在流淌著金色與黑色奢華光澤的絲綢布幔上，好奇地凝視著一盤剛出爐、散發霓虹燈光的發光滷肉飯，四周環繞著精緻的貼紙拼貼邊框。",
+    "comment_id": 4784216959,
+    "title": "神市夜巡饕客魂"
   }
 ]

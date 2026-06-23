@@ -20911,5 +20911,16 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "title": "褪色陽台與藍眼晴",
     "number": 2254
+  },
+  {
+    "character": "mochi",
+    "status": "success",
+    "inspiration": "original",
+    "number": 2255,
+    "character_name": "麻糬",
+    "timestamp": "2026-06-23 22:58 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-23_2258_UTC.webp",
+    "title": "神市夜巡饕客魂"
   }
 ]
