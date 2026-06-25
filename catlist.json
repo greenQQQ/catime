@@ -21080,5 +21080,14 @@
     "inspiration": "在英國蘇格蘭阿洛阿（Alloa）地區，考古學家發現了一座埋藏 2,000 年前的鐵器時代年輕戰士墓穴，其生前配戴的精美鐵劍、皮鞘與戒指等珍貴文物即將首次公開展出。",
     "season": "summer",
     "title": "竹蓆上的鐵器冥想"
+  },
+  {
+    "timestamp": "2026-06-25 13:09 UTC",
+    "inspiration": "在澳大利亞的坎培拉，一名鎮民官（Town Crier）以高達 122.4 分貝的宏亮嗓門，正式獲得金氏世界紀錄認證為世界上聲音最大的人。",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-25_1309_UTC.webp",
+    "title": "巨響後的金奢獨白",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 2272
   }
 ]
