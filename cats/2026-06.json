@@ -6986,5 +6986,45 @@
       "天鵝絨柔軟毛髮質感"
     ],
     "inspiration": "original"
+  },
+  {
+    "is_seasonal": true,
+    "character": "momo",
+    "story": "墨墨在炎熱的夏日裡，找到了老宅中最涼爽的竹蓆角落。牠的爪子輕輕搭在蘇格蘭最新展出的鐵器時代年輕戰士墓穴考察地圖上，彷彿在用獨特的方式解讀這段跨越兩千年的歷史秘密，金琥珀色的眼睛在冷日光燈下閃爍著睿智的光芒。",
+    "number": 2271,
+    "news_inspiration": [
+      "在卡達多哈的瓦其夫市集（Souq Waqif），一場備受期待的印度芒果節隆重開幕，為當地遊客帶來豐富的優質芒果品嚐與豐富的印度傳統文化體驗。",
+      "科學家研發出一種全新的「蠶絲冷感布料」，能有效反射高達 94.8% 的陽光並降低人體皮膚表面溫度 4.3°C，有望在比利時等歐洲國家未來的熱浪中提供不需依賴塑料的環保消暑新選擇。",
+      "在英國蘇格蘭阿洛阿（Alloa）地區，考古學家發現了一座埋藏 2,000 年前的鐵器時代年輕戰士墓穴，其生前配戴的精美鐵劍、皮鞘與戒指等珍貴文物即將首次公開展出。",
+      "隨著 2026 年世界盃足球賽火熱開踢，地主國之一的美國在總教練波切蒂諾的帶領下，於波士頓等主辦城市掀起了狂熱的足球觀賽派對與慶祝浪潮。"
+    ],
+    "prompt": "An Art Deco style illustration featuring Momo, a sleek, slender solid-black Bombay-style shorthair cat with short satin-sheen fur, a tiny natural white locket tuft on her chest, a single dark-grey ring at her tail tip, and large luminous golden-amber eyes. A single small gold hoop earring is attached to her left ear (viewer perspective). She is elegantly lounging on a bamboo mat in an old house, her paws gently resting on unrolled Iron Age parchment maps. The scene uses a spiral vortex composition with geometric patterns coiling around the cat, creating a strong rotational perspective and centered depth. The lighting is an overhead, flat fluorescent lighting (neutral white 5000K) with minimal shadows. The overall texture is that of sculpted clay and handmade ceramic with a matte surface. The color palette consists of warm earth tones, terracotta, olive green, warm brown, and black. Visually displayed clearly within the image is the date and time text '2026-06-25 10:09 UTC'.",
+    "character_name": "墨墨",
+    "inspiration": "在英國蘇格蘭阿洛阿（Alloa）地區，考古學家發現了一座埋藏 2,000 年前的鐵器時代年輕戰士墓穴，其生前配戴的精美鐵劍、皮鞘與戒指等珍貴文物即將首次公開展出。",
+    "comment_id": 4798134591,
+    "style_picks": {
+      "art_style": "Art Deco",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Earth Tones"
+    },
+    "idea": "在老宅的竹蓆上，一隻擁有黏土陶瓷質感的黑貓墨墨正優雅地趴在幾卷展開的鐵器時代古老羊皮地圖上納涼，整體畫面呈現裝飾藝術風格與大地色系，並以螺旋漩渦構圖和日光燈冷調光線營造出獨特的幾何美感。",
+    "season": "summer",
+    "avoid_list": [
+      "微縮移軸效果",
+      "等距3D插圖",
+      "冷色調藍青色物體",
+      "亮面塑膠玩具質感",
+      "貓用鼻子輕觸物品",
+      "貓用爪子撥弄調整",
+      "合成波與霓虹螢光",
+      "虹彩全息材質",
+      "魚眼鏡頭與強烈桶形畸變",
+      "黑白單色融合多彩光影",
+      "暴風雪朦朧大霧場景",
+      "天鵝絨柔軟毛髮質感"
+    ],
+    "title": "竹蓆上的鐵器冥想"
   }
 ]

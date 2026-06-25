@@ -21067,5 +21067,18 @@
     "status": "success",
     "number": 2270,
     "inspiration": "original"
+  },
+  {
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-25_1009_UTC.webp",
+    "is_seasonal": true,
+    "character": "momo",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 2271,
+    "timestamp": "2026-06-25 10:09 UTC",
+    "status": "success",
+    "character_name": "墨墨",
+    "inspiration": "在英國蘇格蘭阿洛阿（Alloa）地區，考古學家發現了一座埋藏 2,000 年前的鐵器時代年輕戰士墓穴，其生前配戴的精美鐵劍、皮鞘與戒指等珍貴文物即將首次公開展出。",
+    "season": "summer",
+    "title": "竹蓆上的鐵器冥想"
   }
 ]
