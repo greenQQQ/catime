@@ -7318,5 +7318,41 @@
     "character_name": "船長",
     "prompt": "Chalk art on blackboard of a large stocky brown classic tabby cat with bold black stripes and a muscular build, having scruffy coarse untidy fur. The cat has a distinctive M-mark on its forehead, a thick sturdy tail, a prominent V-shaped notch on its left ear, and a faded red bandana loosely tied around its neck. It has a white chest bib and white mitten paws. Its left eye is permanently concealed by a natural dark-pigmented fur patch, while its right eye is a single piercing emerald green. The cat is crouching on a massive ancient black coral reef inside a dark, sunken ship cabin at night. Using forced perspective composition and exaggerated foreshortening, the cat thrusts its white mitten front paw directly toward the camera/viewer in a dynamic, confrontational framing. The medium features a dusty matte texture with colored chalk and visible hatching strokes on dark green slate, capturing fine sand texture with natural grain detail. Illuminated by candlelight with a warm orange flickering glow, soft dancing shadows create an intimate atmosphere with high saturation vivid colors and an energetic palette. The date and time '2026-06-26 08:47 UTC' is clearly and visually written in chalk within the image.",
     "character": "captain"
+  },
+  {
+    "inspiration": "original",
+    "number": 2280,
+    "character": "momo",
+    "story": "深夜的舊書店裡，墨墨獨自跳上了店主新收購的百年微縮景觀台。牠撥弄著書頁，那些散發著螢光色澤的暗黑花卉與棉花糖般的雲霧彷彿在聚光燈下活了過來，而墨墨正像個高傲的探險家，在神秘的植物世界中尋找下一個休憩的封面。",
+    "title": "墨色花境的立體呢喃",
+    "comment_id": 4809263397,
+    "idea": "在微縮立體模型的舊書店角落，墨墨在一束強烈聚光燈下，優雅地用爪子撥動著一本翻開的古老立體植物書，四周環繞著充滿暗黑花卉肖像風格的霓虹螢光色巨大花朵與棉花糖般如雲朵的奇異蕈菇。",
+    "character_name": "墨墨",
+    "avoid_list": [
+      "長卷全景構圖",
+      "強制透視伸手構圖",
+      "復古褪色色調",
+      "螢光燈無陰影照明",
+      "金黑奢華配色",
+      "粉紅鼻尖嗅聞",
+      "前爪按壓物件",
+      "圓滾滾胖貓",
+      "3D盲盒黏土風格",
+      "大地色系竹蓆"
+    ],
+    "news_inspiration": [
+      "在西班牙地中海海域捕獲的一隻幼年大白鯊，為科學家提供了該地區依然存在神秘「幽靈大白鯊」族群的最新證據。",
+      "紐西蘭峽灣深海發現了一株高達4公尺、寬4.5公尺且樹齡估計達300至400年的巨大黑珊瑚，令研究人員十分震撼。",
+      "奧地利維也納獸醫大學的科學家首次記錄到一頭名叫維羅妮卡（Veronika）的乳牛展現出罕見的多功能工具使用能力，打破了以往對牛類智商的認知。",
+      "在澳洲大堡礁凱恩斯外海，一項公民科學計劃的研究人員發現了一座面積將近半個足球場大的巨型珊瑚群，成為史上紀錄中最大的珊瑚群之一。"
+    ],
+    "style_picks": {
+      "art_style": "Dark Floral Portrait",
+      "composition": "Miniature Diorama",
+      "lighting": "Spotlight",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Neon Fluorescent"
+    },
+    "prompt": "A Renaissance-influenced contemporary miniature diorama photograph with a tilt-shift effect, capturing a tiny detailed world. On a small toy-like scale model of an old bookstore corner, a sleek, slender solid-black Bombay-style shorthair cat with satin-sheen fur named Momo is gracefully using its paw to flip an open ancient pop-up botanical book. Momo has large luminous golden-amber eyes, long prominent white whiskers, a single small gold hoop earring on the left ear edge, a tiny natural white locket tuft on the ventral chest, and a single dark-grey ring at the tail tip. The scene is illuminated by a narrow beam spotlight with dramatic high-contrast and sharp light edges, casting deep darkness falloff. Surrounding the cat are giant neon fluorescent flowers in electric pink, lime green, and hot cyan glowing against a dark background, in a dark floral portrait style with a melancholic vanitas mood. Fluffy pastel pink and blue cotton candy cloud-textured, marshmallow-like whimsical volumetric clouds float nearby. Inscribed subtly but clearly within the scene is the date and time text '2026-06-26 11:37 UTC'. Shot with a 35mm lens, f/1.8, low-key lighting, shallow depth of field, realistic photographic grain."
   }
 ]
