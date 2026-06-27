@@ -7717,5 +7717,41 @@
     "character": "momo",
     "character_name": "墨墨",
     "number": 2291
+  },
+  {
+    "number": 2292,
+    "avoid_list": [
+      "用爪子撥弄",
+      "霓虹螢光色",
+      "巴西外海深海生物",
+      "黑色電影風格",
+      "蝴蝶光照明",
+      "精密氣象與鐘錶儀器",
+      "暗黑花卉肖像風格",
+      "分割畫面與線框圖",
+      "虹彩全息質感",
+      "粗獷主義混凝土質感",
+      "棉花糖般的雲霧",
+      "微縮立體模型"
+    ],
+    "comment_id": 4818652801,
+    "story": "為了慶祝這款經典速克達問世80週年，羅馬的貓咪工程師決定共襄盛舉。牠以極具強迫症的完美主義，將整台偉士牌的齒輪與外殼依大小在結霜的地面上排開，正用鼻子仔細嗅聞著其中一枚火星塞的機油氣味。",
+    "idea": "一隻三花貓正趴在由無數高飽和鮮豔色組成的分形幾何冰霜結晶背景中，身旁整齊以Knolling排列攝影風格擺放著偉士牌機車的拆解零件，在自然漫射光下顯得井然有序。",
+    "style_picks": {
+      "art_style": "Fractal Geometry",
+      "composition": "Knolling Photography",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Frost Crystal",
+      "color_palette": "High Saturation Vivid"
+    },
+    "prompt": "Flat lay overhead view photography of a calico cat on a frozen ground with ice crystal formations and delicate frost patterns. The cat is sniffing a spark plug. Neatly arranged next to the cat are disassembled Vespa scooter parts, placed at 90-degree angles in a Knolling layout. The background features psychedelic precision fractal geometry and Mandelbrot patterns with high saturation vivid colors. Soft diffused natural light from an overcast sky provides even illumination with no harsh shadows. The date and time '2026-06-27 15:06 UTC' is clearly written in a clean font on the corner of the surface. Shot on 35mm lens, f/4, realistic textures, candid shot.",
+    "news_inspiration": [
+      "義大利羅馬自6月25日起舉辦為期四天的盛大聚會，吸引無數偉士牌騎士齊聚街頭，共同慶祝這款經典速克達問世80週年。",
+      "一項由科學家在巴西外海進行的海洋考察，在短短兩週內利用先進技術成功發現了31個未知的全新深海物種。",
+      "科學家在歐洲的地中海兩側，首度觀測並偵測出抹香鯨群之間存在著截然不同的地方「方言」交流。",
+      "美國太空總署（NASA）的探測車在火星表面成功偵測到可能屬於古代微生物生命的潛在特徵，為尋找外星生命帶來重大突破。"
+    ],
+    "title": "羅馬騎士的幾何浪漫",
+    "inspiration": "義大利羅馬自6月25日起舉辦為期四天的盛大聚會，吸引無數偉士牌騎士齊聚街頭，共同慶祝這款經典速克達問世80週年。"
   }
 ]
