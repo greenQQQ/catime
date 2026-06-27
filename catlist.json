@@ -21316,5 +21316,14 @@
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-27_1901_UTC.webp",
     "inspiration": "在克羅埃西亞，一隻剛出生一個月的小馬近日搬進了位於四樓的公寓，成為奇特而溫馨的社區新寵，且鄰居們都表示完全不介意。",
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "number": 2296,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-27_2047_UTC.webp",
+    "inspiration": "最新一期全球旅遊趨勢報告顯示，2026年寵物尊嚴旅行成為新風尚，澳洲與美國之間正積極開通跨太平洋的長途寵物同行機艙航班，徹底顛覆以往將寵物關在貨艙的待遇。",
+    "status": "success",
+    "timestamp": "2026-06-27 20:47 UTC",
+    "title": "粉彩雲翼的伸展"
   }
 ]

@@ -7863,5 +7863,39 @@
       "紐西蘭的古生物學家在最新發掘的百萬年地下洞穴化石中，首次發現了現代瀕危鴞鸚鵡（kākāpō）會飛行的古代祖先物種，成功填補了當地的演化史空白。",
       "澳洲首都坎培拉的官方鎮長傳報員（Town Crier）近日以高達122.4分貝的驚人呼喊聲，正式獲得健力士世界紀錄認證為世界上聲音最大的人。"
     ]
+  },
+  {
+    "number": 2296,
+    "idea": "在長途寵物同行機艙的磨砂玻璃隔間後，一隻貓咪以剪影藝術風格呈現，透過日光燈的柔和粉彩色系，正伸出前爪試圖觸碰玻璃另一側的玩具，展現出強制透視的伸手張力。",
+    "inspiration": "最新一期全球旅遊趨勢報告顯示，2026年寵物尊嚴旅行成為新風尚，澳洲與美國之間正積極開通跨太平洋的長途寵物同行機艙航班，徹底顛覆以往將寵物關在貨艙的待遇。",
+    "story": "這是一班飛越太平洋的2026年尊嚴寵物航班。一隻虎斑貓趴在專屬的粉彩色調頭等艙座位上，隔著透光的磨砂玻璃，好奇地向外伸爪探尋，與機艙內閃爍的微弱螢光交織成一幅優雅的剪影。隨著飛機平穩翱翔，牠在專屬於寵物的自由空間裡，享受著前所未有的雲端旅程。",
+    "avoid_list": [
+      "生物發光螢幕",
+      "特林吉特圖騰藝術",
+      "金箔祥雲紋理",
+      "黑色電影風格",
+      "用爪子撥弄",
+      "用鼻子嗅聞",
+      "直打閃光燈",
+      "墨西哥市的活動背景",
+      "巴西外海或深海船艙",
+      "極低角度仰望"
+    ],
+    "style_picks": {
+      "art_style": "Silhouette Art",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Frosted Glass",
+      "color_palette": "Pastel Colors"
+    },
+    "prompt": "Silhouette art of a cat on a translucent frosted glass texture background, exhibiting forced perspective composition as its front paw is thrust toward the camera in an exaggerated foreshortening. The silhouette shows clean defined edges and a dramatic profile outline against a soft pastel color palette of gentle pink, lavender, mint, and baby blue. The scene is illuminated by institutional overhead fluorescent lighting with flat, diffused light transmission. The text '2026-06-27 20:47 UTC' is visually and clearly displayed in the image.",
+    "news_inspiration": [
+      "加拿大溫哥華著名的「科學世界」博物館近日在世界盃足球賽熱潮下，被精心包裝並改造為一座高達17層樓的巨型巨無霸足球，成為當地最吸睛的文化運動地標。",
+      "環境組織最新報告指出，歐洲多國掀起「拆除大壩」運動，以瑞典、芬蘭與西班牙等國境內拆除最多，成功為當地超過2,300英里的河流恢復昔日生態與自由流動。",
+      "最新一期全球旅遊趨勢報告顯示，2026年寵物尊嚴旅行成為新風尚，澳洲與美國之間正積極開通跨太平洋的長途寵物同行機艙航班，徹底顛覆以往將寵物關在貨艙的待遇。",
+      "印尼的自然保育人員在布魯島的卡帕拉特馬達山，睽違多年再次成功拍攝到極為罕見、曾被列為消失物種的「藍額吸蜜鸚鵡」，令全球鳥類與生態學界振奮不已。"
+    ],
+    "title": "粉彩雲翼的伸展",
+    "comment_id": 4821591496
   }
 ]
