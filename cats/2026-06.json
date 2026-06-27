@@ -7793,5 +7793,41 @@
       "一項由英國牛津大學等國際團隊發表的最新天文研究指出，科學家首度證實發現了兩顆密度比棉花糖還要低、體積卻與木星相當的極罕見「超級膨脹行星（Super-puff planets）」。",
       "澳洲雪梨迎來了2026年度的「雪梨威士忌月（Sydney Whisky Month）」，在該海港城市各處展開一系列高度沉浸式與劇場式的頂級品酒文化活動。"
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "Tlingit Formline Art",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Direct Flash",
+      "texture": "3D Render",
+      "color_palette": "Morandi Color Palette"
+    },
+    "story": "墨西哥市的貼紙交換會正如火如荼地進行，這隻貓咪在熱鬧的收藏家群眾腳邊穿梭。牠對滿地花綠的球員貼紙感到好奇，用溼漉漉的鼻子認真地在一張剛掉落的稀有球星卡上聞了又聞，彷彿也在幫主人鑑定這份幸運。眾人緊盯著收藏冊，而這隻四足小貓則在低調的莫蘭迪色調與強烈閃光燈下，成為這場狂熱交換會中最特別的參與者。",
+    "inspiration": "墨西哥墨西哥市的球迷與收藏家近期掀起世界盃貼紙收集狂潮，導致Panini球星貼紙包在許多商店銷售一空，大批民眾紛紛參與實體交換會以填滿收藏手冊。",
+    "comment_id": 4819870781,
+    "title": "綠茵場外的拼圖",
+    "prompt": "A polished 3D render with clean geometry and smooth materials in a Cinema 4D aesthetic, depicting a cat sniffing around a scattered pile of Panini soccer player stickers on the floor. The scene is framed by a die-cut sticker collage border in a Tlingit art style, featuring Pacific Northwest indigenous totem motifs, bold formline design, ovoid shapes, and white outline borders. The lighting is a harsh direct on-camera flash with blown-out highlights and hard shadows, creating a raw candid snapshot look. The entire composition uses a Morandi muted color palette of desaturated soft pastels and dusty grey undertones. The date and time '2026-06-27 17:54 UTC' is visually displayed in the corner of the image.",
+    "avoid_list": [
+      "用爪子撥弄",
+      "霓虹螢光色",
+      "巴西外海深海生物",
+      "黑色電影風格",
+      "蝴蝶光照明",
+      "精密氣象與鐘錶儀器",
+      "暗黑花卉肖像風格",
+      "分割畫面與線框圖",
+      "虹彩全息質感",
+      "粗獷主義混凝土質感",
+      "棉花糖般的雲霧",
+      "微縮立體模型"
+    ],
+    "number": 2294,
+    "news_inspiration": [
+      "義大利羅馬於6月25日至28日舉辦為期四天的「Vespa Roma 2026」盛大聚會，吸引無數偉士牌騎士齊聚街頭，共同慶祝這款經典速克達問世80週年。",
+      "墨西哥墨西哥市的球迷與收藏家近期掀起世界盃貼紙收集狂潮，導致Panini球星貼紙包在許多商店銷售一空，大批民眾紛紛參與實體交換會以填滿收藏手冊。",
+      "美國德克薩斯州一隻失蹤長達兩週的長頸鹿，在搜救人員與當地居民的持續努力下終於平安獲救，成為社群媒體上廣受關注的溫馨話題。",
+      "台灣澎湖縣東吉嶼海域於6月27日發生一起遊艇翻覆意外，所幸船上4名人員隨即被附近作業的熱心漁船全數平安救起。"
+    ],
+    "idea": "在以特林吉特圖騰藝術風格呈現的貼紙拼貼邊框中，一隻貓咪正在滿地的Panini球星貼紙間用鼻子嗅聞尋找，畫面呈現3D渲染質感、閃光燈直打與莫蘭迪色調。"
   }
 ]
