@@ -8031,5 +8031,44 @@
     ],
     "inspiration": "科學家在摩洛哥的古代海底岩石中，意外發現了原本只存在於溫暖淺水區的古老微生物席所留下的神祕皺紋圖案，為古代生命研究帶來新線索。",
     "prompt": "A 35mm film photograph of a curious Ragdoll cat gently swatting at a collection of colorful ancient microbial fossil specimens, a mini geological hammer, and mapping tools. The scene is captured in a precise Knolling photography style, with all objects neatly arranged in an organized grid layout at 90-degree angles on a flat lay overhead view. A narrow beam spotlight illuminates the setup from above, creating a dramatic high-contrast scene with sharp light edges and deep darkness falloff. The image has a visible film grain, warm tones, a slight vignette, and a nostalgic feel, featuring a soft pastel color palette of gentle pink, lavender, mint, and baby blue. Subtle sparkle and glitter overlay effects, star-shaped highlights, and shimmering particles float through the air like magical glow dust. Visually displayed in the corner of the frame is the exact text '2026-06-28 02:14 UTC' as a subtle, retro camera timestamp."
+  },
+  {
+    "news_inspiration": [
+      "為了迎接2026年世界盃足球賽，加拿大溫哥華著名的地標「科學世界」博物館被巧妙地改裝成一顆高達17層樓的巨大足球。",
+      "保育人員在印尼布魯島的深山中，幸運地拍攝並重新發現了原本被學界認定為已消失的罕見物種「藍額吸蜜鸚鵡」。",
+      "奧地利維也納獸醫大學的研究團隊首次記錄到一隻母牛能夠靈活地使用工具，展現出顛覆傳統認知的動物智慧。",
+      "考古學家在墨西哥韋拉克魯斯州的遺址中，成功挖掘出一座罕見的早期古典時期圓形石台與刻有古瑪雅特徵的巨型雕像。"
+    ],
+    "idea": "在夕陽餘暉的傳統老街市場中，一隻圓滾滾的橘白胖貓麻糬正趴在攤位旁，用粉紅帶橘點的鼻頭好奇地輕觸一顆巨大的足球，整體呈現復古的即棄相機風格。",
+    "character_name": "麻糬",
+    "number": 2301,
+    "prompt": "A casual disposable camera snapshot of a chubby rounded shorthair cat named Mochi in an old market street during golden hour. The cat has a white base coat, large round amber eyes, short stubby legs, and a spherical torso with a white belly. Its right half-face has a solid orange mask extending from the nose bridge across the cheek to the ear, while the left face is entirely white. On its upper back is a heart-shaped solid orange saddle. Its right front paw is a solid orange mitten to the wrist, and its left front paw is pure white. Its tail has orange-and-white ringed bands. The cat's nose is pink with a tiny orange center dot. The cat is on all fours, using its right orange front paw to nudge a massive inflatable PVC football with a high-gloss, puffy, balloon-like surface. Warm sunset glow and golden hour lighting cast long soft shadows and a golden rim light on the subject. The scene uses an extreme wide handscroll composition, continuous panoramic narrative, and an oblique bird's-eye angle with a right-to-left reading flow. The background shows a traditional old market street adorned with festive decorations. The image has a low-quality charm with flash artifacts and light leaks, featuring a soft pastel color palette of gentle pink, lavender, mint, and baby blue. Visually displayed in the corner of the image is the orange electronic timestamp '2026-06-28 06:52 UTC'.",
+    "inspiration": "為了迎接2026年世界盃足球賽，加拿大溫哥華著名的地標「科學世界」博物館被巧妙地改裝成一顆高達17層樓的巨大足球。",
+    "avoid_list": [
+      "偉士牌速克達",
+      "黑金奢華庭院",
+      "金箔祥雲紋理",
+      "特林吉特圖騰藝術",
+      "莫蘭迪色調",
+      "3D渲染刺繡質感",
+      "四腳著地踩在沙發上",
+      "用鼻子嗅聞",
+      "黑光紫外線螢光",
+      "新石器時代石碑",
+      "黏土動畫風格",
+      "慶祝速克達問世80週年",
+      "液態金屬霓虹街道"
+    ],
+    "comment_id": 4825177147,
+    "story": "老街市場的攤販們為了迎接2026年世界盃，特別在巷弄間高掛起裝飾。巡邏中的麻糬被一顆掉落的足球吸引，牠伸出右前腳的橘色手套撥弄著球體，肥嘟嘟的肚子隨著動作微微晃動，琥珀色的眼睛裡滿是興奮與好奇。",
+    "character": "mochi",
+    "style_picks": {
+      "art_style": "Disposable Camera",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Golden Hour",
+      "texture": "Inflatable PVC",
+      "color_palette": "Pastel Colors"
+    },
+    "title": "老街市場的黃金開球"
   }
 ]

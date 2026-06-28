@@ -21361,5 +21361,16 @@
     "number": 2300,
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-28_0214_UTC.webp",
     "inspiration": "科學家在摩洛哥的古代海底岩石中，意外發現了原本只存在於溫暖淺水區的古老微生物席所留下的神祕皺紋圖案，為古代生命研究帶來新線索。"
+  },
+  {
+    "character_name": "麻糬",
+    "timestamp": "2026-06-28 06:52 UTC",
+    "number": 2301,
+    "inspiration": "為了迎接2026年世界盃足球賽，加拿大溫哥華著名的地標「科學世界」博物館被巧妙地改裝成一顆高達17層樓的巨大足球。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "character": "mochi",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-28_0652_UTC.webp",
+    "title": "老街市場的黃金開球",
+    "status": "success"
   }
 ]
