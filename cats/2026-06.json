@@ -8351,5 +8351,39 @@
     "title": "流汞與燭火的捉迷藏",
     "idea": "在溫暖的琥珀色燭光下，一隻貓咪以強烈的手部強制透視感向畫面伸出前爪，試圖捕捉桌上如液態金屬般流動的奇幻水銀球，整體以精緻的秋日色鉛筆畫風格呈現。",
     "news_inspiration": []
+  },
+  {
+    "number": 2310,
+    "news_inspiration": [
+      "在印尼西蘇門答臘省的西馬布爾村，當地舉行了名為「Pacu Jawi」的傳統奔牛節活動，騎師們踩著特製的木犁在泥濘的稻田中與牛隻一同奔馳。",
+      "在義大利羅馬，為慶祝經典速克達品牌偉士牌（Vespa）誕生 80 週年，成百上千位車主齊聚一堂展開了一場盛大的偉士牌世界大會巡遊。",
+      "在瑞士西部新沙泰爾州的布茨村，一家新創公司成功在 100 公尺長的鐵軌中央空隙安裝太陽能板，經測試不僅安全穩定，還能為當地的列車供電。",
+      "在中國澳門主辦的第 13 屆亞太經濟合作會議（APEC）旅遊部長級會議上，與會代表們親自動手體驗製作傳統的澳門特產杏仁餅，藉此感受當地的獨特文化。"
+    ],
+    "style_picks": {
+      "art_style": "Whimsical Fairytale Painting",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Spotlight",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "prompt": "A whimsical fairytale storybook painting with oil on canvas texture, capturing a naive childlike perspective. An orange cat with a sculpted clay texture and handmade ceramic feel is by a railway in the Swiss countryside. Using a forced perspective composition with exaggerated foreshortening, the cat is close to the camera, curiously extending its front paw to touch newly installed solar panels on the tracks. A narrow beam spotlight of dramatic, high-contrast amber autumn sunlight illuminates the scene, casting sharp light edges with golden yellows and burnt orange tones against deep darkness falloff. Crooked magical cottages sit on rolling hills under a muted pastel dream palette, reminiscent of the Daniel Merriam aesthetic. The text '2026-06-28 21:52 UTC' is visually displayed in the corner of the image.",
+    "idea": "這是一幅融合童話繪本油畫風格的溫馨作品，一隻橘色小貓在瑞士鄉間的鐵道旁，好奇地伸出前爪，在強制透視的巨大視覺感下，試圖觸碰剛安裝好、正由聚光燈般陽光照耀的太陽能軌道板。",
+    "story": "布茨村的鐵軌中央多了一排閃閃發亮的黑色鏡面，小貓沿著碎石路漫步，被這神奇的發電裝置所吸引。牠趴在鐵道邊，身體呈現出溫潤的黏土與陶瓷質感，在溫暖的琥珀色秋日陽光下，歪著頭研究這條能為巨大火車提供能量的「發光地毯」。",
+    "inspiration": "在瑞士西部新沙泰爾州的布茨村，一家新創公司成功在 100 公尺長的鐵軌中央空隙安裝太陽能板，經測試不僅安全穩定，還能為當地的列車供電。",
+    "comment_id": 4827510693,
+    "title": "秋光軌道上的微光追尋",
+    "avoid_list": [
+      "伸出爪子撥弄",
+      "粉彩色系",
+      "35mm底片攝影風格",
+      "鳥瞰俯瞰視角",
+      "世界盃與足球",
+      "時間戳記浮雕",
+      "液態金屬或虹彩材質",
+      "直式海報構圖",
+      "微縮立體模型效果",
+      "硬光強烈陰影"
+    ]
   }
 ]
