@@ -8144,5 +8144,43 @@
       "慶祝速克達問世80週年",
       "液態金屬霓虹街道"
     ]
+  },
+  {
+    "inspiration": "加拿大的溫哥華科學世界博物館為了迎接世界盃足球賽，特別將其標誌性的幾何圓頂建築改造成一座高達17層樓的巨型足球。",
+    "character": "captain",
+    "character_name": "船長",
+    "news_inspiration": [
+      "加拿大的溫哥華科學世界博物館為了迎接世界盃足球賽，特別將其標誌性的幾何圓頂建築改造成一座高達17層樓的巨型足球。",
+      "奈及利亞伊巴丹地區舉辦了一場罕見且令人驚豔的雙胞胎婚禮，由一對名字相同的雙胞胎兄弟迎娶另一對名字也相同的雙胞胎姊妹。",
+      "日本傳統的發酵超級食物「納豆」在國際間的出口量於過去八年內成長了三倍，其獨特的黏性與強烈氣味正逐漸席捲全球消費者的味蕾。"
+    ],
+    "comment_id": 4826214065,
+    "avoid_list": [
+      "偉士牌速克達",
+      "黑金奢華庭院",
+      "金箔祥雲紋理",
+      "特林吉特圖騰藝術",
+      "莫蘭迪色調",
+      "3D渲染刺繡質感",
+      "四腳著地踩在沙發上",
+      "用鼻子嗅聞",
+      "黑光紫外線螢光",
+      "新石器時代石碑",
+      "黏土動畫風格",
+      "慶祝速克達問世80週年",
+      "液態金屬霓虹街道"
+    ],
+    "idea": "在霓虹螢光色美術館展場中，一隻體型壯碩、左眼戴眼罩的虎斑老貓正趴在宛如巨型足球的幾何圓頂裝置頂端，從俯瞰視角看去，牠正伸出帶白手套的爪子，試圖撥弄下方由虹彩全息材質製成、散發體積光的立體虛擬魚群。",
+    "story": "為了迎接世界盃，碼頭旁的科學博物館將圓頂改造成巨型足球，這成了船長最新、最高的秘密基地。牠威嚴地巡視著這座前衛的美術館裝置，卻在看見展場中央投射出的全息魚群時，瞬間破功地伸出爪子瘋狂抓取。在霓虹流轉與魔幻光影中，這位老港口老大正獨自享受著牠的科技捕魚遊戲。",
+    "number": 2304,
+    "title": "巨球頂端的虹彩獵場",
+    "style_picks": {
+      "art_style": "Gallery Installation Scene",
+      "composition": "Bird's-Eye View",
+      "lighting": "Volumetric Light",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Neon Fluorescent"
+    },
+    "prompt": "A top-down bird's-eye view photograph capturing a large, stocky brown classic tabby cat with bold black stripes and scruffy, coarse fur, with a prominent V-shaped notch on his left ear. A natural dark-pigmented fur patch entirely covers his left eye socket with no fabric straps, while his right eye is piercing emerald green. A faded red bandana is tied loosely around his neck, and he has a white chest bib and white mitten paws. The cat is perched on top of a monumental museum gallery installation shaped like a giant geometric soccer ball, reaching down with a white paw to swipe at iridescent holographic virtual fish. The fish are shimmering with pastel prismatic reflections and volumetric lighting against a neon fluorescent color scheme of electric pink, lime green, and hot cyan. Clean white walls and tiny human figures far below provide a sense of scale in the contemporary exhibition atmosphere. The text '2026-06-28 13:11 UTC' is sharply and visually displayed in the corner of the image. Shot with a 35mm lens, f/2.8, capturing realistic dust particles catching the light rays, candid atmosphere, raw photography style."
   }
 ]
