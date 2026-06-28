@@ -8385,5 +8385,39 @@
       "微縮立體模型效果",
       "硬光強烈陰影"
     ]
+  },
+  {
+    "news_inspiration": [
+      "美國夏威夷的研究人員成功將廢棄漁網與回收塑膠融入瀝青中，打造出兼具環保且不釋放更多微塑料的創新道路。",
+      "中國國鐵集團在京滬高鐵等繁忙路線上擴大試辦「寵物友好列車」服務，讓旅客的毛孩能以更具尊嚴且舒適的方式一同出行。",
+      "泰國離島董里府利邦島的社區居民攜手發起海草床修復行動，並實施友善船隻政策，成功守護當地瀕危的儒艮生態。",
+      "英國科學家在曼島利用塑料製作出「誘餌海鸚」，成功利用其高度社交的習性，吸引大批野生海鸚前來建立全新的築巢棲息地。"
+    ],
+    "style_picks": {
+      "art_style": "Christmas Ornament Diorama",
+      "composition": "Split View",
+      "lighting": "Neon Lighting",
+      "texture": "Gold Leaf Cloud Ornament",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "story": "這顆透明的圓球內封存著未來的縮影。一隻黑白斑紋的貓咪踩在創新的瀝青路面上，專注地探索著新材料的氣味，而分割畫面的另一側則展現了蔚藍大海轉為黑白線條的純淨模樣。居民們用創意修復了大地，連最敏感的街貓也安然在新的道路上漫步。",
+    "prompt": "A split view composition inside a transparent glass Christmas bauble diorama, featuring a black and white monochrome high contrast scene. On the left side, a photorealistic cat is lower its head, sniffing a miniature eco-friendly road made of discarded fishing nets and recycled plastic. On the right side, a sharp vertical cut line transitions into a wireframe diagram with dramatic shadows. Neon lighting and colorful glowing signs flow along the edges of gold leaf ornamental clouds with traditional East Asian auspicious cloud motifs and embossed metallic finish. The text '2026-06-28 22:52 UTC' is visually displayed in the image. Moody urban night atmosphere with cinematic reflections on wet surfaces, rich tonal range, intricate curling swirl patterns, and luxurious gilt texture on a dark ground.",
+    "comment_id": 4827659546,
+    "idea": "在一個黑白單色的聖誕裝飾球微縮模型內，透過分割畫面呈現一隻貓咪正低頭嗅聞著由廢棄漁網與回收塑膠鋪設而成的微型環保道路，霓虹燈光沿著金箔祥雲紋理邊緣流轉。",
+    "inspiration": "美國夏威夷的研究人員成功將廢棄漁網與回收塑膠融入瀝青中，打造出兼具環保且不釋放更多微塑料的創新道路。",
+    "title": "鏡球中的黑白綠意",
+    "avoid_list": [
+      "伸出爪子撥弄",
+      "粉彩色系",
+      "35mm底片攝影風格",
+      "鳥瞰俯瞰視角",
+      "世界盃與足球",
+      "時間戳記浮雕",
+      "液態金屬或虹彩材質",
+      "直式海報構圖",
+      "微縮立體模型效果",
+      "硬光強烈陰影"
+    ],
+    "number": 2311
   }
 ]
