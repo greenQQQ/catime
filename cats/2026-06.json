@@ -8849,5 +8849,37 @@
       "英國考古學家在巨石陣附近發現了一座擁有 5000 年歷史且精準對齊夏至與冬至的古老遺跡，被譽為一生僅能遇見一次的重大考古發現。",
       "中國雲南省的生態攝影師成功捕捉到稀有鳥類銅藍鶲細心餵養雛鳥的溫馨畫面，展現當地豐富的生物多樣性與自然之美。"
     ]
+  },
+  {
+    "idea": "在清晨充滿高飽和鮮豔色彩的傳統菜市場裡，透過一個老舊木製菜箱的方形孔洞（框中框構圖），捕捉一隻橘白相間、身材圓滾滾的胖貓「麻糬」，正努力把頭塞進一袋剛出爐、散發著輪廓光的蒸籠饅頭袋子裡「試吃」的手機隨拍鏡頭。",
+    "inspiration": "original",
+    "prompt": "A candid smartphone snapshot taken from a low angle, looking through the square opening of an old, weathered wooden crate. Through this frame-within-a-frame composition, a very chubby, short-haired cat named Mochi is seen with its head enthusiastically stuffed into a clear plastic bag containing freshly steamed, warm buns on a low table in a bustling traditional market. Mochi is a literal, spherical-torso shorthair cat with a white base coat and solid orange patches without tabby stripes. Its right half-face (viewer perspective) has an orange mask from the nose bridge to the right cheek and right ear, while its left face is completely white. Its large round eyes are amber. It has a pink nose with a tiny orange dot in the center, short stubby legs, a white belly, and its left front paw is pure white. The morning sun provides dramatic backlighting, creating a glowing rim light silhouette around the cat and the steaming buns. The scene features high saturation vivid colors, rich warm tones, and the organic texture of the natural wood grain of the foreground crate. Visually displayed clearly in the corner of the image is the timestamp text '2026-06-30 13:02 UTC'. Shot on a mobile phone camera, 28mm lens, f/2.2, authentic everyday moment, natural lighting, casual composition.",
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Frame Within a Frame",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Wood Grain",
+      "color_palette": "High Saturation Vivid"
+    },
+    "character": "mochi",
+    "story": "老街市場的早晨總是熱鬧非凡，空氣中瀰漫著剛出爐饅頭的甜香。貪吃的「麻糬」循著香味溜到熟識的點心攤前，仗著自己圓滾滾的身軀，正熟練地把半個腦袋探進低矮的塑料袋裡偷嘴。攤位老闆剛好透過木箱縫隙看過去，哭笑不得地用手機拍下了這幕琥珀色大眼閃閃發光的犯罪現場。",
+    "number": 2325,
+    "title": "菜香深處的圓舞曲",
+    "comment_id": 4843799972,
+    "character_name": "麻糬",
+    "news_inspiration": [],
+    "avoid_list": [
+      "長卷全景構圖",
+      "對角線構圖",
+      "用爪子撥弄",
+      "用肉墊專注地按壓",
+      "冰霜結晶與透明冰屑",
+      "螢光或霓虹燈光的機械物件",
+      "厚塗油彩肌理與刀畫線條",
+      "莫蘭迪色系或雙色調畫面",
+      "自然風景攝影與故事插畫結合",
+      "日光燈或螢光燈的冷冽平淡光線",
+      "等距或鳥瞰視角的廢墟探險"
+    ]
   }
 ]
