@@ -21615,5 +21615,18 @@
     "number": 2326,
     "status": "success",
     "title": "浮島書香的燭光巡航"
+  },
+  {
+    "inspiration": "original",
+    "number": 2327,
+    "timestamp": "2026-06-30 18:27 UTC",
+    "title": "竹蓆上的赤熱流螢",
+    "character_name": "墨墨",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-06/cat_2026-06-30_1827_UTC.webp",
+    "character": "momo",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "is_seasonal": true,
+    "status": "success",
+    "season": "summer"
   }
 ]

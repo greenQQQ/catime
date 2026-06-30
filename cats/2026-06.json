@@ -8911,5 +8911,44 @@
     "prompt": "A DSLR portrait of a British Shorthair cat focused intently, sniffing an ancient nautical atlas with visible wood grain texture. The scene is set on a mysterious wooden library bookshelf floating like an island in mid-air surrounded by white clouds. Shot with an 85mm f/1.4 lens, featuring a creamy bokeh background and sharp focus on the cat's nose and the map. The atmosphere is intimate with a warm orange flickering glow from candlelight casting soft dancing shadows, contrasted against cool blue-teal color grading and icy undertones in the shadows. The date and time '2026-06-30 16:14 UTC' is visually displayed in the corner of the image.",
     "title": "浮島書香的燭光巡航",
     "story": "在一個違反引力的神祕空間裡，無數巨大的木製書架化為浮島緩慢漂移。一隻英國短毛貓輕巧地躍上一座浮島，在微弱的溫暖燭光與周圍冷藍調陰影的交織下，牠正仔細探索著一本散發著古舊木紋香氣的航海圖，尋找下一個冒險的落腳點。"
+  },
+  {
+    "inspiration": "original",
+    "avoid_list": [
+      "長卷全景構圖",
+      "對角線構圖",
+      "用爪子撥弄",
+      "用肉墊專注地按壓",
+      "冰霜結晶與透明冰屑",
+      "螢光或霓虹燈光的機械物件",
+      "厚塗油彩肌理與刀畫線條",
+      "莫蘭迪色系或雙色調畫面",
+      "自然風景攝影與故事插畫結合",
+      "日光燈或螢光燈的冷冽平淡光線",
+      "等距或鳥瞰視角的廢墟探險"
+    ],
+    "story": "盛夏的深夜裡，熱氣依然在老宅的木牆間蒸騰。聰明的墨墨熟練地挑了一張最涼爽的竹蓆躺下，在熱成像的視野中，牠冰涼的軀體呈現出深邃的朱紅與大面積的留白，唯有牠左耳的金環與雙眼，在微弱的燭光下閃爍著如液態金屬般的溫熱軌跡。",
+    "number": 2327,
+    "idea": "這是一幅結合熱成像風格與朱紅留白美學的中景環境人像，展現純黑貓墨墨正慵懶地趴在古老宅邸的竹蓆上納涼，身旁環繞著如液態金屬般流動的溫熱燭光。",
+    "title": "竹蓆上的赤熱流螢",
+    "news_inspiration": [
+      "瑞士一場年度約德爾唱法音樂節因遭遇極端高溫，迫使表演者們集體跳進噴泉中消暑並繼續歡唱。",
+      "墨西哥城街頭一隻名叫「梅林」的寵物鴨，因近期在世界盃足球賽期間大受歡迎而成為賽事宣傳的非官方超人氣吉祥物。",
+      "澳大利亞坎培拉的一名小鎮鳴鐘人，以驚人的122.4分貝巨響獲得健力士世界紀錄認證為全球聲音最大的人。",
+      "科學家在一項針對牛隻的研究中驚奇發現，一頭名叫「維羅妮卡」的母牛展現出罕見的多用途工具使用能力，打破了以往大眾對牛隻智商的認知。"
+    ],
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Environmental Medium Portrait",
+      "lighting": "Candlelight",
+      "texture": "Liquid Metal",
+      "color_palette": "Vermilion and White"
+    },
+    "prompt": "An environmental medium shot illustration blending thermal imaging aesthetics with traditional vermilion and white palette minimalist oriental balance. A sleek, slender solid-black Bombay-style shorthair cat named Momo with satin-sheen fur is lazily lounging on a woven bamboo mat inside an ancient wooden mansion, cooling off in the midsummer night heat. On Momo's left ear, a single small gold hoop earring catches the light. Her eyes are large, luminous golden-amber, and a tiny natural white locket tuft is visible on her ventral chest. The cat's body is rendered in a thermal imaging style, depicting temperature visualization with a heat map color gradient of bold cinnabar red against clean negative-space white. Surrounding her is a warm orange flickering glow from candlelight, creating intimate atmosphere and soft dancing shadows. The candle wax flows with a liquid metal surface, a mercury-like reflective flow with chrome dripping texture and a molten mirror finish. The date and time '2026-06-30 18:27 UTC' is visually displayed in the corner of the image in a clean, minimalist digital font.",
+    "character_name": "墨墨",
+    "character": "momo",
+    "comment_id": 4846767994,
+    "is_seasonal": true,
+    "season": "summer"
   }
 ]
