@@ -21657,5 +21657,14 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "inspiration": "在溫布頓網球錦標賽上，日本網球球星大坂直美身穿一套靈感來自電影《追殺比爾》中劉玉玲角色的和服風球裝亮相，驚豔全場。",
     "number": 2330
+  },
+  {
+    "timestamp": "2026-07-01 02:48 UTC",
+    "number": 2331,
+    "title": "靛藍石窗下的微光狩獵",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-01_0248_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "inspiration": "泰國政府成立跨部會特別小組，宣布積極推動曼谷等地的「寺廟夜間旅遊」與電影觀光，打造獨特的夜間文化體驗。"
   }
 ]
