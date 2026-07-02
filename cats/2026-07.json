@@ -297,5 +297,39 @@
     "title": "翠綠軌道上的冰霜凝視",
     "number": 2339,
     "idea": "這是一幅結合建築視覺化渲染風格的場景：一隻擁有冰霜結晶般毛皮質感的布偶貓，正在全美速度最快的水上雲霄飛車軌道旁，以四足俯臥姿態好奇地探頭俯瞰下方的水花噴濺，整個微縮場景籠罩在竹影翠綠色調與夢幻的水下焦散光芒中。"
+  },
+  {
+    "idea": "在一幅充滿東方花卉靜物風格的明亮溫室中，一隻三花貓正趴在晶瑩剔透的玻璃花瓶旁，好奇地凝視著多面體水晶鏡影中倒映出的另一個自己。",
+    "news_inspiration": [
+      "在美國西雅圖舉行的2026世界盃淘汰賽中，比利時隊在落後兩球的劣勢下展現驚人韌性，於延長賽第125分鐘完成歷史性的大逆轉，以3比2擊敗塞內加爾隊晉級16強。",
+      "美國喬治亞州薩凡納的最新基因DNA研究證實，美國獨立戰爭中的傳奇「騎兵之父」卡西米爾·普拉斯基將軍遺骸與其後代完全吻合，且研究發現他很可能是一位雙性人（間性人）。",
+      "日本九洲大學的研究團隊在校園實驗室附近的松樹上，意外發現了一種全新的微小瓢蟲新物種，證明未知的新生命可能就隱藏在日常生活的周遭環境中。"
+    ],
+    "comment_id": 4862870203,
+    "story": "日本九洲大學在校園松樹上發現了微小瓢蟲新物種，而這隻好奇的貓咪似乎也在溫室的角落裡，盯著玻璃折射出的鏡像異我。陽光透過溫室的高調明亮光線灑落，青橙電影調的色彩在水晶與盛開的花卉間交織，這場與自己影子的無聲對話，彷彿一幅靜止的東方工筆畫。",
+    "prompt": "An illustration in the style of oriental floral still life and gongbi-fine botanical detail, executed as meticulous blossoms on silk. A calico cat lies beside a transparent glass vase in a bright greenhouse, curiously staring at its own reflection in a polyhedral crystal mirror, creating a surreal twin framing and doppelganger mirror composition. The text '2026-07-02 06:28 UTC' is cleanly and visually displayed in a modern font in the corner. High-key bright lighting creates an airy, luminous clean atmosphere with soft even illumination and minimal shadows. The color palette features a teal and orange color grading with warm tones against cool blue-green shadows, showing light refraction and prismatic reflections through the crystalline materials. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "日本九洲大學的研究團隊在校園實驗室附近的松樹上，意外發現了一種全新的微小瓢蟲新物種，證明未知的新生命可能就隱藏在日常生活的周遭環境中。",
+    "avoid_list": [
+      "四足俯臥姿態",
+      "伸出前爪撲向發光物體",
+      "互補色調球形發光物",
+      "傳統雕花窗櫺或欄杆的框中框構圖",
+      "融入幾何抽象與線條風格的背景",
+      "水下焦散與星雲輝光結合的光影",
+      "融合傳統東方藝術元素與海報構圖",
+      "精準整齊的物品網格排列",
+      "衣服配件上印有特定國家隊或特製圖案",
+      "帶有時間戳記與繁體中文限制的標記",
+      "微縮模型與移軸攝影特效"
+    ],
+    "style_picks": {
+      "art_style": "Oriental Floral Still Life",
+      "composition": "Doppelganger Mirror Composition",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Glass / Crystal",
+      "color_palette": "Teal and Orange"
+    },
+    "number": 2340,
+    "title": "鏡花水月的凝望"
   }
 ]
