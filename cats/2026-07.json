@@ -508,5 +508,39 @@
     ],
     "idea": "這是一張以復古褪色色調呈現的拍立得照片，四周圍繞著貼紙拼貼邊框，聚光燈打在一隻專注地用貓爪撥弄紙張的摺紙工藝貓身上。",
     "comment_id": 4869636105
+  },
+  {
+    "prompt": "A modern chinoiserie and contemporary Chinese doll-style illustration of a tortoiseshell and calico cat lying on the stone pavement of a Roman piazza, stretching its paw to catch a butterfly near the wheel of a vintage Vespa scooter. Centered subject composition with a single focal point dead center and balanced symmetrical framing. The scene features conflicting but harmonious lighting: a golden hour warm sunset glow with a golden rim light on the subject, blended with a moonlit indigo palette of deep night-blue and violet tones. In the background, thousands of vintage scooters are parked. The scooter's wheel features three-dimensional floral appliqué texture with a sculpted raised layered petal relief. The text '2026-07-02 20:51 UTC' is visually and clearly displayed in a corner of the image. Clean surrounding space, ink wash background accents with crackle texture, modern high-end digital art illustration technique. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "義大利羅馬迎來約15,000輛偉士牌（Vespa）摩托車齊聚巡遊，共同慶祝這款經典速克達品牌誕生80週年。",
+    "story": "為了慶祝速克達品牌的八十週年慶典，上萬輛偉士牌摩托車齊聚羅馬。一隻住在附近的街貓穿梭在密密麻麻的精緻車輪間，被落日餘暉照亮的車身反光所吸引。牠全神貫注地盯著輪胎上的立體花卉貼花裝飾，享受著這場人類鋼鐵盛宴中的小小冒險。",
+    "title": "羅馬斜陽與鋼鐵足跡",
+    "comment_id": 4870389091,
+    "number": 2346,
+    "avoid_list": [
+      "伸出前爪撥弄",
+      "粉紅肉掌與鼻頭",
+      "青橙電影調色彩",
+      "生物發光與特製複製品",
+      "留白負空間構圖",
+      "透明樹脂與水晶折射",
+      "互補色調與螺旋漩渦",
+      "新中式繁花禮服",
+      "水下焦散與體積光",
+      "傳統祥雲與金箔",
+      "好奇探頭俯瞰"
+    ],
+    "idea": "這是一幅融合新中式少女插畫風格的視覺創作，在黃金時刻的暖陽下，一隻三花貓正趴在停滿古董偉士牌摩托車的羅馬廣場石磚上，試圖捕捉一隻停在車輪邊的蝴蝶，畫面採用居中主體構圖與月夜靛藍色調。",
+    "news_inspiration": [
+      "在瑞士巴塞爾舉行的約德爾調歌手節上，歌手與阿爾卑斯長號演奏者因應酷暑，紛紛將城市噴泉當作臨時排練與表演空間，為餐廳食客帶來驚喜互動。",
+      "義大利羅馬迎來約15,000輛偉士牌（Vespa）摩托車齊聚巡遊，共同慶祝這款經典速克達品牌誕生80週年。",
+      "英國倫敦世界桌球錦標賽主辦方在賽事落幕後，將賽事使用的球桌及專業裁判椅等器材全數捐贈給全國各地的基層俱樂部，推動體育傳承與永續發展。"
+    ],
+    "style_picks": {
+      "art_style": "Contemporary Chinese Doll Illustration",
+      "composition": "Centered Subject Composition",
+      "lighting": "Golden Hour",
+      "texture": "Three-Dimensional Floral Appliqué",
+      "color_palette": "Moonlit Indigo"
+    }
   }
 ]
