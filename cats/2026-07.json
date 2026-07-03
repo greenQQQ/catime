@@ -615,5 +615,41 @@
       "傳統祥雲與金箔",
       "好奇探頭俯瞰"
     ]
+  },
+  {
+    "number": 2349,
+    "style_picks": {
+      "art_style": "Pastel Bokeh Illustration",
+      "composition": "Orthographic Projection",
+      "lighting": "Dappled Light",
+      "texture": "Carbon Fiber",
+      "color_palette": "Duotone"
+    },
+    "comment_id": 4871454469,
+    "idea": "在粉彩光點繪畫風格中，這隻如白色棉花糖般的布偶貓「鈴鈴」正趴在裝有碳纖維支架的巨型天文望遠鏡旁，透過正交投影的視角，展現她在斑駁光影與雙色調夜空下的觀星姿態。",
+    "title": "星海微光中的棉花糖",
+    "avoid_list": [
+      "伸出前爪撥弄",
+      "粉紅肉掌與鼻頭",
+      "青橙電影調色彩",
+      "生物發光與特製複製品",
+      "留白負空間構圖",
+      "透明樹脂與水晶折射",
+      "互補色調與螺旋漩渦",
+      "新中式繁花禮服",
+      "水下焦散與體積光",
+      "傳統祥雲與金箔",
+      "好奇探頭俯瞰"
+    ],
+    "prompt": "A pastel bokeh illustration in an orthographic projection style with a straight-on flat rendering. An extremely fluffy pure white Ragdoll-like cat named Lingling, with voluminous cloud-like pure white fur and no colored patches, is lying beside a giant astronomical telescope featuring a carbon fiber weave pattern with a glossy clear coat finish. The cat has a small round face, huge round sapphire-blue eyes, a pale pink nose, and a pink ribbon bow collar with a small golden bell clearly visible and centered beneath the bow knot. She is in a star-watching posture under a duotone night sky. The scene features heavy colorful light dots scattered across the sky, dreamy candy palette, and dappled light with soft mottled shadow patterns creating a serene natural mood. The text '2026-07-03 00:05 UTC' is visually displayed clearly in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      "挪威極地小鎮希爾克內斯即將展開為期八個月的北極科學考察，科學家們將搭乘先進的浮動實驗室深入研究氣候變遷對北極生態系統的影響。",
+      "印度喜馬拉雅山脈的漢勒（Hanle）暗空保護區自成立以來，帶動了當地的天文旅遊熱潮，村民紛紛開辦民宿並化身觀星嚮導，將璀璨星空轉化為永續生計。",
+      "英國劍橋大學的某所學院首次迎來雨燕在校內設置的專用人工巢箱中築巢繁衍，這項保育舉措成功為數量銳減的野生雨燕提供了全新的天然棲息替代所。"
+    ],
+    "character": "lingling",
+    "story": "漢勒暗空保護區的夜空格外璀璨，鈴鈴跟著花店主人來到這片觀星聖地。她對巨大的望遠鏡充滿好奇，一邊發出清脆的鈴鐺聲，一邊伸長了脖子想看清鏡片裡閃爍的星星，卻不小心打了個噴嚏，整隻貓往後彈了一大步，惹得周圍的村民嚮導紛紛低聲微笑。",
+    "inspiration": "印度喜馬拉雅山脈的漢勒（Hanle）暗空保護區自成立以來，帶動了當地的天文旅遊熱潮，村民紛紛開辦民宿並化身觀星嚮導，將璀璨星空轉化為永續生計。",
+    "character_name": "鈴鈴"
   }
 ]
