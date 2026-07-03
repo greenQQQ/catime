@@ -817,5 +817,36 @@
     "inspiration": "芬蘭奧盧大學（University of Oulu）等機構的研究團隊發現，熊蜂在未受訓練的情況下，成功靠著移動小球來取得隱藏的獎勵，自主解開了經典的智力測試挑戰。",
     "prompt": "A glossy plastic toy texture orange cat nudging a colorful small ball with its paw. The art style is Neo-Impressionism and Pointillism, using tiny dabs of pure color, optical color mixing, and a systematic dot technique. The composition is a shallow depth-of-field close-up, with the subject sharp against a creamy blurred background and intimate near-object framing emphasizing soft bokeh and tactile detail. Lit by overhead fluorescent lighting with a neutral white 5000K institutional flat illumination and no shadows, highlighting the smooth high-shine surface and slight reflections of a vinyl figure aesthetic. The color palette features a bamboo jade-green palette with fresh emerald and malachite tones creating a cool verdant serenity and elegant oriental green harmony. Visually displayed in the image is the text '2026-07-03 15:00 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "comment_id": 4877501040
+  },
+  {
+    "inspiration": "original",
+    "prompt": "A multi-panel character montage in a cohesive collage layout with comic-style cells, showcasing a single orange cat in several poses and expressions across a grid. Mosaic art style composed of small colored tiles with a grouted texture, evoking an ancient Roman or Byzantine aesthetic. The orange cat has a glossy plastic toy texture, with a smooth high-shine surface and slight reflections like a vinyl figure. The cat is shown in a traditional Chinese kitchen, agilely moving across a stovetop and sniffing freshly baked niangao (New Year rice cakes). The scene is illuminated by intense backlighting with rim light, creating glowing silhouette edges and a dramatic mood. A festive red and gold palette dominates, with auspicious Chinese red and bright gold accents providing celebratory warmth. Visually displayed in the corner of the image is the text '2026-07-03 17:10 UTC' in a clean, legible font. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Mosaic",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Festive Red and Gold"
+    },
+    "number": 2355,
+    "story": "除夕夜的廚房熱氣騰騰，空氣中瀰漫著糕點的甜香。這隻熱愛冒險的四腳橘貓在鋪滿中國紅金配色的灶台間輕盈跳躍，一邊靈敏地避開蒸籠，一邊好奇地探頭嗅聞那些精緻的傳統年味。整幅畫面如同一幅熱鬧的節日拼圖，記錄著牠在煙火氣中的探索瞬間。",
+    "title": "紅金灶火盼年香",
+    "avoid_list": [
+      "三花貓捕捉蝴蝶或小球",
+      "黑貓專注於天文望遠鏡或星空",
+      "立體花卉貼花裝飾肌理",
+      "復古褪色色調搭配拍立得或35mm底片質感",
+      "新中式與現代插畫融合風格",
+      "用貓爪按壓、撥弄或輕觸特定物品",
+      "玻璃瓶、幾何容器或微觀世界構圖",
+      "碳纖維紋理科技質感",
+      "霓虹與螢光色彩交織的水墨或幾何線條",
+      "漢勒暗空保護區或觀星展覽背景",
+      "強制顯示特定日期與時間文字戳記",
+      "穆夏式或裝飾藝術拱框對稱構圖"
+    ],
+    "news_inspiration": [],
+    "idea": "這是一幅採用馬賽克藝術風格的「多格角色拼貼」作品，展現一隻全身散發亮面塑膠玩具質感的橘貓，在充滿強烈背光與輪廓光的傳統中式大廚房裡，靈巧地在灶台上穿梭並用鼻子嗅聞剛出爐的年糕。",
+    "comment_id": 4878264941
   }
 ]
