@@ -848,5 +848,43 @@
     "news_inspiration": [],
     "idea": "這是一幅採用馬賽克藝術風格的「多格角色拼貼」作品，展現一隻全身散發亮面塑膠玩具質感的橘貓，在充滿強烈背光與輪廓光的傳統中式大廚房裡，靈巧地在灶台上穿梭並用鼻子嗅聞剛出爐的年糕。",
     "comment_id": 4878264941
+  },
+  {
+    "avoid_list": [
+      "三花貓捕捉蝴蝶或小球",
+      "黑貓專注於天文望遠鏡或星空",
+      "立體花卉貼花裝飾肌理",
+      "復古褪色色調搭配拍立得或35mm底片質感",
+      "新中式與現代插畫融合風格",
+      "用貓爪按壓、撥弄或輕觸特定物品",
+      "玻璃瓶、幾何容器或微觀世界構圖",
+      "碳纖維紋理科技質感",
+      "霓虹與螢光色彩交織的水墨或幾何線條",
+      "漢勒暗空保護區或觀星展覽背景",
+      "強制顯示特定日期與時間文字戳記",
+      "穆夏式或裝飾藝術拱框對稱構圖"
+    ],
+    "inspiration": "original",
+    "character": "mochi",
+    "title": "終端機裡的麻糬",
+    "news_inspiration": [
+      "在阿根廷布宜諾斯艾利斯，一名職業遛狗師將他照顧的13隻狗狗全部換上阿根廷國家足球隊球衣，組成超萌的「世界盃應援團」走上街頭。",
+      "在巴西里約熱內盧，由於座頭鯨族群數量近期顯著復甦，大批鯨魚現身沿岸海域，掀起當地極為火熱的賞鯨觀光浪潮。",
+      "在瑞士巴塞爾，歐洲高溫熱浪促使一年一度合唱節的女性約德爾調歌手們，紛紛跳進市區的噴泉中一邊泡水消暑、一邊排練美聲。",
+      "在美國德克薩斯州，一隻名為「格雷西（Gracie）」的長頸鹿在從私人農場走失近兩週後，終於在尤瓦爾迪郡被平安尋獲。"
+    ],
+    "style_picks": {
+      "art_style": "Command Line Terminal",
+      "composition": "Centered Subject Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Glass / Crystal",
+      "color_palette": "Crimson and Black"
+    },
+    "comment_id": 4878806437,
+    "character_name": "麻糬",
+    "idea": "在黑白與緋紅交織的命令列終端機風格矩陣中，圓滾滾的橘白貓麻糬正趴在泛著玻璃質感的半透明控制台上，一邊發呆一邊用肚皮壓著閃爍的代碼。",
+    "number": 2356,
+    "story": "老街市場的麵包店今晚變成了黑客帝國。麻糬為了追逐屏幕上閃爍的緋紅色游標，不小心闖入了代碼的海洋，在倫勃朗光的強烈對比下，牠那戴著橘色手套的右前腳一按，竟然意外解鎖了最高機密的「試吃小魚乾」權限。",
+    "prompt": "A close-up shot of a literal chubby rounded short-haired cat named Mochi lying on a transparent glass console. The cat has a white base coat, a specific orange mask on the right half of its face while the left face is pure white, large round amber eyes, a heart-shaped orange saddle on its upper back, a solid orange mitten on its right front paw, a pure white left front paw, and a white belly. No tabby stripes are present. The background is a retro command line terminal aesthetic with a black console background, monospace bitmap text output, CJK system font rendering, and scrolling log lines in a crimson and black palette. The monospace text on the screen clearly displays the date and time '2026-07-03 18:58 UTC' in Traditional Chinese and English. Balanced symmetrical framing with the cat as a single focal point dead center. Dramatic Rembrandt lighting creates a signature triangle of light on the shadowed cheek with dramatic chiaroscuro and light refraction through the glass. The style is digital art with clean surrounding space and a direct iconic presentation. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
