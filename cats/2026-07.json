@@ -651,5 +651,38 @@
     "story": "漢勒暗空保護區的夜空格外璀璨，鈴鈴跟著花店主人來到這片觀星聖地。她對巨大的望遠鏡充滿好奇，一邊發出清脆的鈴鐺聲，一邊伸長了脖子想看清鏡片裡閃爍的星星，卻不小心打了個噴嚏，整隻貓往後彈了一大步，惹得周圍的村民嚮導紛紛低聲微笑。",
     "inspiration": "印度喜馬拉雅山脈的漢勒（Hanle）暗空保護區自成立以來，帶動了當地的天文旅遊熱潮，村民紛紛開辦民宿並化身觀星嚮導，將璀璨星空轉化為永續生計。",
     "character_name": "鈴鈴"
+  },
+  {
+    "avoid_list": [
+      "玻璃容器內的世界",
+      "天文望遠鏡與星空",
+      "特定日期時間戳記顯示",
+      "稜鏡彩虹光斑折射",
+      "好奇凝視鏡像或倒影",
+      "限制使用繁體中文或英文",
+      "極簡與超現實場景結合",
+      "高調明亮光線與無陰影",
+      "三花貓與玻璃製品",
+      "大面積負空間或留白構圖"
+    ],
+    "comment_id": 4872658891,
+    "story": "科學家剛宣布發現了暗物質的關鍵證據，而這隻敏捷的黑貓似乎在青綠交織的疊嶂間，直覺地察覺到了宇宙幽暗微粒的震動。在硬光日照的強烈對比下，牠沿著對角線山路縱身一躍，金色的爪印在朱紅描金的岩壁上留下一道道優美的軌跡。",
+    "news_inspiration": [
+      "美國邁阿密大學的研究團隊於2026年7月2日宣布，透過探測一組異常的引力波訊號，發現了可能解開暗物質謎團的「原初黑洞」理論關鍵證據。",
+      "英國牛津大學的科學家於2026年7月2日發表了一款新型計算器，能精準預測服用他汀類降脂藥物的患者發生嚴重肌肉疾病的個人風險，保障用藥安全。",
+      "香港體育協會暨奧林匹克委員會舉辦的第69屆體育節於近期推出「全民運動同樂日」，吸引大批市民與家庭前往九龍公園體驗新型運動，積極推廣夏日健康生活。"
+    ],
+    "number": 2350,
+    "prompt": "Neo-Chinese blue-green landscape painting, modern qinglv shanshui art style with malachite and azurite mountains and gold-outlined peaks. A sleek black cat is captured in mid-leap, energetically running down a steep, diagonal vermilion mountain path with gold-outlined cinnabar red rocks. The cat is chasing glowing, ethereal gravitational wave butterflies weaving through intricate three-dimensional floral appliqué textures and sculpted raised flowers on the canvas surface. High-contrast harsh midday sunlight casts sharp, hard-edge shadows, creating off-axis tension and a dynamic kinetic visual flow. In elegant, fine metallic gold ink brush calligraphy integrated into the upper corner of the artwork, the text '2026-07-03 04:34 UTC' is clearly displayed. Ornate restrained warmth, vermilion and gilt palette, contemporary mineral pigment ink scenery. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Neo-Chinese Blue-Green Landscape",
+      "composition": "Diagonal Composition",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Three-Dimensional Floral Appliqué",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "title": "青巒捕影碎金流",
+    "inspiration": "美國邁阿密大學的研究團隊於2026年7月2日宣布，透過探測一組異常的引力波訊號，發現了可能解開暗物質謎團的「原初黑洞」理論關鍵證據。",
+    "idea": "在一幅新中式青綠山水風格的畫卷中，一隻黑貓正沿著陡峭的硃紅山徑向下奔跑，試圖捕捉幾隻在立體花卉貼花間穿梭的發光引力波光蝶。"
   }
 ]
