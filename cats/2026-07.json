@@ -684,5 +684,40 @@
     "title": "青巒捕影碎金流",
     "inspiration": "美國邁阿密大學的研究團隊於2026年7月2日宣布，透過探測一組異常的引力波訊號，發現了可能解開暗物質謎團的「原初黑洞」理論關鍵證據。",
     "idea": "在一幅新中式青綠山水風格的畫卷中，一隻黑貓正沿著陡峭的硃紅山徑向下奔跑，試圖捕捉幾隻在立體花卉貼花間穿梭的發光引力波光蝶。"
+  },
+  {
+    "avoid_list": [
+      "玻璃容器內的世界",
+      "天文望遠鏡與星空",
+      "特定日期時間戳記顯示",
+      "稜鏡彩虹光斑折射",
+      "好奇凝視鏡像或倒影",
+      "限制使用繁體中文或英文",
+      "極簡與超現實場景結合",
+      "高調明亮光線與無陰影",
+      "三花貓與玻璃製品",
+      "大面積負空間或留白構圖"
+    ],
+    "number": 2351,
+    "prompt": "A cute Japanese moe-style black cat with large expressive eyes, whose fur has a glossy carbon fiber weave pattern texture. The cat is inside an ancient, historical archive room, playfully swatting at a rolling, yellowed parchment scroll with its claws. The image is captured in a high-contrast black and white monochrome aesthetic with harsh direct on-camera flash, creating blown-out highlights and hard shadows for a raw candid snapshot look. Side profile composition focusing on the cat's clean silhouette. Imprinted neatly in a corner of the frame is the English text '2026-07-03 07:54 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "英國倫敦的國家檔案館在研究一艘獨立戰爭時期遭俘虜的美國船隻文件時，意外發現了一份極為罕見的 1776 年 7 月《美國獨立宣言》原始印刷本。",
+    "news_inspiration": [
+      "澳洲官員近日公開呼籲，前往塔斯馬尼亞州海岸的遊客應尊重並遠離一隻名叫「尼爾」（Neil）、重達一公噸且不按牌理出牌的網紅象鼻海豹，以維護人狗安全與牠的隱私。",
+      "英國倫敦的國家檔案館在研究一艘獨立戰爭時期遭俘虜的美國船隻文件時，意外發現了一份極為罕見的 1776 年 7 月《美國獨立宣言》原始印刷本。",
+      "在墨西哥首都墨西哥城，一隻名叫「梅林」（Merlín）的寵物鴨因為經常陪主人逛街並身穿各種趣味服飾，意外爆紅成為當地世界盃球賽的非官方超人氣吉祥物。",
+      "由於歐洲夏季熱浪來襲，瑞士舉辦的年度約德爾調傳統民謠音樂節因高溫難耐，許多熱愛民俗歌唱的表演者紛紛跳進當地的噴泉內消暑獻唱。",
+      "巴西里約熱內盧近海近期目擊座頭鯨的數量大幅飆升，意外帶動了當地觀鯨旅遊業的蓬勃發展與爆發性需求。"
+    ],
+    "style_picks": {
+      "art_style": "Japanese Moe Character Design",
+      "composition": "Side Profile Portrait",
+      "lighting": "Direct Flash",
+      "texture": "Carbon Fiber",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "title": "深夜的檔案館密使",
+    "story": "英國國家檔案館的角落裡，正在進行一場跨越兩百年的秘密歷史研究。這隻擁有大眼睛的萌系黑貓在檔案架間靈巧穿梭，冷不防一爪子拍向一份 1776 年的古老文獻，彷彿牠才是那位真正歷史發現的幕後功臣。",
+    "idea": "在以黑白單色調與閃光燈直打呈現的日系萌系角色設計風格中，一隻毛髮泛著碳纖維般科技質感的黑貓，正在充滿歷史感的古老檔案室裡，用爪子撥弄一卷泛黃的羊皮紙。",
+    "comment_id": 4874085484
   }
 ]
