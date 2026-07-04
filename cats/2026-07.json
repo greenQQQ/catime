@@ -1358,5 +1358,36 @@
       "傳統圖騰與符號裝飾"
     ],
     "inspiration": "original"
+  },
+  {
+    "comment_id": 4883492388,
+    "title": "星軌間的粉彩漫遊",
+    "story": "在穿梭於新星系的高科技溫室飛船內，柔和的斑駁光影穿透半透明頂棚，灑落在覆滿綠意苔蘚的控制儀表上。這隻四足貓咪耐心地蹲伏在控制台旁，眼神專注地追逐著空中閃爍的淡粉與粉藍色光點，試圖用肉墊捕捉那些漂浮的宇宙軌跡。遠處的非洲未來主義風都市母艦正緩緩駛過，與貓咪的專注身影共同構成一幅寧靜的太空日常。",
+    "avoid_list": [
+      "強烈硬光日照",
+      "古絹絹本質感",
+      "溫暖秋日琥珀色調",
+      "渺小人物對比",
+      "青橙電影調",
+      "微弱燭光搖曳",
+      "水彩潑濺墨點",
+      "百百窗條紋光",
+      "英文字串時間戳記",
+      "硬光格子窗投影",
+      "大理石或古董雕刻邊緣",
+      "傳統圖騰與符號裝飾"
+    ],
+    "number": 2371,
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Afrofuturism",
+      "composition": "Frame Within a Frame",
+      "lighting": "Dappled Light",
+      "texture": "Moss Overgrowth",
+      "color_palette": "Pastel Colors"
+    },
+    "inspiration": "original",
+    "idea": "這是一幅融合非洲未來主義（Afrofuturism）風格的攝影作品，一隻花斑貓正透過佈滿青苔的幾何飛船舷窗，好奇地用爪子撥弄懸浮的粉彩色全息星圖，營造出獨特的框中框構圖。",
+    "prompt": "A candid 35mm photograph of a calico cat looking through a moss-covered geometric spaceship window, using its paw to play with a floating pastel holographic star map. Frame within a frame composition, layered foreground border focusing on the cat. Inside a high-tech greenhouse spaceship, soft dappled light and mottled shadow patterns filter through a translucent ceiling onto the lush green organic overgrowth on the control console. In the background, an Afrofuturism-style urban mothership glides by. The color palette features soft pastel tones of gentle pink, lavender, mint, and baby blue, creating a dreamy, serene mood. Displayed clearly on a glowing digital readout in the corner of the window frame is the text '2026-07-04 18:57 UTC' in a clean futuristic font. Shot on f/1.8 lens, shallow depth of field, subtle film grain. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
