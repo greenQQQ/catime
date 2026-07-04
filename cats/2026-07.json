@@ -1498,5 +1498,35 @@
       "瑞士巴塞爾日前舉辦一年一度的傳統約德爾調（Yodeling）歌唱節，由於遭遇歐洲熱浪襲擊，許多穿著傳統服飾的歌唱家直接跳進市區噴泉內練唱消暑。"
     ],
     "prompt": "A four-panel comic strip layout in a colorful manga page style, capturing a humorous story. The main subject is an origami style cat made of folded paper art with clean geometric creases and sharp angular folds, looking like a paper sculpture. The origami cat is energetically scratching a giant hot dog on a seat inside a subway car. An environmental medium shot with balanced figure-and-context framing and natural depth perspective reveals a storytelling background of a subway carriage after an eating contest. The scene is illuminated by overhead fluorescent lighting with a neutral white 5000K institutional flat illumination and no shadows. The color palette features vibrant neon fluorescent colors, including electric pink, lime green, and hot cyan, glowing against a darker background. Visually displayed clearly in the corner of the image is the date and time text '2026-07-04 22:45 UTC' in English. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "avoid_list": [
+      "伸出前爪撥弄",
+      "霓虹螢光色彩",
+      "電影調青橙對比",
+      "珠飾水鑽鑲嵌",
+      "日光燈無陰影照明",
+      "角落顯示日期時間",
+      "繁體中文與英文排他性",
+      "復古溫室與植物",
+      "閃光燈直打強烈陰影",
+      "微縮與超現實擬物",
+      "等距視覺構圖"
+    ],
+    "number": 2375,
+    "style_picks": {
+      "art_style": "Japanese Moe Character Design",
+      "composition": "Negative Space Composition",
+      "lighting": "Dappled Light",
+      "texture": "Frost Crystal",
+      "color_palette": "Morandi Color Palette"
+    },
+    "comment_id": 4884186488,
+    "inspiration": "original",
+    "title": "冬窗下的微冰初探",
+    "prompt": "A cute Japanese moe-style calico cat with large expressive eyes resting on a frost-covered window sill, gently touching its nose to a melting miniature ice sculpture. The ice sculpture is rendered in a Morandi muted color palette of desaturated soft pastels with dusty grey undertones. Clean vibrant cel-shading art style with minimalist negative space composition, placing the small subject off-center within a vast, calm, and uncluttered framing. Delicate, translucent ice crystal formations and intricate frost patterns coat the frozen surface. Soft, dappled light and mottled shadow patterns filter through unseen leaves, creating a serene winter afternoon mood. Subtly displayed on the bottom corner of the image is the timestamp text '2026-07-04 23:51 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "冬日午後的陽光穿過樹梢，將斑駁光影灑在靜謐的室內。小貓被窗台上一座精緻的微型冰雕吸引，牠伸出粉嫩的鼻子輕輕一聞，感受著指尖與呼吸間的初冬寒意。這份純粹的靜止，彷彿讓整個午後的時間都慢了下來。",
+    "idea": "在極簡的留白負空間中，一隻日系萌系風格的三花貓正趴在結滿冰霜結晶的窗沿上，專注地用鼻子輕觸一個正在融化的莫蘭迪色系冰雕。",
+    "news_inspiration": []
   }
 ]

@@ -22089,5 +22089,14 @@
     "inspiration": "在美國紐約舉行的 2026 年國慶日著名吃熱狗大賽中，傳奇大胃王喬伊·切斯納（Joey Chestnut）成功吞下 66 個熱狗，再度奪得象徵最高榮譽的「芥末腰帶」。",
     "title": "霓虹線上的芥末追逐",
     "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-04_2245_UTC.webp"
+  },
+  {
+    "number": 2375,
+    "inspiration": "original",
+    "title": "冬窗下的微冰初探",
+    "timestamp": "2026-07-04 23:51 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/yazelin/catime/releases/download/cats-2026-07/cat_2026-07-04_2351_UTC.webp",
+    "status": "success"
   }
 ]
