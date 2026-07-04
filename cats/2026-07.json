@@ -1292,5 +1292,34 @@
     },
     "prompt": "An art illustration of a fluffy Persian cat standing elegantly on all fours inside a vintage greenhouse, curiously extending its front paw to touch a delicate sweat bee perched on a plant. The bee's body shifts color due to the humidity. The entire scene is enclosed in a Mucha-style arched frame composition with a decorative border halo and symmetrical Art Nouveau panel framing with integrated floral motifs. The style is inspired by a Lolita fashion full-body character standee with sweet doll-like anime rendering. The lighting is driven by faint, warm candlelight with a flickering glow and soft dancing shadows. The color palette features a teal and orange cinematic color grading. Glistening water droplets cling to the dewy leaf surfaces, creating a fresh wet sheen and reflective micro-highlights. Inscribed elegantly in English within the frame's decorative border is the date and time '2026-07-04 15:56 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "story": "在充斥著青橙電影調的復古溫室中，微弱的燭光搖曳，將水珠濕膚肌理般的晶瑩光澤灑滿葉片。這隻高貴的貓咪維持著優雅的四足姿態，屏息凝視著那隻因空氣濕度轉變而流轉著奇幻色彩的北美汗蜂，彷彿時間在這一刻靜止。"
+  },
+  {
+    "title": "雕欄玉砌簪弄影",
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Ornate Danmei Illustration",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Three-Point Lighting",
+      "texture": "Beaded Rhinestone Embellishment",
+      "color_palette": "Earth Tones"
+    },
+    "idea": "在溫潤的棕褐色與米色等大地色系包圍下，一隻優雅的長毛貓正用爪子撥弄著古董櫃上的華麗步搖，呈現帶有珠飾水鑽鑲嵌細節的華麗耽美插畫風格。",
+    "comment_id": 4883149182,
+    "story": "深宅大院的雕花窗櫺內，午後的三點打光輕柔灑落。黑貓漫不經心地踩過散落的宣紙，伸出粉嫩的肉墊，好奇地撥弄著案几上那支綴滿流蘇與水鑽的精緻髮簪。四周的畫面被古典的配色條邊框優雅包確，彷彿定格了一場慵懶的午後美夢。",
+    "prompt": "Ornate danmei illustration of an elegant long-haired cat playfully swatting at an opulent, glittering hair stick on an antique cabinet. The artwork features rich, decadent decorative composition with intricate jeweled detail, beaded rhinestone embellishments, and encrusted pearls. Framed by vertical color palette swatch bars on both sides in a portfolio presentation layout. Warm earth tone palette of terracotta, warm brown, and beige. Classic three-point lighting setup with soft shadows and a subtle rim light. The text '2026-07-04 16:56 UTC' is elegantly and clearly displayed in the corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 2369,
+    "inspiration": "original",
+    "avoid_list": [
+      "建築藍圖風格",
+      "多格角色拼貼",
+      "約德爾歌手與巴塞爾",
+      "傳統中式與節日元素",
+      "渺小與宏大建築對比",
+      "黑白單色與高對比",
+      "硬光與百葉窗條紋光影",
+      "強烈背光與輪廓光",
+      "繁體中文與英文時間標記",
+      "好奇貓咪穿梭齒輪管道"
+    ]
   }
 ]
