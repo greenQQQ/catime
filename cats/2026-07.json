@@ -1022,5 +1022,39 @@
     ],
     "character": "momo",
     "title": "竹蓆上的盛夏圖鑑"
+  },
+  {
+    "inspiration": "在美國田納西州，一個高齡長者社區將助行器換成游泳圈，舉辦了一場充滿歡笑的大型滑水梯派對，讓長輩們重拾童心。",
+    "number": 2361,
+    "style_picks": {
+      "art_style": "Tlingit Formline Art",
+      "composition": "Environmental Medium Portrait",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Sparkle Glitter Accents",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "story": "在田納西州長者們瘋玩滑水梯的啟發下，這隻貓咪也決定在翠綠的竹林間展開自己的夏日冒險。牠優雅地穿梭在充滿傳統圖騰線條的光影中，準備將游泳圈拖向水池，享受專屬於牠的清涼午後。",
+    "title": "翠竹圖騰的夏日浮光",
+    "idea": "一隻暹羅貓在充滿強烈硬光日照的竹林庭院中，正專注地用嘴叼著一隻亮粉充氣游泳圈，畫面融合了獨特的特林吉特圖騰藝術風格。",
+    "news_inspiration": [
+      "在巴布亞紐幾內亞，科學家發現了一種能用鰭在海底「走路」的全新鯊魚物種，為海洋生物多樣性帶來突破性發現。",
+      "在英國倫敦，一名服務 frontline 將近 40 年的救護人員榮休，當年在生死關頭被他救回一命的女子驚喜現身送別，場面十分溫馨。",
+      "在美國田納西州，一個高齡長者社區將助行器換成游泳圈，舉辦了一場充滿歡笑的大型滑水梯派對，讓長輩們重拾童心。",
+      "在墨西哥，一名足球迷因為要上班而差點錯過世界盃球賽，前國家隊明星前鋒奧里比·佩拉爾塔竟然親自現身幫他代班看店，讓他順利去觀賽。"
+    ],
+    "comment_id": 4880245985,
+    "prompt": "An environmental medium shot of a Siamese cat in a bamboo garden, dedicatedly carrying a bright pink inflatable swim ring in its mouth. The scene is rendered in a unique fusion of traditional Tlingit art and formline design, featuring bold ovoids, U-shapes, and native animal motifs in red and black. The setting is a serene bamboo garden with a jade-green palette, cool emerald, and malachite tones. The lighting is harsh midday sunlight creating hard-edge shadows, strong directional sun, and high-contrast natural daylight. The image is embellished with sparkle and glitter overlay effects, star-shaped highlights, and magical glowing dust. The text '2026-07-04 01:49 UTC' is visually displayed in the corner of the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "橘色或黑色貓咪",
+      "生物發光與螢光",
+      "建築藍圖風格",
+      "亮面塑膠或碳纖維質感",
+      "傳統中式與青綠山水",
+      "高對比強烈光影與硬邊陰影",
+      "清晰顯示日期時間字樣",
+      "用爪子撥弄或按壓物品",
+      "在特定場景探險或嗅聞",
+      "精確幾何與3D等距構圖"
+    ]
   }
 ]
