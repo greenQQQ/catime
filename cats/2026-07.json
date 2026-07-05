@@ -1796,5 +1796,41 @@
       "斯里蘭卡科倫坡近期舉辦了一場名為「相遇與啟蒙」的文化交流活動，展示了與中國寧波的深厚連結。"
     ],
     "inspiration": "在義大利，人工智慧成功解讀了被維蘇威火山燒毀的捲軸，揭示了未知斯多葛哲學家的深刻見解。"
+  },
+  {
+    "inspiration": "original",
+    "title": "貓咪日常",
+    "news_inspiration": [],
+    "idea": "",
+    "season": "summer",
+    "avoid_list": [
+      "宇宙星雲輝光",
+      "霓虹螢光色調",
+      "蛇鱗肌理質感",
+      "柔和斑駁光影",
+      "高科技溫室飛船",
+      "閃光燈直打硬影",
+      "留白負空間構圖",
+      "貓咪撥弄微型物件",
+      "復古底片風格攝影",
+      "飄浮發光物體",
+      "鳥瞰俯視視角",
+      "高飽和鮮豔色彩",
+      "吉卜力動畫風格"
+    ],
+    "comment_id": 4885974682,
+    "character_name": "船長",
+    "character": "captain",
+    "style_picks": {
+      "art_style": "Dreamy Pastel Macro",
+      "composition": "Ultra Wide Angle",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Paper Texture",
+      "color_palette": "Festive Red and Gold"
+    },
+    "is_seasonal": true,
+    "story": "一隻可愛的貓咪正在享受美好的一天。",
+    "prompt": "A cute cat with the date and time '2026-07-05 12:05 UTC' displayed in the image, high quality, detailed",
+    "number": 2384
   }
 ]
