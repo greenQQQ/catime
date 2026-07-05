@@ -1727,5 +1727,37 @@
       "高飽和鮮豔色彩",
       "吉卜力動畫風格"
     ]
+  },
+  {
+    "news_inspiration": [],
+    "comment_id": 4885631264,
+    "number": 2382,
+    "idea": "描繪一隻黑貓在月夜靛藍色調的畫意攝影中，於老舊鞋匠工作室的皮革工作台上，滿版特寫地聚光注視並輕撥一雙陳年皮靴。",
+    "title": "舊靴密語",
+    "story": "在深夜寂靜的工作室裡，一束聚光燈溫柔地灑落在光滑的皮革工作台上。一隻黑貓弓著背，前爪輕柔地觸碰著一雙磨損的深藍色皮靴尖端，彷彿在探尋鞋履中塵封的秘密。畫面滿版特寫，每一道光影與皮革紋理都充滿了詩意。",
+    "inspiration": "original",
+    "avoid_list": [
+      "宇宙星雲輝光",
+      "霓虹螢光色調",
+      "蛇鱗肌理質感",
+      "柔和斑駁光影",
+      "高科技溫室飛船",
+      "閃光燈直打硬影",
+      "留白負空間構圖",
+      "貓咪撥弄微型物件",
+      "復古底片風格攝影",
+      "飄浮發光物體",
+      "鳥瞰俯視視角",
+      "高飽和鮮豔色彩",
+      "吉卜力動畫風格"
+    ],
+    "style_picks": {
+      "art_style": "Pictorialism Photography",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Spotlight",
+      "texture": "Leather",
+      "color_palette": "Moonlit Indigo"
+    },
+    "prompt": "Pictorialism photography, shot on a vintage medium format camera with a wide aperture lens (f/2.8), deliberate soft focus creating atmospheric painterly effects, reminiscent of early fine art photography. A sleek black cat, back arched, front paws gently touching the worn tip of a deep indigo leather boot, positioned on an old shoemaker's leather workbench. The scene is a full-bleed, frame-filling composition, subject cropped to edges with no empty margin, creating an immersive, overwhelming scale and dense, edge-to-edge detail. Dramatic high-contrast lighting from a narrow beam spotlight illuminates the cat and boots with sharp light edges and deep darkness falloff. The image features a moonlit indigo palette, dominated by deep night-blue and violet tones, with cool silvery highlights. Muted dreamy tones and an evocative, mysterious nocturnal mood prevail. Focus on genuine leather texture, rich grain pattern, warm aged patina, and supple creased surfaces of the boots, emphasizing artisanal craftsmanship. Subtle film grain and shallow depth of field. Visually displayed text overlay: '2026-07-05 10:05 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
