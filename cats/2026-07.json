@@ -1593,5 +1593,39 @@
       "微縮與超現實擬物",
       "等距視覺構圖"
     ]
+  },
+  {
+    "inspiration": "泰國考古學家在該國中部的佛丕府發現了兩枚有著1,900至2,100年歷史的古印度金戒指。",
+    "avoid_list": [
+      "伸出前爪撥弄",
+      "霓虹螢光色彩",
+      "電影調青橙對比",
+      "珠飾水鑽鑲嵌",
+      "日光燈無陰影照明",
+      "角落顯示日期時間",
+      "繁體中文與英文排他性",
+      "復古溫室與植物",
+      "閃光燈直打強烈陰影",
+      "微縮與超現實擬物",
+      "等距視覺構圖"
+    ],
+    "number": 2378,
+    "title": "秘境金環",
+    "style_picks": {
+      "art_style": "Surreal Collage Portrait",
+      "composition": "Inside-the-Glass-Vessel Composition",
+      "lighting": "Spotlight",
+      "texture": "Frosted Glass",
+      "color_palette": "High Saturation Vivid"
+    },
+    "prompt": "A curious black cat gently sniffs an ancient gold ring, staged as a tiny subject within a huge frosted glass container. This is a surreal photographic collage portrait with a dreamlike digital cut-and-paste aesthetic, reflecting a Pinterest surrealism vibe. The inside-the-glass-vessel composition creates a contained miniature world framing, featuring a refractive glass border and a translucent matte surface. A narrow beam spotlight illuminates the scene with dramatic high-contrast and sharp light edges, casting deep darkness falloff around the subject. High saturation vivid colors and bold vibrant hues dominate, creating eye-catching contrast and an energetic palette. Diffused light transmission reveals soft blurred shapes visible behind the frosted glass texture. The date and time '2026-07-05 06:38 UTC' are visually displayed in the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "這隻黑貓獨自在一個如同夢境般奇幻的玻璃世界裡漫遊。牠被一道神秘的微光吸引，發現一枚散發著柔和光芒的古老金戒指。牠小心翼翼地用鼻子輕觸這件來自遠古的珍寶，彷彿在解讀一段無聲的歷史。",
+    "news_inspiration": [
+      "埃及國家足球隊在2026年國際足協世界盃中首次晉級16強，在點球大戰中擊敗澳洲，舉國歡慶。",
+      "中國成功將一組新衛星送入太空，展現其在科學領域的進步。",
+      "泰國考古學家在該國中部的佛丕府發現了兩枚有著1,900至2,100年歷史的古印度金戒指。",
+      "烏克蘭登山者在日托米爾州傑尼西附近舉辦「石頭登山者」節，開創受優勝美地啟發的全新戶外文化。"
+    ],
+    "idea": "一隻好奇的黑貓被置入一個充滿高飽和鮮豔色、超現實拼貼元素的巨大磨砂玻璃容器中，在聚光燈下輕輕嗅探一枚古老的金戒指。"
   }
 ]
