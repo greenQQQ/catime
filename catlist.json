@@ -199,5 +199,15 @@
     "inspiration": "韋伯太空望遠鏡在冥王星與泰坦大氣中偵測到前所未見的神祕物質，為本週太空科學增添新謎題。",
     "timestamp": "2026-07-06 11:05 UTC",
     "status": "success"
+  },
+  {
+    "inspiration_url": "https://www.ctinsider.com/living/article/ct-culture-corner-mystic-museum-luxe-textiles-22310851.php",
+    "number": 22,
+    "timestamp": "2026-07-06 12:05 UTC",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-06_1205_UTC.webp",
+    "status": "success",
+    "title": "絨夜信物",
+    "inspiration": "康乃狄克Mystic Museum of Art夏季展以天鵝絨為線索，串起地方紡織史與現代時尚設計。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]

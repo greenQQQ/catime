@@ -822,5 +822,60 @@
       "texture": "3D Render",
       "color_palette": "Festive Red and Gold"
     }
+  },
+  {
+    "story": "午夜撤展後，霓虹燈把舊織機的影子照成靛藍色河流，貓沿著絨布氣味找到一塊被遺忘的百年緞帶。策展人沒有驚動牠，只把那段緞帶放進新展櫃，像收下一封從紡織小鎮寄來的無聲信。",
+    "inspiration_url": "https://www.ctinsider.com/living/article/ct-culture-corner-mystic-museum-luxe-textiles-22310851.php",
+    "prompt": "Oil painting in thick impasto brushstrokes with visible canvas texture: a moonlit indigo night scene inside the Mystic Museum of Art summer gallery in Connecticut after midnight deinstallation. Center composition shows a four-legged gray tabby cat crouching on a low conservation table, clearly sniffing a rolled strip of velvet trim with its nose touching the fabric. Beside the cat, a gloved curator carefully spreads local textile history samples and an old century ribbon under cool silvery moonlight. Deep night-blue, violet, and indigo palette with rich color accents, neon exhibition lighting casting old loom shadows like blue rivers across subtly wet reflective flooring. Die-cut sticker collage frame surrounds the scene: layered sticker cutouts, crisp white outline borders, scrapbook overlays, chibi side characters, floating fabric tags, neon gallery signs, cloth sample labels, iridescent holographic fiber scraps, transparent PVC rainbow shifts, pastel prismatic reflections, shimmering bubble-like translucent film. Include a clearly readable neon wall placard in English that says “2026-07-06 12:05 UTC”. All visible text must be English or Traditional Chinese only, no Simplified Chinese. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 22,
+    "avoid_list": [
+      "畫面顯示 UTC 日期時間",
+      "可愛貓咪享受美好一天",
+      "貓用前爪撥弄物件",
+      "貓專注追蹤小昆蟲",
+      "水下焦散光影氛圍",
+      "青橙電影調配色",
+      "玻璃折射容器構圖",
+      "華麗金黑巴洛克場景",
+      "描金線條與奢華裝飾",
+      "強制透視近距構圖",
+      "白底棚拍產品感",
+      "珠飾水鑽般露珠裝飾",
+      "藍綠生物發光桌面",
+      "貓意外改變人類計畫"
+    ],
+    "news_inspiration": [
+      {
+        "summary": "英國外卡選手Arthur Fery首度打進溫網第二週，成為今年單打籤表中最後一位地主希望。",
+        "url": "https://www.theguardian.com/sport/2026/jul/06/arthur-fery-social-media-hype-wimbledon-grigor-dimitrov",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "美國男足球員Folarin Balogun的紅牌停賽暫緩執行，讓他能趕上對比利時的世界盃16強賽。",
+        "url": "https://people.com/folarin-balogun-red-card-suspension-lifted-before-usmnt-belgium-world-cup-game-12012136",
+        "source": "People"
+      },
+      {
+        "summary": "康乃狄克Mystic Museum of Art夏季展以天鵝絨為線索，串起地方紡織史與現代時尚設計。",
+        "url": "https://www.ctinsider.com/living/article/ct-culture-corner-mystic-museum-luxe-textiles-22310851.php",
+        "source": "CT Insider"
+      },
+      {
+        "summary": "蘇格蘭首座Center Parcs度假村公布第一個職缺，將由資深保育巡護員負責施工與開園後的生物多樣性工作。",
+        "url": "https://www.thescottishsun.co.uk/money/16498450/first-job-unveiled-scotland-new-center-parcs-resort/",
+        "source": "The Scottish Sun"
+      }
+    ],
+    "title": "絨夜信物",
+    "inspiration": "康乃狄克Mystic Museum of Art夏季展以天鵝絨為線索，串起地方紡織史與現代時尚設計。",
+    "idea": "油畫風格的月夜靛藍場景中，一隻四腳灰虎斑貓蹲在康乃狄克 Mystic Museum of Art 夏季展廳的低矮修復台上，正用鼻尖嗅聞一卷天鵝絨邊料，旁邊策展人戴著手套攤開地方紡織史樣本；畫面以貼紙拼貼邊框包住霓虹展標、布樣標籤與虹彩全息纖維碎片。",
+    "comment_id": 4892624869,
+    "style_picks": {
+      "art_style": "Oil Painting",
+      "composition": "Sticker Collage Frame",
+      "lighting": "Neon Lighting",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Moonlit Indigo"
+    }
   }
 ]
