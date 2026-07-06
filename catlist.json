@@ -176,5 +176,18 @@
     "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-06_0905_UTC.webp",
     "timestamp": "2026-07-06 09:05 UTC",
     "number": 19
+  },
+  {
+    "character_name": "花花",
+    "status": "success",
+    "is_seasonal": true,
+    "number": 20,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "風鈴石階",
+    "inspiration": "original",
+    "character": "huahua",
+    "season": "summer",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-06_1005_UTC.webp",
+    "timestamp": "2026-07-06 10:05 UTC"
   }
 ]

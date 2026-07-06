@@ -719,5 +719,58 @@
       "巨大圓頂/宏偉建築"
     ],
     "number": 19
+  },
+  {
+    "idea": "侘寂靜物攝影風格：夏日正午的老街廟口，花花小小地趴在巨大石獅旁的斑駁石階上，尾巴隨風鈴聲一下一下搖動，身旁散著幾枚像液態金屬般反光的舊鋁製香火牌與茶罐蓋；硬光日照把靛藍遮陽布的影子切成安靜幾何。",
+    "prompt": "Real wabi-sabi still life photograph at an old street temple entrance on a summer noon: Huahua, a literal small round calico shorthair cat, lies on mottled cool stone steps beside a monumental weathered stone lion, making the cat look tiny by scale; her orange-black ringed tail is caught mid-sway as if moving to wind chimes. Huahua has a clean white #FFFFFF base coat, LEFT ear orange #E8853A, RIGHT ear black #1A1A1A, one orange patch above the LEFT eye, white face otherwise, warm light-amber #D9A441 round eyes, pink nose and paw pads, large orange-and-black patchwork saddle across the back, mostly white legs and belly, short smooth coat, no collar or accessories. Around her are several old aluminum incense plaques and tea tin lids with mercury-like reflective chrome surfaces, scratched and slightly dented. Harsh midday sunlight creates high-contrast hard-edge geometric shadows from indigo-blue shade cloth across the stone steps; muted earth tones, deep indigo shadow areas, cool silvery highlights, gritty urban realism, aged stone texture, quiet contemplative emptiness despite blurred temple visitors in the distant background. Composition: low-angle 35mm documentary photo, cat and reflective objects in the lower center foreground, huge stone lion looming at frame right, shallow depth of field, natural light, f/2.8, ISO 200, visible film grain, candid real-photo look. The exact text “2026-07-06 10:05 UTC” must be clearly visible in English on a small worn metal temple notice plate placed on the stone step near Huahua. Avoid painting, illustration, digital art, blue or green eyes, fluffy fur, longhair, symmetrical face patches, collar, clothing, humanoid or anthropomorphic cat. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "花花",
+    "avoid_list": [
+      "畫面顯示 UTC 日期時間",
+      "可愛貓咪享受美好一天",
+      "貓用前爪撥弄物件",
+      "貓專注追蹤小昆蟲",
+      "水下焦散光影氛圍",
+      "青橙電影調配色",
+      "玻璃折射容器構圖",
+      "華麗金黑巴洛克場景",
+      "描金線條與奢華裝飾",
+      "強制透視近距構圖",
+      "白底棚拍產品感",
+      "珠飾水鑽般露珠裝飾",
+      "藍綠生物發光桌面",
+      "貓意外改變人類計畫"
+    ],
+    "is_seasonal": true,
+    "story": "廟口人聲熱鬧，花花照例擠到大家視線中央，卻被頭頂清脆的風鈴聲留在石階上。有人稱讚牠今天特別漂亮，牠開心地原地轉了一小圈，又趴回涼石上，把橘黑環紋尾巴搖成夏天的節拍。",
+    "comment_id": 4891591911,
+    "number": 20,
+    "title": "風鈴石階",
+    "inspiration": "original",
+    "character": "huahua",
+    "news_inspiration": [
+      {
+        "summary": "溫布頓今日上演罕見的外卡對外卡十六強戰，英國選手 Arthur Fery 將在中央球場挑戰 Grigor Dimitrov。",
+        "url": "https://www.thesun.ie/sport/17244413/what-time-is-arthur-fery-playing-today/",
+        "source": "The Sun"
+      },
+      {
+        "summary": "倫敦藝文界圍繞 Frida Kahlo 熱潮展開新討論，從大型展覽到周邊商品都讓人重新思考藝術偶像如何被大眾文化再造。",
+        "url": "https://www.theguardian.com/artanddesign/2026/jul/03/what-would-frida-think-about-todays-kitsch-kahlomania",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "蘇格蘭新的 Center Parcs 度假村公布首個職缺，將由資深保育巡護員在開發期間守護生物多樣性與自然棲地。",
+        "url": "https://www.thescottishsun.co.uk/money/16498450/first-job-unveiled-scotland-new-center-parcs-resort/",
+        "source": "The Scottish Sun"
+      }
+    ],
+    "season": "summer",
+    "style_picks": {
+      "art_style": "Wabi-Sabi Still Life Photography",
+      "composition": "Tiny Figure Scale Contrast",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Liquid Metal",
+      "color_palette": "Moonlit Indigo"
+    }
   }
 ]
