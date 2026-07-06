@@ -1331,3 +1331,20 @@ a.news-tag::after { content: " ↗"; opacity: .85; }
 
 /* 頁尾也用手寫感 */
 #end-msg { font-family: var(--font-cute); }
+
+/* ── 姊妹站切換鈕（貓咪時光 ⇄ 狗狗時光） ── */
+.site-switch {
+  display: inline-flex; align-items: center; gap: .25rem;
+  padding: .28rem .65rem; border-radius: 20px;
+  background: var(--pink-pale); border: 1.5px dashed var(--pink-light);
+  color: var(--pink); font-size: .78rem; font-weight: 700;
+  text-decoration: none; white-space: nowrap; flex-shrink: 0;
+  font-family: var(--font-cute);
+  transition: transform .15s, background .15s;
+}
+.site-switch:hover { transform: scale(1.06); background: var(--surface); }
+[data-theme="dark"] .site-switch { background: rgba(255,255,255,.06); }
+@media (max-width: 600px) {
+  .site-switch-label { display: none; }
+  .site-switch { padding: .28rem .5rem; font-size: .9rem; }
+}
