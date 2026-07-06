@@ -1089,5 +1089,63 @@
     "inspiration": "original",
     "news_inspiration": [],
     "story": "這間製傘工坊早已被搬進攝影棚，所有工具都像博物館標本般安靜，只有黑貓還記得最後一把雨傘該如何撐開。牠把斷裂的傘骨一節節拉回原位，彷彿要替一場尚未降下的雨，先準備好天空。"
+  },
+  {
+    "prompt": "Illustration prompt: a kawaii chibi sticker-pack style miniature diorama of Blanli, a literal four-legged slender elegant brown-grey mackerel tabby shorthair cat, perched on the highest bookshelf inside a tiny Venice-themed rooftop screening room built on an old apartment stairwell. Blanli has warm grey-brown base coat #8A7358, crisp dark brown-black #3B2F23 mackerel stripes, one continuous dark spine stripe, bold dark M marking on the forehead, almond emerald green #3FA66B eyes with dark eyeliner-like markings, long white whiskers, dark ringed tail with a black tip, no collar, no clothing, no accessories. The cat calmly watches a slowly rotating old movie film reel, tail subtly flicking from a tiny movement. Composition: playful sticker character set layout with multiple cute Q-version poses of Blanli around the main diorama, die-cut white outlines, bright flat colors, toy-like scale model details, tilt-shift miniature depth, blurred water-city reflections projected on the wall. A small projector label or wall placard clearly displays the exact English text: \"2026-07-06 18:05 UTC\". Lighting: frosted glass window turns soft natural diffused light into a teal-and-orange film mood, translucent matte glass texture, soft blurred shapes behind the glass, even illumination, no harsh shadows. Color: cool blue-green shadows balanced with warm orange projection light, gentle tones, punchy balanced contrast. Artistic medium: polished digital illustration, chibi sticker character set, miniature diorama craft aesthetic, clean shapes, cute expressive but calm sharp-eyed cat. Negative constraints: no orange fur, no ginger cat, no chubby cat, no blue eyes, no amber eyes, no yellow eyes, no longhair, no fluffy coat, no white bib, no white chest patch, no white paws, no collar, no necklace, no bandana, no calico, no tuxedo pattern, no solid black cat, no spotted coat, no anthropomorphic cat, no human body, no human hands, no upright human pose, no humanoid, no mascot costume, no human face, no Simplified Chinese text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "高櫃映光",
+    "inspiration_url": "https://apnews.com/article/de2fea048ff9e5f16d23f3ebf6fe1541",
+    "comment_id": 4896127402,
+    "character": "blanli",
+    "news_inspiration": [
+      {
+        "summary": "喬治・克隆尼將在第83屆威尼斯影展獲頒終身成就金獅獎，表彰他橫跨演員、導演與製片的電影貢獻。",
+        "url": "https://apnews.com/article/de2fea048ff9e5f16d23f3ebf6fe1541",
+        "source": "AP News"
+      },
+      {
+        "summary": "2026巴黎高級訂製服週登場，Balenciaga、Fendi、Dior、Chanel等新任設計主腦與客座品牌帶來一週視覺盛宴。",
+        "url": "https://www.vogue.com/article/paris-couture-week-cheat-sheet-fall-winter-2026",
+        "source": "Vogue"
+      },
+      {
+        "summary": "溫布頓第八日出現多場突破與爆冷，Linda Noskova首闖八強、Flavio Cobolli也擊敗Alex de Minaur挺進男單八強。",
+        "url": "https://www.theguardian.com/sport/live/2026/jul/06/wimbledon-2026-de-minaur-fery-and-keys-in-action-on-day-eight-live",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "SpaceX在上市不到一個月後即將加入Nasdaq 100，成為本週科技與市場焦點之一。",
+        "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-monday-july-6-2026-12012247",
+        "source": "Investopedia"
+      }
+    ],
+    "idea": "Q版貼圖角色集風格的微縮立體模型：布藍里站在老公寓頂樓的迷你威尼斯放映間最高書櫃上，棕灰鯖魚紋、深色 M 字額紋、翠綠杏眼與黑尾尖清楚可見，牠正安靜盯著一卷緩慢轉動的老電影膠片，尾巴因細小移動而微微甩動；磨砂玻璃窗把自然漫射光化成青橙電影調。",
+    "story": "深夜的樓梯間被改造成一座袖珍影展放映室，牆上投著模糊的水城倒影。所有人都以為布藍里只是高冷地佔據最高處，只有牠知道自己正在守著那束橙色放映光，不讓任何一格記憶從膠片裡溜走。",
+    "avoid_list": [
+      "貓用鼻尖嗅聞物件",
+      "貓用前爪推動標記或物品",
+      "俯瞰平鋪構圖中的貓",
+      "貓躺在工作台或石階中央",
+      "液態金屬反光道具",
+      "生物發光藍綠光照明",
+      "紅金吉祥配色搭配花卉",
+      "粉彩莫蘭迪柔光場景",
+      "實驗室裡的貓與科技設備",
+      "保育地圖與動物意外改變路線",
+      "分割畫面或多視角展示板",
+      "貼紙拼貼邊框與虹彩碎片",
+      "英文字日期時間標牌",
+      "巨大留白中的小貓敘事",
+      "傳統東亞紋樣混搭現代場景"
+    ],
+    "number": 27,
+    "inspiration": "喬治・克隆尼將在第83屆威尼斯影展獲頒終身成就金獅獎，表彰他橫跨演員、導演與製片的電影貢獻。",
+    "character_name": "布藍里",
+    "style_picks": {
+      "art_style": "Chibi Sticker Character Set",
+      "composition": "Miniature Diorama",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Frosted Glass",
+      "color_palette": "Teal and Orange"
+    }
   }
 ]
