@@ -772,5 +772,55 @@
       "texture": "Liquid Metal",
       "color_palette": "Moonlit Indigo"
     }
+  },
+  {
+    "news_inspiration": [
+      {
+        "summary": "韋伯太空望遠鏡在冥王星與泰坦大氣中偵測到前所未見的神祕物質，為本週太空科學增添新謎題。",
+        "url": "https://www.livescience.com/space/science-news-this-week-james-webb-telescope-finds-a-never-before-seen-substance-chinas-great-green-wall-grows-faster-than-natural-trees-and-a-medici-murder-mystery-is-solved",
+        "source": "Live Science"
+      },
+      {
+        "summary": "英國本週文化指南集結新電影、展覽、舞台劇、遊戲與音樂發行，從繽紛抽象藝術到芭蕾之夜都很有看頭。",
+        "url": "https://www.theguardian.com/culture/2026/jul/04/entertainment-week-ahead-minions-monsters-madonna-little-house-prairie-assassins-black-flag",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "美國職棒大聯盟「Star Spangled Sunday」首度讓30隊同日出賽並由NBC與Peacock轉播全部15場比賽，成為罕見的棒球轉播盛事。",
+        "url": "https://nypost.com/2026/07/05/sports/how-to-watch-mets-vs-braves-for-free-on-mlb-star-spangled-sunday/",
+        "source": "New York Post"
+      }
+    ],
+    "idea": "生物朋克風格的3D渲染場景：皇家格林威治天文台後方的溫室實驗室裡，一隻四腳趴臥的橘白貓躺在中國紅與金色菊花花海中央，從俯瞰視角可見牠正用鼻尖嗅探一片標記「冥王星／泰坦」的活體菌膜星圖，柔和自然漫射光落在花瓣與半透明菌絲上。",
+    "number": 21,
+    "prompt": "Polished biopunk 3D render, Cinema 4D aesthetic: an overhead top-down flat-lay view inside a greenhouse laboratory behind the Royal Observatory Greenwich, organic-mechanical astrobiology equipment woven through mutated flora and translucent mycelium. At the center, a four-legged orange-and-white cat lies curled and reclining in a dense sea of auspicious Chinese red chrysanthemums with bright gold accents, clearly sniffing with its nose tip touching a living biofilm star map labeled \"冥王星／泰坦\". The star map unfolds in circular fungal rings around the cat’s breath, with bioluminescent spores, semi-transparent hyphae, smooth materials, clean geometry, soft global illumination. Visually display the exact date and time \"2026-07-06 11:05 UTC\" on a small brass-and-glass lab placard beside the star map. Soft diffused natural light from an overcast sky, even illumination, no harsh shadows, gentle festive red-and-gold color palette, celebratory warmth, dreamy decorative bird’s-eye composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "天文生物學家把韋伯望遠鏡的異常光譜轉譯成花粉培養基，等待神祕物質在菌絲裡顯形。貓沒有理解宇宙，只是被那股像冷鐵與蜜餞混合的氣味吸引，安靜地把身體蜷進紅金花海，讓星圖在牠呼吸間一圈圈展開。",
+    "title": "冥花鼻息",
+    "avoid_list": [
+      "畫面顯示 UTC 日期時間",
+      "可愛貓咪享受美好一天",
+      "貓用前爪撥弄物件",
+      "貓專注追蹤小昆蟲",
+      "水下焦散光影氛圍",
+      "青橙電影調配色",
+      "玻璃折射容器構圖",
+      "華麗金黑巴洛克場景",
+      "描金線條與奢華裝飾",
+      "強制透視近距構圖",
+      "白底棚拍產品感",
+      "珠飾水鑽般露珠裝飾",
+      "藍綠生物發光桌面",
+      "貓意外改變人類計畫"
+    ],
+    "inspiration_url": "https://www.livescience.com/space/science-news-this-week-james-webb-telescope-finds-a-never-before-seen-substance-chinas-great-green-wall-grows-faster-than-natural-trees-and-a-medici-murder-mystery-is-solved",
+    "inspiration": "韋伯太空望遠鏡在冥王星與泰坦大氣中偵測到前所未見的神祕物質，為本週太空科學增添新謎題。",
+    "comment_id": 4892099288,
+    "style_picks": {
+      "art_style": "Biopunk",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "3D Render",
+      "color_palette": "Festive Red and Gold"
+    }
   }
 ]
