@@ -624,5 +624,39 @@
       }
     ],
     "idea": "色鉛筆畫風的分割畫面：左半是蘇格蘭 Borders 新 Center Parcs 工地旁的保育巡護員臨時小屋，日光燈下，一隻藍灰虎斑貓正用前爪把黃色螢光標記旗從地圖邊緣撥到濕地區域；右半是同一片尚未開園的林地，測量樁、藍黃警示帶與像珠飾水鑽鑲嵌般閃亮的露珠沿著保育步道排列。"
+  },
+  {
+    "number": 18,
+    "avoid_list": [
+      "貓爪輕觸古卷/物件",
+      "玻璃容器內微縮世界",
+      "水下焦散光影",
+      "柔焦霧面夢幻光暈",
+      "黑貓弓背",
+      "圖書館/書齋場景",
+      "描金墨線紋理",
+      "朱紅與留白對比",
+      "青橙電影調",
+      "強制透視構圖",
+      "圖像顯示日期時間",
+      "強調材質紋理細節",
+      "古風仙俠風格",
+      "巴洛克藝術風格",
+      "巨大圓頂/宏偉建築"
+    ],
+    "prompt": "Neo-ukiyo-e beauty illustration fused with a clean white seamless studio product shoot: a four-legged orange-and-white cat, front-facing at eye level, clearly pushing a mercury-like liquid metal takoyaki mold with its nose toward a red-and-gold tray decorated with swimming koi patterns. Set in a stylized Osaka Dotonbori takoyaki stall vignette isolated on a pure white cyclorama, with a refined ukiyo-e beauty figure motif subtly integrated behind swirling koi, waves, and ornamental woodblock-inspired lines. Straight-on symmetrical composition, neutral honest perspective, confrontational balance, flat decorative color areas, bold flowing outlines, chrome dripping texture, molten mirror finish on the takoyaki mold, crisp commercial clarity, shadowless high-key studio lighting. Dominant auspicious Chinese red with bright gold accents, festive signboard brightness and lucky vivid contrast. The image must visibly display the exact English text \"2026-07-06 08:05 UTC\" on a small red-and-gold stall sign or tray label, clean and readable. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Koi Ukiyo-e Beauty",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Liquid Metal",
+      "color_palette": "Festive Red and Gold"
+    },
+    "idea": "錦鯉浮世繪美人風格，一隻四腳橘白貓在大阪道頓堀章魚燒攤的白底去背棚拍場景中，正用鼻尖推著液態金屬章魚燒模具滾向紅金錦鯉圖案托盤；平視正面構圖，中國紅金配色像節慶招牌般明亮。",
+    "title": "金鯉丸宴",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "story": "攤主只是轉身拿醬刷，這隻常來討魚片的貓已經把一整盤金亮亮的章魚燒推進畫面中央。牠沒有偷吃，只是固執地把每顆丸子排成錦鯉游動的弧線，像在替夜市開一場無聲的開幕式。",
+    "comment_id": 4890530901
   }
 ]
