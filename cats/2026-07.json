@@ -1244,5 +1244,61 @@
       "texture": "Gilded Ink Outline",
       "color_palette": "Bamboo Jade Green"
     }
+  },
+  {
+    "story": "牠原本只是追著一顆滾落的校準螺帽鑽進機房，卻意外把兩個最古老類星體的座標推到同一條橙色軌跡上。機械少女工程師沒有抱起牠，只是蹲在旁邊重新核對數據，讓貓的尾巴像小小指針一樣掃過宇宙清晨的暗處。",
+    "idea": "在歐洲太空總署資料中心的地下校準室裡，一隻橘白四腳貓趴在膨脹絎縫羽絨包覆的維修墊上，用前爪撥動類星體星圖投影台的旋鈕；整體以機娘水彩插畫呈現，伺服器走線形成引導線構圖，柔和環形燈把青橙電影調灑在機械少女工程師與星圖紙帶之間。",
+    "title": "星晨校準",
+    "prompt": "Watercolor mecha-girl anime illustration inside an underground calibration room at the European Space Agency data center: an orange-and-white four-legged cat lies on a puffy quilted down-covered maintenance mat with inflated stitched channels and glossy padded surface, clearly using its front paw to turn the knobs of a quasar star-map projection console. A mechanical girl engineer in elegant servo armor kneels beside the console, calmly checking data sheets while the cat's tail sweeps across the projected dark star field like a tiny pointer. Server cables and floor conduits form strong leading lines and converging perspective toward the cat and projection table; architectural framing, dynamic sci-fi character art, fluid translucent watercolor washes, glowing cyan and amber accents. Soft ring light illumination with circular catchlights, even frontal beauty-portrait lighting on the engineer, teal-and-orange film color grading, warm skin tones against cool blue-green server shadows, punchy balanced contrast. Star-map paper tapes and projection UI must visibly show the English timestamp text: \"2026-07-06 21:05 UTC\". IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 30,
+    "avoid_list": [
+      "貓用鼻尖嗅聞物件",
+      "貓叼著緞帶或膠片",
+      "四腳貓動作強調",
+      "可讀 UTC 時間標牌",
+      "禁止簡體中文提示",
+      "硬光與直打閃光",
+      "靛藍與青綠陰影",
+      "金色描邊細節",
+      "貼紙拼貼邊框",
+      "移軸微縮構圖",
+      "復古電影放映空間",
+      "時裝與布料修復場景",
+      "水面或玻璃鏡面反射",
+      "淺景深底片顆粒",
+      "紅金吉祥裝飾"
+    ],
+    "style_picks": {
+      "art_style": "Watercolor Mecha-Girl Illustration",
+      "composition": "Leading Lines Composition",
+      "lighting": "Ring Light",
+      "texture": "Puffy Quilted Down",
+      "color_palette": "Teal and Orange"
+    },
+    "comment_id": 4897640114,
+    "inspiration": "歐幾里得太空望遠鏡發現31個宇宙早期類星體，其中兩個是目前觀測到最古老的類星體。",
+    "news_inspiration": [
+      {
+        "summary": "歐幾里得太空望遠鏡發現31個宇宙早期類星體，其中兩個是目前觀測到最古老的類星體。",
+        "url": "https://phys.org/news/2026-07-euclid-ancient-quasars-universe.html",
+        "source": "Phys.org"
+      },
+      {
+        "summary": "研究發現英國春季鳴禽身上常帶有花粉，可能在樹木授粉中扮演意想不到的角色。",
+        "url": "https://phys.org/news/2026-07-songbirds-pollinate-uk-trees-pollen.html",
+        "source": "Phys.org"
+      },
+      {
+        "summary": "韓國研究團隊開發不含PTFE的乾式電池電極，有望縮短電動車充電時間並延長續航。",
+        "url": "https://techxplore.com/news/2026-07-ptfe-free-dry-battery-electrode.html",
+        "source": "Tech Xplore"
+      },
+      {
+        "summary": "挪威王儲與數萬球迷在奧斯陸街頭慶祝挪威世界盃擊敗巴西的歷史性勝利。",
+        "url": "https://www.theguardian.com/football/2026/jul/06/norways-crown-prince-joins-thousands-of-fans-in-oslo-to-celebrate-historic-world-cup-win",
+        "source": "The Guardian"
+      }
+    ],
+    "inspiration_url": "https://phys.org/news/2026-07-euclid-ancient-quasars-universe.html"
   }
 ]
