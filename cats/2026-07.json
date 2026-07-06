@@ -1210,5 +1210,39 @@
     "inspiration_url": "https://news.google.com/read/CBMi8AFBVV95cUxObnFEa1FVWmFtT1BJejhGbS11aXJ3ZkZHMmY2c3NqbkJQQUJfV2FLaEIzS1dFUnB0TndYY3NsTlFHLWtFVVpEZ3cyWGJ1SjNncEZOR1J2eVlHTmFkeHhTUkl1VDcxTTk5SHZKblRYRzM2dkpNWlZYaWdmZDJtbVA1UFBEb2dTYm9Ec0dabnY3ZjJQNGRmMGM5OWtzZENyZ2dWQnRKUElvdXNlVlBDQ3VJeVF0QzNOM1g4WUN3Y0pXam5ZS0NqbVlCdU5kQXUxOHJkRXBGV0Joc3Zad1JOeUhLQnRJSUpHWTFpRHBEalVRRTE?ceid=NZ%3Aen&gl=NZ&hl=en-NZ",
     "title": "罐聲急彎",
     "inspiration": "勒克萊爾在銀石賽道戲劇性拿下英國F1大獎賽冠軍，為週末賽事添上高張力結局。"
+  },
+  {
+    "title": "翠光接片",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "number": 29,
+    "story": "老放映師換片時，唯一的接片膠片從捲軸間鬆脫，貓在灰塵光束裡一躍而起，像把即將斷掉的電影攔回來。牠落地後把膠片放在木箱旁，銀幕外的觀眾完全不知道，今晚少了一次黑場。",
+    "comment_id": 4897163925,
+    "idea": "以人物懸浮攝影拍攝一間台南老戲院的放映室，對稱構圖中，四腳玳瑁貓正從兩台老式放映機之間凌空躍起，叼住一截滑落的竹綠色膠片；體積光穿過放映窗，畫面邊緣以描金墨線強調貓毛、膠片孔與機械輪廓，整體色調是竹影翠綠。",
+    "prompt": "Real levitation photography inside the projection booth of an old Tainan cinema, perfectly symmetrical centered composition: a four-legged tortoiseshell cat frozen mid-air between two vintage film projectors, naturally jumping upward while biting a slipping bamboo-green strip of film, film perforations clearly visible. The booth has aged wood crates, metal reels, dusty glass projection windows, architectural framing and mirror-like balance. Volumetric light beams pass through the projection window, visible dust particles in the air, dramatic depth, soft overcast ambient light mixed with projector glow, muted film tones in bamboo jade green, emerald and malachite hues. Fine black ink-like edge detailing with subtle metallic gold accents emphasizes cat fur, film holes, and projector wheel outlines while still reading as a real photograph. 35mm lens, f/1.8, shallow depth of field, candid peak-jump capture, natural pose, post-processed to remove any support, realistic grain. Display the text “2026-07-06 20:05 UTC” clearly on a small English timestamp label attached to the projector control panel. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "貓用鼻尖嗅聞物件",
+      "貓用前爪推動標記或物品",
+      "俯瞰平鋪構圖中的貓",
+      "貓躺在工作台或石階中央",
+      "液態金屬反光道具",
+      "生物發光藍綠光照明",
+      "紅金吉祥配色搭配花卉",
+      "粉彩莫蘭迪柔光場景",
+      "實驗室裡的貓與科技設備",
+      "保育地圖與動物意外改變路線",
+      "分割畫面或多視角展示板",
+      "貼紙拼貼邊框與虹彩碎片",
+      "英文字日期時間標牌",
+      "巨大留白中的小貓敘事",
+      "傳統東亞紋樣混搭現代場景"
+    ],
+    "style_picks": {
+      "art_style": "Levitation Photography",
+      "composition": "Symmetrical Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "Bamboo Jade Green"
+    }
   }
 ]
