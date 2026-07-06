@@ -934,5 +934,65 @@
       "藍綠生物發光桌面",
       "貓意外改變人類計畫"
     ]
+  },
+  {
+    "inspiration": "東非沿海女性正把紅樹林復育、蜂蜜、餐飲與生態旅遊結合，為漁業轉型開出新的永續生計。",
+    "comment_id": 4893786857,
+    "avoid_list": [
+      "畫面顯示 UTC 日期時間",
+      "可愛貓咪享受美好一天",
+      "貓用前爪撥弄物件",
+      "貓專注追蹤小昆蟲",
+      "水下焦散光影氛圍",
+      "青橙電影調配色",
+      "玻璃折射容器構圖",
+      "華麗金黑巴洛克場景",
+      "描金線條與奢華裝飾",
+      "強制透視近距構圖",
+      "白底棚拍產品感",
+      "珠飾水鑽般露珠裝飾",
+      "藍綠生物發光桌面",
+      "貓意外改變人類計畫"
+    ],
+    "prompt": "Limited palette editorial illustration on warm paper: inside a wooden eco food truck beside an East African coastal mangrove restoration station at low tide, a four-legged tabby cat walks along a narrow window counter and slowly sniffs a fresh plate of mangrove honey rice cakes. Off-center composition with the small cat in expansive pastel negative space, calm uncluttered picture-book framing, black ink line work, three or four flat colors in gentle pink, lavender, mint, baby blue, and warm cream. Soft directional morning window light falls on the cat’s whiskers, the rice cakes, hot tea, guide maps, and a food truck poster; smooth Vermeer-like falloff into quiet shadow. Female restoration team members appear as small whimsical narrative figures arranging honey, tea, and maps in the background. In the corner, embossed gold leaf East Asian auspicious cloud motifs with curling swirl patterns suggest the sea breeze against a dark accent ground. The poster or small chalkboard must clearly display the exact English text “2026-07-06 14:05 UTC”. Style: limited-color editorial illustration, Carson Ellis and New Yorker-inspired picture book aesthetic, warm paper texture, minimalist breathing room, intimate still-life mood. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "潮光蜜路",
+    "style_picks": {
+      "art_style": "Limited Palette Editorial Illustration",
+      "composition": "Negative Space Composition",
+      "lighting": "Window Light",
+      "texture": "Gold Leaf Cloud Ornament",
+      "color_palette": "Pastel Colors"
+    },
+    "story": "清晨退潮後，復育隊的女性們把蜂蜜、熱茶與導覽地圖排上餐車，準備迎接第一批生態旅客。虎斑貓負責巡視香氣最濃的那一盤米餅，牠停在窗光裡打了個噴嚏，像替這片新生的紅樹林蓋下溫柔印章。",
+    "news_inspiration": [
+      {
+        "summary": "《Minions & Monsters》在美國國慶檔期首週以全球約1.6億美元票房登頂，延續動畫片暑期熱潮。",
+        "url": "https://apnews.com/article/eac177369f003a675a9eba3a632eddb5",
+        "source": "AP News"
+      },
+      {
+        "summary": "東非沿海女性正把紅樹林復育、蜂蜜、餐飲與生態旅遊結合，為漁業轉型開出新的永續生計。",
+        "url": "https://apnews.com/article/fc27652ccdbed10accd4e24d4c3e88cc",
+        "source": "AP News"
+      },
+      {
+        "summary": "2026秋冬巴黎高訂週登場，Balenciaga、Jean Paul Gaultier、Fendi等品牌迎來新創意總監與擴大陣容。",
+        "url": "https://www.vogue.com/article/paris-couture-week-cheat-sheet-fall-winter-2026",
+        "source": "Vogue"
+      },
+      {
+        "summary": "Weave Robotics推出可預購的Isaac 1家用機器人，讓摺衣與收拾玩具等家庭自動化願景更接近現實。",
+        "url": "https://www.dailytelegraph.com.au/business/technology/household-robots-take-step-forward-as-weave-robotics-launches-laundryfolder-isaac/news-story/74f1afd490838460d3e1b260b42bdd5f",
+        "source": "The Daily Telegraph"
+      },
+      {
+        "summary": "溫網第六天爆出驚喜賽果，Alexandra Eala擊敗衛冕冠軍Iga Swiatek，成為菲律賓網壇焦點。",
+        "url": "https://www.thetimes.com/sport/tennis/wimbledon/article/wimbledon-2026-live-scores-latest-news-day-6-de-minaur-swiatek-navarro-fery-ld9bjd98s",
+        "source": "The Times"
+      }
+    ],
+    "idea": "限色編輯插畫風格：在東非海岸紅樹林復育站旁的木造生態餐車裡，一隻四腳虎斑貓沿著窗邊窄檯慢慢嗅聞剛出爐的紅樹林蜂蜜米餅，大片粉彩留白讓窗邊柔光落在牠的鬍鬚與餐車海報上，角落以金箔祥雲紋理點出海風。",
+    "inspiration_url": "https://apnews.com/article/fc27652ccdbed10accd4e24d4c3e88cc",
+    "number": 24
   }
 ]
