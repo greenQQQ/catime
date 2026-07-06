@@ -658,5 +658,66 @@
     "news_inspiration": [],
     "story": "攤主只是轉身拿醬刷，這隻常來討魚片的貓已經把一整盤金亮亮的章魚燒推進畫面中央。牠沒有偷吃，只是固執地把每顆丸子排成錦鯉游動的弧線，像在替夜市開一場無聲的開幕式。",
     "comment_id": 4890530901
+  },
+  {
+    "comment_id": 4891048893,
+    "inspiration_url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Bioluminescence",
+      "texture": "3D Render",
+      "color_palette": "Pastel Colors"
+    },
+    "story": "工程師暫時離開去拿零件，橘貓把自動張合的機器手當成深夜新玩具，每撥一下，旁邊螢幕上的壓力曲線就跳成奇怪的花瓣形。牠不知道自己剛好測出一組更柔和的抓握參數，讓那隻機器手第一次能不壓碎一顆熟透的草莓。",
+    "inspiration": "中國新創與製造供應鏈正加速研發靈巧機器手，讓人形機器人更接近能完成實用工作的階段。",
+    "idea": "拍立得風格的深圳機器人手部測試實驗室夜班場景：一隻四腳橘貓趴在防靜電工作台上，用前爪撥弄正在校準的矽膠靈巧機器手指，畫面以穆夏式拱框構圖收束，淡粉、薄荷綠與奶油藍的粉彩色系中，培養皿裡的生物發光藻液照亮桌面，整體帶有乾淨的3D渲染質感。",
+    "title": "夜班花指",
+    "news_inspiration": [
+      {
+        "summary": "中國新創與製造供應鏈正加速研發靈巧機器手，讓人形機器人更接近能完成實用工作的階段。",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "哈伯望遠鏡拍到大麥哲倫雲中紅白藍交織的恆星育嬰室，數千顆年輕恆星正在其中誕生。",
+        "url": "https://timesofindia.indiatimes.com/science/nasas-hubble-captures-a-spectacular-red-white-and-blue-stellar-nursery-where-thousands-of-stars-are-being-born/articleshow/132194481.cms",
+        "source": "Times of India"
+      },
+      {
+        "summary": "埃及西部沙漠出土保存良好的拜占庭時代古城，街道、教堂、工具與錢幣揭開一千六百年前的日常生活。",
+        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "環法自由車賽第二站中，墨西哥新秀 Isaac del Toro 在隊友 Tadej Pogacar 禮讓下拿下生涯首座環法單站勝利，成為動人的團隊精神時刻。",
+        "url": "https://www.thetimes.com/sport/cycling/article/tour-de-france-stage-two-del-toro-pogacar-vingegaard-rnjjnd09w",
+        "source": "The Times"
+      },
+      {
+        "summary": "科學家發現加拿大洛磯山脈有一支基因獨特的西部蟾蜍族群，凸顯熟悉地區仍藏有未被辨識的生物多樣性。",
+        "url": "https://timesofindia.indiatimes.com/science/this-toad-exists-only-in-canadaand-scientists-have-finally-discovered-why/articleshow/132178677.cms",
+        "source": "Times of India"
+      }
+    ],
+    "prompt": "Polaroid instant photo style image with a white border frame and slightly faded soft warm tones, showing a night-shift Shenzhen robotics hand-testing laboratory. A four-legged orange cat is clearly lying on an anti-static workbench, playfully batting with its front paw at a calibrating silicone dexterous robotic hand whose fingers are opening and closing. Nearby monitor displays pressure curves shaped like strange flower petals, with the exact visible text “2026-07-06 09:05 UTC” on the screen or Polaroid caption area. Composition is enclosed by a Mucha-style rounded arched frame, symmetrical Art Nouveau panel border, decorative halo, and integrated floral motifs. Lighting comes from petri dishes filled with bioluminescent algae liquid, casting deep blue-green organic glow across the tabletop, balanced with soft global illumination. Clean polished 3D render, smooth materials, precise geometry, Cinema 4D aesthetic, pastel gentle pink, mint green, cream blue, lavender, and baby blue color design. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "貓爪輕觸古卷/物件",
+      "玻璃容器內微縮世界",
+      "水下焦散光影",
+      "柔焦霧面夢幻光暈",
+      "黑貓弓背",
+      "圖書館/書齋場景",
+      "描金墨線紋理",
+      "朱紅與留白對比",
+      "青橙電影調",
+      "強制透視構圖",
+      "圖像顯示日期時間",
+      "強調材質紋理細節",
+      "古風仙俠風格",
+      "巴洛克藝術風格",
+      "巨大圓頂/宏偉建築"
+    ],
+    "number": 19
   }
 ]
