@@ -265,7 +265,7 @@ def format_style_prompt_snippet(picks: dict) -> str:
     return ", ".join(snippets)
 
 
-REPO = os.environ.get("GITHUB_REPOSITORY", "yazelin/catime")
+REPO = os.environ.get("GITHUB_REPOSITORY", "greenQQQ/catime")
 # RELEASE_TAG is now set dynamically in main() based on current month
 
 # ── Character System ──
@@ -624,10 +624,79 @@ def maybe_update_creative_notes(cat_number: int) -> dict:
     return notes
 
 
-def fetch_news_inspiration() -> list[str]:
+def _attach_news_sources(response, summaries: list[str]) -> list[dict]:
+    """Map each news summary to a source URL via Google Search grounding metadata.
+
+    Gemini's grounding response carries grounding_chunks (web.uri/web.title) and
+    grounding_supports (byte-offset segments of the response text → chunk
+    indices). Each summary string is located in the raw text (UTF-8 byte space,
+    matching the segment offsets) and paired with the first chunk that supports
+    an overlapping segment. Falls back to positional pairing, then to no URL —
+    never raises.
+    """
+    items = [{"summary": s, "url": None, "source": None} for s in summaries]
+    try:
+        candidate = response.candidates[0]
+        meta = getattr(candidate, "grounding_metadata", None)
+        chunks = list(getattr(meta, "grounding_chunks", None) or [])
+        supports = list(getattr(meta, "grounding_supports", None) or [])
+        if not chunks:
+            return items
+
+        def chunk_info(idx):
+            web = getattr(chunks[idx], "web", None)
+            uri = getattr(web, "uri", None)
+            title = getattr(web, "title", None)
+            return (uri, title) if uri else (None, None)
+
+        raw_bytes = (response.text or "").encode("utf-8")
+        for item in items:
+            needle = item["summary"].encode("utf-8")
+            pos = raw_bytes.find(needle)
+            if pos == -1:
+                continue
+            end = pos + len(needle)
+            for sup in supports:
+                seg = getattr(sup, "segment", None)
+                s0 = getattr(seg, "start_index", None) or 0
+                s1 = getattr(seg, "end_index", None) or 0
+                if s1 <= pos or s0 >= end:
+                    continue
+                for ci in (getattr(sup, "grounding_chunk_indices", None) or []):
+                    if 0 <= ci < len(chunks):
+                        uri, title = chunk_info(ci)
+                        if uri:
+                            item["url"], item["source"] = uri, title
+                            break
+                if item["url"]:
+                    break
+        # Positional fallback for summaries the supports didn't cover
+        for i, item in enumerate(items):
+            if not item["url"] and i < len(chunks):
+                uri, title = chunk_info(i)
+                if uri:
+                    item["url"], item["source"] = uri, title
+    except Exception as e:
+        print(f"  News source mapping failed ({e}); keeping summaries without URLs.")
+    return items
+
+
+def _match_news_url(news: list[dict], inspiration: str) -> str | None:
+    """Find the source URL for the news summary the idea stage says it used."""
+    if not inspiration or inspiration == "original":
+        return None
+    needle = inspiration.strip()
+    for item in news:
+        summary = (item.get("summary") or "").strip()
+        if summary and (summary == needle or summary in needle or needle in summary):
+            return item.get("url")
+    return None
+
+
+def fetch_news_inspiration() -> list[dict]:
     """Use Gemini with Google Search grounding to fetch today's interesting news.
 
-    Returns a list of short news summaries, or empty list on failure.
+    Returns a list of {"summary", "url", "source"} dicts, or empty list on failure.
     """
     print("Stage 0: Fetching today's news for inspiration...")
     from google.genai import types
@@ -646,9 +715,11 @@ def fetch_news_inspiration() -> list[str]:
             print(f"  [DEBUG] News raw response ({len(raw) if raw else 'None'}): {(raw or '')[:500]}")
             result = parse_ai_response_generic(raw, ["news"])
             if result and isinstance(result["news"], list):
-                news = result["news"][:5]
+                summaries = [s for s in result["news"][:5] if isinstance(s, str) and s.strip()]
+                news = _attach_news_sources(response, summaries)
                 for i, item in enumerate(news, 1):
-                    print(f"  News {i}: {item[:80]}...")
+                    src = item.get("source") or ("有來源" if item.get("url") else "無來源")
+                    print(f"  News {i} [{src}]: {item['summary'][:80]}...")
                 return news
             if attempt == 0:
                 print("  News parse failed (attempt 1), retrying in 3s...")
@@ -690,7 +761,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
         news = fetch_news_inspiration()
     news_section = ""
     if news:
-        bullets = "\n".join(f"- {item}" for item in news)
+        bullets = "\n".join(f"- {item['summary']}" for item in news)
         news_section = (
             "Here are some current world events for inspiration. "
             "You MAY creatively incorporate one into the cat scene, or ignore them entirely. "
@@ -722,6 +793,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
         'idea': '',
         'title': '貓咪日常',
         'inspiration': 'original',
+        'inspiration_url': None,
         'avoid_list': avoid_list,
         'news_inspiration': news,
         'style_picks': {k: v['en'] for k, v in style_picks.items()},
@@ -808,6 +880,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
                 'idea': idea,
                 'title': title or '貓咪日常',
                 'inspiration': inspiration,
+                'inspiration_url': _match_news_url(news, inspiration),
                 'avoid_list': avoid_list,
                 'news_inspiration': news,
                 'style_picks': {k: v['en'] for k, v in style_picks.items()},
@@ -824,6 +897,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
                 'idea': idea,
                 'title': title or '貓咪日常',
                 'inspiration': inspiration,
+                'inspiration_url': _match_news_url(news, inspiration),
                 'avoid_list': avoid_list,
                 'news_inspiration': news,
                 'style_picks': {k: v['en'] for k, v in style_picks.items()},
@@ -840,6 +914,7 @@ def generate_prompt_and_story(timestamp: str, creative_notes: dict, character: d
             'idea': idea,
             'title': title or '貓咪日常',
             'inspiration': inspiration,
+            'inspiration_url': _match_news_url(news, inspiration),
             'avoid_list': avoid_list,
             'news_inspiration': news,
             'style_picks': {k: v['en'] for k, v in style_picks.items()},
@@ -1056,6 +1131,15 @@ async def generate_cat_image(output_dir: str, timestamp: str, prompt: str) -> di
         return primary
 
     primary_error = primary.get("error") or "unknown error"
+    # CAT_IMAGE_FALLBACK=none → codex-only mode: never burn Gemini image quota,
+    # just record the failed hour and let the next run try again.
+    if (os.environ.get("CAT_IMAGE_FALLBACK") or "").strip().lower() in ("none", "off", "0"):
+        print(
+            f"codex-image-service failed ({primary_error!r}); "
+            "fallback disabled (CAT_IMAGE_FALLBACK=none), reporting failure",
+            file=sys.stderr,
+        )
+        return primary
     print(
         f"codex-image-service failed ({primary_error!r}); "
         "falling back to nanobanana (Gemini) so the hour still ships a cat",
@@ -1226,8 +1310,8 @@ def post_issue_comment(issue_number: str, image_url: str, number: int, timestamp
 
 def update_catlist_and_push(entry: dict) -> int:
     """Update catlist.json and monthly detail file, commit and push."""
-    index_fields = {"number", "timestamp", "url", "model", "status", "error", "title", "inspiration", "character", "character_name", "is_seasonal", "season"}
-    detail_fields = {"number", "prompt", "story", "idea", "title", "inspiration", "news_inspiration", "avoid_list", "style_picks", "comment_id", "character", "character_name", "is_seasonal", "season"}
+    index_fields = {"number", "timestamp", "url", "model", "status", "error", "title", "inspiration", "inspiration_url", "character", "character_name", "is_seasonal", "season"}
+    detail_fields = {"number", "prompt", "story", "idea", "title", "inspiration", "inspiration_url", "news_inspiration", "avoid_list", "style_picks", "comment_id", "character", "character_name", "is_seasonal", "season"}
 
     # Write lightweight index entry to catlist.json
     catlist_path = Path("catlist.json")
@@ -1394,6 +1478,8 @@ def main():
     }
     if comment_id:
         entry["comment_id"] = comment_id
+    if prompt_data.get("inspiration_url"):
+        entry["inspiration_url"] = prompt_data["inspiration_url"]
     if char_id:
         entry["character"] = char_id
         entry["character_name"] = char_name

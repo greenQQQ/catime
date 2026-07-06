@@ -133,7 +133,7 @@ def build_caption(cat: dict) -> str:
         lines.append(f"\n💡 {inspiration}")
 
     lines.append(f"\n🕐 {timestamp}")
-    lines.append("🔗 <a href=\"https://yazelin.github.io/catime/\">catime</a>")
+    lines.append("🔗 <a href=\"https://greenqqq.github.io/catime/\">catime</a>")
 
     return "\n".join(lines)
 

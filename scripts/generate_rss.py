@@ -6,10 +6,9 @@ import os
 from datetime import datetime, timezone
 from xml.etree.ElementTree import Element, SubElement, ElementTree
 
-FEED_TITLE = "Catime - AI Cat Gallery"
-FEED_LINK = "https://yazelin.github.io/catime/"
-GALLERY_BASE = "https://yazelin.github.io/catime/gallery.html"
-IMAGE_BASE = "https://github.com/yazelin/catime/releases/download/cats"
+FEED_TITLE = "貓咪時光 - AI Cat Gallery"
+FEED_LINK = "https://greenqqq.github.io/catime/"
+GALLERY_BASE = "https://greenqqq.github.io/catime/"
 ATOM_NS = "http://www.w3.org/2005/Atom"
 MAX_ENTRIES = 20
 
@@ -38,7 +37,7 @@ def build_feed(entries: list[dict]) -> ElementTree:
         ts = parse_timestamp(cat.get("timestamp", ""))
         published = ts.strftime("%Y-%m-%dT%H:%M:%SZ")
         link = f"{GALLERY_BASE}#cat-{number}"
-        image_url = f"{IMAGE_BASE}/{number}.png"
+        image_url = cat.get("url") or ""
         summary = cat.get("inspiration") or ""
 
         entry = SubElement(feed, "entry")
@@ -49,7 +48,9 @@ def build_feed(entries: list[dict]) -> ElementTree:
         SubElement(entry, "updated").text = published
         if summary:
             SubElement(entry, "summary").text = summary
-        SubElement(entry, "link", rel="enclosure", href=image_url, type="image/png")
+        if image_url:
+            mime = "image/webp" if image_url.endswith(".webp") else "image/png"
+            SubElement(entry, "link", rel="enclosure", href=image_url, type=mime)
 
     return ElementTree(feed)
 

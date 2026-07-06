@@ -7,12 +7,13 @@ Run by GitHub Actions hourly or manually.
 """
 
 import json
+import os
 import re
 import subprocess
 import sys
 from pathlib import Path
 
-REPO = "yazelin/catime"
+REPO = os.environ.get("GITHUB_REPOSITORY", "greenQQQ/catime")
 POSITIVE_REACTIONS = ("+1", "heart", "hooray", "laugh", "rocket", "eyes")
 
 
