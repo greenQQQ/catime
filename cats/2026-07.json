@@ -877,5 +877,62 @@
       "texture": "Iridescent Holographic",
       "color_palette": "Moonlit Indigo"
     }
+  },
+  {
+    "number": 23,
+    "story": "巴黎高訂週的櫥窗靈感被夜市攤販貼成臨時展示板，奧利奧卻把那排紙箱當成自己的伸展台。牠每次跳進不同箱口，水面倒影就像替這位巷弄搗蛋鬼留下另一個角度的肖像，旁邊賣襪子的阿姨只來得及舉起閃光相機。",
+    "inspiration_url": "https://www.vogue.com/article/paris-couture-week-cheat-sheet-fall-winter-2026",
+    "prompt": "Chinese ink wash / sumi-e illustration on rice paper, minimalist black brushwork with flowing ink gradients, arranged like a fashion design multi-view product showcase sheet. A literal four-legged tuxedo cat named Oreo leaps from a scooter seat into a maze of vendor cardboard boxes under an old Taipei-style covered arcade night market; show four clean panels labeled in English: Front View, Side View, Back View, Running Moment. Oreo must have glossy jet-black #101010 shorthair, crisp white #FFFFFF chest bib like a tiny tuxedo shirt, white chin and muzzle, white belly, four white socks, black head-top and ears with pink inner ears, fully black upright tail with no white tip, small black nose, lean athletic springy body, mischievous alert expression, round bright yellow-green #B7C94A eyes. Harsh direct on-camera flash lights pastel stall signs, wet pavement, cardboard edges, and mirror-like puddle reflections; blown-out highlights, hard shadows, raw candid snapshot energy blended with ink wash softness. Pastel signs in gentle pink, lavender, mint, and baby blue glow through black ink diffusion; glassy still water shows symmetrical inverted reflections with subtle ripples. Include a sock-selling auntie in the background holding a flash camera, secondary and not distracting. Visually display the exact text “2026-07-06 13:05 UTC” on a temporary night-market display board in clear English lettering. No collar, no bow tie, no clothing, no accessories on the cat; no grey fur, tabby stripes, orange patches, calico markings, all-black cat, all-white cat, white tail tip, blue eyes, amber eyes, longhair, fluffy coat, chubby body, anthropomorphic pose, human body, human hands, mascot costume, or humanoid cat. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "紙箱燕尾",
+    "character_name": "奧利奧",
+    "idea": "水墨畫風格的老街騎樓夜市紙箱倉庫，奧利奧以四足姿態從機車坐墊躍入一座攤商紙箱迷宮，畫面像服裝多視角展示般分成正面、側面、背面與奔跑瞬間，凸顯牠黑白小燕尾服般的毛色、白襪、白圍兜與黃綠眼睛。直打閃光燈把粉彩招牌與積水地面的鏡面反射打亮，墨色暈染中保留牠全黑豎尾和蓄勢待發的敏捷身形。",
+    "news_inspiration": [
+      {
+        "summary": "科學本週亮點包含韋伯望遠鏡在冥王星與泰坦大氣中發現神祕未知分子，以及中國「綠色長城」植樹成長速度驚人。",
+        "url": "https://www.livescience.com/space/science-news-this-week-james-webb-telescope-finds-a-never-before-seen-substance-chinas-great-green-wall-grows-faster-than-natural-trees-and-a-medici-murder-mystery-is-solved",
+        "source": "Live Science"
+      },
+      {
+        "summary": "巴黎2026秋冬高級訂製服週登場，30個品牌與多場首秀、珠寶展和時尚檔案拍賣讓本週充滿視覺靈感。",
+        "url": "https://www.vogue.com/article/paris-couture-week-cheat-sheet-fall-winter-2026",
+        "source": "Vogue"
+      },
+      {
+        "summary": "挪威在世界盃以2比1擊敗巴西、首次挺進八強，奧斯陸上萬球迷與王室成員一起慶祝歷史性勝利。",
+        "url": "https://www.theguardian.com/football/2026/jul/06/norways-crown-prince-joins-thousands-of-fans-in-oslo-to-celebrate-historic-world-cup-win",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "TechRadar盤點2026上半年測試過的21款最佳科技產品，從相機手機、無人機到OLED電視展現今年消費科技亮點。",
+        "url": "https://www.techradar.com/tech/the-best-tech-of-2026-so-far-the-21-finest-gadgets-weve-tested-this-year",
+        "source": "TechRadar"
+      }
+    ],
+    "inspiration": "巴黎2026秋冬高級訂製服週登場，30個品牌與多場首秀、珠寶展和時尚檔案拍賣讓本週充滿視覺靈感。",
+    "comment_id": 4893181786,
+    "character": "oreo",
+    "style_picks": {
+      "art_style": "Chinese Ink Wash",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Direct Flash",
+      "texture": "Mirror Water Reflection",
+      "color_palette": "Pastel Colors"
+    },
+    "avoid_list": [
+      "畫面顯示 UTC 日期時間",
+      "可愛貓咪享受美好一天",
+      "貓用前爪撥弄物件",
+      "貓專注追蹤小昆蟲",
+      "水下焦散光影氛圍",
+      "青橙電影調配色",
+      "玻璃折射容器構圖",
+      "華麗金黑巴洛克場景",
+      "描金線條與奢華裝飾",
+      "強制透視近距構圖",
+      "白底棚拍產品感",
+      "珠飾水鑽般露珠裝飾",
+      "藍綠生物發光桌面",
+      "貓意外改變人類計畫"
+    ]
   }
 ]
