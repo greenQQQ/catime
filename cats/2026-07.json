@@ -1300,5 +1300,66 @@
       }
     ],
     "inspiration_url": "https://phys.org/news/2026-07-euclid-ancient-quasars-universe.html"
+  },
+  {
+    "avoid_list": [
+      "貓用鼻尖嗅聞物件",
+      "貓叼著緞帶或膠片",
+      "四腳貓動作強調",
+      "可讀 UTC 時間標牌",
+      "禁止簡體中文提示",
+      "硬光與直打閃光",
+      "靛藍與青綠陰影",
+      "金色描邊細節",
+      "貼紙拼貼邊框",
+      "移軸微縮構圖",
+      "復古電影放映空間",
+      "時裝與布料修復場景",
+      "水面或玻璃鏡面反射",
+      "淺景深底片顆粒",
+      "紅金吉祥裝飾"
+    ],
+    "style_picks": {
+      "art_style": "Levitation Photography",
+      "composition": "Orthographic Projection",
+      "lighting": "Moonlight",
+      "texture": "Beaded Rhinestone Embellishment",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "story": "考古隊收工後，帳篷裡只剩風聲與標本標籤的細響，這隻被隊員收養的沙漠貓忽然追著羅盤跳上半空，像替沉睡街道重新指出方向。牠落下前的那一瞬間，所有陶片與水鑽標記針都安靜排列，彷彿古城把一條遺失的街名交給牠保管。",
+    "news_inspiration": [
+      {
+        "summary": "天文學家表示星際彗星 3I/Atlas 可能是來自遠方恆星系、已有約 120 億年歷史的古老宇宙遺物。",
+        "url": "https://www.thetimes.com/uk/science/article/comet-ancient-relic-distant-star-system-dh328xqx6",
+        "source": "The Times"
+      },
+      {
+        "summary": "墨西哥研究人員確認一種新的化石蠑螈物種，讓美西螈家族在當地的演化史變得更古老清晰。",
+        "url": "https://www.wired.com/story/scientists-have-identified-a-new-fossil-species-of-axolotl-in-mexico",
+        "source": "WIRED"
+      },
+      {
+        "summary": "巴黎高訂週由 Schiaparelli 以深海與超現實主題揭幕，帶來充滿雕塑感與視覺奇想的伸展台作品。",
+        "url": "https://www.harpersbazaar.com/celebrity/latest/a71834687/schiaparelli-paris-couture-show-fall-winter-2026-celebrities-front-row/",
+        "source": "Harper's Bazaar"
+      },
+      {
+        "summary": "溫布頓第八日出現驚喜突破，英國外卡選手 Arthur Fery 五盤擊敗 Dimitrov 闖進八強。",
+        "url": "https://www.theguardian.com/sport/live/2026/jul/06/wimbledon-2026-de-minaur-fery-and-keys-in-action-on-day-eight-live",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "考古學家在埃及西部沙漠發現保存良好的拜占庭時期城市，包含教堂、街道與日常生活遺物。",
+        "url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+        "source": "The Guardian"
+      }
+    ],
+    "comment_id": 4898045742,
+    "inspiration": "考古學家在埃及西部沙漠發現保存良好的拜占庭時期城市，包含教堂、街道與日常生活遺物。",
+    "idea": "以人物懸浮攝影拍攝一隻虎斑貓在埃及西部沙漠拜占庭城市遺址的夜間測繪帳篷中，牠正從木箱躍起，用前爪拍向一枚滾動的測繪羅盤；正交投影般的俯視構圖壓平桌面、陶片、教堂平面圖與珠飾水鑽鑲嵌的樣本托盤，月光把整個現場染成竹影翠綠。",
+    "number": 31,
+    "inspiration_url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+    "prompt": "Real levitation photograph, overhead orthographic-style top-down composition with minimal perspective distortion: a tabby desert cat frozen mid-air after leaping from a wooden crate inside a nighttime archaeological mapping tent at Byzantine city ruins in Egypt's Western Desert, front paws striking toward a rolling brass survey compass on a flattened worktable. The table clearly shows pottery shards, specimen labels, church floor-plan drawings, map pins, and a sample tray embellished with beaded rhinestones, pearls, and faceted sparkling stones. Moonlight filters through tent fabric and desert dust, bathing the scene in bamboo jade-green, emerald, and malachite tones with cool silvery-blue shadows, quiet nighttime atmosphere. Candid peak-jump capture, support removed in post, natural feline pose, motion implied by the rolling compass. Shot like a real photograph with a 35mm lens, f/2.8, overhead rig, soft moonlit practical lighting, muted film tones, fine grain, subtle bokeh beyond the tent edges. A visible English timestamp label on the map reads exactly: \"2026-07-06 22:05 UTC\". IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "月下城針"
   }
 ]
