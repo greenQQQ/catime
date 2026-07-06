@@ -1055,5 +1055,39 @@
       }
     ],
     "inspiration_url": "https://www.vogue.com/article/paris-couture-week-cheat-sheet-fall-winter-2026"
+  },
+  {
+    "comment_id": 4895576892,
+    "avoid_list": [
+      "貓用鼻尖嗅聞物件",
+      "貓用前爪推動標記或物品",
+      "俯瞰平鋪構圖中的貓",
+      "貓躺在工作台或石階中央",
+      "液態金屬反光道具",
+      "生物發光藍綠光照明",
+      "紅金吉祥配色搭配花卉",
+      "粉彩莫蘭迪柔光場景",
+      "實驗室裡的貓與科技設備",
+      "保育地圖與動物意外改變路線",
+      "分割畫面或多視角展示板",
+      "貼紙拼貼邊框與虹彩碎片",
+      "英文字日期時間標牌",
+      "巨大留白中的小貓敘事",
+      "傳統東亞紋樣混搭現代場景"
+    ],
+    "style_picks": {
+      "art_style": "Blue and White Porcelain",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Crimson and Black"
+    },
+    "title": "瓷傘未雨",
+    "prompt": "Full-body centered vertical portrait illustration in a refined traditional blue-and-white porcelain art style: a jet-black short-haired cat wearing a deep crimson collar stands head-to-toe inside a miniature old-fashioned umbrella-making workshop on a pure white seamless studio cyclorama. The cat clearly hooks one front paw around broken umbrella ribs while gently biting a cotton thread with its teeth, actively repairing a cracked umbrella covered in cobalt blue floral porcelain motifs, white glazed ceramic surfaces, delicate crackle texture, and fluffy cotton-candy cloud material with pastel pink and blue marshmallow-like cumulus puffs. Balanced standing composition, entire figure centered in a tall frame, visible environmental context with tiny silent museum-like tools, spools, ribs, clamps, and wooden workbench details arranged around the cat. Bright high-key shadowless studio lighting, evenly lit subject, crisp commercial clarity, clean white background. Color design: cobalt blue and white porcelain, jet black fur, vivid blood-red collar, small touches of pastel cloud pink and blue, dramatic crimson-black contrast with a subtly seductive sinister mood. Include the exact visible English text \"2026-07-06 17:05 UTC\" on a small white porcelain workshop placard or floor label near the cat, sharp and readable. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 26,
+    "idea": "青花瓷風格的全身居中直幅肖像：一隻緋紅項圈的烏黑短毛貓，站在白底去背棚光中的微縮老式製傘工坊內，用前爪勾住傘骨、牙齒輕咬棉線，正在修補一把佈滿藍白瓷紋與棉花糖雲朵質感的裂傘。",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "story": "這間製傘工坊早已被搬進攝影棚，所有工具都像博物館標本般安靜，只有黑貓還記得最後一把雨傘該如何撐開。牠把斷裂的傘骨一節節拉回原位，彷彿要替一場尚未降下的雨，先準備好天空。"
   }
 ]
