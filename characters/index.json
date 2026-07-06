@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "probability": {
     "original": 0.50,
     "recurring": 0.35,
@@ -14,23 +14,28 @@
   "cooldown_hours": 24,
   "characters": [
     {
-      "id": "mochi",
-      "file": "mochi.json",
+      "id": "qqq",
+      "file": "qqq.json",
       "enabled": true
     },
     {
-      "id": "momo",
-      "file": "momo.json",
+      "id": "blanli",
+      "file": "blanli.json",
       "enabled": true
     },
     {
-      "id": "captain",
-      "file": "captain.json",
+      "id": "snowball",
+      "file": "snowball.json",
       "enabled": true
     },
     {
-      "id": "lingling",
-      "file": "lingling.json",
+      "id": "oreo",
+      "file": "oreo.json",
+      "enabled": true
+    },
+    {
+      "id": "huahua",
+      "file": "huahua.json",
       "enabled": true
     }
   ]
