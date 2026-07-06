@@ -1361,5 +1361,39 @@
     "inspiration_url": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
     "prompt": "Real levitation photograph, overhead orthographic-style top-down composition with minimal perspective distortion: a tabby desert cat frozen mid-air after leaping from a wooden crate inside a nighttime archaeological mapping tent at Byzantine city ruins in Egypt's Western Desert, front paws striking toward a rolling brass survey compass on a flattened worktable. The table clearly shows pottery shards, specimen labels, church floor-plan drawings, map pins, and a sample tray embellished with beaded rhinestones, pearls, and faceted sparkling stones. Moonlight filters through tent fabric and desert dust, bathing the scene in bamboo jade-green, emerald, and malachite tones with cool silvery-blue shadows, quiet nighttime atmosphere. Candid peak-jump capture, support removed in post, natural feline pose, motion implied by the rolling compass. Shot like a real photograph with a 35mm lens, f/2.8, overhead rig, soft moonlit practical lighting, muted film tones, fine grain, subtle bokeh beyond the tent edges. A visible English timestamp label on the map reads exactly: \"2026-07-06 22:05 UTC\". IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "月下城針"
+  },
+  {
+    "story": "老師傅剛離開去煮茶，貓便開始整理那些滾到桌角的字粒，牠把「夢」「鹽」「風」一顆顆推回紙卷中央。等人們回來時，桌上多了一枚像小颱風的排版草稿，彷彿整座老印刷所正在替午後印一封祕密信。",
+    "news_inspiration": [],
+    "avoid_list": [
+      "貓用鼻尖嗅聞物件",
+      "貓叼著緞帶或膠片",
+      "四腳貓動作強調",
+      "可讀 UTC 時間標牌",
+      "禁止簡體中文提示",
+      "硬光與直打閃光",
+      "靛藍與青綠陰影",
+      "金色描邊細節",
+      "貼紙拼貼邊框",
+      "移軸微縮構圖",
+      "復古電影放映空間",
+      "時裝與布料修復場景",
+      "水面或玻璃鏡面反射",
+      "淺景深底片顆粒",
+      "紅金吉祥裝飾"
+    ],
+    "number": 32,
+    "inspiration": "original",
+    "idea": "賽璐璐著色的粉彩畫面中，一隻三花貓趴在台南一間百年鉛字印刷所的排字桌上，用前爪把散落的活版鉛字與彩色衍紙紙卷推成螺旋漩渦構圖，明亮高調光從高窗灑滿木桌。",
+    "comment_id": 4898414854,
+    "title": "鉛字小颱風",
+    "style_picks": {
+      "art_style": "Cel Shading",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Paper Quilling",
+      "color_palette": "Pastel Colors"
+    },
+    "prompt": "Cel-shaded pastel illustration with flat color areas, bold clean outlines, toon shading, sharp shadow edges, anime game look. A calico cat is clearly lying on a wooden typesetting table inside a century-old letterpress print shop in Tainan, using its front paws to push scattered metal movable type blocks and colorful paper quilling rolls into a spiral vortex composition. The lead type blocks include Traditional Chinese characters 「夢」「鹽」「風」, being nudged back toward the center of the paper coils. Strong rotational perspective with a centered vanishing point, the spiral of type and curled paper strips forming a tiny typhoon-like layout draft around the cat, dizzying depth, cinematic low angle. Bright high-key light pours from tall upper windows across the wood table, airy overexposed feel, soft even illumination, minimal shadows, luminous clean atmosphere. Dreamy soft pastel color palette: gentle pink, lavender, mint, baby blue, warm cream wood, delicate 3D dimensional rolled paper texture. In the scene, the date and time “2026-07-06 23:05 UTC” is visibly printed on a small paper proof sheet on the table in clear English text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
