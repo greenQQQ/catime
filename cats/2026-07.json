@@ -1147,5 +1147,68 @@
       "texture": "Frosted Glass",
       "color_palette": "Teal and Orange"
     }
+  },
+  {
+    "avoid_list": [
+      "貓用鼻尖嗅聞物件",
+      "貓用前爪推動標記或物品",
+      "俯瞰平鋪構圖中的貓",
+      "貓躺在工作台或石階中央",
+      "液態金屬反光道具",
+      "生物發光藍綠光照明",
+      "紅金吉祥配色搭配花卉",
+      "粉彩莫蘭迪柔光場景",
+      "實驗室裡的貓與科技設備",
+      "保育地圖與動物意外改變路線",
+      "分割畫面或多視角展示板",
+      "貼紙拼貼邊框與虹彩碎片",
+      "英文字日期時間標牌",
+      "巨大留白中的小貓敘事",
+      "傳統東亞紋樣混搭現代場景"
+    ],
+    "idea": "濕身水花空靈人像風格的寫實貓咪攝影：魚眼鏡頭貼近冰箱門前的混凝土廚房地板，直打閃光燈凍結飛濺水珠，QQQ 這隻圓潤橘色虎斑貓正因開罐聲衝刺後急煞，肚子貼近地面、琥珀大眼盯著剛開好的罐頭。畫面以朱紅罐頭標籤與描金餐盤呼應賽車勝利香檳般的濺水感，QQQ 的額頭深橘 M 字、白色小圍兜、環紋尾巴與粉紅鼻子清楚可見。",
+    "number": 28,
+    "character_name": "QQQ",
+    "prompt": "Realistic wet-splash cat photography, raw candid snapshot look. Fisheye wide-angle lens pressed low to a raw concrete kitchen floor in front of an open refrigerator door, strong barrel distortion and exaggerated foreground. Harsh direct on-camera flash freezes bursting water droplets and splashes, blown-out highlights, hard shadows, dewy wet fur shine, dreamy backlit glow from the refrigerator, fresh aquatic feeling. QQQ, a literal four-legged chubby round-faced classic orange mackerel tabby shorthair cat, bright orange fur #E8853A with darker orange #C05A1A stripes, clear dark-orange M marking on forehead, one small white bib patch only on chin and upper chest, no other white markings, dark-orange ringed tail with darkest tip, large round warm amber #E0A030 eyes, soft pink nose, plump round belly, no collar or accessories. QQQ is skidding to an abrupt stop after sprinting toward a newly opened cat food can, belly close to the wet floor, eyes locked on the can, content goofy happy expression. A vermilion red can label and a small gilt-outlined food bowl echo racing-champagne splash energy, refined cinnabar red with metallic gold outlines against industrial brutalist concrete. The image must visibly show the timestamp text “2026-07-06 19:05 UTC” printed in English on a small refrigerator magnet or label near the cat. Real photograph, close flash, high contrast, shallow depth of field, visible grain, hard reflections on water. Negative constraints: slim cat, skinny cat, athletic cat, grey fur, brown tabby, solid orange without stripes, white paws, white socks, white belly, blue eyes, green eyes, longhair, fluffy coat, collar, necklace, bandana, calico, tuxedo pattern, black patches, anthropomorphic cat, human body, human hands, standing upright, humanoid cat, furry character, mascot costume, human clothing, human face. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "家人只是不小心拉開罐頭，QQQ 便像廚房裡的銀石冠軍一樣從沙發最中間滑進冰箱前的水痕。牠沒有得獎台，只有一只朱紅描金的小碗，但呼嚕聲大到像全場歡呼。",
+    "character": "qqq",
+    "style_picks": {
+      "art_style": "Wet-Splash Ethereal Portrait",
+      "composition": "Fisheye Lens",
+      "lighting": "Direct Flash",
+      "texture": "Concrete",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "news_inspiration": [
+      {
+        "summary": "紐西蘭一名小學生的科學專題火箭飛失後，被發現卡在距發射點120公尺外、7公尺高的樹上。",
+        "url": "https://news.google.com/read/CBMi4wJBVV95cUxORXJjSlpEMklsUHRYeWZTZ2F2U3NhN3gtZE1LNnBycDRuSEtSLWIwTDBoMU8ySV9aUVkzY0VfVjVyeXl6WGNXRFo5Q2RlV3psdmZ6OVpuN05EU1pVa0ZYYWdRYndxTzFGVDF3d2U0Umh6NTdmdWlBeHp2emFfdFRSOW1yTmNoNUYwSGFVMjhKQU93dUVFSnFnb1FncGhTQmpkdUpwcmU2LVpVU1IwVjJxTjBTaHNIWUViVHBWQU1zM3dpdEQyRzhjQjUxN1p1OHcxWmtYWmdib0RJRmp4LXk5RUhOTGtJbGJtWmliM29yZWQ0dEZyXzhvMGx5cS1CT1VxRjY2UHpaM1p0c0JVS3hIcldUaFFqWkdoaWVLaThjVHF4cXVRUHdPMXllcnluTVY5bTh5aVlhVFRUdWg0aUpZYnl2NjlRbnlCUjFlV3VDSzk1a2dBb3Vjd2ZtaGtOSjBuRkNV?ceid=NZ%3Aen&gl=NZ&hl=en-NZ",
+        "source": "1News"
+      },
+      {
+        "summary": "英國一幅掛在照護之家的畫作被發現可能價值數千英鎊，成為意外的藝術驚喜。",
+        "url": "https://news.google.com/read/CBMiWkFVX3lxTE9rSFZxLWVnaXBZbFVnM0VBNXJLVFNiNjYwM2xIeUxRa3VIa3dsTmJMM1Z2Z0RlR1BRb0dDRmJ1QjlBMXR1Y0h1a2pERWk3bWlWOFZKVWczNlFaZw?ceid=NZ%3Aen&gl=NZ&hl=en-NZ",
+        "source": "BBC"
+      },
+      {
+        "summary": "紐西蘭Waiata 100活動展開2026年度百大歌曲倒數，聚焦本土音樂與文化記憶。",
+        "url": "https://news.google.com/read/CBMiakFVX3lxTE52NlNiS3ZzQkpvc3R4Ym9fcU9VZzZEcG15eHQtcF9wTk8yWkdTdHo1dnJoQTFONXlicnMtVzFvVU4yakdHV2ltNWNOQ1A3U3hBcmNFUTEyNGo2ZnViQWVYbkozZHlOVDhHT2c?ceid=NZ%3Aen&gl=NZ&hl=en-NZ",
+        "source": "RNZ"
+      },
+      {
+        "summary": "澳洲女子板球隊擊敗英格蘭，拿下第七座T20世界盃冠軍。",
+        "url": "https://news.google.com/read/CBMiZkFVX3lxTE9XMjUzQU5kbVB6Nl9SV3BLUUF3YUcwbXprbU5RYXZPQlpLV2Y5QVBTT3pYNHViUVh5blllVlB6amdaZ2VNUkdpUHNJNVBwcG1jbVE3RXNwN1JqazNUdjRHczFPLUp4dw?ceid=NZ%3Aen&gl=NZ&hl=en-NZ",
+        "source": "BBC"
+      },
+      {
+        "summary": "勒克萊爾在銀石賽道戲劇性拿下英國F1大獎賽冠軍，為週末賽事添上高張力結局。",
+        "url": "https://news.google.com/read/CBMi8AFBVV95cUxObnFEa1FVWmFtT1BJejhGbS11aXJ3ZkZHMmY2c3NqbkJQQUJfV2FLaEIzS1dFUnB0TndYY3NsTlFHLWtFVVpEZ3cyWGJ1SjNncEZOR1J2eVlHTmFkeHhTUkl1VDcxTTk5SHZKblRYRzM2dkpNWlZYaWdmZDJtbVA1UFBEb2dTYm9Ec0dabnY3ZjJQNGRmMGM5OWtzZENyZ2dWQnRKUElvdXNlVlBDQ3VJeVF0QzNOM1g4WUN3Y0pXam5ZS0NqbVlCdU5kQXUxOHJkRXBGV0Joc3Zad1JOeUhLQnRJSUpHWTFpRHBEalVRRTE?ceid=NZ%3Aen&gl=NZ&hl=en-NZ",
+        "source": "Formula 1"
+      }
+    ],
+    "comment_id": 4896677747,
+    "inspiration_url": "https://news.google.com/read/CBMi8AFBVV95cUxObnFEa1FVWmFtT1BJejhGbS11aXJ3ZkZHMmY2c3NqbkJQQUJfV2FLaEIzS1dFUnB0TndYY3NsTlFHLWtFVVpEZ3cyWGJ1SjNncEZOR1J2eVlHTmFkeHhTUkl1VDcxTTk5SHZKblRYRzM2dkpNWlZYaWdmZDJtbVA1UFBEb2dTYm9Ec0dabnY3ZjJQNGRmMGM5OWtzZENyZ2dWQnRKUElvdXNlVlBDQ3VJeVF0QzNOM1g4WUN3Y0pXam5ZS0NqbVlCdU5kQXUxOHJkRXBGV0Joc3Zad1JOeUhLQnRJSUpHWTFpRHBEalVRRTE?ceid=NZ%3Aen&gl=NZ&hl=en-NZ",
+    "title": "罐聲急彎",
+    "inspiration": "勒克萊爾在銀石賽道戲劇性拿下英國F1大獎賽冠軍，為週末賽事添上高張力結局。"
   }
 ]
