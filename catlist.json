@@ -231,5 +231,15 @@
     "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-06_1405_UTC.webp",
     "inspiration_url": "https://apnews.com/article/fc27652ccdbed10accd4e24d4c3e88cc",
     "timestamp": "2026-07-06 14:05 UTC"
+  },
+  {
+    "inspiration": "巴黎高級訂製時裝週登場，30個品牌帶來新秀、珠寶展與工藝焦點，成為本週最華麗的文化盛事。",
+    "title": "夜縫黑緞",
+    "timestamp": "2026-07-06 16:05 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 25,
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-06_1605_UTC.webp",
+    "status": "success",
+    "inspiration_url": "https://www.vogue.com/article/paris-couture-week-cheat-sheet-fall-winter-2026"
   }
 ]

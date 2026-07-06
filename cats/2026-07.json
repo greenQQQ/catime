@@ -994,5 +994,66 @@
     "idea": "限色編輯插畫風格：在東非海岸紅樹林復育站旁的木造生態餐車裡，一隻四腳虎斑貓沿著窗邊窄檯慢慢嗅聞剛出爐的紅樹林蜂蜜米餅，大片粉彩留白讓窗邊柔光落在牠的鬍鬚與餐車海報上，角落以金箔祥雲紋理點出海風。",
     "inspiration_url": "https://apnews.com/article/fc27652ccdbed10accd4e24d4c3e88cc",
     "number": 24
+  },
+  {
+    "idea": "以35mm底片攝影呈現巴黎高級訂製時裝週後台，一隻黑白花貓在 Palais de Tokyo 臨時縫紉間裡叼起掉落的黑色天鵝絨緞帶，穿過模特兒腳邊與半完成禮服之間；移軸微縮構圖讓伸展台後場像精密小劇場，電影感打光、黑白單色影調與細緻描金墨線勾出布料邊緣。",
+    "comment_id": 4895014609,
+    "style_picks": {
+      "art_style": "35mm Film Photography",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Cinematic Lighting",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "inspiration": "巴黎高級訂製時裝週登場，30個品牌帶來新秀、珠寶展與工藝焦點，成為本週最華麗的文化盛事。",
+    "title": "夜縫黑緞",
+    "avoid_list": [
+      "貓用鼻尖嗅聞物件",
+      "貓用前爪推動標記或物品",
+      "俯瞰平鋪構圖中的貓",
+      "貓躺在工作台或石階中央",
+      "液態金屬反光道具",
+      "生物發光藍綠光照明",
+      "紅金吉祥配色搭配花卉",
+      "粉彩莫蘭迪柔光場景",
+      "實驗室裡的貓與科技設備",
+      "保育地圖與動物意外改變路線",
+      "分割畫面或多視角展示板",
+      "貼紙拼貼邊框與虹彩碎片",
+      "英文字日期時間標牌",
+      "巨大留白中的小貓敘事",
+      "傳統東亞紋樣混搭現代場景"
+    ],
+    "prompt": "Real 35mm film photograph, candid backstage scene at Paris Haute Couture Week inside a temporary sewing room at Palais de Tokyo. A black-and-white cat is clearly shown carrying a fallen black velvet satin ribbon in its mouth, walking between models' feet and half-finished couture gowns, the ribbon partly covering an unfinished seam on a gown hem. Tilt-shift miniature composition with a narrow selective focus band, blurred foreground and background, backstage runway area appearing like a precise small theatre. Cinematic rehearsal lighting with spotlights, volumetric light rays, dramatic shadows, high dynamic range, visible film grain, slight vignette, nostalgic warm film tones blended with high-contrast black-and-white monochrome styling. Fabric edges are visibly accented by fine black ink-like seam lines and metallic gold gilt contours as physical couture detailing, not a painting. Include a small backstage call sheet or digital clock sign clearly displaying the exact English text: \"2026-07-06 16:05 UTC\". IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "午夜彩排前，裁縫師們正替最後一件禮服收邊，那隻常在後台出沒的貓忽然叼走一段緞帶，停在聚光燈落下的位置。眾人追過去時，才發現緞帶剛好遮住裙襬一處未完成的縫線，像牠替整場秀指出最後的祕密。",
+    "number": 25,
+    "news_inspiration": [
+      {
+        "summary": "詹姆斯韋伯望遠鏡在冥王星與土衛六大氣中偵測到前所未見的神祕物質，讓本週科學新聞充滿太空想像。",
+        "url": "https://www.livescience.com/space/science-news-this-week-james-webb-telescope-finds-a-never-before-seen-substance-chinas-great-green-wall-grows-faster-than-natural-trees-and-a-medici-murder-mystery-is-solved",
+        "source": "Live Science"
+      },
+      {
+        "summary": "巴黎高級訂製時裝週登場，30個品牌帶來新秀、珠寶展與工藝焦點，成為本週最華麗的文化盛事。",
+        "url": "https://www.vogue.com/article/paris-couture-week-cheat-sheet-fall-winter-2026",
+        "source": "Vogue"
+      },
+      {
+        "summary": "中國機器人新創正集中突破仿人靈巧手，讓未來機器人更有機會完成細緻工作與輔助生活。",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "可可・高夫在溫布頓史上最晚開賽之一的夜戰中逆轉勝，壓線趕在宵禁前首度闖進八強。",
+        "url": "https://www.theguardian.com/sport/2026/jul/05/coco-gauff-wimbledon-curfew-tennis-belinda-bencic",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "康乃狄克 Mystic Museum of Art 以天鵝絨與當代伸展台為主題，展出地方紡織史與時尚工藝的連結。",
+        "url": "https://www.ctinsider.com/living/article/ct-culture-corner-mystic-museum-luxe-textiles-22310851.php",
+        "source": "CT Insider"
+      }
+    ],
+    "inspiration_url": "https://www.vogue.com/article/paris-couture-week-cheat-sheet-fall-winter-2026"
   }
 ]
