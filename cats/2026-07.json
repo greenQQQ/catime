@@ -563,5 +563,66 @@
     "prompt": "A cute cat with the date and time '2026-07-06 06:05 UTC' displayed in the image, high quality, detailed",
     "inspiration": "original",
     "comment_id": 4889586030
+  },
+  {
+    "avoid_list": [
+      "貓爪輕觸古卷/物件",
+      "玻璃容器內微縮世界",
+      "水下焦散光影",
+      "柔焦霧面夢幻光暈",
+      "黑貓弓背",
+      "圖書館/書齋場景",
+      "描金墨線紋理",
+      "朱紅與留白對比",
+      "青橙電影調",
+      "強制透視構圖",
+      "圖像顯示日期時間",
+      "強調材質紋理細節",
+      "古風仙俠風格",
+      "巴洛克藝術風格",
+      "巨大圓頂/宏偉建築"
+    ],
+    "prompt": "Colored pencil illustration on rough sketchbook paper, visible pencil grain and layered hues, split view composition with a sharp vertical cut line. Left half: photorealistic colored-pencil rendering of a temporary conservation ranger hut beside the new Center Parcs construction site in the Scottish Borders; under neutral white 5000K overhead fluorescent lighting with flat institutional illumination and no shadows, an open biodiversity layout map lies on a desk. A blue-gray mackerel tabby cat is clearly using its front paws to push a small yellow fluorescent marker flag from the map edge into the wetland zone while a tiny moth rests on the paper. The map or desk label must clearly display the English text \"2026-07-06 07:05 UTC\". Right half: the same unopened forest area drawn as a wireframe diagram, with survey stakes, blue and yellow warning tape, and sparkling dew beads arranged along a conservation path like rhinestone and pearl embellishments, faceted glittering stones, ornate jeweled couture detailing. Blue and yellow complementary palette, vivid cool blue against warm yellow, bold balanced graphic vibrancy. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4890066207,
+    "inspiration_url": "https://www.thescottishsun.co.uk/money/16498450/first-job-unveiled-scotland-new-center-parcs-resort/",
+    "title": "螢燈護林",
+    "number": 17,
+    "story": "巡護員剛離開小屋去查看夜間相機，留下攤開的生物多樣性配置圖。貓咪似乎只在追逐一隻停在圖上的小飛蛾，卻意外把施工路線改到避開獾洞的位置，讓清晨回來的人類愣在螢光燈下。",
+    "inspiration": "蘇格蘭 Borders 新 Center Parcs 度假村公布首個職缺，將聘請保育巡護員在施工與開園後守護生物多樣性。",
+    "style_picks": {
+      "art_style": "Colored Pencil Drawing",
+      "composition": "Split View",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Beaded Rhinestone Embellishment",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "news_inspiration": [
+      {
+        "summary": "本週科學焦點包括韋伯望遠鏡在冥王星與泰坦大氣中發現未知物質，以及中國「三北防護林」樹木成長速度超乎預期。",
+        "url": "https://www.livescience.com/space/science-news-this-week-james-webb-telescope-finds-a-never-before-seen-substance-chinas-great-green-wall-grows-faster-than-natural-trees-and-a-medici-murder-mystery-is-solved",
+        "source": "Live Science"
+      },
+      {
+        "summary": "英國本週藝術看點從海邊夏季群展、倫敦酒館速寫計畫到自然史博物館的遠古海洋恐龍展，充滿奇趣視覺題材。",
+        "url": "https://www.theguardian.com/artanddesign/2026/jul/03/the-week-in-art",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "本週娛樂文化行程橫跨電影、音樂、展覽、舞台與遊戲，包括 Madonna 新作、Minions 電影與多檔夏季藝術展。",
+        "url": "https://www.theguardian.com/culture/2026/jul/04/entertainment-week-ahead-minions-monsters-madonna-little-house-prairie-assassins-black-flag",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "喬科維奇在溫網擊敗 Safiullin，寫下第 106 場溫網勝利並第 17 度闖進八強的新紀錄。",
+        "url": "https://www.theguardian.com/sport/2026/jul/05/novak-djokovic-roman-safiullin-wimbledon-2026-last-16-match-report-tennis",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "蘇格蘭 Borders 新 Center Parcs 度假村公布首個職缺，將聘請保育巡護員在施工與開園後守護生物多樣性。",
+        "url": "https://www.thescottishsun.co.uk/money/16498450/first-job-unveiled-scotland-new-center-parcs-resort/",
+        "source": "The Scottish Sun"
+      }
+    ],
+    "idea": "色鉛筆畫風的分割畫面：左半是蘇格蘭 Borders 新 Center Parcs 工地旁的保育巡護員臨時小屋，日光燈下，一隻藍灰虎斑貓正用前爪把黃色螢光標記旗從地圖邊緣撥到濕地區域；右半是同一片尚未開園的林地，測量樁、藍黃警示帶與像珠飾水鑽鑲嵌般閃亮的露珠沿著保育步道排列。"
   }
 ]
