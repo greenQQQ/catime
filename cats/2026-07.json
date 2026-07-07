@@ -2135,5 +2135,67 @@
     },
     "comment_id": 4905322168,
     "number": 48
+  },
+  {
+    "story": "清晨的溫室還很安靜，布藍里選了最高花架下的標本工作台，像往常一樣不出聲地觀察整個屋頂。牠把花放在銀河標記旁，彷彿替今晚的觀星者留下一個冷靜而精準的提示；沒人注意時，牠才把身體更深地蜷進花影裡。",
+    "inspiration": "NASA 分享 2026 年 7 月銀河觀測指南，7 月中旬新月前後將是欣賞銀河與行星排列的好時機。",
+    "style_picks": {
+      "art_style": "Abstract Expressionism",
+      "composition": "Overhead Reclining-in-Blossoms",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "idea": "抽象表現主義的古絹絹本質感中，布藍里俯臥在老公寓頂樓溫室的藍繡球與鼠尾草花海裡，棕灰短毛、深黑棕鯖魚紋、額頭 M 字斑、翠綠杏眼與白色長鬍鬚在窗後冷青背光下形成細薄輪廓光；牠正把一朵藍繡球叼到攤開的七月星圖旁，尾巴環紋整齊貼著版面邊緣。",
+    "character_name": "布藍里",
+    "prompt": "Abstract Expressionist aged silk scroll painting on an antique manuscript surface: visible silk weave, warm sepia patina, weathered stains, delicate crease lines. Top-down flat-lay bird's-eye composition inside an old apartment rooftop greenhouse at dawn, dense blue hydrangeas and sage flowers forming a sea of blossoms around Blanli, a literal slender elegant brown-grey mackerel tabby shorthair cat with warm grey-brown coat #8A7358, crisp dark brown-black #3B2F23 stripes from spine to flanks, one continuous dark spine stripe, bold dark M marking on forehead, almond emerald green eyes #3FA66B with dark eyeliner markings, long white whiskers, neat dark tail rings ending in a black tip, no collar. Blanli lies prone and quiet among the flowers, clearly holding a blue hydrangea bloom in its mouth and placing it beside an opened July star chart on a specimen worktable; the tail lies neatly along the edge of the chart. The star chart must visibly display the exact English text: \"2026-07-07 18:05 UTC\". Cool blue-teal color grading with icy undertones, crisp atmosphere, cold cyan backlight through greenhouse windows creating thin rim light and glowing silhouette edges around the cat and whiskers. High contrast gestural brushwork, large bold color fields, spontaneous raw emotional intensity, dreamy decorative overhead framing, serene calm mood. Keep the cat four-legged and natural, never anthropomorphic. Exclude orange fur, ginger tabby, chubby body, blue eyes, amber eyes, yellow eyes, longhair, fluffy coat, white bib, white chest patch, white paws, collar, necklace, bandana, calico, tuxedo pattern, solid black cat, spotted coat, humanoid cat, human hands, human face, mascot costume, human clothing. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character": "blanli",
+    "number": 51,
+    "avoid_list": [
+      "貓用爪或鼻推動",
+      "夜間場景與暗部細節",
+      "等距或平鋪構圖",
+      "高對比或電影風格",
+      "溫布頓或網球主題",
+      "台南地方背景",
+      "特定機構/科學設施",
+      "琥珀或金色光澤",
+      "微縮模型或物件",
+      "水花飛濺凝結瞬間",
+      "療癒或童話氛圍",
+      "雙色調或限定色板",
+      "貓追逐滾動物品",
+      "明確指示貓的動作"
+    ],
+    "news_inspiration": [
+      {
+        "summary": "NASA 分享 2026 年 7 月銀河觀測指南，7 月中旬新月前後將是欣賞銀河與行星排列的好時機。",
+        "url": "https://timesofindia.indiatimes.com/science/how-to-see-the-milky-way-in-july-2026-nasas-dark-sky-viewing-tips/articleshow/132233667.cms",
+        "source": "Times of India"
+      },
+      {
+        "summary": "月亮與土星在 7 月 7 日上演近距離視覺合相，為全球觀星者提供容易拍攝與觀察的天空景象。",
+        "url": "https://m.economictimes.com/news/new-updates/moon-saturn-conjunction-2026-on-july-7-best-time-and-places-to-watch-the-moon-and-saturn-together/articleshow/132238339.cms",
+        "source": "The Economic Times"
+      },
+      {
+        "summary": "費城「RockyFest」將在 2026 年回歸，並以《洛基》電影 50 週年為主題擴大慶祝。",
+        "url": "https://www.axios.com/local/philadelphia/2026/07/07/rockyfest-rocky-balboa-sylvester-stallone",
+        "source": "Axios"
+      },
+      {
+        "summary": "加州聖克魯斯山區的野生動物通道已協助近千隻動物安全穿越道路，展現生態廊道的實際成效。",
+        "url": "https://www.sfgate.com/bayarea/article/santa-cruz-mountain-lions-22331032.php",
+        "source": "SFGATE"
+      },
+      {
+        "summary": "巴黎高級訂製服週 2026 秋冬季登場，包含 Balenciaga、Fendi 與 Jean Paul Gaultier 等多個備受矚目的首次或新任設計亮相。",
+        "url": "https://www.vogue.com/article/paris-couture-week-cheat-sheet-fall-winter-2026",
+        "source": "Vogue"
+      }
+    ],
+    "comment_id": 4907037926,
+    "title": "青花星圖",
+    "inspiration_url": "https://timesofindia.indiatimes.com/science/how-to-see-the-milky-way-in-july-2026-nasas-dark-sky-viewing-tips/articleshow/132233667.cms"
   }
 ]
