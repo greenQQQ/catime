@@ -469,5 +469,13 @@
     "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-07_1505_UTC.webp",
     "status": "success",
     "timestamp": "2026-07-07 15:05 UTC"
+  },
+  {
+    "url": null,
+    "timestamp": "2026-07-07 16:05 UTC",
+    "number": null,
+    "model": "all failed",
+    "error": "codex-image-service job failed: Codex exited with code 1",
+    "status": "failed"
   }
 ]
