@@ -1756,5 +1756,55 @@
       "color_palette": "High Saturation Vivid"
     },
     "prompt": "Photorealistic vertical East Asian movie-poster composition: a transparent glass Christmas bauble diorama contains the rooftop drying yard of Tainan Yongle Fabric Market, miniature bamboo laundry poles, sewing stalls, drainage channel, and dense woven cloth bolts. At the center, an orange-and-white cat stays low like a real cat, biting the end of a windblown bright red satin ribbon and dragging it back through the tiny fabric stalls toward distant lion-dance drums. Harsh midday sun, hard-edged shadows, high-contrast natural daylight, strong directional sunlight, cinematic glass reflections, warm glow on the bauble, multi-layered depth. High-saturation red, blue, and gold textiles look like a sea of flags, with visible threads, linen and cotton weave texture, tactile soft fabric surfaces. Vertical poster framing with ornamental border elements, a side calligraphy panel reading 「永樂曬布場」, red seal accents reading 「台南」, and the exact date/time “2026-07-07 08:05 UTC” clearly printed on a small hanging fabric tag inside the bauble. 35mm lens, f/4, realistic product-poster photography, crisp central focus, natural grain, gritty urban realism, no painting or digital illustration look. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "title": "靛鯉賽末點",
+    "idea": "在溫布頓中央球場的球員通道長椅旁，一隻月夜靛藍虎斑貓正用鼻尖把網球推進由五盤比分、白線膠帶、草屑與球拍線排成的 Knolling 陣列；整幅以錦鯉浮世繪美人風格呈現，柔和自然漫射光落在衍紙藝術般捲曲的草線與錦鯉紋樣上。",
+    "avoid_list": [
+      "貓用前爪操作器物",
+      "貓低頭嗅聞小物",
+      "貓踩水濺起水珠",
+      "可見 UTC 時間標籤",
+      "青橙電影調光影",
+      "莫蘭迪柔和色調",
+      "等距俯視攝影構圖",
+      "考古遺址夜間探方",
+      "威尼斯百葉窗條紋光",
+      "珠寶水鑽珍珠點綴",
+      "強調四腳貓全身可見",
+      "濕毛貓搭配黑金背光",
+      "紙本地圖與標本標籤",
+      "柔光窗邊貓咪靜物"
+    ],
+    "story": "牠不是選手，也不懂搶七，只記得那顆球在第五盤滾到牠身邊時，全場的呼吸像潮水一樣停住。當牠把球頂進最後一格，牆上練習用的藍色比分牌彷彿變成一尾躍起的靛藍錦鯉，替黑馬故事收下安靜而莊嚴的註腳。",
+    "prompt": "Neo-ukiyo-e paper-quilling illustration, overhead flat lay Knolling composition beside the player tunnel bench at Wimbledon Centre Court: a moonlit indigo tabby cat clearly nudges a tennis ball with its nose into the final square of an organized 90-degree grid made from five-set score cards, white line tape, grass clippings, and loose racket strings. The cat is the active focal subject, nose touching the ball, paws on trimmed grass near the bench. A blue practice scoreboard on the wall transforms visually into a leaping indigo koi motif, with the exact text “2026-07-07 09:05 UTC” clearly displayed on the scoreboard. Elegant neo-ukiyo-e beauty-inspired styling with swirling koi and wave ornaments, flat decorative color fields, bold flowing outlines, Japanese woodblock-inspired contours, delicate coiled paper strips forming curled grass lines and koi patterns, dimensional rolled-paper texture. Soft diffused natural light like an overcast day mixed with cool moonlit indigo, deep night-blue and violet tones, silvery highlights, gentle low-contrast illumination, clean background, dark dreamy blue dominance, serene ceremonial mood. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Koi Ukiyo-e Beauty",
+      "composition": "Knolling Photography",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Paper Quilling",
+      "color_palette": "Moonlit Indigo"
+    },
+    "inspiration": "英國外卡選手 Arthur Fery 在溫網五盤逆轉擊敗 Dimitrov，首度闖進大滿貫八強，成為本屆最吸睛的黑馬故事。",
+    "news_inspiration": [
+      {
+        "summary": "韋伯望遠鏡在冥王星與土衛六大氣中偵測到前所未見的神祕物質，讓本週科學新聞充滿宇宙級驚奇。",
+        "url": "https://www.livescience.com/space/science-news-this-week-james-webb-telescope-finds-a-never-before-seen-substance-chinas-great-green-wall-grows-faster-than-natural-trees-and-a-medici-murder-mystery-is-solved",
+        "source": "Live Science"
+      },
+      {
+        "summary": "英國外卡選手 Arthur Fery 在溫網五盤逆轉擊敗 Dimitrov，首度闖進大滿貫八強，成為本屆最吸睛的黑馬故事。",
+        "url": "https://www.theguardian.com/sport/2026/jul/06/arthur-fery-grigor-dimitrov-wimbledon-fourth-round-mens-tennis",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "AI 生成角色 Tilly Norwood 將主演首部長片《Misaligned》，把好萊塢對 AI 演員的爭議推向更具想像力的新階段。",
+        "url": "https://www.sfchronicle.com/entertainment/movies-tv/article/tilly-norwood-ai-first-film-22334200.php",
+        "source": "San Francisco Chronicle"
+      }
+    ],
+    "comment_id": 4902131256,
+    "inspiration_url": "https://www.theguardian.com/sport/2026/jul/06/arthur-fery-grigor-dimitrov-wimbledon-fourth-round-mens-tennis",
+    "number": 42
   }
 ]
