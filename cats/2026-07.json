@@ -2257,5 +2257,65 @@
       "貓追逐滾動物品",
       "明確指示貓的動作"
     ]
+  },
+  {
+    "idea": "Y2K 風格的長卷全景構圖中，一隻緋紅項圈的烏黑四腳貓趴在倫敦 Dover Street Market 珠寶展的透明展櫃旁，正用前爪按住一串由回收鍵帽、漆黑樹脂與紅色玻璃組成的學生設計項鍊標籤；環形燈在展櫃上形成一圈圈白亮反光，厚塗油彩肌理讓金屬、塑膠與貓毛都像被堆疊成發亮的時代殘影。",
+    "news_inspiration": [
+      {
+        "summary": "NASA 公開哈伯拍下的梅西耶3球狀星團影像，50萬顆古老恆星呈現壯觀的紅白藍星光。",
+        "url": "https://timesofindia.indiatimes.com/science/nasas-hubble-captures-a-spectacular-cluster-of-500000-ancient-stars-to-mark-americas-250th-anniversary/articleshow/132217269.cms",
+        "source": "Times of India"
+      },
+      {
+        "summary": "紐西蘭「恐鳥蛋殼洞」出土百萬年前鳥類與青蛙化石，補上當地演化史中長期缺失的一頁。",
+        "url": "https://theweek.com/science/new-zealand-moa-eggshell-cave-million-year-old-fossils",
+        "source": "The Week"
+      },
+      {
+        "summary": "中國新創與製造供應鏈正加速研發靈巧機器手，讓人形機器人更接近能完成實用工作的階段。",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "梅西在世界盃16強戰帶領阿根廷從0比2落後逆轉埃及，締造又一場驚奇 comeback。",
+        "url": "https://people.com/lionel-messi-leads-argentina-to-unbelievable-world-cup-win-over-egypt-12013565",
+        "source": "People"
+      },
+      {
+        "summary": "倫敦 Dover Street Market 夏季珠寶展聚焦36位全球新銳設計學生與畢業生，展示跨文化材料與工藝創意。",
+        "url": "https://www.ft.com/content/c72a1380-3621-4835-a7b2-98b199115852",
+        "source": "Financial Times"
+      }
+    ],
+    "avoid_list": [
+      "貓用爪或鼻推動",
+      "夜間場景與暗部細節",
+      "等距或平鋪構圖",
+      "高對比或電影風格",
+      "溫布頓或網球主題",
+      "台南地方背景",
+      "特定機構/科學設施",
+      "琥珀或金色光澤",
+      "微縮模型或物件",
+      "水花飛濺凝結瞬間",
+      "療癒或童話氛圍",
+      "雙色調或限定色板",
+      "貓追逐滾動物品",
+      "明確指示貓的動作"
+    ],
+    "inspiration_url": "https://www.ft.com/content/c72a1380-3621-4835-a7b2-98b199115852",
+    "prompt": "Y2K impasto oil painting, extreme wide handscroll panoramic composition of a London Dover Street Market jewelry exhibition, oblique bird’s-eye angle with right-to-left reading flow and layered foreground, middleground, background. A jet-black four-legged cat wearing a crimson collar crouches very low beside a transparent glass display case, clearly pressing its front paws onto the tag of a student-designed necklace made from recycled keyboard keycaps, black resin, and red glass; the small tag reads \"可觸摸樣本\" and also visibly displays \"2026-07-07 20:05 UTC\". Slow-moving exhibition visitors fill the long corridor, design students quietly discussing cross-cultural materials in the background, multiple focal points spread horizontally. Ring lights create bright white circular reflections across the display glass and circular catchlights in the cat’s eyes, even frontal beauty-portrait lighting. Holographic textures, pastel gradients, glitter accents, early-2000s playful design details, crimson and black palette with deep blood-red against jet black, dramatic high-contrast seductive sinister mood. Thick palette-knife impasto, raised three-dimensional paint ridges, visible brush gestures, tactile glossy oil surface making metal, plastic, glass, and cat fur look like luminous layered remnants of an era. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "展場裡的人群沿著長廊慢慢移動，設計學生低聲討論跨文化材料，只有這隻貓執著地研究那張寫著「可觸摸樣本」的小卡。牠把身體壓得很低，像在替整座展覽挑選最適合叼回家的未來飾品。",
+    "style_picks": {
+      "art_style": "Y2K Aesthetic",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Ring Light",
+      "texture": "Impasto Oil Texture",
+      "color_palette": "Crimson and Black"
+    },
+    "comment_id": 4908223978,
+    "inspiration": "倫敦 Dover Street Market 夏季珠寶展聚焦36位全球新銳設計學生與畢業生，展示跨文化材料與工藝創意。",
+    "title": "紅圈展櫃",
+    "number": 53
   }
 ]
