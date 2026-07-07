@@ -1896,5 +1896,66 @@
       "color_palette": "Duotone"
     },
     "title": "燭橘飛行"
+  },
+  {
+    "number": 45,
+    "title": "彗塵琥珀",
+    "inspiration_url": "https://www.thetimes.com/uk/science/article/comet-ancient-relic-distant-star-system-dh328xqx6",
+    "style_picks": {
+      "art_style": "Cyberpunk",
+      "composition": "Diagonal Composition",
+      "lighting": "Underwater Caustics",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "story": "研究員們忙著爭論這粒塵埃是否比太陽更古老，只有那隻貓注意到濾片卡在錯誤角度。牠一躍而過，尾巴掃亮整排霓虹刻度，沉睡的樣本艙忽然映出一片來自遠古銀河的琥珀光。",
+    "inspiration": "天文學家指出星際彗星 3I/Atlas 可能是來自遙遠恆星系、已有約120億年歷史的宇宙 relic，提供研究早期銀河物質的罕見窗口。",
+    "prompt": "Illustration / digital painting with aged silk scroll texture: inside a cyberpunk underwater astronomical data-center wet chamber, a tortoiseshell cat clearly runs along a steep diagonal transparent maintenance bridge, front paw swatting open an amber spectral filter as tiny dust from suspected interstellar comet 3I/ATLAS unfolds beneath robotic arms. Dynamic diagonal composition, tilted framing, slanted neon scale lines lit by the cat’s sweeping tail, holographic readouts, submerged blue-green glow, refracted sun shafts, underwater caustic ripples flowing like cracks across antique silk weave and weathered manuscript stains. Warm autumn amber grading over golden-yellow and burnt-orange metal, cozy sepia patina on machinery, blue aquatic shadows, kinetic motion across the frame. A bright display panel in the scene must clearly show the exact English text: “2026-07-07 12:05 UTC”. All visible text must be English or Traditional Chinese only. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "貓用鼻尖嗅聞小物",
+      "明確時間戳文字牌",
+      "硬邊條紋光影切過貓毛",
+      "靛藍月夜色調",
+      "黑金高反差夜景",
+      "橘白貓追逐或叼紅色物件",
+      "鏡子自拍構圖",
+      "等距俯視攝影構圖",
+      "水珠飛濺凝結瞬間",
+      "貓在歷史或展覽場館中探索",
+      "傳統街市場景搭配台南或台北",
+      "倫勃朗三角光照貓臉",
+      "貓與溫布頓網球元素",
+      "手作纖維或羊毛氈質感",
+      "禁止簡體字提示反覆出現"
+    ],
+    "comment_id": 4903657474,
+    "news_inspiration": [
+      {
+        "summary": "天文學家指出星際彗星 3I/Atlas 可能是來自遙遠恆星系、已有約120億年歷史的宇宙 relic，提供研究早期銀河物質的罕見窗口。",
+        "url": "https://www.thetimes.com/uk/science/article/comet-ancient-relic-distant-star-system-dh328xqx6",
+        "source": "The Times"
+      },
+      {
+        "summary": "AI 生成演員 Tilly Norwood 將在喜劇劇情片《Misaligned》中首次主演長片，讓電影與人工智慧創作的邊界再度成為焦點。",
+        "url": "https://people.com/ai-actress-tilly-norwood-to-make-feature-film-debut-12012414",
+        "source": "People"
+      },
+      {
+        "summary": "Ringo Starr 宣布 2026 年東岸巡演，並將重返紐約 Forest Hills Stadium，呼應披頭四 1964 年在該場地的歷史演出。",
+        "url": "https://pitchfork.com/story/ringo-starr-announces-east-coast-tour",
+        "source": "Pitchfork"
+      },
+      {
+        "summary": "7月7日至8日的灣區體育行程涵蓋溫布頓、環法自行車賽、NBA 夏季聯賽、WNBA、MLB 與世界盃淘汰賽，形成豐富的夏季運動週。",
+        "url": "https://www.sfchronicle.com/sports/article/sportscal-22333348.php",
+        "source": "San Francisco Chronicle"
+      },
+      {
+        "summary": "WWE RAW 芝加哥場出現 CM Punk 驚喜回歸並替補 Cody Rhodes 出戰，同晚還有新冠軍誕生，成為近期摔角迷熱議焦點。",
+        "url": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/wwe-raw-results-highlights-6-july-2026-cm-punk-returns-to-replace-cody-rhodes-new-champions-crowned-and-more/articleshow/132228958.cms",
+        "source": "The Times of India"
+      }
+    ],
+    "idea": "賽博龐克風格的海底天文資料中心濕艙裡，一隻玳瑁貓沿著傾斜的透明維修橋奔跑，用前爪拍開琥珀色光譜濾片，讓疑似星際彗星 3I/Atlas 的微塵在機械臂下展開；畫面採對角線構圖，水下焦散光像古絹絹本上的裂紋般流過暖秋色金屬與貓毛。"
   }
 ]
