@@ -1957,5 +1957,66 @@
       }
     ],
     "idea": "賽博龐克風格的海底天文資料中心濕艙裡，一隻玳瑁貓沿著傾斜的透明維修橋奔跑，用前爪拍開琥珀色光譜濾片，讓疑似星際彗星 3I/Atlas 的微塵在機械臂下展開；畫面採對角線構圖，水下焦散光像古絹絹本上的裂紋般流過暖秋色金屬與貓毛。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Korean Soft-Light Illustration",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Butterfly Lighting",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Duotone"
+    },
+    "prompt": "Korean-style soft-light illustration of a gray-blue short-haired cat lying at the open rear door of a Tour de France 2026 Stage 4 support vehicle on the Pyrenean hills route from Carcassonne to Foix, clearly using its front paws to nudge scattered miniature gears and route ribbons back onto a canvas mat before they roll down the slope. Airy airbrushed shading, gentle webtoon character rendering, dreamy soft glow, watercolor splatter, ink-spray texture, dripping pigment, scattered dots and organic stains on paper. Composition: close-up three-quarter view from slightly above, support staff and water bottles softly blurred inside the feed vehicle, winding mountain road and hill curve in the background. Butterfly lighting with overhead key light, soft even illumination, delicate highlight on the cat’s forehead, symmetrical small shadow under the nose. Duotone color treatment using only muted gray-blue and warm cream, bold modern graphic impact. Frame the illustration with vertical two-tone color palette swatch bars on both sides, stacked color blocks, portfolio presentation layout, Korean illustrator signature moodboard aesthetic. Visually display the exact text “2026-07-07 13:05 UTC” on a small feed-zone label attached to the vehicle door, in clear English text only. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "山彎齒光",
+    "idea": "韓系柔光少女插畫風格中，一隻灰藍短毛貓趴在2026環法第4站卡卡頌往富瓦的庇里牛斯丘陵補給車後門，用前爪撥動散落的迷你齒輪與路線緞帶，畫面外框做成雙色調配色條邊框，蝴蝶光柔柔落在貓額，周圍有水彩潑濺墨點。",
+    "news_inspiration": [
+      {
+        "summary": "NASA 七月觀星指南指出，7 月中旬新月前後是欣賞銀河與月亮、火星、土星晨間排列的好時機。",
+        "url": "https://timesofindia.indiatimes.com/science/how-to-see-the-milky-way-in-july-2026-nasas-dark-sky-viewing-tips/articleshow/132233667.cms",
+        "source": "Times of India"
+      },
+      {
+        "summary": "溫布頓女單八強將上演 Coco Gauff 對 Jessica Pegula 的全美對決，且今年女單確定會誕生首次溫網冠軍。",
+        "url": "https://nypost.com/2026/07/06/sports/gauff-pegula-set-for-all-american-wimbledon-quarterfinal/",
+        "source": "New York Post"
+      },
+      {
+        "summary": "2026 環法自行車第 4 站從卡卡頌騎往富瓦，丘陵路線與庇里牛斯風景讓賽段充滿觀賞性。",
+        "url": "https://www.theguardian.com/sport/live/2026/jul/07/tour-de-france-2026-stage-four-updates-as-riders-face-extreme-heat-live",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "澳洲學校七人制橄欖球賽落幕，NSW 與昆士蘭青年女將在 U16、U18 決賽展現新世代運動能量。",
+        "url": "https://www.dailytelegraph.com.au/sport/australian-schoolgirls-7s-2026-winners-results-merit-teams-and-photos/news-story/a588d9924ac6f6983f0b1191075f2111",
+        "source": "Daily Telegraph"
+      },
+      {
+        "summary": "印度博物館以「Virtues of Bharat」展覽呈現婆羅米文字書法，結合古代文物與當代視覺創作。",
+        "url": "https://timesofindia.indiatimes.com/entertainment/events/indian-museum-hosts-brahmi-calligraphy-exhibition-exploring-virtues-of-bharat/articleshow/132193999.cms",
+        "source": "Times of India"
+      }
+    ],
+    "comment_id": 4904176783,
+    "inspiration_url": "https://www.theguardian.com/sport/live/2026/jul/07/tour-de-france-2026-stage-four-updates-as-riders-face-extreme-heat-live",
+    "inspiration": "2026 環法自行車第 4 站從卡卡頌騎往富瓦，丘陵路線與庇里牛斯風景讓賽段充滿觀賞性。",
+    "story": "車隊剛穿過山彎，補給員忙著整理水壺，只有這隻貓發現變速器旁的小零件快滾下斜坡。牠用爪尖把齒輪按回帆布墊上，像替整個賽段守住一枚安靜的節奏。",
+    "avoid_list": [
+      "貓用鼻尖嗅聞小物",
+      "明確時間戳文字牌",
+      "硬邊條紋光影切過貓毛",
+      "靛藍月夜色調",
+      "黑金高反差夜景",
+      "橘白貓追逐或叼紅色物件",
+      "鏡子自拍構圖",
+      "等距俯視攝影構圖",
+      "水珠飛濺凝結瞬間",
+      "貓在歷史或展覽場館中探索",
+      "傳統街市場景搭配台南或台北",
+      "倫勃朗三角光照貓臉",
+      "貓與溫布頓網球元素",
+      "手作纖維或羊毛氈質感",
+      "禁止簡體字提示反覆出現"
+    ],
+    "number": 46
   }
 ]
