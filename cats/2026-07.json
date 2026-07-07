@@ -1463,5 +1463,66 @@
     "number": 34,
     "news_inspiration": [],
     "title": "第十三鐘"
+  },
+  {
+    "number": 35,
+    "inspiration": "巴黎高訂週登場，30個時裝屋帶來新任設計師首秀、珠寶發表與慈善活動，讓時尚圈本週充滿視覺亮點。",
+    "comment_id": 4899443080,
+    "idea": "羊毛氈工藝呈現的巴黎高訂週古董鏡牆試衣沙龍，一隻四腳玳瑁貓趴在月夜靛藍地毯上，正低頭嗅聞陶瓷托盤裡一枚魚骨造型珠寶胸針；畫面像手機被放在低矮圓凳上拍出的鏡子自拍構圖，倫勃朗光在貓臉留下小小三角亮斑，整體帶黏土釉面般的陶瓷質感。",
+    "avoid_list": [
+      "移軸微縮立體模型場景",
+      "清楚顯示 UTC 時間標籤",
+      "禁止簡體中文文字提示",
+      "貓用前爪修補或推動物件",
+      "貓叼住緞帶膠片棉線",
+      "竹影翠綠與孔雀石色調",
+      "描金墨線勾勒邊緣",
+      "電影膠片與老放映室",
+      "後台或工坊裡的臨時工作台",
+      "體積光束與可見塵埃",
+      "高調棚光白底居中肖像",
+      "懸浮跳躍攝影定格",
+      "貓守護即將出錯的機械或物件",
+      "小型標籤抽屜工具模型細節",
+      "柔和青橙電影調"
+    ],
+    "title": "靛鏡貓宴",
+    "story": "模特兒們的裙襬剛掠過鏡前，貓卻只在意那枚像晚餐又像月亮碎片的胸針。牠沒有偷走任何東西，只把鬍鬚貼近冷冷的陶瓷托盤，讓整個高訂沙龍在鏡中安靜成一場靛藍色的秘密儀式。",
+    "prompt": "Needle-felted wool craft illustration of a Paris haute couture week vintage mirrored fitting salon, soft fuzzy fiber texture mixed with handmade ceramic clay-glaze matte surface and subtle imperfections. Low intimate mirror-selfie composition as if a phone rests on a short round stool, visible mirror reflection, casual close framing. A four-legged tortoiseshell cat lies on a moonlit indigo carpet, head lowered, clearly sniffing a fishbone-shaped jeweled brooch on a small ceramic tray. Antique mirror wall, faint reflected gown hems just passing by, couture salon details kept quiet and elegant. Single warm studio light at 45 degrees creates Rembrandt lighting on the cat face, with a tiny triangle of light on the shadowed cheek, dramatic chiaroscuro. Moonlit indigo, deep night-blue and violet tones, cool silvery highlights, warm earthy accents, mysterious nocturnal mood. The exact text \"2026-07-07 02:05 UTC\" is clearly visible as an English timestamp sticker on the mirror edge. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Needle-Felted Wool Craft",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Moonlit Indigo"
+    },
+    "inspiration_url": "https://www.vogue.com/article/paris-couture-week-cheat-sheet-fall-winter-2026",
+    "news_inspiration": [
+      {
+        "summary": "巴黎高訂週登場，30個時裝屋帶來新任設計師首秀、珠寶發表與慈善活動，讓時尚圈本週充滿視覺亮點。",
+        "url": "https://www.vogue.com/article/paris-couture-week-cheat-sheet-fall-winter-2026",
+        "source": "Vogue"
+      },
+      {
+        "summary": "中國新創公司正加速研發靈巧機器手，結合AI訓練與成熟供應鏈，瞄準人形機器人與平價義肢的新應用。",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "保育團隊在印度阿薩姆邦釋放15隻瀕危侏儒豬，為全球最小野豬的復育計畫帶來重要進展。",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/why-did-jerseys-wildlife-conservation-trust-release-pygmy-hogs-in-india/articleshow/132215887.cms",
+        "source": "The Times of India"
+      },
+      {
+        "summary": "科學家在墨西哥確認新的化石蠑螈物種，為墨西哥鈍口螈的古老演化史補上關鍵線索。",
+        "url": "https://www.wired.com/story/scientists-have-identified-a-new-fossil-species-of-axolotl-in-mexico",
+        "source": "Wired"
+      },
+      {
+        "summary": "英格蘭在世界盃以3比2擊敗地主墨西哥後士氣大振，這場高壓逆轉勝成為今日體壇焦點。",
+        "url": "https://www.thesun.ie/sport/17249105/wayne-rooney-england-celebrations-mexico-world-cup-bbc/",
+        "source": "The Sun"
+      }
+    ]
   }
 ]
