@@ -1575,5 +1575,39 @@
       }
     ],
     "inspiration": "洛杉磯 Dataland AI 藝術博物館以互動雨林展覽，讓觀眾用感測資料參與生成沉浸式視覺與聲音體驗。"
+  },
+  {
+    "story": "中午的迪化街熱得像剛開封的鐵盒，店員忙著把祭祀紙品裝袋，橘白貓卻只盯著一朵歪斜的摺紙蓮花。牠聞了很久，最後把下巴靠在金紙邊休息，像是替整條街確認今天的陽光有沒有把年味曬熟。",
+    "prompt": "Real smartphone snapshot, environmental medium shot of an orange-and-white cat crouching under the arcade of a Lunar New Year paper goods shop on Taipei Dihua Street, the cat clearly pressing its nose close to a sun-warmed paper corner and sniffing beside red-and-gold folded paper lotus flowers and bundled joss paper. Casual off-center composition, 35mm phone-camera perspective, candid street photography, natural depth perspective, balanced figure-and-context framing. Harsh midday sunlight, strong directional sun, hard-edged shadows cutting across the cat’s whiskers and floor tiles, high-contrast natural daylight, unforgiving illumination. Keep the authentic street-side clutter: passerby lower legs, plastic stools, shop doorway red fabric banners with Traditional Chinese characters, stacked paper goods, busy shop staff bagging offerings in the background. The red and gold colors come from the real festive paper products, auspicious Chinese red with bright gold accents, not a color filter. Real photograph look, gritty urban realism, slight phone-camera grain, no painting, no digital art. Include the visible timestamp text \"2026-07-07 04:05 UTC\" as a small phone camera overlay in English. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "紙蓮午眠",
+    "news_inspiration": [],
+    "avoid_list": [
+      "移軸微縮立體模型場景",
+      "清楚顯示 UTC 時間標籤",
+      "禁止簡體中文文字提示",
+      "貓用前爪修補或推動物件",
+      "貓叼住緞帶膠片棉線",
+      "竹影翠綠與孔雀石色調",
+      "描金墨線勾勒邊緣",
+      "電影膠片與老放映室",
+      "後台或工坊裡的臨時工作台",
+      "體積光束與可見塵埃",
+      "高調棚光白底居中肖像",
+      "懸浮跳躍攝影定格",
+      "貓守護即將出錯的機械或物件",
+      "小型標籤抽屜工具模型細節",
+      "柔和青橙電影調"
+    ],
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Environmental Medium Portrait",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Origami",
+      "color_palette": "Festive Red and Gold"
+    },
+    "comment_id": 4900026536,
+    "idea": "手機隨拍風格的中景環境人像：台北迪化街一間年節紙品店騎樓下，一隻橘白貓蹲在紅金摺紙蓮花與金紙束旁，正用鼻尖仔細嗅聞剛曬熱的紙角，硬光日照把牠的鬍鬚和地磚影子切得很銳利。畫面保留真實街邊雜亂感、路人小腿、塑膠椅與店門紅布條，中國紅金色彩來自現場紙品而非濾鏡。",
+    "number": 37,
+    "inspiration": "original"
   }
 ]
