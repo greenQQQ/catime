@@ -371,5 +371,15 @@
     "title": "藍眸回球",
     "status": "success",
     "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-07_0505_UTC.webp"
+  },
+  {
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-07_0605_UTC.webp",
+    "title": "金雨古城",
+    "timestamp": "2026-07-07 06:05 UTC",
+    "status": "success",
+    "inspiration": "考古學家在埃及西部沙漠發現保存良好的 1600 年前拜占庭城市，包含教堂、街道與生活遺物。",
+    "inspiration_url": "https://nypost.com/2026/07/05/world-news/egypt-uncovers-lost-byzantine-era-city-in-latest-western-desert-discovery/",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 39
   }
 ]

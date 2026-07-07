@@ -1667,5 +1667,61 @@
       "柔和青橙電影調"
     ],
     "comment_id": 4900387960
+  },
+  {
+    "style_picks": {
+      "art_style": "Film Noir",
+      "composition": "Isometric Photography",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "prompt": "Real captured isometric photography, not a painting and no miniature effect: a wet black cat crouches low and walks along a freshly unearthed Byzantine stone slab street inside a night archaeological trench in Egypt's Western Desert, its nose clearly sniffing a small glowing golden ceramic oil lamp. Film noir 1940s mood, high-contrast black-and-gold grade, deep black shadows, metallic gold highlights, venetian-blind-like shadows from excavation ropes and grid lines. Backlighting creates a sharp rim light around the cat's soaked fur and glowing silhouette edges. Shallow puddles reflect black and gold searchlights; the cat's pawstep splashes water, frozen crystalline droplets and arcs mid-motion. Archaeologists stand silently outside the rope line in soft background shadow near a church threshold. Perfect isometric camera angle, real archaeological documentary photo, 35mm lens, f/2.8, ISO 1600, fine film grain, practical searchlights only, low-key 8:1 contrast, dramatic deep shadows. The date and time must be visibly displayed as English text on a small wet excavation field placard beside the lamp: \"2026-07-07 06:05 UTC\". IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "金雨古城",
+    "inspiration_url": "https://nypost.com/2026/07/05/world-news/egypt-uncovers-lost-byzantine-era-city-in-latest-western-desert-discovery/",
+    "inspiration": "考古學家在埃及西部沙漠發現保存良好的 1600 年前拜占庭城市，包含教堂、街道與生活遺物。",
+    "number": 39,
+    "comment_id": 4900722335,
+    "story": "暴雨短暫洗過沙漠，讓沉睡一千六百年的街道第一次映出天空。考古隊員屏息站在繩線外，看那隻常來營地討水的黑貓率先穿過教堂門檻，像是替這座失聲的城市確認仍有人記得它。",
+    "news_inspiration": [
+      {
+        "summary": "天文學家認為星際彗星 3I/Atlas 可能是距今 100 至 120 億年的遠古星系遺物，提供罕見的宇宙早期線索。",
+        "url": "https://www.thetimes.com/uk/science/article/comet-ancient-relic-distant-star-system-dh328xqx6",
+        "source": "The Times"
+      },
+      {
+        "summary": "SpaceX 公布 Starmind AI 衛星星座構想，計畫把太陽能驅動的 AI 資料中心送上軌道。",
+        "url": "https://www.barrons.com/articles/spacex-stock-price-satellite-deorbit-ai-0b1e8869",
+        "source": "Barron's"
+      },
+      {
+        "summary": "英國外卡選手 Arthur Fery 在溫網五盤逆轉 Grigor Dimitrov，首次闖進大滿貫八強。",
+        "url": "https://www.theguardian.com/sport/live/2026/jul/06/wimbledon-2026-de-minaur-fery-and-keys-in-action-on-day-eight-live",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "考古學家在埃及西部沙漠發現保存良好的 1600 年前拜占庭城市，包含教堂、街道與生活遺物。",
+        "url": "https://nypost.com/2026/07/05/world-news/egypt-uncovers-lost-byzantine-era-city-in-latest-western-desert-discovery/",
+        "source": "New York Post"
+      }
+    ],
+    "idea": "黑色電影風格的等距攝影：埃及西部沙漠一處夜間考古探方裡，一隻濕毛黑貓沿著剛出土的拜占庭石板街低身行走，正用鼻尖嗅一盞金色陶燈；背光輪廓勾出貓身，黑金色探照燈倒影在淺水坑中被牠的腳步濺開。",
+    "avoid_list": [
+      "移軸微縮立體模型場景",
+      "清楚顯示 UTC 時間標籤",
+      "禁止簡體中文文字提示",
+      "貓用前爪修補或推動物件",
+      "貓叼住緞帶膠片棉線",
+      "竹影翠綠與孔雀石色調",
+      "描金墨線勾勒邊緣",
+      "電影膠片與老放映室",
+      "後台或工坊裡的臨時工作台",
+      "體積光束與可見塵埃",
+      "高調棚光白底居中肖像",
+      "懸浮跳躍攝影定格",
+      "貓守護即將出錯的機械或物件",
+      "小型標籤抽屜工具模型細節",
+      "柔和青橙電影調"
+    ]
   }
 ]
