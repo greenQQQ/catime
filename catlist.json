@@ -381,5 +381,13 @@
     "inspiration_url": "https://nypost.com/2026/07/05/world-news/egypt-uncovers-lost-byzantine-era-city-in-latest-western-desert-discovery/",
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "number": 39
+  },
+  {
+    "model": "all failed",
+    "error": "codex-image-service job failed: Codex timed out after 360 seconds",
+    "url": null,
+    "timestamp": "2026-07-07 07:05 UTC",
+    "number": null,
+    "status": "failed"
   }
 ]
