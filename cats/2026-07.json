@@ -1806,5 +1806,40 @@
     "comment_id": 4902131256,
     "inspiration_url": "https://www.theguardian.com/sport/2026/jul/06/arthur-fery-grigor-dimitrov-wimbledon-fourth-round-mens-tennis",
     "number": 42
+  },
+  {
+    "prompt": "Real healing pet portrait photography, extreme wide handscroll panoramic composition of a Tainan old-street temple entrance at night, oblique bird's-eye angle with right-to-left reading flow and multiple focal points spread horizontally. Beside a stone lion at the temple gate, crimson lanterns and a jet-black temple door create a long horizontal stage; a food cart casts a narrow warm golden spotlight with sharp light edges onto Huahua, a literal four-legged small round calico shorthair cat happily squeezing into the center of a drum-and-gong troupe and laughing onlookers, spinning in place with a cheerful upright orange-black ringed tail and light bouncy steps. Huahua must have a clean white #FFFFFF base coat, LEFT ear orange #E8853A, RIGHT ear black #1A1A1A, one orange patch above the LEFT eye like one-sided eyeshadow, face otherwise white, round warm light-amber #D9A441 eyes, pink nose and paw pads, large orange-and-black patchwork saddle across the back like a quilted jacket, mostly white legs and belly, no collar or accessories. Cozy lifestyle candid shot, 35mm lens, f/2.0, real photographic grain, shallow background bokeh while the cat remains sharp, layered foreground middleground background, soft warm light mixed with dramatic high contrast, deep darkness falloff, crimson and black color mood with golden highlights. Red brick ground shows fine sand texture, warm golden granules, subtle wind-sculpted ripple patterns and natural grain detail. The date and time “2026-07-07 10:05 UTC” must be clearly visible in English on a small hanging festival notice board near the temple gate. Avoid solid color cat, tabby-only stripes, all-orange cat, all-black cat, tuxedo pattern, grey patches, blue eyes, green eyes, longhair, fluffy coat, symmetrical face patches, both ears same color, collar, necklace, bandana, bell, anthropomorphic cat, human body, human hands, upright human pose, humanoid character, mascot costume, human clothing, human face, painting, illustration, digital art. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 43,
+    "comment_id": 4902640694,
+    "avoid_list": [
+      "貓用前爪操作器物",
+      "貓低頭嗅聞小物",
+      "貓踩水濺起水珠",
+      "可見 UTC 時間標籤",
+      "青橙電影調光影",
+      "莫蘭迪柔和色調",
+      "等距俯視攝影構圖",
+      "考古遺址夜間探方",
+      "威尼斯百葉窗條紋光",
+      "珠寶水鑽珍珠點綴",
+      "強調四腳貓全身可見",
+      "濕毛貓搭配黑金背光",
+      "紙本地圖與標本標籤",
+      "柔光窗邊貓咪靜物"
+    ],
+    "title": "燈下花轉",
+    "inspiration": "original",
+    "news_inspiration": [],
+    "character": "huahua",
+    "story": "廟口今晚試掛節慶燈籠，店家們才剛誇花花一來就熱鬧，牠便把尾巴翹得高高的，在石獅子前轉成一朵小小三色花。人群笑聲一路沿著老街展開，連雜貨店阿伯都停下算帳，看牠把整條街的注意力捲到自己身上。",
+    "character_name": "花花",
+    "style_picks": {
+      "art_style": "Healing Pet Portrait",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Spotlight",
+      "texture": "Sand Texture",
+      "color_palette": "Crimson and Black"
+    },
+    "idea": "療癒寵物寫真風格的長卷全景構圖：台南老街廟口石獅子旁，緋紅燈籠與烏黑廟門形成橫向舞台，聚光燈般的攤車暖光打在花花身上；這隻白底三花短毛貓正開心地擠進鑼鼓隊與看熱鬧人群中央原地轉圈，左眼上方橘斑、黑色右耳、橘色左耳、橘黑環紋尾巴與拼布背斑清楚可見，地面紅磚帶有細緻沙質紋理。"
   }
 ]
