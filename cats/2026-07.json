@@ -1723,5 +1723,38 @@
       "小型標籤抽屜工具模型細節",
       "柔和青橙電影調"
     ]
+  },
+  {
+    "title": "日照紅緞",
+    "story": "午間太陽把玻璃球曬得閃亮，舞獅隊的緞帶從布攤滑落，差點被熱風捲進排水溝。橘白貓沒有站起來也沒有像人一樣表演，只是以貓的方式咬住布端、低身疾走，把整條紅光拖回鼓聲旁。",
+    "idea": "聖誕裝飾球微縮模型風格的直式書法海報構圖：台南永樂布市場頂樓曬布場被縮進透明玻璃球裡，硬光日照把高飽和紅、藍、金布匹照得像旗海，一隻橘白貓正叼著被風吹走的鮮紅緞帶，穿過微型晾布竹竿與裁縫攤。",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "number": 41,
+    "comment_id": 4901570846,
+    "avoid_list": [
+      "貓用前爪操作器物",
+      "貓低頭嗅聞小物",
+      "貓踩水濺起水珠",
+      "可見 UTC 時間標籤",
+      "青橙電影調光影",
+      "莫蘭迪柔和色調",
+      "等距俯視攝影構圖",
+      "考古遺址夜間探方",
+      "威尼斯百葉窗條紋光",
+      "珠寶水鑽珍珠點綴",
+      "強調四腳貓全身可見",
+      "濕毛貓搭配黑金背光",
+      "紙本地圖與標本標籤",
+      "柔光窗邊貓咪靜物"
+    ],
+    "style_picks": {
+      "art_style": "Christmas Ornament Diorama",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Fabric / Textile",
+      "color_palette": "High Saturation Vivid"
+    },
+    "prompt": "Photorealistic vertical East Asian movie-poster composition: a transparent glass Christmas bauble diorama contains the rooftop drying yard of Tainan Yongle Fabric Market, miniature bamboo laundry poles, sewing stalls, drainage channel, and dense woven cloth bolts. At the center, an orange-and-white cat stays low like a real cat, biting the end of a windblown bright red satin ribbon and dragging it back through the tiny fabric stalls toward distant lion-dance drums. Harsh midday sun, hard-edged shadows, high-contrast natural daylight, strong directional sunlight, cinematic glass reflections, warm glow on the bauble, multi-layered depth. High-saturation red, blue, and gold textiles look like a sea of flags, with visible threads, linen and cotton weave texture, tactile soft fabric surfaces. Vertical poster framing with ornamental border elements, a side calligraphy panel reading 「永樂曬布場」, red seal accents reading 「台南」, and the exact date/time “2026-07-07 08:05 UTC” clearly printed on a small hanging fabric tag inside the bauble. 35mm lens, f/4, realistic product-poster photography, crisp central focus, natural grain, gritty urban realism, no painting or digital illustration look. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
