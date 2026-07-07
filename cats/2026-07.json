@@ -2378,5 +2378,56 @@
       "明確指示貓的動作"
     ],
     "story": "攤主才轉身去樓下招呼客人，奧利奧就把倉庫改造成牠的祕密理貨台，連全黑尾巴都興奮地豎得筆直。等人回來時，亂成一團的貨籤竟被牠分成了「可睡」、「可跳」、「可藏」三堆，牠歪頭看著對方，像在宣布這才是真正的庫存管理。"
+  },
+  {
+    "prompt": "Gond-inspired folk painting, head-and-shoulders portrait crop at intimate eye level: QQQ, a literal chubby round-faced orange mackerel tabby shorthair cat, crouches before an open refrigerator door in a midnight kitchen, sniffing the rim of a half-open metal cat-food can. Bright orange fur #E8853A with darker orange #C05A1A mackerel stripes, clear dark-orange M marking on the forehead, one small white bib patch only on chin and upper chest, no other white markings, large round warm amber eyes #E0A030, soft pink nose, round chin, plump rice-ball body with visible happy belly shadow, content slightly goofy expression, no collar or accessories. The cat’s face fills the frame; the can is close to the pink nose; refrigerator glow and cool moonlight illuminate the scene. Deep moonlit indigo, violet night-blue, and cool silvery highlights dominate, with vibrant Gond dot-and-line patterning, nature-inspired motifs, mystical Indian tribal folklore composition, delicate lace curtain openwork casting dappled floral cutout shadows across the cat and fridge door, elegant scalloped lace texture, soft mottled organic light play. Clearly display the text \"2026-07-07 22:05 UTC\" in English on a small refrigerator magnet or label within the image. Avoid: slim cat, skinny cat, athletic cat, grey fur, brown tabby, solid orange without stripes, white paws, white socks, white belly, blue eyes, green eyes, longhair, fluffy coat, collar, necklace, bandana, calico, tuxedo pattern, black patches, anthropomorphic cat, human body, human hands, standing upright, humanoid figure, furry character, mascot costume, human clothing, human face. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "以貢德畫風描繪頭肩特寫：QQQ 這隻圓潤橘色虎斑貓蹲在深夜廚房冰箱門前，琥珀大眼盯著剛開了一半的罐頭，粉紅鼻尖正湊近嗅聞，月夜靛藍中灑落窗簾投下的斑駁光影與細密蕾絲鏤空質感。牠額頭深橘 M 字斑、白色小圍兜、圓下巴與幸福肚影都清楚可見，像一顆被月光偷藏起來的橘色飯糰。",
+    "news_inspiration": [
+      {
+        "summary": "物理學家從黑洞合併的重力波中偵測到可能來自事件視界邊緣的「直接波」，為研究極端重力開啟新方法。",
+        "url": "https://www.livescience.com/space/black-holes/a-new-way-to-study-the-edge-of-a-black-hole-physicists-just-got-the-closest-ever-look-at-a-black-holes-event-horizon",
+        "source": "Live Science"
+      },
+      {
+        "summary": "2026巴黎高級訂製時裝週登場，Balenciaga、Jean Paul Gaultier、Fendi等品牌迎來新任設計師的首場訂製秀。",
+        "url": "https://www.vogue.com/article/paris-couture-week-cheat-sheet-fall-winter-2026",
+        "source": "Vogue"
+      },
+      {
+        "summary": "環法自行車賽第四站中，Mads Pedersen贏下單站，挪威車手Torstein Træen則以勵志表現穿上黃衫。",
+        "url": "https://www.bicycling.com/tour-de-france/a71772871/tour-de-france-2026-stage-4-results/",
+        "source": "Bicycling"
+      }
+    ],
+    "number": 55,
+    "title": "月罐之王",
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Head-and-Shoulders Portrait",
+      "lighting": "Dappled Light",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Moonlit Indigo"
+    },
+    "character_name": "QQQ",
+    "inspiration": "original",
+    "character": "qqq",
+    "story": "半夜三點，冰箱輕輕嗡了一聲，QQQ 立刻從沙發最中間滑下來，慢悠悠卻精準地抵達罐頭前。牠沒有喵叫，只把圓臉貼近金屬罐邊，呼嚕聲大到像廚房裡藏著一台小引擎。月光穿過窗簾洞紋落在牠身上，彷彿整個夜晚都知道誰才是家裡的大王。",
+    "avoid_list": [
+      "長卷全景右至左構圖",
+      "俯視或鳥瞰視角",
+      "前爪撥動小物件",
+      "清楚顯示 UTC 時間牌",
+      "繁中英文限定標示",
+      "暖金光混深色高反差",
+      "直打閃光硬陰影",
+      "雙色調限定色盤",
+      "水彩潑濺墨點肌理",
+      "古絹卷軸斑駁質感",
+      "蕾絲鏤空花紋道具",
+      "貓在展覽或研究場域整理物品",
+      "貓叼花或標籤分類",
+      "多層前中後景描述"
+    ],
+    "comment_id": 4909498262
   }
 ]
