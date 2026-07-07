@@ -1609,5 +1609,63 @@
     "idea": "手機隨拍風格的中景環境人像：台北迪化街一間年節紙品店騎樓下，一隻橘白貓蹲在紅金摺紙蓮花與金紙束旁，正用鼻尖仔細嗅聞剛曬熱的紙角，硬光日照把牠的鬍鬚和地磚影子切得很銳利。畫面保留真實街邊雜亂感、路人小腿、塑膠椅與店門紅布條，中國紅金色彩來自現場紙品而非濾鏡。",
     "number": 37,
     "inspiration": "original"
+  },
+  {
+    "number": 38,
+    "news_inspiration": [
+      {
+        "summary": "挪威隊以2比1擊敗巴西闖出隊史最佳世界盃表現，奧斯陸逾十萬球迷與王儲一同慶祝這場歷史性勝利。",
+        "url": "https://www.theguardian.com/football/2026/jul/06/norways-crown-prince-joins-thousands-of-fans-in-oslo-to-celebrate-historic-world-cup-win",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "2026女子T20世界盃在英國創下亮眼觀賽熱潮，澳洲奪冠、愛爾蘭首勝與多位名將告別都成為溫暖焦點。",
+        "url": "https://www.theguardian.com/sport/2026/jul/06/farewell-to-the-womens-t20-world-cup-cricket-australia-england",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "大坂直美在溫網強勢擊敗世界第一莎芭蓮卡，延續產後復出後最具代表性的網球回歸故事。",
+        "url": "https://www.sbnation.com/tennis/1121732/wimbledon-naomi-osaka-comeback-sabalenka-grand-slam-results",
+        "source": "SB Nation"
+      },
+      {
+        "summary": "澳洲Bundanon美術館推出亞瑟・博伊德近50件「尼布甲尼撒」系列大展，以神話、荒野與變形意象呈現強烈視覺震撼。",
+        "url": "https://www.theguardian.com/artanddesign/2026/jul/07/arthur-boyd-nebuchadnezzar-series-bundanon-art-exhibition-vietnam-war-paintings",
+        "source": "The Guardian"
+      }
+    ],
+    "style_picks": {
+      "art_style": "DSLR Portrait with Bokeh",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Window Light",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Morandi Color Palette"
+    },
+    "inspiration": "大坂直美在溫網強勢擊敗世界第一莎芭蓮卡，延續產後復出後最具代表性的網球回歸故事。",
+    "prompt": "Realistic DSLR portrait photograph of Snowball, a large gentle four-legged Ragdoll cat reclining on a lace cushion in the bay-window seat of a London cat cafe during a Wimbledon TV broadcast. Snowball has long silky cloud-like cream-white fur #F5EFE6, soft seal-brown #8A6A50 shading only on the ears and a gentle wash down the nose bridge, all four paws in clean white mittens, a long white ruff like a scarf, a magnificent lightly seal-tinted fluffy plume tail, large deep sapphire blue eyes #2E5FA3 half-closed, pink nose and paw pads, relaxed floppy doll-like posture, no collar or accessories. The cat clearly sweeps a tennis-ball-shaped toy near its white socked paws with its fluffy feather tail, splashing a shallow porcelain water dish beside it; crystalline droplets and curved liquid arcs are frozen mid-motion in soft daylight. High-angle isometric-inspired composition with clean geometric cafe forms, intimate still-life mood, sharp focus on Snowball and the splash, creamy bokeh background with quiet cafe guests watching Naomi Osaka's comeback win on a softly blurred Wimbledon broadcast screen. The exact text \"2026-07-07 05:05 UTC\" is visibly displayed on a small English broadcast timestamp lower-third on the TV screen or a neat cafe table card. Shot as a real photograph with an 85mm f/1.4 lens, shallow depth of field, natural side-window light, gentle directional daylight, smooth falloff into shadow, classic Vermeer-like illumination, soft pastel Morandi-inspired cream and blue-gray tones with dusty gray undertones and quiet elegance. Avoid shorthair, sleek coat, green eyes, amber eyes, yellow eyes, tabby stripes, orange fur, black cat, full dark face mask, dark paws, dark legs, siamese slim body, skinny cat, collar, necklace, bandana, calico patches, tuxedo pattern, anthropomorphic cat, human body, human hands, upright standing cat, humanoid cat, furry character, mascot costume, human clothing, human face. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character": "snowball",
+    "idea": "在倫敦溫網轉播中的貓咪咖啡廳飄窗位，雪球這隻四腳布偶貓躺在蕾絲軟墊上，正用蓬鬆羽毛尾巴輕掃腳邊的網球造型玩具，讓旁邊淺瓷水碟濺起靈動水花；畫面以單眼人像散景的寫實攝影風格呈現，採等距3D插圖般的高角度構圖、窗邊柔光與莫蘭迪奶油藍灰色調。",
+    "character_name": "雪球",
+    "inspiration_url": "https://www.sbnation.com/tennis/1121732/wimbledon-naomi-osaka-comeback-sabalenka-grand-slam-results",
+    "title": "藍眸回球",
+    "story": "店裡的客人低聲看著大坂直美的回歸勝利，雪球卻像小公主一樣只占據最好的窗位，寶藍色眼睛半瞇著聽掌聲。當網球玩具滾到牠柔軟的白手套襪旁，牠不急不徐地用尾巴一掃，水珠在柔光裡亮起，像替這場勝利撒下一小圈安靜的慶祝。",
+    "avoid_list": [
+      "移軸微縮立體模型場景",
+      "清楚顯示 UTC 時間標籤",
+      "禁止簡體中文文字提示",
+      "貓用前爪修補或推動物件",
+      "貓叼住緞帶膠片棉線",
+      "竹影翠綠與孔雀石色調",
+      "描金墨線勾勒邊緣",
+      "電影膠片與老放映室",
+      "後台或工坊裡的臨時工作台",
+      "體積光束與可見塵埃",
+      "高調棚光白底居中肖像",
+      "懸浮跳躍攝影定格",
+      "貓守護即將出錯的機械或物件",
+      "小型標籤抽屜工具模型細節",
+      "柔和青橙電影調"
+    ],
+    "comment_id": 4900387960
   }
 ]
