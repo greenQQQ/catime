@@ -1841,5 +1841,60 @@
       "color_palette": "Crimson and Black"
     },
     "idea": "療癒寵物寫真風格的長卷全景構圖：台南老街廟口石獅子旁，緋紅燈籠與烏黑廟門形成橫向舞台，聚光燈般的攤車暖光打在花花身上；這隻白底三花短毛貓正開心地擠進鑼鼓隊與看熱鬧人群中央原地轉圈，左眼上方橘斑、黑色右耳、橘色左耳、橘黑環紋尾巴與拼布背斑清楚可見，地面紅磚帶有細緻沙質紋理。"
+  },
+  {
+    "number": 44,
+    "idea": "童話水彩繪本風格的鏡子自拍構圖：佛州聖彼得-清水國際機場的柑橘歷史展深夜停電，清潔員在一面碳纖維行李展示鏡前舉手機取景，鏡中一隻橘白貓正追著滾動的金橘穿過復古果箱標籤牆；燭光把整個展廳染成橘金與靛藍的雙色調。",
+    "news_inspiration": [
+      {
+        "summary": "佛州聖彼得-清水國際機場推出柑橘歷史展，以復古果箱標籤呈現地方文化記憶。",
+        "url": "https://www.axios.com/local/tampa-bay/2026/07/07/florida-citrus-history-exhibit-st-pete-clearwater-international",
+        "source": "Axios"
+      },
+      {
+        "summary": "哈蘭德梅開二度率領挪威爆冷擊敗巴西，首次闖進世界盃八強。",
+        "url": "https://nypost.com/2026/07/05/sports/erling-haaland-propels-norway-to-world-cup-upset-of-brazil/",
+        "source": "New York Post"
+      },
+      {
+        "summary": "AI 生成演員 Tilly Norwood 將主演首部劇情長片，讓電影與人工智慧創作的邊界再度成為焦點。",
+        "url": "https://people.com/ai-actress-tilly-norwood-to-make-feature-film-debut-12012414",
+        "source": "People"
+      },
+      {
+        "summary": "埃及西部沙漠發現保存良好的拜占庭時期古城，街道、教堂與日常器物揭開1600年前生活面貌。",
+        "url": "https://nypost.com/2026/07/05/world-news/egypt-uncovers-lost-byzantine-era-city-in-latest-western-desert-discovery/",
+        "source": "New York Post"
+      }
+    ],
+    "inspiration": "佛州聖彼得-清水國際機場推出柑橘歷史展，以復古果箱標籤呈現地方文化記憶。",
+    "inspiration_url": "https://www.axios.com/local/tampa-bay/2026/07/07/florida-citrus-history-exhibit-st-pete-clearwater-international",
+    "story": "那顆金橘原本只是展櫃旁掉落的裝飾，卻被貓一路追成一場無聲的機場遊行。手機畫面裡，老果箱上的太陽、鐵軌與棕櫚樹像被燭火喚醒，彷彿整座城市的柑橘記憶都跟著貓的尾巴轉了起來。",
+    "prompt": "Watercolor storybook illustration with gentle childlike charm and a healing fairytale mood. Mirror selfie composition inside the citrus history exhibit at St. Pete-Clearwater International Airport during a late-night blackout: a janitor holds up a smartphone in front of a glossy carbon-fiber luggage display mirror, the visible reflection framing an orange-and-white cat clearly chasing a rolling golden kumquat across the floor and past a wall of vintage citrus crate labels showing suns, railroads, and palm trees. The phone screen and a small exhibit placard must clearly display the exact English text: \"2026-07-07 11:05 UTC\". Soft transparent watercolor washes, whimsical animal motion, casual intimate close-up framing, visible mirror reflection, candlelight flicker, soft dancing shadows. Strict duotone color treatment using only warm orange-gold and deep indigo, with bold graphic contrast; carbon fiber weave pattern and glossy clear coat rendered delicately within the watercolor style. Any signage or labels are in English or Traditional Chinese only, no Simplified Chinese. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "貓用前爪操作器物",
+      "貓低頭嗅聞小物",
+      "貓踩水濺起水珠",
+      "可見 UTC 時間標籤",
+      "青橙電影調光影",
+      "莫蘭迪柔和色調",
+      "等距俯視攝影構圖",
+      "考古遺址夜間探方",
+      "威尼斯百葉窗條紋光",
+      "珠寶水鑽珍珠點綴",
+      "強調四腳貓全身可見",
+      "濕毛貓搭配黑金背光",
+      "紙本地圖與標本標籤",
+      "柔光窗邊貓咪靜物"
+    ],
+    "comment_id": 4903128700,
+    "style_picks": {
+      "art_style": "Watercolor Storybook Illustration",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Candlelight",
+      "texture": "Carbon Fiber",
+      "color_palette": "Duotone"
+    },
+    "title": "燭橘飛行"
   }
 ]
