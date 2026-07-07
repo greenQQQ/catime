@@ -506,6 +506,7 @@
         if (cat.season && SEASON_ICONS[cat.season]) {
           tagText += " · " + SEASON_ICONS[cat.season];
         }
+        if (cat.is_birthday) tagText += " · 🎂";
         charTag.appendChild(document.createTextNode(tagText));
         cardInfo.appendChild(charTag);
       }
@@ -783,6 +784,7 @@
       if (cat.season && SEASON_ICONS[cat.season]) {
         tagText += " · " + SEASON_ICONS[cat.season];
       }
+      if (cat.is_birthday) tagText += " · 🎂";
       charTag.appendChild(document.createTextNode(tagText));
       appendWithSpace(lbInfo, charTag);
     }
@@ -925,6 +927,14 @@
         if (document.activeElement === last) { e.preventDefault(); first.focus(); }
       }
     }
+  });
+
+  // extras.js（頭條/時光牆/同題）點圖 → 開既有燈箱
+  document.addEventListener("open-cat-lightbox", e => {
+    const cat = e.detail;
+    if (!cat) return;
+    const idx = filtered.indexOf(cat);
+    openLightbox(cat, idx >= 0 ? idx : 0);
   });
 
   // ── Random cat button ──
