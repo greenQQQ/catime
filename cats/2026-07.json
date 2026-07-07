@@ -1395,5 +1395,39 @@
       "color_palette": "Pastel Colors"
     },
     "prompt": "Cel-shaded pastel illustration with flat color areas, bold clean outlines, toon shading, sharp shadow edges, anime game look. A calico cat is clearly lying on a wooden typesetting table inside a century-old letterpress print shop in Tainan, using its front paws to push scattered metal movable type blocks and colorful paper quilling rolls into a spiral vortex composition. The lead type blocks include Traditional Chinese characters 「夢」「鹽」「風」, being nudged back toward the center of the paper coils. Strong rotational perspective with a centered vanishing point, the spiral of type and curled paper strips forming a tiny typhoon-like layout draft around the cat, dizzying depth, cinematic low angle. Bright high-key light pours from tall upper windows across the wood table, airy overexposed feel, soft even illumination, minimal shadows, luminous clean atmosphere. Dreamy soft pastel color palette: gentle pink, lavender, mint, baby blue, warm cream wood, delicate 3D dimensional rolled paper texture. In the scene, the date and time “2026-07-06 23:05 UTC” is visibly printed on a small paper proof sheet on the table in clear English text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "number": 33,
+    "prompt": "Coloring book line-art illustration of a miniature diorama inside the Norwegian Svalbard Global Seed Vault: a grey-white cat crouches beside a tiny sample sorting table, clearly using its front paw to push a small Morandi-tone velvet seed box into a low drawer. Clean uniform black outlines on white, ready-to-color aesthetic, playful illustrative shapes, intricate decorative linework, toy-like scale model, tilt-shift miniature composition, tiny labeled drawers and seed archive details. Overhead butterfly key light falls softly from above, symmetrical soft shadow under the cat’s nose, even glamour-style illumination, velvet seed boxes with matte deep-pile softness shown through line texture and muted dusty pastel color accents. Quiet elegant Morandi palette: dusty grey, sage, muted rose, pale blue, warm oatmeal. Add a small English wall clock or drawer label that clearly reads: “2026-07-07 00:05 UTC”. No Simplified Chinese text. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "貓用鼻尖嗅聞物件",
+      "貓叼著緞帶或膠片",
+      "四腳貓動作強調",
+      "可讀 UTC 時間標牌",
+      "禁止簡體中文提示",
+      "硬光與直打閃光",
+      "靛藍與青綠陰影",
+      "金色描邊細節",
+      "貼紙拼貼邊框",
+      "移軸微縮構圖",
+      "復古電影放映空間",
+      "時裝與布料修復場景",
+      "水面或玻璃鏡面反射",
+      "淺景深底片顆粒",
+      "紅金吉祥裝飾"
+    ],
+    "title": "霜庫守籽",
+    "idea": "線描著色本插畫風格的微縮立體模型場景：一隻灰白貓伏在挪威斯瓦爾巴種子庫的樣本整理台旁，用前掌把莫蘭迪色調的小型絨面種子盒推入低矮抽屜；蝴蝶光從上方柔柔落下，讓天鵝絨質感像安靜的霜。",
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Coloring Book Line Art",
+      "composition": "Miniature Diorama",
+      "lighting": "Butterfly Lighting",
+      "texture": "Velvet",
+      "color_palette": "Morandi Color Palette"
+    },
+    "story": "夜班研究員離開後，牠每天都會把滾落的種子盒推回原位，像在守護一座縮小的未來糧倉。清晨門縫亮起時，最旁邊那格抽屜總是比昨天更整齊。",
+    "news_inspiration": [],
+    "comment_id": 4898768285
   }
 ]
