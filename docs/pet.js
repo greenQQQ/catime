@@ -1,11 +1,13 @@
-/* 時光小夥伴 v2：全身 2D 桌寵（QQQ）。
-   SVG 向量貓 + 狀態機：底部散步（自動轉身）、追毛線球撲擊、坐下搖尾巴、
-   閒置入睡 💤、點擊蹦跳＋聰明對話泡泡（今日張數/生日/同題）。✕ 收起記憶 7 天。 */
+/* 時光小夥伴 v3：Q 版貼紙桌寵（QQQ）。
+   原地待機（呼吸浮動）、可拖曳到任何位置（記住）、點擊蹦跳＋聰明泡泡、
+   閒置入睡換睡姿貼紙、✕ 收起記憶 7 天。不亂走、不擋路。 */
 (function () {
   "use strict";
   if (localStorage.getItem("pet-off") && Date.now() - (+localStorage.getItem("pet-off")) < 7 * 86400 * 1000) return;
 
   var NAME = "QQQ";
+  var IMG_SIT = "pet-sit.png?v=3";
+  var IMG_SLEEP = "pet-sleep.png?v=3";
   var RAW = "https://raw.githubusercontent.com/greenQQQ/catime/main/catlist.json";
   var MEOW = ["喵~", "呼嚕嚕…", "喵嗚?"];
   var TIPS = [
@@ -14,98 +16,112 @@
     "電視牆可以放客廳當電子相框喔",
     "去時光小鎮看看大家的關係~",
     "每小時都有新朋友誕生",
+    "抓住我可以搬家喔~",
   ];
   var WAKE_LINE = "喵!? 我沒有睡著";
   var HELLO = "嗨~ 我是" + NAME + " 🐾";
 
-  /* ── 全身 SVG（側面朝左；QQQ：橘虎斑＋白圍兜＋琥珀眼） ── */
-  var PET_SVG =
-    '<svg viewBox="0 0 132 96" width="112" height="82" xmlns="http://www.w3.org/2000/svg">' +
-    '<g class="tail-g"><path class="tail" d="M112 62 C126 56 130 42 122 32" fill="none" stroke="#E8853A" stroke-width="11" stroke-linecap="round"/>' +
-    '<path d="M119.5 36 l7 -2.5" stroke="#C05A1A" stroke-width="10" stroke-linecap="round"/></g>' +
-    '<g class="leg leg-b1"><rect x="88" y="66" width="10" height="24" rx="5" fill="#DF8B44"/></g>' +
-    '<g class="leg leg-f1"><rect x="34" y="66" width="10" height="24" rx="5" fill="#DF8B44"/></g>' +
-    '<ellipse class="body" cx="66" cy="58" rx="42" ry="26" fill="#EF9853"/>' +
-    '<path d="M52 36 q6 12 0 22 M70 33 q6 13 0 25 M88 36 q5 11 0 21" stroke="#C05A1A" stroke-width="6" fill="none" stroke-linecap="round"/>' +
-    '<ellipse cx="52" cy="76" rx="20" ry="9" fill="#FFF6E8"/>' +
-    '<g class="leg leg-b2"><rect x="96" y="66" width="10" height="24" rx="5" fill="#EF9853"/></g>' +
-    '<g class="leg leg-f2"><rect x="46" y="66" width="10" height="24" rx="5" fill="#EF9853"/></g>' +
-    '<g class="head-g">' +
-    '<path d="M10 22 L20 4 L30 18 Z" fill="#EF9853"/><path d="M15 18 L20 9 L25 16 Z" fill="#FCC49B"/>' +
-    '<path d="M34 18 L46 3 L52 20 Z" fill="#EF9853"/><path d="M39 16 L45 9 L48 17 Z" fill="#FCC49B"/>' +
-    '<circle cx="30" cy="34" r="24" fill="#EF9853"/>' +
-    '<path d="M22 12 q4 8 -1 12 M34 11 q3 8 -1 12" stroke="#C05A1A" stroke-width="4.5" fill="none" stroke-linecap="round"/>' +
-    '<ellipse cx="24" cy="44" rx="13" ry="10" fill="#FFF6E8"/>' +
-    '<g class="eyes-open"><circle cx="17" cy="32" r="3.4" fill="#3A2A18"/><circle cx="38" cy="32" r="3.4" fill="#3A2A18"/>' +
-    '<circle cx="18.2" cy="30.8" r="1.1" fill="#fff"/><circle cx="39.2" cy="30.8" r="1.1" fill="#fff"/></g>' +
-    '<g class="eyes-shut" style="display:none"><path d="M13 33 q4 3 8 0 M34 33 q4 3 8 0" stroke="#3A2A18" stroke-width="2.2" fill="none" stroke-linecap="round"/></g>' +
-    '<path d="M25 39 l4 3 l4 -3" fill="none" stroke="#3A2A18" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>' +
-    '<path d="M27 36.5 q2 -1.6 4 0 q-1 2.4 -2 2.4 q-1 0 -2 -2.4" fill="#E98A98"/>' +
-    '<path d="M6 38 l12 2 M6 46 l12 -1 M46 38 l12 2 M46 45 l12 -1" stroke="#FFF6E8" stroke-width="1.6" stroke-linecap="round" opacity=".9"/>' +
-    '</g></svg>';
-
-  /* ── 樣式 ── */
   var css = [
-    ".petw{position:fixed;bottom:6px;right:0;z-index:160;user-select:none;-webkit-tap-highlight-color:transparent;",
-    "  width:118px;height:96px;will-change:transform;}",
-    "@media (max-width:600px){.petw{bottom:calc(var(--tabbar-h,64px) + 6px);}}",
-    ".pet-svg{display:block;cursor:pointer;filter:drop-shadow(0 4px 8px rgba(0,0,0,.28));transition:transform .25s ease;}",
-    ".petw.face-right .pet-svg{transform:scaleX(-1);}",
-    /* 待機呼吸 + 尾巴搖 */
-    ".pet-svg .body,.pet-svg .head-g{animation:pet-breath 3.4s ease-in-out infinite;transform-origin:60px 60px;}",
-    "@keyframes pet-breath{0%,100%{transform:translateY(0)}50%{transform:translateY(-1.6px)}}",
-    ".pet-svg .tail-g{transform-origin:110px 62px;animation:tail-swish 2.6s ease-in-out infinite;}",
-    "@keyframes tail-swish{0%,100%{transform:rotate(0deg)}50%{transform:rotate(14deg)}}",
-    /* 走路：腿擺動＋身體小彈跳 */
-    ".petw.walk .leg{animation:leg-a .34s ease-in-out infinite;transform-origin:center 66px;}",
-    ".petw.walk .leg-f2,.petw.walk .leg-b1{animation-delay:.17s;}",
-    "@keyframes leg-a{0%,100%{transform:rotate(14deg)}50%{transform:rotate(-14deg)}}",
-    ".petw.walk .pet-svg{animation:walk-bob .34s ease-in-out infinite;}",
-    ".petw.walk.face-right .pet-svg{animation:walk-bob-r .34s ease-in-out infinite;}",
-    "@keyframes walk-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-2.5px)}}",
-    "@keyframes walk-bob-r{0%,100%{transform:translateY(0) scaleX(-1)}50%{transform:translateY(-2.5px) scaleX(-1)}}",
-    /* 撲擊 */
-    ".petw.pounce .pet-svg{animation:pounce .5s ease;}",
-    ".petw.pounce.face-right .pet-svg{animation:pounce-r .5s ease;}",
-    "@keyframes pounce{0%{transform:none}35%{transform:translateY(-22px) rotate(-8deg)}70%{transform:translateY(0) scale(1.06,.88)}100%{transform:none}}",
-    "@keyframes pounce-r{0%{transform:scaleX(-1)}35%{transform:translateY(-22px) rotate(8deg) scaleX(-1)}70%{transform:translateY(0) scale(-1.06,.88)}100%{transform:scaleX(-1)}}",
-    /* 睡覺：趴平＋灰一點 */
-    ".petw.sleep .pet-svg{transform:scaleY(.82) translateY(8px);filter:saturate(.6) brightness(.9) drop-shadow(0 4px 8px rgba(0,0,0,.28));}",
-    ".petw.sleep .tail-g{animation-duration:6s;}",
-    ".petw.sleep .leg{display:none;}",
-    /* 泡泡：在貓上方、貼著視窗右緣時自動靠左 */
-    ".pet-bub{position:absolute;bottom:92px;right:0;min-width:90px;max-width:230px;width:max-content;",
+    ".petw{position:fixed;z-index:160;width:96px;user-select:none;touch-action:none;-webkit-tap-highlight-color:transparent;}",
+    ".pet-img{display:block;width:96px;cursor:grab;filter:drop-shadow(0 5px 10px rgba(0,0,0,.30));",
+    "  animation:pet-bob 3.4s ease-in-out infinite;transition:filter .4s ease;}",
+    ".petw.drag .pet-img{cursor:grabbing;animation:none;transform:scale(1.06) rotate(-3deg);}",
+    "@keyframes pet-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}",
+    ".petw.jump .pet-img{animation:pet-jump .55s ease;}",
+    "@keyframes pet-jump{0%{transform:translateY(0)}30%{transform:translateY(-24px) rotate(-5deg)}60%{transform:translateY(0) scale(1.05,.9)}80%{transform:translateY(-7px)}100%{transform:translateY(0)}}",
+    ".petw.sleep .pet-img{animation:pet-sleep 6s ease-in-out infinite;filter:saturate(.65) brightness(.92) drop-shadow(0 5px 10px rgba(0,0,0,.30));}",
+    "@keyframes pet-sleep{0%,100%{transform:translateY(0) scale(1)}50%{transform:translateY(-1.5px) scale(1.015)}}",
+    ".pet-bub{position:absolute;bottom:calc(100% + 8px);right:0;min-width:80px;max-width:230px;width:max-content;",
     "  font:700 .84rem 'LXGW WenKai TC','Nunito',system-ui,sans-serif;line-height:1.65;",
     "  color:#6b5344;background:#fffdf7;border:1.5px solid rgba(130,95,60,.22);border-radius:14px 14px 3px 14px;",
     "  padding:.5rem .8rem;box-shadow:0 4px 14px rgba(120,80,50,.2);",
     "  opacity:0;transform:translateY(6px) scale(.92);transform-origin:bottom right;",
     "  transition:opacity .22s ease,transform .22s ease;pointer-events:none;z-index:161;}",
+    ".petw.b-left .pet-bub{right:auto;left:0;border-radius:14px 14px 14px 3px;transform-origin:bottom left;}",
+    ".petw.b-below .pet-bub{bottom:auto;top:calc(100% + 8px);border-radius:3px 14px 14px 14px;transform-origin:top right;}",
+    ".petw.b-below.b-left .pet-bub{border-radius:14px 3px 14px 14px;transform-origin:top left;}",
     ".petw.talk .pet-bub{opacity:1;transform:none;}",
     "[data-theme=dark] .pet-bub{color:#eddcc7;background:#382d22;border-color:rgba(255,255,255,.16);}",
-    /* 毛線球 */
-    ".pet-ball{position:fixed;bottom:12px;z-index:159;font-size:24px;transition:transform .5s ease;",
-    "  animation:ball-roll 1.2s linear infinite;pointer-events:none;}",
-    "@keyframes ball-roll{from{rotate:0deg}to{rotate:360deg}}",
-    /* 收起鈕 */
-    ".pet-x{position:absolute;top:-4px;right:2px;width:20px;height:20px;border-radius:50%;",
-    "  border:0;cursor:pointer;font:700 11px/1 sans-serif;color:#fff;background:rgba(90,70,55,.75);",
+    ".pet-x{position:absolute;top:-8px;right:-6px;width:20px;height:20px;border-radius:50%;",
+    "  border:0;cursor:pointer;font:700 11px/1 sans-serif;color:#fff;background:rgba(90,70,55,.78);",
     "  opacity:0;transition:opacity .2s ease;z-index:162;}",
-    ".petw:hover .pet-x{opacity:.9;}",
+    ".petw:hover .pet-x{opacity:.92;}",
   ].join("");
   var st = document.createElement("style");
   st.textContent = css;
   document.head.appendChild(st);
 
-  /* ── DOM ── */
   var wrap = document.createElement("div");
   wrap.className = "petw";
-  wrap.innerHTML = "<div class='pet-bub' id='petBub'></div>" + PET_SVG +
+  wrap.innerHTML =
+    "<div class='pet-bub' id='petBub'></div>" +
+    "<img class='pet-img' id='petImg' src='" + IMG_SIT + "' alt='" + NAME + "' title='" + NAME + "（可以拖我）' draggable='false'>" +
     "<button class='pet-x' id='petX' aria-label='收起小夥伴' title='收起（一週）'>✕</button>";
-  var svg = null;
   document.body.appendChild(wrap);
-  svg = wrap.querySelector("svg");
-  svg.classList.add("pet-svg");
+  var img = document.getElementById("petImg");
   var bub = document.getElementById("petBub");
+  // 貼紙還沒部署（404）→ 整隻先隱身，不留破圖
+  img.addEventListener("error", function () { wrap.remove(); });
+
+  /* ── 位置：預設右下角；拖過會記住（存視窗比例，換裝置也合理） ── */
+  function defaultPos() {
+    var mobile = window.matchMedia("(max-width: 600px)").matches;
+    var bottomGap = mobile ? 84 : 16;
+    return { x: window.innerWidth - 96 - 14, y: window.innerHeight - 100 - bottomGap };
+  }
+  function clamp(p) {
+    p.x = Math.max(2, Math.min(window.innerWidth - 98, p.x));
+    p.y = Math.max(2, Math.min(window.innerHeight - 102, p.y));
+    return p;
+  }
+  function loadPos() {
+    try {
+      var s = JSON.parse(localStorage.getItem("pet-pos") || "null");
+      if (s && typeof s.rx === "number") {
+        return clamp({ x: s.rx * window.innerWidth, y: s.ry * window.innerHeight });
+      }
+    } catch (e) {}
+    return clamp(defaultPos());
+  }
+  var pos = loadPos();
+  function apply() {
+    wrap.style.left = pos.x + "px";
+    wrap.style.top = pos.y + "px";
+    // 泡泡翻邊：貼近上緣→往下開；貼近左緣→往右開
+    wrap.classList.toggle("b-below", pos.y < 150);
+    wrap.classList.toggle("b-left", pos.x < 250);
+  }
+  apply();
+  window.addEventListener("resize", function () { pos = clamp(pos); apply(); });
+
+  /* ── 拖曳（pointer events；拖動後不觸發點擊） ── */
+  var dragging = false, moved = false, offX = 0, offY = 0;
+  img.addEventListener("pointerdown", function (e) {
+    dragging = true; moved = false;
+    offX = e.clientX - pos.x; offY = e.clientY - pos.y;
+    img.setPointerCapture(e.pointerId);
+    wrap.classList.add("drag");
+    e.preventDefault();
+  });
+  img.addEventListener("pointermove", function (e) {
+    if (!dragging) return;
+    var nx = e.clientX - offX, ny = e.clientY - offY;
+    if (!moved && Math.abs(nx - pos.x) + Math.abs(ny - pos.y) > 6) moved = true;
+    if (moved) { pos = clamp({ x: nx, y: ny }); apply(); }
+  });
+  img.addEventListener("pointerup", function (e) {
+    if (!dragging) return;
+    dragging = false;
+    wrap.classList.remove("drag");
+    img.releasePointerCapture(e.pointerId);
+    if (moved) {
+      localStorage.setItem("pet-pos", JSON.stringify({ rx: pos.x / window.innerWidth, ry: pos.y / window.innerHeight }));
+      wake();
+      say("這裡視野不錯~", 2400);
+    } else {
+      poke();
+    }
+  });
 
   /* ── 聰明台詞 ── */
   var smart = [];
@@ -132,68 +148,9 @@
     return pool[Math.floor(Math.random() * pool.length)];
   }
 
-  /* ── 狀態機 ── */
-  var x = 0;                       // 目前位移（0 = 靠右緣；往左為正）
-  var facingRight = false;
-  var busy = false, sleeping = false;
-  var talkTimer, sleepTimer, loopTimer;
-  var railGap = window.matchMedia("(min-width: 1025px)").matches ? 140 : 6; // 桌面避開時間軸
-  function bounds() {
-    var maxLeft = Math.min(window.innerWidth * 0.5, 520);
-    return { min: railGap, max: Math.max(railGap + 40, maxLeft) };
-  }
-  x = bounds().min;
-  apply();
-  function apply() { wrap.style.transform = "translateX(" + (-x) + "px)"; }
-  function face(right) {
-    facingRight = right;
-    wrap.classList.toggle("face-right", right);
-  }
-  function eyes(shut) {
-    svg.querySelector(".eyes-open").style.display = shut ? "none" : "";
-    svg.querySelector(".eyes-shut").style.display = shut ? "" : "none";
-  }
-
-  function walkTo(target, cb) {
-    var b = bounds();
-    target = Math.max(b.min, Math.min(b.max, target));
-    var dist = Math.abs(target - x);
-    if (dist < 12) { cb && cb(); return; }
-    face(target < x);              // 位移變小 = 視覺往右
-    wrap.classList.add("walk");
-    var dur = dist / 55;           // 55px/秒
-    wrap.style.transition = "transform " + dur + "s linear";
-    requestAnimationFrame(function () { x = target; apply(); });
-    setTimeout(function () {
-      wrap.classList.remove("walk");
-      wrap.style.transition = "";
-      cb && cb();
-    }, dur * 1000 + 60);
-  }
-
-  function playBall(cb) {
-    var b = bounds();
-    var ballX = Math.min(b.max, x + 150 + Math.random() * 80);
-    var ball = document.createElement("div");
-    ball.className = "pet-ball";
-    ball.textContent = "🧶";
-    ball.style.right = "0px";
-    ball.style.transform = "translateX(" + (-ballX) + "px)";
-    document.body.appendChild(ball);
-    setTimeout(function () {
-      walkTo(ballX - 40, function () {
-        wrap.classList.add("pounce");
-        say("喵!");
-        setTimeout(function () { wrap.classList.remove("pounce"); }, 550);
-        var out = Math.min(b.max + 120, ballX + 200);
-        ball.style.transition = "transform .9s ease-out, opacity .6s ease .5s";
-        ball.style.opacity = "0";
-        ball.style.transform = "translateX(" + (-out) + "px)";
-        setTimeout(function () { ball.remove(); cb && cb(); }, 1000);
-      });
-    }, 350);
-  }
-
+  /* ── 說話 / 睡覺 / 蹦跳 ── */
+  var talkTimer, sleepTimer;
+  var sleeping = false;
   function say(text, ms) {
     bub.textContent = text;
     wrap.classList.add("talk");
@@ -203,14 +160,14 @@
   function goSleep() {
     sleeping = true;
     wrap.classList.add("sleep");
-    eyes(true);
+    img.src = IMG_SLEEP;
     say("Zzz… 💤", 3200);
   }
   function wake() {
     if (sleeping) {
       sleeping = false;
       wrap.classList.remove("sleep");
-      eyes(false);
+      img.src = IMG_SIT;
       say(WAKE_LINE, 2600);
     }
     resetSleep();
@@ -219,44 +176,21 @@
     clearTimeout(sleepTimer);
     sleepTimer = setTimeout(goSleep, 150000);
   }
-
-  /* 行為迴圈：散步 / 玩球 / 眨眼放空 */
-  function loop() {
-    loopTimer = setTimeout(function () {
-      if (!sleeping && !busy && !document.hidden) {
-        busy = true;
-        var r = Math.random();
-        var done = function () { busy = false; face(false); loop(); };
-        if (r < 0.42) {
-          var b = bounds();
-          walkTo(b.min + Math.random() * (b.max - b.min), done);
-          return;
-        } else if (r < 0.58) {
-          playBall(done);
-          return;
-        } else if (r < 0.72) {
-          eyes(true);
-          setTimeout(function () { if (!sleeping) eyes(false); busy = false; loop(); }, 900);
-          return;
-        }
-        busy = false;
-      }
-      loop();
-    }, 9000 + Math.random() * 14000);
+  function poke() {
+    var wasSleeping = sleeping;
+    wake();
+    if (wasSleeping) return;
+    wrap.classList.remove("jump");
+    void wrap.offsetWidth;
+    wrap.classList.add("jump");
+    setTimeout(function () { wrap.classList.remove("jump"); }, 560);
+    say(pickLine());
   }
 
-  svg.addEventListener("click", function () {
-    wake();
-    wrap.classList.remove("pounce");
-    void wrap.offsetWidth;
-    wrap.classList.add("pounce");
-    setTimeout(function () { wrap.classList.remove("pounce"); }, 550);
-    say(pickLine());
-  });
   document.getElementById("petX").addEventListener("click", function (e) {
     e.stopPropagation();
     localStorage.setItem("pet-off", String(Date.now()));
-    clearTimeout(loopTimer); clearTimeout(sleepTimer);
+    clearTimeout(sleepTimer); clearTimeout(talkTimer);
     wrap.remove();
   });
   ["scroll", "mousemove", "touchstart"].forEach(function (ev) {
@@ -270,13 +204,11 @@
   });
 
   setTimeout(function () { say(HELLO, 3600); }, 1500);
-  var quip = function () {
+  (function quip() {
     setTimeout(function () {
-      if (!sleeping && !document.hidden && !busy) say(pickLine());
+      if (!sleeping && !document.hidden && !dragging) say(pickLine());
       quip();
     }, 50000 + Math.random() * 50000);
-  };
-  quip();
+  })();
   resetSleep();
-  loop();
 })();
