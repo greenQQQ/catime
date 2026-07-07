@@ -1,11 +1,10 @@
-/* 時光小夥伴：右下角桌寵（QQQ）。
-   純 CSS/JS 零依賴：呼吸晃動、點擊蹦跳＋聰明對話泡泡（今日張數/生日/同題提示）、
-   閒置入睡、X 關閉記憶 7 天。tv.html 不載入。 */
+/* 時光小夥伴 v2：全身 2D 桌寵（QQQ）。
+   SVG 向量貓 + 狀態機：底部散步（自動轉身）、追毛線球撲擊、坐下搖尾巴、
+   閒置入睡 💤、點擊蹦跳＋聰明對話泡泡（今日張數/生日/同題）。✕ 收起記憶 7 天。 */
 (function () {
   "use strict";
   if (localStorage.getItem("pet-off") && Date.now() - (+localStorage.getItem("pet-off")) < 7 * 86400 * 1000) return;
 
-  var AVATAR = "avatars/qqq.webp";
   var NAME = "QQQ";
   var RAW = "https://raw.githubusercontent.com/greenQQQ/catime/main/catlist.json";
   var MEOW = ["喵~", "呼嚕嚕…", "喵嗚?"];
@@ -16,32 +15,82 @@
     "去時光小鎮看看大家的關係~",
     "每小時都有新朋友誕生",
   ];
+  var WAKE_LINE = "喵!? 我沒有睡著";
+  var HELLO = "嗨~ 我是" + NAME + " 🐾";
+
+  /* ── 全身 SVG（側面朝左；QQQ：橘虎斑＋白圍兜＋琥珀眼） ── */
+  var PET_SVG =
+    '<svg viewBox="0 0 132 96" width="112" height="82" xmlns="http://www.w3.org/2000/svg">' +
+    '<g class="tail-g"><path class="tail" d="M112 62 C126 56 130 42 122 32" fill="none" stroke="#E8853A" stroke-width="11" stroke-linecap="round"/>' +
+    '<path d="M119.5 36 l7 -2.5" stroke="#C05A1A" stroke-width="10" stroke-linecap="round"/></g>' +
+    '<g class="leg leg-b1"><rect x="88" y="66" width="10" height="24" rx="5" fill="#DF8B44"/></g>' +
+    '<g class="leg leg-f1"><rect x="34" y="66" width="10" height="24" rx="5" fill="#DF8B44"/></g>' +
+    '<ellipse class="body" cx="66" cy="58" rx="42" ry="26" fill="#EF9853"/>' +
+    '<path d="M52 36 q6 12 0 22 M70 33 q6 13 0 25 M88 36 q5 11 0 21" stroke="#C05A1A" stroke-width="6" fill="none" stroke-linecap="round"/>' +
+    '<ellipse cx="52" cy="76" rx="20" ry="9" fill="#FFF6E8"/>' +
+    '<g class="leg leg-b2"><rect x="96" y="66" width="10" height="24" rx="5" fill="#EF9853"/></g>' +
+    '<g class="leg leg-f2"><rect x="46" y="66" width="10" height="24" rx="5" fill="#EF9853"/></g>' +
+    '<g class="head-g">' +
+    '<path d="M10 22 L20 4 L30 18 Z" fill="#EF9853"/><path d="M15 18 L20 9 L25 16 Z" fill="#FCC49B"/>' +
+    '<path d="M34 18 L46 3 L52 20 Z" fill="#EF9853"/><path d="M39 16 L45 9 L48 17 Z" fill="#FCC49B"/>' +
+    '<circle cx="30" cy="34" r="24" fill="#EF9853"/>' +
+    '<path d="M22 12 q4 8 -1 12 M34 11 q3 8 -1 12" stroke="#C05A1A" stroke-width="4.5" fill="none" stroke-linecap="round"/>' +
+    '<ellipse cx="24" cy="44" rx="13" ry="10" fill="#FFF6E8"/>' +
+    '<g class="eyes-open"><circle cx="17" cy="32" r="3.4" fill="#3A2A18"/><circle cx="38" cy="32" r="3.4" fill="#3A2A18"/>' +
+    '<circle cx="18.2" cy="30.8" r="1.1" fill="#fff"/><circle cx="39.2" cy="30.8" r="1.1" fill="#fff"/></g>' +
+    '<g class="eyes-shut" style="display:none"><path d="M13 33 q4 3 8 0 M34 33 q4 3 8 0" stroke="#3A2A18" stroke-width="2.2" fill="none" stroke-linecap="round"/></g>' +
+    '<path d="M25 39 l4 3 l4 -3" fill="none" stroke="#3A2A18" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>' +
+    '<path d="M27 36.5 q2 -1.6 4 0 q-1 2.4 -2 2.4 q-1 0 -2 -2.4" fill="#E98A98"/>' +
+    '<path d="M6 38 l12 2 M6 46 l12 -1 M46 38 l12 2 M46 45 l12 -1" stroke="#FFF6E8" stroke-width="1.6" stroke-linecap="round" opacity=".9"/>' +
+    '</g></svg>';
 
   /* ── 樣式 ── */
   var css = [
-    ".pet-wrap{position:fixed;right:14px;bottom:14px;z-index:150;user-select:none;-webkit-tap-highlight-color:transparent;}",
-    "@media (max-width:600px){.pet-wrap{bottom:calc(var(--tabbar-h,64px) + 12px);right:10px;}}",
-    ".pet-face{width:74px;height:74px;border-radius:50%;cursor:pointer;display:block;",
-    "  border:3px solid #fff;box-shadow:0 5px 16px rgba(0,0,0,.22);object-fit:cover;",
-    "  animation:pet-bob 3.2s ease-in-out infinite;transition:transform .18s ease,filter .4s ease;}",
-    ".pet-face:hover{transform:scale(1.08) rotate(-4deg);}",
-    "@keyframes pet-bob{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-4px) rotate(1.6deg)}}",
-    ".pet-wrap.jump .pet-face{animation:pet-jump .55s ease;}",
-    "@keyframes pet-jump{0%{transform:translateY(0) scale(1)}30%{transform:translateY(-20px) scale(1.06) rotate(-6deg)}60%{transform:translateY(0) scale(.94,.9)}80%{transform:translateY(-6px) scale(1.02)}100%{transform:translateY(0) scale(1)}}",
-    ".pet-wrap.sleep .pet-face{animation:pet-sleep-bob 5.5s ease-in-out infinite;filter:saturate(.55) brightness(.9);}",
-    "@keyframes pet-sleep-bob{0%,100%{transform:translateY(0) rotate(6deg)}50%{transform:translateY(-2px) rotate(6deg)}}",
-    ".pet-bubble{position:absolute;right:64px;bottom:58px;max-width:200px;",
-    "  font:700 .82rem 'LXGW WenKai TC','Nunito',system-ui,sans-serif;line-height:1.6;",
-    "  color:#6b5344;background:#fffdf7;border:1.5px solid rgba(130,95,60,.2);border-radius:14px 14px 3px 14px;",
-    "  padding:.5rem .75rem;box-shadow:0 4px 14px rgba(120,80,50,.18);",
-    "  opacity:0;transform:translateY(6px) scale(.9);transform-origin:bottom right;",
-    "  transition:opacity .22s ease,transform .22s ease;pointer-events:none;white-space:normal;}",
-    ".pet-wrap.talk .pet-bubble{opacity:1;transform:none;}",
-    ".pet-x{position:absolute;top:-7px;right:-4px;width:20px;height:20px;border-radius:50%;",
+    ".petw{position:fixed;bottom:6px;right:0;z-index:160;user-select:none;-webkit-tap-highlight-color:transparent;",
+    "  width:118px;height:96px;will-change:transform;}",
+    "@media (max-width:600px){.petw{bottom:calc(var(--tabbar-h,64px) + 6px);}}",
+    ".pet-svg{display:block;cursor:pointer;filter:drop-shadow(0 4px 8px rgba(0,0,0,.28));transition:transform .25s ease;}",
+    ".petw.face-right .pet-svg{transform:scaleX(-1);}",
+    /* 待機呼吸 + 尾巴搖 */
+    ".pet-svg .body,.pet-svg .head-g{animation:pet-breath 3.4s ease-in-out infinite;transform-origin:60px 60px;}",
+    "@keyframes pet-breath{0%,100%{transform:translateY(0)}50%{transform:translateY(-1.6px)}}",
+    ".pet-svg .tail-g{transform-origin:110px 62px;animation:tail-swish 2.6s ease-in-out infinite;}",
+    "@keyframes tail-swish{0%,100%{transform:rotate(0deg)}50%{transform:rotate(14deg)}}",
+    /* 走路：腿擺動＋身體小彈跳 */
+    ".petw.walk .leg{animation:leg-a .34s ease-in-out infinite;transform-origin:center 66px;}",
+    ".petw.walk .leg-f2,.petw.walk .leg-b1{animation-delay:.17s;}",
+    "@keyframes leg-a{0%,100%{transform:rotate(14deg)}50%{transform:rotate(-14deg)}}",
+    ".petw.walk .pet-svg{animation:walk-bob .34s ease-in-out infinite;}",
+    ".petw.walk.face-right .pet-svg{animation:walk-bob-r .34s ease-in-out infinite;}",
+    "@keyframes walk-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-2.5px)}}",
+    "@keyframes walk-bob-r{0%,100%{transform:translateY(0) scaleX(-1)}50%{transform:translateY(-2.5px) scaleX(-1)}}",
+    /* 撲擊 */
+    ".petw.pounce .pet-svg{animation:pounce .5s ease;}",
+    ".petw.pounce.face-right .pet-svg{animation:pounce-r .5s ease;}",
+    "@keyframes pounce{0%{transform:none}35%{transform:translateY(-22px) rotate(-8deg)}70%{transform:translateY(0) scale(1.06,.88)}100%{transform:none}}",
+    "@keyframes pounce-r{0%{transform:scaleX(-1)}35%{transform:translateY(-22px) rotate(8deg) scaleX(-1)}70%{transform:translateY(0) scale(-1.06,.88)}100%{transform:scaleX(-1)}}",
+    /* 睡覺：趴平＋灰一點 */
+    ".petw.sleep .pet-svg{transform:scaleY(.82) translateY(8px);filter:saturate(.6) brightness(.9) drop-shadow(0 4px 8px rgba(0,0,0,.28));}",
+    ".petw.sleep .tail-g{animation-duration:6s;}",
+    ".petw.sleep .leg{display:none;}",
+    /* 泡泡：在貓上方、貼著視窗右緣時自動靠左 */
+    ".pet-bub{position:absolute;bottom:92px;right:0;min-width:90px;max-width:230px;width:max-content;",
+    "  font:700 .84rem 'LXGW WenKai TC','Nunito',system-ui,sans-serif;line-height:1.65;",
+    "  color:#6b5344;background:#fffdf7;border:1.5px solid rgba(130,95,60,.22);border-radius:14px 14px 3px 14px;",
+    "  padding:.5rem .8rem;box-shadow:0 4px 14px rgba(120,80,50,.2);",
+    "  opacity:0;transform:translateY(6px) scale(.92);transform-origin:bottom right;",
+    "  transition:opacity .22s ease,transform .22s ease;pointer-events:none;z-index:161;}",
+    ".petw.talk .pet-bub{opacity:1;transform:none;}",
+    "[data-theme=dark] .pet-bub{color:#eddcc7;background:#382d22;border-color:rgba(255,255,255,.16);}",
+    /* 毛線球 */
+    ".pet-ball{position:fixed;bottom:12px;z-index:159;font-size:24px;transition:transform .5s ease;",
+    "  animation:ball-roll 1.2s linear infinite;pointer-events:none;}",
+    "@keyframes ball-roll{from{rotate:0deg}to{rotate:360deg}}",
+    /* 收起鈕 */
+    ".pet-x{position:absolute;top:-4px;right:2px;width:20px;height:20px;border-radius:50%;",
     "  border:0;cursor:pointer;font:700 11px/1 sans-serif;color:#fff;background:rgba(90,70,55,.75);",
-    "  opacity:0;transition:opacity .2s ease;}",
-    ".pet-wrap:hover .pet-x{opacity:.9;}",
-    "[data-theme=dark] .pet-bubble{color:#eddcc7;background:#382d22;border-color:rgba(255,255,255,.14);}",
+    "  opacity:0;transition:opacity .2s ease;z-index:162;}",
+    ".petw:hover .pet-x{opacity:.9;}",
   ].join("");
   var st = document.createElement("style");
   st.textContent = css;
@@ -49,15 +98,16 @@
 
   /* ── DOM ── */
   var wrap = document.createElement("div");
-  wrap.className = "pet-wrap";
-  wrap.innerHTML =
-    "<div class='pet-bubble' id='petBubble'></div>" +
-    "<img class='pet-face' id='petFace' src='" + AVATAR + "' alt='" + NAME + "' title='" + NAME + "'>" +
+  wrap.className = "petw";
+  wrap.innerHTML = "<div class='pet-bub' id='petBub'></div>" + PET_SVG +
     "<button class='pet-x' id='petX' aria-label='收起小夥伴' title='收起（一週）'>✕</button>";
+  var svg = null;
   document.body.appendChild(wrap);
-  var bubble = document.getElementById("petBubble");
+  svg = wrap.querySelector("svg");
+  svg.classList.add("pet-svg");
+  var bub = document.getElementById("petBub");
 
-  /* ── 聰明台詞（吃現成資料） ── */
+  /* ── 聰明台詞 ── */
   var smart = [];
   fetch(RAW).then(function (r) { return r.json(); }).then(function (list) {
     var ok = list.filter(function (c) { return c.status !== "failed" && c.url; });
@@ -72,45 +122,141 @@
     smart.push("目前全部累積 " + ok.length + " 張作品~");
     todays.forEach(function (c) {
       if (c.is_birthday && c.character_name) smart.push("今天是" + c.character_name + "的生日 🎂");
-      if (c.crossover) smart.push("今天貓狗畫了同一則新聞，快去看『今日同題』");
+      if (c.crossover) smart.push("今天貓狗畫了同一則新聞，去看『今日同題』");
     });
   }).catch(function () {});
-
   function pickLine() {
     var pools = [MEOW, TIPS];
-    if (smart.length) pools.push(smart, smart);   // 聰明台詞加權
+    if (smart.length) pools.push(smart, smart);
     var pool = pools[Math.floor(Math.random() * pools.length)];
     return pool[Math.floor(Math.random() * pool.length)];
   }
 
-  var talkTimer = null, sleepTimer = null, quipTimer = null;
+  /* ── 狀態機 ── */
+  var x = 0;                       // 目前位移（0 = 靠右緣；往左為正）
+  var facingRight = false;
+  var busy = false, sleeping = false;
+  var talkTimer, sleepTimer, loopTimer;
+  var railGap = window.matchMedia("(min-width: 1025px)").matches ? 140 : 6; // 桌面避開時間軸
+  function bounds() {
+    var maxLeft = Math.min(window.innerWidth * 0.5, 520);
+    return { min: railGap, max: Math.max(railGap + 40, maxLeft) };
+  }
+  x = bounds().min;
+  apply();
+  function apply() { wrap.style.transform = "translateX(" + (-x) + "px)"; }
+  function face(right) {
+    facingRight = right;
+    wrap.classList.toggle("face-right", right);
+  }
+  function eyes(shut) {
+    svg.querySelector(".eyes-open").style.display = shut ? "none" : "";
+    svg.querySelector(".eyes-shut").style.display = shut ? "" : "none";
+  }
+
+  function walkTo(target, cb) {
+    var b = bounds();
+    target = Math.max(b.min, Math.min(b.max, target));
+    var dist = Math.abs(target - x);
+    if (dist < 12) { cb && cb(); return; }
+    face(target < x);              // 位移變小 = 視覺往右
+    wrap.classList.add("walk");
+    var dur = dist / 55;           // 55px/秒
+    wrap.style.transition = "transform " + dur + "s linear";
+    requestAnimationFrame(function () { x = target; apply(); });
+    setTimeout(function () {
+      wrap.classList.remove("walk");
+      wrap.style.transition = "";
+      cb && cb();
+    }, dur * 1000 + 60);
+  }
+
+  function playBall(cb) {
+    var b = bounds();
+    var ballX = Math.min(b.max, x + 150 + Math.random() * 80);
+    var ball = document.createElement("div");
+    ball.className = "pet-ball";
+    ball.textContent = "🧶";
+    ball.style.right = "0px";
+    ball.style.transform = "translateX(" + (-ballX) + "px)";
+    document.body.appendChild(ball);
+    setTimeout(function () {
+      walkTo(ballX - 40, function () {
+        wrap.classList.add("pounce");
+        say("喵!");
+        setTimeout(function () { wrap.classList.remove("pounce"); }, 550);
+        var out = Math.min(b.max + 120, ballX + 200);
+        ball.style.transition = "transform .9s ease-out, opacity .6s ease .5s";
+        ball.style.opacity = "0";
+        ball.style.transform = "translateX(" + (-out) + "px)";
+        setTimeout(function () { ball.remove(); cb && cb(); }, 1000);
+      });
+    }, 350);
+  }
+
   function say(text, ms) {
-    bubble.textContent = text;
+    bub.textContent = text;
     wrap.classList.add("talk");
     clearTimeout(talkTimer);
     talkTimer = setTimeout(function () { wrap.classList.remove("talk"); }, ms || 4200);
   }
-  function jump() {
-    wrap.classList.remove("jump");
-    void wrap.offsetWidth;   // restart animation
-    wrap.classList.add("jump");
+  function goSleep() {
+    sleeping = true;
+    wrap.classList.add("sleep");
+    eyes(true);
+    say("Zzz… 💤", 3200);
   }
-  function goSleep() { wrap.classList.add("sleep"); say("Zzz… 💤", 3200); }
   function wake() {
-    if (wrap.classList.contains("sleep")) { wrap.classList.remove("sleep"); say("喵!? 我沒有睡著", 2600); }
+    if (sleeping) {
+      sleeping = false;
+      wrap.classList.remove("sleep");
+      eyes(false);
+      say(WAKE_LINE, 2600);
+    }
     resetSleep();
   }
   function resetSleep() {
     clearTimeout(sleepTimer);
-    sleepTimer = setTimeout(goSleep, 150000);   // 2.5 分鐘沒動靜就睡
+    sleepTimer = setTimeout(goSleep, 150000);
   }
 
-  document.getElementById("petFace").addEventListener("click", function () {
-    wake(); jump(); say(pickLine());
+  /* 行為迴圈：散步 / 玩球 / 眨眼放空 */
+  function loop() {
+    loopTimer = setTimeout(function () {
+      if (!sleeping && !busy && !document.hidden) {
+        busy = true;
+        var r = Math.random();
+        var done = function () { busy = false; face(false); loop(); };
+        if (r < 0.42) {
+          var b = bounds();
+          walkTo(b.min + Math.random() * (b.max - b.min), done);
+          return;
+        } else if (r < 0.58) {
+          playBall(done);
+          return;
+        } else if (r < 0.72) {
+          eyes(true);
+          setTimeout(function () { if (!sleeping) eyes(false); busy = false; loop(); }, 900);
+          return;
+        }
+        busy = false;
+      }
+      loop();
+    }, 9000 + Math.random() * 14000);
+  }
+
+  svg.addEventListener("click", function () {
+    wake();
+    wrap.classList.remove("pounce");
+    void wrap.offsetWidth;
+    wrap.classList.add("pounce");
+    setTimeout(function () { wrap.classList.remove("pounce"); }, 550);
+    say(pickLine());
   });
   document.getElementById("petX").addEventListener("click", function (e) {
     e.stopPropagation();
     localStorage.setItem("pet-off", String(Date.now()));
+    clearTimeout(loopTimer); clearTimeout(sleepTimer);
     wrap.remove();
   });
   ["scroll", "mousemove", "touchstart"].forEach(function (ev) {
@@ -119,18 +265,18 @@
       if (throttled) return;
       throttled = true;
       setTimeout(function () { throttled = false; }, 3000);
-      if (wrap.classList.contains("sleep")) wake(); else resetSleep();
+      if (sleeping) wake(); else resetSleep();
     }, { passive: true });
   });
 
-  /* 開場招呼＋不定時碎念 */
-  setTimeout(function () { say("嗨~ 我是" + NAME + " 🐾", 3600); }, 1600);
-  function quipLoop() {
-    quipTimer = setTimeout(function () {
-      if (!wrap.classList.contains("sleep") && !document.hidden) say(pickLine());
-      quipLoop();
-    }, 45000 + Math.random() * 50000);
-  }
-  quipLoop();
+  setTimeout(function () { say(HELLO, 3600); }, 1500);
+  var quip = function () {
+    setTimeout(function () {
+      if (!sleeping && !document.hidden && !busy) say(pickLine());
+      quip();
+    }, 50000 + Math.random() * 50000);
+  };
+  quip();
   resetSleep();
+  loop();
 })();
