@@ -2079,5 +2079,61 @@
         "source": "The Times of India"
       }
     ]
+  },
+  {
+    "idea": "線描著色本插畫：在一座老式山頂天文台的圓頂控制室裡，一隻全身居中入鏡的四腳虎斑貓正用前爪撥動黃銅星圖投影機的校準旋鈕，牆面映出中國紅與金色的球狀星團圖案；直打閃光燈讓線條清晰，整體覆著柔焦霧面感。",
+    "news_inspiration": [
+      {
+        "summary": "NASA 以哈伯影像展示擁有約50萬顆古老恆星的球狀星團 Messier 3，畫面呈現紅白藍色調並兼具科學與視覺震撼。",
+        "url": "https://timesofindia.indiatimes.com/science/nasas-hubble-captures-a-spectacular-cluster-of-500000-ancient-stars-to-mark-americas-250th-anniversary/articleshow/132217269.cms",
+        "source": "Times of India"
+      },
+      {
+        "summary": "iRobot 推出首款非機器人的 Roomba Electro Plus 五合一無線吸塵拖地機，同步預告多款更小、更便宜的新 Roomba 機器人。",
+        "url": "https://www.theverge.com/tech/962034/irobot-roomba-electro-plus-smaller-cheaper-robot-vacuums",
+        "source": "The Verge"
+      },
+      {
+        "summary": "極危白背兀鷲時隔十年再現柬埔寨 Lomphat Wildlife Sanctuary，成為當地保育與復育行動的重要好消息。",
+        "url": "https://people.com/white-rumped-vulture-spotted-in-cambodian-sanctuary-for-first-time-in-10-years-12012829",
+        "source": "People"
+      },
+      {
+        "summary": "溫布頓八強賽中，Coco Gauff 首度挺進溫網女單四強，Jannik Sinner 也直落三晉級男單準決賽。",
+        "url": "https://www.theguardian.com/sport/live/2026/jul/07/wimbledon-2026-quarter-finals-sinner-osaka-djokovic-and-gauff-in-action-live",
+        "source": "The Guardian"
+      }
+    ],
+    "inspiration_url": "https://timesofindia.indiatimes.com/science/nasas-hubble-captures-a-spectacular-cluster-of-500000-ancient-stars-to-mark-americas-250th-anniversary/articleshow/132217269.cms",
+    "title": "紅金星務",
+    "story": "夜班研究員把哈伯影像列印稿忘在控制台上，貓趁著圓頂轉向時跳上木椅，像在替古老星群重新找座標。當投影機發出低低嗡鳴，滿室紅金星點落在牠鬍鬚旁，彷彿半個宇宙都在等牠按下下一顆星。",
+    "inspiration": "NASA 以哈伯影像展示擁有約50萬顆古老恆星的球狀星團 Messier 3，畫面呈現紅白藍色調並兼具科學與視覺震撼。",
+    "prompt": "Coloring book line art illustration, clean uniform black outlines on white with no grayscale shading, ready-to-color aesthetic. Full-body vertical portrait: an entire four-legged tabby cat centered head-to-toe in a tall frame, standing on a wooden chair inside the domed control room of an old mountaintop observatory, clearly using one front paw to turn the calibration knob on a brass star-chart projector. Control console includes forgotten Hubble image printouts and a visible label/clock reading \"2026-07-07 15:05 UTC\". The observatory wall is filled with playful spherical globular-cluster patterns in auspicious Chinese red and bright gold accents, festive red dominance with gold highlights. Intricate decorative linework on the dome panels, brass projector, knobs, chair, cat stripes, whiskers, and star maps. Harsh direct on-camera flash translated into crisp outlines, blown-out white highlights, and graphic hard shadow shapes, with a soft-focus matte haze and gentle glowing veil over the whole image, low-contrast dreamy diffused finish. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "貓用鼻尖嗅聞小物",
+      "明確時間戳文字牌",
+      "硬邊條紋光影切過貓毛",
+      "靛藍月夜色調",
+      "黑金高反差夜景",
+      "橘白貓追逐或叼紅色物件",
+      "鏡子自拍構圖",
+      "等距俯視攝影構圖",
+      "水珠飛濺凝結瞬間",
+      "貓在歷史或展覽場館中探索",
+      "傳統街市場景搭配台南或台北",
+      "倫勃朗三角光照貓臉",
+      "貓與溫布頓網球元素",
+      "手作纖維或羊毛氈質感",
+      "禁止簡體字提示反覆出現"
+    ],
+    "style_picks": {
+      "art_style": "Coloring Book Line Art",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Direct Flash",
+      "texture": "Soft-Focus Matte Haze",
+      "color_palette": "Festive Red and Gold"
+    },
+    "comment_id": 4905322168,
+    "number": 48
   }
 ]
