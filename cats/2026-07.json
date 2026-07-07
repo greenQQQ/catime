@@ -1524,5 +1524,56 @@
         "source": "The Sun"
       }
     ]
+  },
+  {
+    "title": "朱雨貓徑",
+    "comment_id": 4899744783,
+    "style_picks": {
+      "art_style": "Watercolor Fashion Illustration",
+      "composition": "Illustrated Story Panel Layout",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Vermilion and White"
+    },
+    "inspiration_url": "https://www.businessinsider.com/dataland-worlds-first-ai-art-museum-in-la-photos-2026-7",
+    "avoid_list": [
+      "移軸微縮立體模型場景",
+      "清楚顯示 UTC 時間標籤",
+      "禁止簡體中文文字提示",
+      "貓用前爪修補或推動物件",
+      "貓叼住緞帶膠片棉線",
+      "竹影翠綠與孔雀石色調",
+      "描金墨線勾勒邊緣",
+      "電影膠片與老放映室",
+      "後台或工坊裡的臨時工作台",
+      "體積光束與可見塵埃",
+      "高調棚光白底居中肖像",
+      "懸浮跳躍攝影定格",
+      "貓守護即將出錯的機械或物件",
+      "小型標籤抽屜工具模型細節",
+      "柔和青橙電影調"
+    ],
+    "prompt": "Watercolor fashion illustration story page set inside Dataland AI Art Museum in Los Angeles: multiple irregular comic panels on one clean white page, decorative top title banner reading \"DATALAND RAIN FOREST AFTER HOURS\" and a wall label clearly displaying \"2026-07-07 03:05 UTC\". A wet vermilion-and-white cat slowly steps through sensor-activated puddles in an interactive rainforest gallery; each pawstep creates glowing cinnabar data vines and soundwave flowers blooming across the dark exhibition walls. UV blacklight illumination makes water droplets on the cat’s whiskers sparkle like tiny fluorescent pearls, glossy wet sheen, reflective micro-highlights, neon pigments against deep ultraviolet shadows. Watercolor fashion illustration technique with loose pigment washes, splattered ink accents, crisp graphic negative space, runway elegance, shoujo manga narrative flow, slice-of-life storybook composition, integrated English dialogue bubbles, minimalist oriental balance, bold vermilion red and clean white palette. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "閉館前，清潔員發現那隻常來躲雨的貓正在展廳裡巡水窪，牠每踩一步，雨林音場就多出一段低低的呼嚕節奏。觀眾留下的感測資料忽然被牠改寫成一條朱紅小徑，像城市替一隻流浪貓偷偷畫出的回家路。",
+    "idea": "水彩時尚插畫風的故事插畫分格：洛杉磯 Dataland AI 藝術博物館的互動雨林展廳裡，一隻濕漉漉的朱紅白貓沿著感測水窪慢慢踩行，UV 黑光讓牠鬍鬚上的水珠像細小螢光珍珠。每一格畫面都留出大片白，朱紅的資料藤蔓隨牠的步伐在牆面生成聲波花。",
+    "number": 36,
+    "news_inspiration": [
+      {
+        "summary": "洛杉磯 Dataland AI 藝術博物館以互動雨林展覽，讓觀眾用感測資料參與生成沉浸式視覺與聲音體驗。",
+        "url": "https://www.businessinsider.com/dataland-worlds-first-ai-art-museum-in-la-photos-2026-7",
+        "source": "Business Insider"
+      },
+      {
+        "summary": "科學家發現加拿大洛磯山脈一群西部蟾蜍具有獨特基因特徵，可能改寫當地生物多樣性保育策略。",
+        "url": "https://timesofindia.indiatimes.com/science/this-toad-exists-only-in-canadaand-scientists-have-finally-discovered-why/articleshow/132178677.cms",
+        "source": "The Times of India"
+      },
+      {
+        "summary": "美國男足在主場世界盃迎來關鍵淘汰賽，Folarin Balogun 回歸讓球隊挑戰睽違多年晉級八強的機會更受矚目。",
+        "url": "https://nypost.com/2026/07/06/sports/usmnt-faces-defining-world-cup-moment-after-folarin-baloguns-return/",
+        "source": "New York Post"
+      }
+    ],
+    "inspiration": "洛杉磯 Dataland AI 藝術博物館以互動雨林展覽，讓觀眾用感測資料參與生成沉浸式視覺與聲音體驗。"
   }
 ]
