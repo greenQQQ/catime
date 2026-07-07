@@ -2018,5 +2018,66 @@
       "禁止簡體字提示反覆出現"
     ],
     "number": 46
+  },
+  {
+    "inspiration": "Boston Dynamics 分享人形機器人 Atlas 為世界盃亮相所做的訓練，展現更靈活的學習式動作控制。",
+    "title": "月校準",
+    "inspiration_url": "https://timesofindia.indiatimes.com/technology/tech-news/boston-dynamics-reveals-how-it-prepared-atlas-humanoid-robot-for-fifa-world-cup-debut-we-had-to-change-the-way/articleshow/132222264.cms",
+    "avoid_list": [
+      "貓用鼻尖嗅聞小物",
+      "明確時間戳文字牌",
+      "硬邊條紋光影切過貓毛",
+      "靛藍月夜色調",
+      "黑金高反差夜景",
+      "橘白貓追逐或叼紅色物件",
+      "鏡子自拍構圖",
+      "等距俯視攝影構圖",
+      "水珠飛濺凝結瞬間",
+      "貓在歷史或展覽場館中探索",
+      "傳統街市場景搭配台南或台北",
+      "倫勃朗三角光照貓臉",
+      "貓與溫布頓網球元素",
+      "手作纖維或羊毛氈質感",
+      "禁止簡體字提示反覆出現"
+    ],
+    "prompt": "Pixel art illustration in retro 8-bit style, crisp blocky pixels, limited vermilion, white, cool blue, and silvery gray color palette. Overhead flat lay Knolling composition on the white shock-absorbing floor of a Boston Dynamics robot training gym at night: a gray-and-white short-haired cat is clearly using its front paws to push a vermilion mini soccer ball, lace openwork calibration mats with delicate floral cutout patterns and scalloped edges, a wrench, sensor patches, and Atlas training markers into a precise 90-degree organized grid. Clean negative-space white floor like a quiet technical altar, bold cinnabar red accents, minimalist oriental balance, crisp graphic elegance. Moonlight streams through high windows, cool blue tones and gentle silvery glow, quiet nighttime atmosphere. Include a small floor label or digital timestamp tile in clear English text reading \"2026-07-07 14:05 UTC\". Artistic medium: pixel art, flat lay game-sprite precision, sharp square pixels, no photographic realism. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4904720641,
+    "number": 47,
+    "style_picks": {
+      "art_style": "Pixel Art",
+      "composition": "Knolling Photography",
+      "lighting": "Moonlight",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Vermilion and White"
+    },
+    "idea": "像素藝術風格的 Knolling 排列攝影構圖：在波士頓動力機器人訓練館的白色防震地板上，一隻灰白短毛貓正用前掌把朱紅色迷你足球、蕾絲鏤空校準墊、扳手、感測器貼片和 Atlas 的訓練標記推成精準方格；月光從高窗灑下，讓朱紅與留白像一張安靜的技術祭壇。",
+    "story": "深夜測試結束後，工程師忘了收起世界盃動作訓練道具，實驗室的貓卻接手重新排序。牠不是在模仿機器人，只是專心把每一片蕾絲狀校準墊撥到自己滿意的位置，彷彿牠才是明天訓練課的總導演。",
+    "news_inspiration": [
+      {
+        "summary": "NASA 以紅白藍宇宙影像慶祝美國250週年，展示超新星遺跡、星雲與星系團的壯麗細節。",
+        "url": "https://www.livescience.com/space/astronomy/nasa-celebrates-americas-250th-birthday-with-red-white-and-blue-snaps-of-the-cosmos-space-photo-of-the-week",
+        "source": "Live Science"
+      },
+      {
+        "summary": "溫布頓女單八強上演 Coco Gauff 與 Jessica Pegula 的美國內戰，為今年草地大滿貫增添話題。",
+        "url": "https://nypost.com/2026/07/06/sports/gauff-pegula-set-for-all-american-wimbledon-quarterfinal/",
+        "source": "New York Post"
+      },
+      {
+        "summary": "UniverSoul Circus 帶著融合全球文化、音樂與互動表演的新節目重返休士頓。",
+        "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/universoul-circus-brings-new-show-sam-houston-22334027.php",
+        "source": "Houston Chronicle"
+      },
+      {
+        "summary": "加州聖塔克魯茲山區的野生動物通道已讓山獅與約千隻動物使用，成為棲地連結的希望案例。",
+        "url": "https://www.sfgate.com/bayarea/article/santa-cruz-mountain-lions-22331032.php",
+        "source": "SFGate"
+      },
+      {
+        "summary": "Boston Dynamics 分享人形機器人 Atlas 為世界盃亮相所做的訓練，展現更靈活的學習式動作控制。",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/boston-dynamics-reveals-how-it-prepared-atlas-humanoid-robot-for-fifa-world-cup-debut-we-had-to-change-the-way/articleshow/132222264.cms",
+        "source": "The Times of India"
+      }
+    ]
   }
 ]
