@@ -2429,5 +2429,38 @@
       "多層前中後景描述"
     ],
     "comment_id": 4909498262
+  },
+  {
+    "inspiration": "original",
+    "story": "午夜洗衣房忽然像潮池般呼吸，洗衣槽吐出一串會發亮的泡泡。橘白貓聽見泡泡裡傳來細小鐘聲，便穿過一格格畫面追到最老的陶瓷烘衣機旁，發現裡面藏著一場只給迷路衣物看的海底祭典。",
+    "number": 56,
+    "prompt": "Jellyfish spirit fantasy illustration, multi-panel character montage in comic-style grid cells: one four-legged orange-and-white cat clearly running through Reykjavik, Iceland's geothermal public laundry room, sprinting along teal-orange steam pipes while its nose chases translucent jellyfish-spirit soap bubbles. Show the same cat in several poses and expressions across cohesive collage panels, ending near an old handmade ceramic dryer where a tiny glowing underwater festival is visible inside. Sculpted clay texture, handmade ceramic feel, matte surfaces with subtle imperfections, warm earthy tones, teal and orange color grading, cool blue-green shadows, bioluminescent tendrils, glowing bubbles, luminous deep-sea dreamscape atmosphere. Film-quality mood with volumetric light rays, dramatic shadows, high dynamic range contrast, cinematic lighting sculpting the clay forms. Include a clearly readable laundry room wall clock or ceramic sign displaying exactly: \"2026-07-07 23:05 UTC\". IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "泡潮夜奔",
+    "avoid_list": [
+      "長卷全景右至左構圖",
+      "俯視或鳥瞰視角",
+      "前爪撥動小物件",
+      "清楚顯示 UTC 時間牌",
+      "繁中英文限定標示",
+      "暖金光混深色高反差",
+      "直打閃光硬陰影",
+      "雙色調限定色盤",
+      "水彩潑濺墨點肌理",
+      "古絹卷軸斑駁質感",
+      "蕾絲鏤空花紋道具",
+      "貓在展覽或研究場域整理物品",
+      "貓叼花或標籤分類",
+      "多層前中後景描述"
+    ],
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Jellyfish Spirit Fantasy",
+      "composition": "Multi-Panel Character Montage",
+      "lighting": "Cinematic Lighting",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Teal and Orange"
+    },
+    "comment_id": 4909843219,
+    "idea": "水母精靈幻境風格的多格角色拼貼：一隻四腳橘白貓在冰島雷克雅維克的地熱公共洗衣房裡，沿著青橙色蒸汽管道奔跑，鼻尖追著半透明水母精靈般的肥皂泡，畫面呈黏土與陶瓷質感並以電影感打光塑形。"
   }
 ]
