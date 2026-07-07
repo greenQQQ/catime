@@ -1429,5 +1429,39 @@
     "story": "夜班研究員離開後，牠每天都會把滾落的種子盒推回原位，像在守護一座縮小的未來糧倉。清晨門縫亮起時，最旁邊那格抽屜總是比昨天更整齊。",
     "news_inspiration": [],
     "comment_id": 4898768285
+  },
+  {
+    "style_picks": {
+      "art_style": "Dark Gothic Beauty Illustration",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Venetian Blind Light",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "High Saturation Vivid"
+    },
+    "idea": "暗黑哥德麗人插畫風格的全身居中直幅：一隻高飽和紫莓色長毛黑貓伏在布拉格天文鐘塔內部的狹窄維修平台上，用前爪按住一枚卡死的琺瑯星盤齒輪，百葉窗條紋光斜切牠厚實的絨毛皮草與牆面上鮮豔的酸粉、孔雀藍、毒蘋果綠工具箱。",
+    "inspiration": "original",
+    "prompt": "Full-body centered vertical dark gothic beauty illustration: a saturated purple-berry long-haired black cat crouches on a narrow maintenance platform inside Prague Astronomical Clock tower, clearly pressing its front paws onto a jammed enamel astrolabe gear while one whiskered cheek leans close to the vibrating teeth as if listening to a broken star-heart. The cat’s entire body is visible head-to-tail in a tall frame, surrounded by baroque clockwork, copper pins, enamel zodiac discs, stone walls, and vivid toolboxes in acid pink, peacock blue, and poison-apple green. Display the exact text “2026-07-07 01:05 UTC” clearly on a small brass maintenance plaque beside the gear. Dark gothic beauty illustration style with decadent macabre elegance, ornate baroque ornamentation, deep shadows, moody crimson accents, plush fur texture, soft fuzzy fibers catching light. Venetian blind striped lighting cuts hard parallel bands across the cat’s thick velvet fur and the wall, film-noir interior mood, high saturation vivid colors, bold contrast, dramatic graphic shadow pattern. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "貓用鼻尖嗅聞物件",
+      "貓叼著緞帶或膠片",
+      "四腳貓動作強調",
+      "可讀 UTC 時間標牌",
+      "禁止簡體中文提示",
+      "硬光與直打閃光",
+      "靛藍與青綠陰影",
+      "金色描邊細節",
+      "貼紙拼貼邊框",
+      "移軸微縮構圖",
+      "復古電影放映空間",
+      "時裝與布料修復場景",
+      "水面或玻璃鏡面反射",
+      "淺景深底片顆粒",
+      "紅金吉祥裝飾"
+    ],
+    "comment_id": 4899109990,
+    "story": "午夜鐘聲停在第十三下，塔內的鐘匠麗人不敢出聲，只看見那隻貓把鬍鬚貼近震動中的齒輪邊緣，像在聽一顆壞掉的星心。牠一爪撥開錯位的銅栓，整座城市的窗燈便依序亮起，彷彿時間重新學會呼吸。",
+    "number": 34,
+    "news_inspiration": [],
+    "title": "第十三鐘"
   }
 ]
