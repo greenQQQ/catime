@@ -2774,5 +2774,66 @@
     "story": "一隻可愛的貓咪正在享受美好的一天。",
     "title": "貓咪日常",
     "news_inspiration": []
+  },
+  {
+    "number": 64,
+    "character_name": "雪球",
+    "comment_id": 4912259000,
+    "news_inspiration": [
+      {
+        "summary": "德國科學家開發出基於人工智慧的模擬技術，能更快速地模擬中子星合併如何產生宇宙中最重的元素。",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR6BLCqFgrQNuQd77JGGJhQKuvJKDHI3_GvQKjQBO1jvBPlbGk_g-apZ0ZDrahKcVDHhTWYdw6MN_OnycxyNT5D_DbOJ3oupWjPqMJLFP2CeJCvV9Qdbo=",
+        "source": "sciencedaily.com"
+      },
+      {
+        "summary": "日本政府宣布將泰國公民的免簽證入境政策延長至2027年，允許泰國遊客每次最長停留15天。",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCDgFCCID9TYbOilhaX0fLbzXTdv6ZgGI0XA161M_RnN0Fow3Za-1YSpA7ce62edG-J9vhtHFT7wD5RSQwwlGEFWSgUp_j-cY3OJAmbA3XiZhydFVw1npjV_SsujcnyZmydMydtbB6VL82w15DqQ==",
+        "source": "nationthailand.com"
+      },
+      {
+        "summary": "韓國科學技術院（KAIST）開發出創新的可伸縮顯示技術，即使螢幕拉伸也不會扭曲圖像。",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuGBv8MLB7Koyur7EPDcSgVERN56rPLbIVg2KzYPwisl90LBq-oFAyUhIoYu8zzR8FnmWKPENvEjIVmHWCOk9GKofvbrGo83Lmrj_p02r1gY3Jy4S8hwYA_1DVU1B5UKsFjYvQunlTbCH",
+        "source": "eurekalert.org"
+      },
+      {
+        "summary": "中國在北京舉行全國科學技術獎勵大會，表彰傑出的科學研究和技術創新。",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENnVbtn1AvDXUz9IaCEbjO72E5CznMejPclNRLPYz7j39YCKgX6_eM7vKOo2XrGTjJHx3wCqT6iazBMdVTczQfb6CkPpE67WWyzfneOgA0ze72pSlVE3cxI44JX9dIlbp_mfuslfBAul0hKpSlJb8I2m3yrTLyF24YWvB8NR5m-jbwwdP_pH7RAnPCVxAimMzy_MnBiipoUgP3LWJpIqCm_o0IxihlaQ==",
+        "source": "bignewsnetwork.com"
+      },
+      {
+        "summary": "俄羅斯全國慶祝家庭、愛與忠誠日，旨在弘揚家庭價值觀。",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED31mxAZX_G6sXouBuxXKmEHkf_7W4i42Gu8QcqAP9PzC_tCUk7hDuDjIPKYl62P-Q68h1lwUUDOuLYXLK1_uQ_zPeImBANXAucR_8qt-X-pjXZ0Km750MKIg_8YfLq9ktmb4Cug==",
+        "source": "anydayguide.com"
+      }
+    ],
+    "style_picks": {
+      "art_style": "Pixel Art",
+      "composition": "Knolling Photography",
+      "lighting": "Bioluminescence",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "prompt": "pixel art, retro 8-bit style, crisp blocky pixels, limited color palette. A large, gentle Ragdoll cat named Snowball, with long, silky, cloud-like cream-white fur (#F5EFE6). Soft seal-brown (#8A6A50) colorpoint markings on the ears and a gentle wash down the nose bridge ONLY. All four paws wear clean white mittens/socks (#FFFFFF). A long white ruff fur on the chest like a scarf, and a magnificent fluffy plume tail that is lightly seal-tinted. Large, deep sapphire blue eyes (#2E5FA3). Pink paw pads and nose. Snowball is in a relaxed, floppy, doll-like posture, with a serene, sweet, softly affectionate expression. Snowball is elegantly curled at the precise center of an afternoon tea table. The scene is presented as a Knolling photography style, flat lay overhead view. All tea items are neatly arranged at strict 90-degree angles in an organized grid layout on a clean background. The tea set features a vermilion and gilt palette, refined cinnabar red with metallic gold outlines, creating an elegant lacquer-like richness. Subtle gold foil flecks texture, scattered metallic gold leaf shards, and glinting gilded specks add luxurious shimmering accents and a hand-applied foil splatter effect. The scene is bathed in bioluminescent lighting, with an organic, deep blue-green radiance subtly emanating from living organisms, like underwater phosphorescence, lending an ethereal natural light to the tea cups and surrounding elements. The text '2026-07-08 07:05 UTC' is visually displayed prominently within the image. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "在貓咪咖啡廳最受歡迎的下午茶桌邊，雪球一如既往地成為焦點。牠輕柔地窩在朱紅描金茶具的中央，深邃的藍寶石眼睛倒映著茶杯邊緣微弱的生物發光，尾巴輕輕掃過排列整齊的點心，如同在宣告牠才是這場午後盛宴的真正主角。賓客們拿起手機，捕捉這幅精緻的像素畫卷。",
+    "idea": "以像素藝術風格呈現，雪球優雅地成為下午茶桌上按Knolling構圖排列的朱紅描金茶具中心，在生物發光點綴中，像珍貴的雲朵般靜靜享受眾人目光。",
+    "character": "snowball",
+    "inspiration": "original",
+    "avoid_list": [
+      "長卷全景右至左構圖",
+      "俯視或鳥瞰視角",
+      "前爪撥動小物件",
+      "清楚顯示 UTC 時間牌",
+      "繁中英文限定標示",
+      "暖金光混深色高反差",
+      "直打閃光硬陰影",
+      "雙色調限定色盤",
+      "水彩潑濺墨點肌理",
+      "古絹卷軸斑駁質感",
+      "蕾絲鏤空花紋道具",
+      "貓在展覽或研究場域整理物品",
+      "貓叼花或標籤分類",
+      "多層前中後景描述"
+    ],
+    "title": "朱紅映雪，茶緣金光"
   }
 ]
