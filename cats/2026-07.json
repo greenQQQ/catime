@@ -2522,5 +2522,65 @@
       }
     ],
     "idea": "魚拓版畫風格中，一隻四腳橘貓在加州 17 號公路野生動物隧道旁的護林員值勤亭裡，鑽進一只倒放的琥珀色玻璃糖果罐，正用鼻尖頂著亮面塑膠小滑板沿罐壁滑行；斑駁樹影落在罐面，整體呈暖秋琥珀色。"
+  },
+  {
+    "news_inspiration": [
+      {
+        "summary": "《Being Heumann》將作為第51屆多倫多影展開幕片，聚焦身障權利運動先驅Judith Heumann的生命故事。",
+        "url": "https://apnews.com/article/f11642a566bc535845c9448d760cd934",
+        "source": "AP News"
+      },
+      {
+        "summary": "Chanel在巴黎大皇宮把高訂秀場變成黑暗童話花園，Matthieu Blazy以奇幻場景重新詮釋品牌精神。",
+        "url": "https://apnews.com/article/90e10d115f3d01c93fc309d7a7ea9f61",
+        "source": "AP News"
+      },
+      {
+        "summary": "東非沿海女性正把漁業危機轉化為生態旅遊、紅樹林復育與新型海洋生計的契機。",
+        "url": "https://apnews.com/article/fc27652ccdbed10accd4e24d4c3e88cc",
+        "source": "AP News"
+      },
+      {
+        "summary": "比利時以4比1擊敗美國晉級世界盃八強，Charles De Ketelaere以兩進球一助攻成為焦點。",
+        "url": "https://apnews.com/article/0325e8102be7a88e852079deffd70ca0",
+        "source": "AP News"
+      },
+      {
+        "summary": "美國航空業正大幅重塑高端客艙與貴賓室體驗，讓空中旅行變得更像分層式精品服務。",
+        "url": "https://apnews.com/article/b1ac3b9c05ca942dec213679ab21a62b",
+        "source": "AP News"
+      }
+    ],
+    "style_picks": {
+      "art_style": "Mandala Art",
+      "composition": "Frame Within a Frame",
+      "lighting": "Dappled Light",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Moonlit Indigo"
+    },
+    "avoid_list": [
+      "長卷全景右至左構圖",
+      "俯視或鳥瞰視角",
+      "前爪撥動小物件",
+      "清楚顯示 UTC 時間牌",
+      "繁中英文限定標示",
+      "暖金光混深色高反差",
+      "直打閃光硬陰影",
+      "雙色調限定色盤",
+      "水彩潑濺墨點肌理",
+      "古絹卷軸斑駁質感",
+      "蕾絲鏤空花紋道具",
+      "貓在展覽或研究場域整理物品",
+      "貓叼花或標籤分類",
+      "多層前中後景描述"
+    ],
+    "number": 58,
+    "comment_id": 4910481770,
+    "story": "幾位沿海女性剛帶遊客栽下紅樹幼苗，退潮前把貝殼擴音筒留在船邊聽水位變化。那隻常來蹭船的貓忽然貼近貝殼，像聽見海底傳來的曼陀羅節拍，尾巴輕掃過船板上的銀藍鹽霜。",
+    "prompt": "Mandala art illustration of a Kenya Lamu Island mangrove ecotourism boardwalk at moonlit low tide, complex circular sacred geometry and radial symmetry woven into the scene. A four-legged tortoiseshell cat clearly lies inside the carved round window of a single-mast dhow sailboat, all paws visible, pushing its nose into a shell listening horn to hear the tide. Frame-within-a-frame composition through the ornate circular window, layered foreground border, nested framing, strong depth and focus. Coastal women and tourists in the background have just planted mangrove seedlings near the boardwalk. Moonlit indigo night with deep blue and violet tones, cool silvery highlights, dappled mangrove-leaf shadows falling across the cat, boat planks, and water. Iridescent holographic rainbow sheen on the water surface and painted boat hull, pastel prismatic reflections, shimmering translucent shell texture, silver-blue salt frost on the deck brushed by the cat’s tail. Meditative, mysterious nocturnal mood, intricate concentric geometric patterns integrated into leaves, ripples, window carvings, and shell spiral. Visually display the text “2026-07-08 01:05 UTC” clearly on a small engraved English brass plaque beside the round window. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "以曼陀羅藝術描繪肯亞拉穆島紅樹林生態旅遊棧橋，一隻四腳玳瑁貓趴在單桅帆船的雕花圓窗內，把鼻尖探進貝殼擴音筒聽潮水；圓窗形成框中框構圖，月夜靛藍裡有紅樹葉灑下的斑駁光影，水面與船漆呈虹彩全息質感。",
+    "inspiration": "東非沿海女性正把漁業危機轉化為生態旅遊、紅樹林復育與新型海洋生計的契機。",
+    "inspiration_url": "https://apnews.com/article/fc27652ccdbed10accd4e24d4c3e88cc",
+    "title": "潮貝聽月"
   }
 ]
