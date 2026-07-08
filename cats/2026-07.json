@@ -3153,5 +3153,66 @@
       "移軸微縮場景",
       "Knolling構圖"
     ]
+  },
+  {
+    "number": 73,
+    "style_picks": {
+      "art_style": "Thermal Imaging",
+      "composition": "Isometric 3D Illustration",
+      "lighting": "Direct Flash",
+      "texture": "Rust / Weathered",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "inspiration": "研究指出，尼安德塔人和現代人可能在土耳其共享文化，為人類演化史補上一段迷人的交會線索。",
+    "avoid_list": [
+      "可愛的貓咪",
+      "四腳貓",
+      "貓咪鼻尖動作",
+      "斑駁光影",
+      "月夜靛藍色調",
+      "魚拓風格",
+      "生物發光效果",
+      "野生動物通道",
+      "框中框構圖",
+      "多格拼貼",
+      "電影感打光",
+      "橘色虎斑貓",
+      "黏土陶瓷質感",
+      "移軸微縮場景",
+      "Knolling構圖"
+    ],
+    "comment_id": 4916806381,
+    "title": "海峽星圖貓",
+    "news_inspiration": [
+      {
+        "summary": "歐幾里得太空望遠鏡發現兩個極早期超大黑洞，讓人類對宇宙黎明的認識大幅前進。",
+        "url": "https://www.livescience.com/space/black-holes/euclid-telescope-discovers-the-2-most-ancient-monster-black-holes-in-the-universe-each-brighter-than-a-trillion-suns",
+        "source": "Live Science"
+      },
+      {
+        "summary": "科學家在實驗室打造出迄今最像真的細胞，為細胞工程與再生醫學帶來令人振奮的新可能。",
+        "url": "https://www.livescience.com/news/archive/2026/07",
+        "source": "Live Science"
+      },
+      {
+        "summary": "研究指出，尼安德塔人和現代人可能在土耳其共享文化，為人類演化史補上一段迷人的交會線索。",
+        "url": "https://www.livescience.com/news/archive/2026/07",
+        "source": "Live Science"
+      },
+      {
+        "summary": "「宇宙貓頭鷹」這張由詹姆斯·韋伯望遠鏡拍到的罕見結構影像，展現了兩個環狀星系碰撞後的絢麗天象。",
+        "url": "https://www.goodnewsnetwork.org/?wordfence_syncAttackData=1780060220.1663",
+        "source": "Good News Network"
+      },
+      {
+        "summary": "2026 世界盃帶動美國收視熱潮，足球在北美的文化影響力正以驚人速度擴大。",
+        "url": "https://culture.org/art-and-culture/",
+        "source": "Culture.org"
+      }
+    ],
+    "prompt": "A polished 3D isometric illustration of an old radio astronomy machine room beside the Bosphorus in Istanbul, shown in a thermal imaging / infrared vision aesthetic with a heat-map color gradient: red-yellow-blue spectrum, bamboo jade-green and emerald instrument glow, cool verdant serenity against warm orange-brown rust. A four-legged cat is clearly visible in the foreground, crouched under the control console, pressing a spread-out paper star map flat with its front paws while staring intently at two flickering monitoring screens. The screens display newly captured supermassive black hole data alongside archaeological markers tied to Turkish culture and ancient migration routes, with visible Traditional Chinese text and the date/time ‘2026-07-08 16:05 UTC’ prominently shown on the monitors. Harsh direct on-camera flash lighting, blown-out highlights, hard shadows, raw candid snapshot feel, clean geometric forms, soft pastel rendering, but with rusted weathered metal cabinets, oxidized patina, peeling paint, aged industrial decay, and fluorescent jade-green instrument glow creating a calm yet tense atmosphere. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration_url": "https://www.livescience.com/news/archive/2026/07",
+    "story": "夜班工程師剛離開，機房只剩貓和低鳴的設備；牠蹲在控制台下，把一張標記著古代遷徙路線與宇宙觀測座標的地圖壓平，像是在替人類把兩段遙遠的歷史接起來。螢幕上，新捕捉到的超大黑洞資料與土耳其文化交會的考古標記並列顯示，而貓仍一動不動地守著，彷彿知道這間老機房正替世界拼湊黎明。",
+    "idea": "在一座位於伊斯坦堡博斯普魯斯海峽旁的古老電波天文台機房裡，一隻四腳貓正用前爪按住散落的紙本星圖，專心盯著兩台閃爍的監測螢幕；整個畫面以熱成像風格呈現、等距3D插圖構圖、直接閃光打亮，鐵鏽舊化的機櫃與竹影翠綠的儀表光交織出冷靜又緊繃的氛圍。"
   }
 ]
