@@ -2958,5 +2958,43 @@
       }
     ],
     "title": "貓咪日常"
+  },
+  {
+    "idea": "一幅浮世繪風格的夏日午后，三花貓花花以平視正面構圖成為畫面焦點。牠小巧的身軀趴在廟宇朱紅色大門前古老的石階上，淺琥珀色的圓眼睛好奇地望著簷下搖曳生姿的銅製風鈴，尾巴隨風鈴清脆的聲響輕快地左右擺動。柔和的自然漫射光灑落其身，背景的廟宇建築以中國紅金為主色調，隱約可見水彩潑濺的墨點筆觸，營造出寧靜而又活潑的夏日氛圍。",
+    "style_picks": {
+      "art_style": "Ukiyo-e",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Festive Red and Gold"
+    },
+    "avoid_list": [
+      "可愛的貓咪",
+      "四腳貓",
+      "貓咪鼻尖動作",
+      "斑駁光影",
+      "月夜靛藍色調",
+      "魚拓風格",
+      "生物發光效果",
+      "野生動物通道",
+      "框中框構圖",
+      "多格拼貼",
+      "電影感打光",
+      "橘色虎斑貓",
+      "黏土陶瓷質感",
+      "移軸微縮場景",
+      "Knolling構圖"
+    ],
+    "number": 68,
+    "prompt": "一幅浮世繪風格的夏日午后，三花貓花花以平視正面構圖成為畫面焦點。牠小巧的身軀趴在廟宇朱紅色大門前古老的石階上，淺琥珀色的圓眼睛好奇地望著簷下搖曳生姿的銅製風鈴，尾巴隨風鈴清脆的聲響輕快地左右擺動。柔和的自然漫射光灑落其身，背景的廟宇建築以中國紅金為主色調，隱約可見水彩潑濺的墨點筆觸，營造出寧靜而又活潑的夏日氛圍。. The date and time '2026-07-08 11:05 UTC' is visually displayed in the image. ukiyo-e Japanese woodblock print, flat color areas, bold outlines, wave patterns, eye-level frontal composition, straight-on symmetrical view, subject facing camera directly, neutral honest perspective, confrontational balance, soft diffused natural light, overcast sky, even illumination, no harsh shadows, gentle tones, watercolor splatter and ink-spray texture, dripping pigment, scattered dots and splashes, organic fluid stains, expressive spontaneous marks on paper, festive red and gold palette, auspicious Chinese red dominance with bright gold accents, celebratory warmth, lucky vivid contrast\n⚠️ CHARACTER CONSISTENCY — NON-NEGOTIABLE:\n[IDENTITY CARD] Huahua — a small, round calico shorthair with a clean white #FFFFFF base coat and bold patches: LEFT ear orange #E8853A, RIGHT ear black #1A1A1A, one orange patch above the LEFT eye like one-sided eyeshadow, large orange-and-black patchwork saddle across the back like a quilted jacket, and an orange-black ringed tail. Face otherwise white. Eyes: round, warm light-amber #D9A441. Pink nose and paw pads. Cheerful upright tail, light bouncy steps. Expression: bright, friendly, a little scatterbrained. [HARD CONSTRAINTS] 1) Calico tri-color ONLY: white base + orange + black patches. 2) LEFT ear orange, RIGHT ear black, orange patch above LEFT eye — keep this exact asymmetry. 3) Light-amber #D9A441 eyes ONLY — NEVER blue or green. 4) Shorthair, NEVER long or fluffy. 5) Legs and belly stay mostly white. 6) No collar or accessories. End.\nNEGATIVE CONSTRAINTS (must not appear): solid color cat, tabby-only stripes, all-orange cat, all-black cat, tuxedo pattern, grey patches, blue eyes, green eyes, longhair, fluffy coat, symmetrical face patches, both ears same color, collar, necklace, bandana, bell, anthropomorphic cat, cat with human body, cat with human hands, cat standing upright like a person, humanoid cat, furry character, catboy, mascot costume, cat wearing full human clothing, cat with human face\nThe subject is ALWAYS a literal cat. NEVER replace the cat with a human, humanoid, person, child, or anthropomorphic figure — even if the scene mentions people, robots, or human activities. Humans may appear in the background, but the named character stays a four-legged cat.\nEvery HARD CONSTRAINT above is MANDATORY. Do NOT skip any.\nIf the art style makes any feature hard to show, simplify the style — NEVER drop the feature. Seasonal theme: summer - the cat should be dressed/styled appropriately for summer.\n IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "is_seasonal": true,
+    "news_inspiration": [],
+    "story": "花花總是追逐著熱鬧和笑聲，而夏日廟口的風鈴聲，對牠而言就是一種特別的歡樂節奏。牠舒服地趴在石階上，享受著微風輕撫，當風鈴聲起，那亮晶晶的銅片在陽光下閃爍，好奇心驅使牠輕輕搖擺尾巴回應。也許在牠眼中，每一個風鈴聲都是一聲小小的讚美，讓牠開心地轉圈，只是現在牠選擇以更優雅的方式表達喜悅。",
+    "character_name": "花花",
+    "inspiration": "original",
+    "season": "summer",
+    "character": "huahua",
+    "title": "風鈴慢搖夏日時",
+    "comment_id": 4914166811
   }
 ]
