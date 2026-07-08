@@ -3085,5 +3085,39 @@
     "inspiration": "original",
     "idea": "一隻短毛貓在一家復古電子維修店的凌亂工作台上，以運動追焦風格聚焦，專注地檢查著一台老舊收音機的電路板。",
     "comment_id": 4915115626
+  },
+  {
+    "news_inspiration": [],
+    "comment_id": 4915655786,
+    "avoid_list": [
+      "可愛的貓咪",
+      "四腳貓",
+      "貓咪鼻尖動作",
+      "斑駁光影",
+      "月夜靛藍色調",
+      "魚拓風格",
+      "生物發光效果",
+      "野生動物通道",
+      "框中框構圖",
+      "多格拼貼",
+      "電影感打光",
+      "橘色虎斑貓",
+      "黏土陶瓷質感",
+      "移軸微縮場景",
+      "Knolling構圖"
+    ],
+    "number": 71,
+    "style_picks": {
+      "art_style": "Drone Aerial Shot",
+      "composition": "Bird's-Eye View",
+      "lighting": "Direct Flash",
+      "texture": "Puffy Quilted Down",
+      "color_palette": "Teal and Orange"
+    },
+    "title": "機芯裡的貓哲學",
+    "story": "在堆滿黃銅齒輪、游絲和微型螺絲的古老工作檯上，閃光燈從上方直射，將金屬機芯和貓咪蓬鬆的毛髮染上橘色與青色的對比。那隻肥胖的緬因貓，像一團膨脹絎縫羽絨般溫暖而飽滿，正用好奇的眼神和柔軟的肉墊，試圖解開一枚精密懷錶的內部奧秘，將其視為一個迷人的新玩具。",
+    "idea": "空拍視角下，一隻毛茸茸的緬因貓俯瞰著一張佈滿精密鐘錶零件的古董工作檯，閃光燈直打營造出青橙電影調的戲劇感，貓咪正專注地用爪子輕撥著一枚微小的齒輪。",
+    "inspiration": "original",
+    "prompt": "空拍視角下，一隻毛茸茸的緬因貓俯瞰著一張佈滿精密鐘錶零件的古董工作檯，閃光燈直打營造出青橙電影調的戲劇感，貓咪正專注地用爪子輕撥著一枚微小的齒輪。. The date and time '2026-07-08 14:05 UTC' is visually displayed in the image. drone aerial shot, bird's-eye view, expansive landscape, geometric patterns from above, bird's-eye view, top-down perspective, looking straight down, miniature world effect, harsh direct on-camera flash, blown-out highlights, hard shadows, raw candid snapshot look, puffy quilted down texture, inflated padded segments, soft bulging stitched channels, glossy puffer-jacket surface, plump air-filled volume, teal and orange color grading, warm skin tones against cool blue-green shadows, complementary cinematic palette, blockbuster film look, punchy balanced contrast IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
