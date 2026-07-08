@@ -2582,5 +2582,65 @@
     "inspiration": "東非沿海女性正把漁業危機轉化為生態旅遊、紅樹林復育與新型海洋生計的契機。",
     "inspiration_url": "https://apnews.com/article/fc27652ccdbed10accd4e24d4c3e88cc",
     "title": "潮貝聽月"
+  },
+  {
+    "prompt": "Gyotaku print style illustration, direct ink impression aesthetic on textured handmade paper with raised relief surfaces: a tilt-shift miniature scene of the arched concrete culvert entrance of a wildlife crossing under Highway 17 in the Santa Cruz Mountains, California. A four-legged gray mackerel tabby cat is clearly shown crouching low and slipping through a small sensor-triggered pet door, nose following muddy bobcat paw prints on the ground. Soft butterfly lighting from above lands on the cat’s forehead and whiskers, with a symmetrical shadow under the nose and gentle even illumination. The concrete walls bloom with three-dimensional floral appliqué, sculpted raised flowers, layered petal relief in gentle pink, lavender, mint, and baby blue. Selective focus band through the cat and doorway, blurred foreground and background for a miniature toy-like effect, vibrant saturated ink accents mixed with monochrome contact-print texture. Include the exact visible English text \"2026-07-08 02:05 UTC\" stamped on a small sign or ink label near the culvert entrance. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "花徑過境",
+    "inspiration_url": "https://www.sfgate.com/bayarea/article/santa-cruz-mountain-lions-22331032.php",
+    "story": "夜裡車聲被厚土坡隔開，這隻迷路的家貓跟著狐狸與山貓的氣味走進通道，第一次發現公路下方也有一條安靜的森林小徑。牠穿過小門時，牆上的花朵像拓印在紙上的祕密印章，替每一次安全抵達留下柔軟記號。",
+    "comment_id": 4910744705,
+    "news_inspiration": [
+      {
+        "summary": "物理學家透過重力波首次捕捉到可能來自黑洞事件視界邊緣的訊號，為研究極端重力開啟新窗口。",
+        "url": "https://www.livescience.com/space/black-holes/a-new-way-to-study-the-edge-of-a-black-hole-physicists-just-got-the-closest-ever-look-at-a-black-holes-event-horizon",
+        "source": "Live Science"
+      },
+      {
+        "summary": "巴黎高訂週以更大的陣容登場，多位設計師首次亮相並結合珠寶展、藝術活動與公益晚宴。",
+        "url": "https://www.vogue.com/article/paris-couture-week-cheat-sheet-fall-winter-2026",
+        "source": "Vogue"
+      },
+      {
+        "summary": "環法自行車賽第四站中，Mads Pedersen 奪冠，而癌症康復者 Torstein Træen 穿上黃衫成為感人焦點。",
+        "url": "https://www.theguardian.com/sport/live/2026/jul/07/tour-de-france-2026-stage-four-updates-as-riders-face-extreme-heat-live",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "加州聖克魯茲山區的野生動物通道已讓美洲獅、山貓、狐狸等大量動物安全穿越公路，展現棲地連結的成效。",
+        "url": "https://www.sfgate.com/bayarea/article/santa-cruz-mountain-lions-22331032.php",
+        "source": "SFGATE"
+      },
+      {
+        "summary": "Pitchfork 宣布 2026 年墨西哥城音樂節陣容，將以多場館形式呈現 Perfume Genius、Lido Pimienta 等多元音樂人。",
+        "url": "https://pitchfork.com/pitchfork-festival-cdmx-2026-announces-lineup",
+        "source": "Pitchfork"
+      }
+    ],
+    "number": 59,
+    "style_picks": {
+      "art_style": "Gyotaku Print",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Butterfly Lighting",
+      "texture": "Three-Dimensional Floral Appliqué",
+      "color_palette": "Pastel Colors"
+    },
+    "idea": "魚拓（Gyotaku Print）風格的移軸微縮場景：加州聖克魯茲山區17號公路野生動物通道的拱形涵洞口，一隻四腳灰虎斑貓正低身鑽過感應小門，鼻尖追著山貓留下的泥印，柔和蝴蝶光落在牠額頭與鬍鬚上，粉彩色系的立體花卉貼花沿著水泥牆綻放。",
+    "inspiration": "加州聖克魯茲山區的野生動物通道已讓美洲獅、山貓、狐狸等大量動物安全穿越公路，展現棲地連結的成效。",
+    "avoid_list": [
+      "長卷全景右至左構圖",
+      "俯視或鳥瞰視角",
+      "前爪撥動小物件",
+      "清楚顯示 UTC 時間牌",
+      "繁中英文限定標示",
+      "暖金光混深色高反差",
+      "直打閃光硬陰影",
+      "雙色調限定色盤",
+      "水彩潑濺墨點肌理",
+      "古絹卷軸斑駁質感",
+      "蕾絲鏤空花紋道具",
+      "貓在展覽或研究場域整理物品",
+      "貓叼花或標籤分類",
+      "多層前中後景描述"
+    ]
   }
 ]
