@@ -2462,5 +2462,65 @@
     },
     "comment_id": 4909843219,
     "idea": "水母精靈幻境風格的多格角色拼貼：一隻四腳橘白貓在冰島雷克雅維克的地熱公共洗衣房裡，沿著青橙色蒸汽管道奔跑，鼻尖追著半透明水母精靈般的肥皂泡，畫面呈黏土與陶瓷質感並以電影感打光塑形。"
+  },
+  {
+    "inspiration": "加州 17 號公路的野生動物隧道已被美洲獅、山貓、狐狸等大量動物使用，顯示棲地連通工程正發揮保育效果。",
+    "story": "牠原本只是追著一片狐狸形反光貼紙跑進罐子，卻把玻璃罐變成自己的迷你保育通道。亭外真正的山貓和狐狸穿過隧道，亭內的小貓則在玩具般的世界裡替牠們開路。",
+    "number": 57,
+    "title": "琥珀隧行",
+    "inspiration_url": "https://www.sfgate.com/bayarea/article/santa-cruz-mountain-lions-22331032.php",
+    "comment_id": 4910178682,
+    "avoid_list": [
+      "長卷全景右至左構圖",
+      "俯視或鳥瞰視角",
+      "前爪撥動小物件",
+      "清楚顯示 UTC 時間牌",
+      "繁中英文限定標示",
+      "暖金光混深色高反差",
+      "直打閃光硬陰影",
+      "雙色調限定色盤",
+      "水彩潑濺墨點肌理",
+      "古絹卷軸斑駁質感",
+      "蕾絲鏤空花紋道具",
+      "貓在展覽或研究場域整理物品",
+      "貓叼花或標籤分類",
+      "多層前中後景描述"
+    ],
+    "style_picks": {
+      "art_style": "Gyotaku Print",
+      "composition": "Inside-the-Glass-Vessel Composition",
+      "lighting": "Dappled Light",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "prompt": "Gyotaku-inspired direct ink impression print, textured relief surface, traditional Japanese monochrome contact-print aesthetic reimagined with warm amber autumn color grading. Inside-the-glass-vessel composition: a small four-legged orange tabby cat is clearly inside an upside-down amber glass candy jar in a ranger duty booth beside the California Route 17 wildlife underpass, pressing its nose against a glossy plastic miniature skateboard and sliding along the curved inner jar wall. Transparent refractive glass border, warped reflections, vinyl toy shine on the skateboard, scattered fox-shaped reflective sticker nearby. Outside the booth window, a bobcat and a fox pass through the real wildlife tunnel. Dappled tree shadows and leaf-filtered sunlight fall across the jar surface, soft mottled shadow patterns, serene natural mood, golden yellows and burnt orange cozy nostalgic warmth. Include a visible ranger log label or small booth clock in English reading exactly: \"2026-07-08 00:05 UTC\". IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      {
+        "summary": "科學家打造出可進食、生長並分裂的「SpudCell」合成細胞，為未來用生物製造藥物與材料打開新想像。",
+        "url": "https://www.livescience.com/health/scientists-just-created-the-most-lifelike-cell-ever-made-in-a-lab-heres-what-it-could-accomplish",
+        "source": "Live Science"
+      },
+      {
+        "summary": "加州 17 號公路的野生動物隧道已被美洲獅、山貓、狐狸等大量動物使用，顯示棲地連通工程正發揮保育效果。",
+        "url": "https://www.sfgate.com/bayarea/article/santa-cruz-mountain-lions-22331032.php",
+        "source": "SFGATE"
+      },
+      {
+        "summary": "NASA 下一代尋找類地行星的 Habitable Worlds Observatory 將設計成可在太空維修，可能以機器人延長望遠鏡壽命與升級能力。",
+        "url": "https://www.space.com/space-exploration/nasa-will-have-to-find-a-way-to-service-its-new-alien-hunting-space-telescope",
+        "source": "Space.com"
+      },
+      {
+        "summary": "環法自行車賽第四站由 Mads Pedersen 勝出，而曾罹癌的挪威車手 Torstein Træen 穿上黃衫，成為賽事焦點。",
+        "url": "https://www.theguardian.com/sport/live/2026/jul/07/tour-de-france-2026-stage-four-updates-as-riders-face-extreme-heat-live",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "梅西在 2026 世界盃對埃及之戰攻入個人第八球，暫居金靴榜首並帶領阿根廷晉級。",
+        "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/lionel-messi-hits-eighth-goal-to-lead-golden-boot-race-with-historic-world-cup-display-against-egypt/articleshow/132248655.cms",
+        "source": "Times of India"
+      }
+    ],
+    "idea": "魚拓版畫風格中，一隻四腳橘貓在加州 17 號公路野生動物隧道旁的護林員值勤亭裡，鑽進一只倒放的琥珀色玻璃糖果罐，正用鼻尖頂著亮面塑膠小滑板沿罐壁滑行；斑駁樹影落在罐面，整體呈暖秋琥珀色。"
   }
 ]
