@@ -870,5 +870,15 @@
     "inspiration": "一則關於羅馬太空望遠鏡運送與測試的報導，展示了NASA大型天文任務從組裝到發射的視覺震撼。",
     "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-09_1505_UTC.webp",
     "number": 88
+  },
+  {
+    "title": "星圖守夜",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "天文照片《宇宙蝙蝠星雲的紅色微光》以壯麗星空視角登上今日焦點，視覺效果相當驚艷。",
+    "timestamp": "2026-07-09 16:05 UTC",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-09_1605_UTC.webp",
+    "inspiration_url": "https://apod.nasa.gov/apod/ap260709.html",
+    "number": 89
   }
 ]

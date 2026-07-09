@@ -4034,5 +4034,66 @@
       "手作機關偶質感",
       "遞迴鏡中場景"
     ]
+  },
+  {
+    "comment_id": 4927169763,
+    "idea": "在一座沿海天文台的蒸汽朋克觀測廊道裡，一隻四腳橘白貓正專注地用前掌按住攤開的星圖，鼻子沒有貼近，只是抬頭盯著牆上由銅管與鐵絲網纏繞成的導覽模型。全身居中直幅構圖，體積光穿過圓形舷窗灑在雙色調金藍畫面上，讓這個真實場景像一場安靜卻奇異的深空出航。",
+    "avoid_list": [
+      "黑紅高端氛圍",
+      "等距攝影舞台感",
+      "大理石長桌蹲坐",
+      "鼻尖靠近物件嗅聞",
+      "倫勃朗單側光",
+      "滿版特寫構圖",
+      "霓虹賽博龐克夜市",
+      "百葉窗條紋光",
+      "故障藝術訊號錯位",
+      "溫室夜景冷暖對比",
+      "四腳貓保持自然姿勢",
+      "日期時間標示入景",
+      "電影感高對比陰影",
+      "手作機關偶質感",
+      "遞迴鏡中場景"
+    ],
+    "news_inspiration": [
+      {
+        "summary": "天文照片《宇宙蝙蝠星雲的紅色微光》以壯麗星空視角登上今日焦點，視覺效果相當驚艷。",
+        "url": "https://apod.nasa.gov/apod/ap260709.html",
+        "source": "NASA APOD"
+      },
+      {
+        "summary": "自然期刊精選六月深海奇景與新物種照片，呈現多張令人目不轉睛的海洋生物與深海畫面。",
+        "url": "https://www.nature.com/immersive/d41586-026-02087-2/index.html",
+        "source": "Nature"
+      },
+      {
+        "summary": "科學日報報導量子技術新突破，把原本被認為難以實用的磁振子變成量子資訊的潛力載體。",
+        "url": "https://www.sciencedaily.com/news/matter_energy/quantum_computing/",
+        "source": "ScienceDaily"
+      },
+      {
+        "summary": "APOD 7 月 7 日的《NGC 6188：阿拉的龍》展示震撼的星際雲氣影像，兼具科學與藝術感。",
+        "url": "https://apod.nasa.gov/apod/ap260707.html",
+        "source": "NASA APOD"
+      },
+      {
+        "summary": "《Science News》介紹以南極與外太空資料製作音樂的科學藝術合作，把研究變成可聆聽的作品。",
+        "url": "https://www.sciencenews.org/sn-magazine/july-2026",
+        "source": "Science News"
+      }
+    ],
+    "number": 89,
+    "title": "星圖守夜",
+    "style_picks": {
+      "art_style": "Steampunk",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Volumetric Light",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Duotone"
+    },
+    "story": "今晚天文台正在為《宇宙蝙蝠星雲的紅色微光》做公開導覽，研究員忙著調整投影，而貓咪卻先一步跳上低矮工作台，把星圖壓得平整。它一動不動地盯著銀幕上翻湧的雲氣，彷彿也在替人類確認航線。",
+    "prompt": "Illustration, steampunk aesthetic with Victorian-era machinery and industrial retrofuturism, a full-body vertical portrait in a tall frame, entire figure centered, head-to-toe framing, balanced standing composition. In a coastal observatory steampunk viewing corridor, a four-legged orange-and-white cat is clearly shown pressing an unfolded star map flat with its front paws on a low worktable, while looking up at a wall-mounted navigation model made of copper pipes, brass gears, iron wire mesh, and coiled woven metal strands; the cat’s nose is not touching the map. Environmental context visible: round porthole windows, seaside observatory interior, researchers adjusting a projection in the background, a screen showing the red glow of the ‘宇宙蝙蝠星雲’. Strong volumetric lighting with visible light rays, god rays, dust particles catching light through the portholes, dramatic depth. Duotone color treatment in only two contrasting colors, gold and blue, bold graphic impact with modern design feel. Show the date and time clearly as visible text in Traditional Chinese or English: ‘2026-07-09 16:05 UTC’. The scene should feel like a quiet, strange deep-space departure. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "天文照片《宇宙蝙蝠星雲的紅色微光》以壯麗星空視角登上今日焦點，視覺效果相當驚艷。",
+    "inspiration_url": "https://apod.nasa.gov/apod/ap260709.html"
   }
 ]
