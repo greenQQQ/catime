@@ -3214,5 +3214,66 @@
     "inspiration_url": "https://www.livescience.com/news/archive/2026/07",
     "story": "夜班工程師剛離開，機房只剩貓和低鳴的設備；牠蹲在控制台下，把一張標記著古代遷徙路線與宇宙觀測座標的地圖壓平，像是在替人類把兩段遙遠的歷史接起來。螢幕上，新捕捉到的超大黑洞資料與土耳其文化交會的考古標記並列顯示，而貓仍一動不動地守著，彷彿知道這間老機房正替世界拼湊黎明。",
     "idea": "在一座位於伊斯坦堡博斯普魯斯海峽旁的古老電波天文台機房裡，一隻四腳貓正用前爪按住散落的紙本星圖，專心盯著兩台閃爍的監測螢幕；整個畫面以熱成像風格呈現、等距3D插圖構圖、直接閃光打亮，鐵鏽舊化的機櫃與竹影翠綠的儀表光交織出冷靜又緊繃的氛圍。"
+  },
+  {
+    "number": 74,
+    "news_inspiration": [
+      {
+        "summary": "Nature最新報導指出，科學家剛捕捉到海底板塊分裂並釋放熔岩的畫面，場面罕見且極具視覺震撼。",
+        "url": "https://www.nature.com/news",
+        "source": "Nature"
+      },
+      {
+        "summary": "Nature整理了六月最佳科學影像，從深海奇觀到新物種照片都很吸睛，適合喜歡自然與攝影的人。",
+        "url": "https://www.nature.com/news",
+        "source": "Nature"
+      },
+      {
+        "summary": "Nature報導人類與自然關係的重建可幫助亞馬遜生物多樣性，主題結合環境、文化與地方知識。",
+        "url": "https://www.nature.com/nature/articles?type=news",
+        "source": "Nature"
+      },
+      {
+        "summary": "Nature指出歐洲正努力成為科研強國，聚焦資金與創新如何吸引全球科學人才。",
+        "url": "https://www.nature.com/news/the-science",
+        "source": "Nature"
+      },
+      {
+        "summary": "Reuters Connect 今天釋出最新影像集，適合找尋當日視覺新聞與世界現場畫面。",
+        "url": "https://www.reutersconnect.com/collection/09-july-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDM1BLRzAwMDEwNzE1MQ",
+        "source": "Reuters Connect"
+      }
+    ],
+    "comment_id": 4920773005,
+    "inspiration": "Nature最新報導指出，科學家剛捕捉到海底板塊分裂並釋放熔岩的畫面，場面罕見且極具視覺震撼。",
+    "prompt": "Realistic macro photography, extreme close-up inside a submarine core research chamber: a small four-legged cat crouches beside a transparent control console, one front paw firmly pressing down the corner of a freshly punched seabed cross-section map, clearly focused and calm; behind it, an engineer’s monitor shows real-time imagery of tectonic plates cracking and lava erupting. The main visual subject is the cat doing the action, with its ears slightly twitching, sharp fur edge detail, and a quiet, observant expression. Center the widening underwater fault line as a slow diagonal split through the composition with ample negative space and minimalist breathing room, off-center placement for the cat, uncluttered framing. Liquid-metal instrument edges, mercury-like reflective surfaces, chrome dripping texture, molten mirror finish on the panel. Classic three-point lighting setup with key light, soft shadows, subtle fill, and rim light separation, making the cat’s fur rim and metal surfaces look crisp and real. Teal and orange cinematic color grading, cool blue-green shadows against warm orange highlights, punchy balanced contrast, blockbuster film look. Shallow depth of field, fine textures visible, 35mm lens, f/1.8, candid documentary feel, realistic grain. Visually display the text: '2026-07-09 01:40 UTC' on a screen or label in Traditional Chinese/English styling, clearly readable. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Macro Photography",
+      "composition": "Negative Space Composition",
+      "lighting": "Three-Point Lighting",
+      "texture": "Liquid Metal",
+      "color_palette": "Teal and Orange"
+    },
+    "title": "深海裂圖",
+    "idea": "在一座海底岩芯實驗艙內，一隻四腳貓伏在透明操作台旁，專注用爪子按住一張剛打孔的海床剖面圖，背景是工程師監看板塊裂開與熔岩噴出的即時影像。以微距攝影捕捉液態金屬般的儀器邊緣與青橙電影調的冷暖對比，留白負空間讓那道分裂的海底裂縫在畫面中央緩慢延伸，三點打光把貓的毛緣與金屬面板照得銳利而真實。",
+    "inspiration_url": "https://www.nature.com/news",
+    "story": "這隻貓原本只是跟著研究員進入艙內，卻對那張標記著海底斷層的圖紙產生了莫名興趣，於是用前爪穩穩壓住紙角，像在確認某條看不見的路線。當螢幕上岩盤裂開、熔岩翻湧的畫面閃過時，它耳朵微微一抖，整個實驗艙只剩儀器低鳴與牠平靜的凝視。",
+    "avoid_list": [
+      "可愛的貓咪",
+      "四腳貓",
+      "貓咪鼻尖動作",
+      "斑駁光影",
+      "月夜靛藍色調",
+      "魚拓風格",
+      "生物發光效果",
+      "野生動物通道",
+      "框中框構圖",
+      "多格拼貼",
+      "電影感打光",
+      "橘色虎斑貓",
+      "黏土陶瓷質感",
+      "移軸微縮場景",
+      "Knolling構圖"
+    ]
   }
 ]
