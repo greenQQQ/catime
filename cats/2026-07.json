@@ -3851,5 +3851,66 @@
     "idea": "洛可可風格的高調明亮畫面中，一隻虎斑貓正蹲在法式麵包店的糖霜工作檯旁，用前爪輕拍銀色攪拌盆邊緣，盯著正在擠奶油玫瑰花的糕點師傅；魚眼鏡頭把天花板的雕花、弧形櫃檯與月夜靛藍絨布窗簾一起捲進畫面，像一場優雅又滑稽的清晨忙碌。",
     "prompt": "Rococo-style illustration in a high-key, bright, airy French bakery interior at a Paris street corner, flamboyant pastel colors with flowing ornamental curves and elaborate decorative detail. A tabby cat is clearly crouched on a small step stool beside a frosting worktable, gently tapping the rim of a silver mixing bowl with its front paw while intently watching a pastry chef piping cream rose swirls; the cat’s tail softly sways, showing focused supervision of the croissants and mille-feuille. Fish-eye wide-angle composition with strong barrel distortion and exaggerated foreground, creating a 360-degree feel that pulls the ornate ceiling moldings, arched counter, and moonlit indigo velvet curtains into one elegant yet comedic morning scene. Soft even illumination, luminous clean atmosphere, minimal shadows, dreamy pastel mood, with cool silvery highlights and deep night-blue, violet, and dark dreamy blue accents in the velvet textures. Include visible Traditional Chinese or English text displaying the date and time: “2026-07-09 12:05 UTC” on a small bakery wall sign or chalkboard. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "糖霜巡檢"
+  },
+  {
+    "idea": "以古風仙俠美人立繪的視覺語言拍成一張寫實貓咪場景：一隻四腳虎斑貓蹲在瑞士貝耶勒基金會美術館的沉浸式展廳入口，正用前爪撥弄一盒彩色拼圖卡，把「珊瑚保育」與「社區參與」的展板碎片沿著地面的金色導引線排成一條通往海洋投影牆的路。蝴蝶光從天窗落下，黑金色調與紙質肌理讓整個畫面既莊重又溫柔，像一幅在現實中展開的展覽海報。",
+    "comment_id": 4925354235,
+    "inspiration_url": "https://phys.org/news/2026-07-international-team-science-wont-coral.html",
+    "prompt": "Illustration / art style: a realistic yet elegantly staged exhibition-poster scene blending xianxia beauty standee aesthetics with contemporary museum photography composition, as if a refined ancient Chinese maiden poster language were adapted into a real cat scene. A four-legged tabby cat crouches at the entrance of the immersive gallery hall in the Fondation Beyeler, carefully using its front paws to nudge a set of colorful puzzle cards into a neat curved line along the gold guiding line on the floor, arranging scattered board fragments labeled in Traditional Chinese about 「珊瑚保育」 and 「社區參與」 into a path leading toward a glowing ocean projection wall. The cat is clearly active and focused, tail gently flicking as if pressing start on the collaboration. Include a visible date/time display in Traditional Chinese or English: “2026-07-09 13:05 UTC” on a museum-style caption plaque or screen within the scene. Composition: strong leading lines, converging perspective, architectural framing from the exhibition entrance, symmetrical depth, the guiding line pulling the eye to the cat and then to the ocean wall. Lighting: butterfly lighting from skylights, soft overhead key light, symmetrical shadow under the nose, gentle glamour-style illumination, luminous yet restrained. Color and material: black-and-gold dominant scheme with luxurious metallic gold accents, deep black exhibition tones, warm paper texture, visible fiber grain, tactile kraft/watercolor paper feel, soft realistic surface detail. Mood: solemn, tender, opulent, calm, like a real exhibition poster unfolding in the museum, with subtle butterfly-like light spots falling across the floor and cat fur. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "黑紅高端氛圍",
+      "等距攝影舞台感",
+      "大理石長桌蹲坐",
+      "鼻尖靠近物件嗅聞",
+      "倫勃朗單側光",
+      "滿版特寫構圖",
+      "霓虹賽博龐克夜市",
+      "百葉窗條紋光",
+      "故障藝術訊號錯位",
+      "溫室夜景冷暖對比",
+      "四腳貓保持自然姿勢",
+      "日期時間標示入景",
+      "電影感高對比陰影",
+      "手作機關偶質感",
+      "遞迴鏡中場景"
+    ],
+    "story": "策展人剛把一批為珊瑚復育設計的互動卡片鋪在地上，那隻貓便安靜地跳進畫面，專心用爪子把卡片推成整齊的弧線。牠最後停在投影前，尾巴輕輕一甩，彷彿替這場藝術與保育的合作，按下了開始鍵。",
+    "title": "珊瑚之徑",
+    "style_picks": {
+      "art_style": "Xianxia Beauty Character Art",
+      "composition": "Leading Lines Composition",
+      "lighting": "Butterfly Lighting",
+      "texture": "Paper Texture",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "number": 86,
+    "news_inspiration": [
+      {
+        "summary": "國際團隊提出把藝術、設計與社區參與納入珊瑚保育，為拯救珊瑚礁開出更創新的路線。",
+        "url": "https://phys.org/news/2026-07-international-team-science-wont-coral.html",
+        "source": "Phys.org"
+      },
+      {
+        "summary": "詹姆斯·韋伯太空望遠鏡迎來四週年，NASA公開一張震撼的星系碰撞遺跡新影像。",
+        "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-celebrates-its-4th-birthday-with-stunning-image-of-a-galaxy-crash-site",
+        "source": "Space.com"
+      },
+      {
+        "summary": "一個拯救哈伯太空望遠鏡的任務正在啟動，讓這台經典天文儀器有機會延長生命。",
+        "url": "https://www.apnews.com/article/a7ddd740ca099587c58865f583c7245a",
+        "source": "AP News"
+      },
+      {
+        "summary": "瑞士貝耶勒基金會美術館的新展帶來皮耶·於格充滿沉浸感、超現實的作品空間。",
+        "url": "https://www.wallpaper.com/art/exhibitions-shows/fondation-beyeler-pierre-huyghes-review",
+        "source": "Wallpaper*"
+      },
+      {
+        "summary": "《自然》最新內容聚焦合作如何塑造世界，也帶出科學界支持年輕研究者的新動向。",
+        "url": "https://www.nature.com/articles/d41586-026-02116-0",
+        "source": "Nature"
+      }
+    ],
+    "inspiration": "國際團隊提出把藝術、設計與社區參與納入珊瑚保育，為拯救珊瑚礁開出更創新的路線。"
   }
 ]
