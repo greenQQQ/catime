@@ -3559,5 +3559,66 @@
       "texture": "Origami",
       "color_palette": "Neon Fluorescent"
     }
+  },
+  {
+    "inspiration": "NASA的羅曼太空望遠鏡已在佛州整裝待發，準備於8月升空，畫面與故事都很有未來感。",
+    "idea": "線描著色本插畫風格，一隻虎斑貓在佛州甘蔗田旁的發射準備棚外，專心用鼻尖追著一顆滾落的金屬螺帽，腳邊散著太空望遠鏡整備用的纜線與工具箱。畫面以渺小人物對比呈現幾位遠處工程師的忙碌剪影，直接閃光打亮貓毛與金屬邊緣，底片顆粒讓整個場景帶著暖琥珀色的現場感。",
+    "story": "那天清晨，發射棚外所有人都在趕著把設備送上下一班檢查流程，只有那隻貓對一顆掉進沙地的螺帽產生了極大興趣。它一路低頭追著金屬聲，像在替這場即將升空的宇宙旅程先做一次最認真的地面巡邏。",
+    "inspiration_url": "https://www.space.com/space-exploration/human-spaceflight/nasa-roman-space-telescope-prepares-for-launch-space-photo-of-the-day-for-july-8-2026",
+    "title": "升空前一刻",
+    "prompt": "Coloring book line art illustration, clean uniform black outlines on white, ready-to-color aesthetic with intricate decorative linework and playful illustrative shapes, no shading. A tiger-striped tabby cat is clearly shown outside a launch preparation shed beside a Florida sugarcane field, intently chasing a single rolling metal nut with its nose close to the sand; cables and a toolbox for a space telescope setup are scattered by its paws. Use tiny distant human figures for scale: several busy engineers appear as small silhouettes in the background, dwarfed by the launch facility and the vast scene. Strong direct on-camera flash lighting creates blown-out highlights on the cat’s fur and metallic edges with hard shadows, raw candid snapshot energy. Add visible film grain, subtle analog noise, warm amber color grading, autumn tones, golden yellows and burnt orange, cozy nostalgic atmosphere. Display the date and time clearly in the image as Traditional Chinese or English text: 2026-07-09 07:05 UTC. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4922531081,
+    "number": 80,
+    "avoid_list": [
+      "倫勃朗光單點照明",
+      "青橙電影調對比",
+      "直接閃光硬陰影",
+      "貓用前爪按住圖紙",
+      "復古機房工作檯",
+      "等距3D插圖構圖",
+      "微距真實攝影感",
+      "夜市霓虹賽博龐克",
+      "黑紅高對比氛圍",
+      "滿版特寫邊緣裁切",
+      "透明控制台與監測螢幕",
+      "迷你世界與玩具化尺度",
+      "手作機關偶質感",
+      "對稱中央構圖",
+      "傳統中國紅金背景"
+    ],
+    "style_picks": {
+      "art_style": "Coloring Book Line Art",
+      "composition": "Tiny Figure Scale Contrast",
+      "lighting": "Direct Flash",
+      "texture": "Film Grain",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "news_inspiration": [
+      {
+        "summary": "NASA的羅曼太空望遠鏡已在佛州整裝待發，準備於8月升空，畫面與故事都很有未來感。",
+        "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-roman-space-telescope-prepares-for-launch-space-photo-of-the-day-for-july-8-2026",
+        "source": "Space"
+      },
+      {
+        "summary": "JWST拍到的幼恆星「宇宙煙火」影像在這幾天曝光，展現恆星誕生區的壯麗細節。",
+        "url": "https://www.space.com/astronomy/galaxies/infant-stars-celebrate-their-independence-with-cosmic-fireworks-space-photo-of-the-day-for-july-3-2026",
+        "source": "Space"
+      },
+      {
+        "summary": "科學家首次用深海海水增厚北極海冰的實驗出現希望，雖然還有挑戰，但想法非常新奇。",
+        "url": "https://www.livescience.com/planet-earth/climate-change/first-experiment-to-thicken-arctic-ice-with-seawater-shows-promise-but-theres-a-big-catch",
+        "source": "Live Science"
+      },
+      {
+        "summary": "研究團隊拍到雙星彼此拉扯後引發特殊超新星，像一場宇宙級的物理實驗。",
+        "url": "https://www.space.com/astronomy/dance-of-death-between-binary-stars-leads-to-an-unusual-supernova",
+        "source": "Space"
+      },
+      {
+        "summary": "關於人類與尼安德塔人是否共享文化的新研究在近兩天引發關注，帶來很有意思的人類演化視角。",
+        "url": "https://www.scientificamerican.com/article/did-our-modern-human-ancestors-and-neanderthals-share-a-common-culture/",
+        "source": "Scientific American"
+      }
+    ]
   }
 ]
