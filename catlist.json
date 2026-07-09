@@ -850,5 +850,15 @@
     "inspiration_url": "https://phys.org/news/2026-07-international-team-science-wont-coral.html",
     "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-09_1305_UTC.webp",
     "title": "珊瑚之徑"
+  },
+  {
+    "number": 87,
+    "inspiration_url": "https://www.theguardian.com/science/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+    "inspiration": "科學家發現貓薄荷乳液對防蚊效果可媲美 DEET，帶來有趣又實用的新選擇。",
+    "timestamp": "2026-07-09 14:05 UTC",
+    "status": "success",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-09_1405_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "草場清風"
   }
 ]

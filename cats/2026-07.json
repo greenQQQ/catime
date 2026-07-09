@@ -3912,5 +3912,66 @@
       }
     ],
     "inspiration": "國際團隊提出把藝術、設計與社區參與納入珊瑚保育，為拯救珊瑚礁開出更創新的路線。"
+  },
+  {
+    "number": 87,
+    "story": "工作台後方，球童正把剛補好的球拍送去試打，貓則忙著繞著線軸和乳液瓶打轉，偶爾停下來用爪子按住被風吹動的網布。草地上傳來遠處觀眾的掌聲，這隻貓像是在替一場意外安靜的夏日比賽守住清爽與秩序。",
+    "avoid_list": [
+      "黑紅高端氛圍",
+      "等距攝影舞台感",
+      "大理石長桌蹲坐",
+      "鼻尖靠近物件嗅聞",
+      "倫勃朗單側光",
+      "滿版特寫構圖",
+      "霓虹賽博龐克夜市",
+      "百葉窗條紋光",
+      "故障藝術訊號錯位",
+      "溫室夜景冷暖對比",
+      "四腳貓保持自然姿勢",
+      "日期時間標示入景",
+      "電影感高對比陰影",
+      "手作機關偶質感",
+      "遞迴鏡中場景"
+    ],
+    "prompt": "Manga-style illustration of a miniature diorama scene at a London lawn tennis court stringing workbench, with clean ink lines, screentone shading, expressive eyes, and subtle dynamic action lines. A four-footed orange-and-white cat is clearly shown working attentively, using its front paws to press a small cloth dabbed with catnip lotion onto the net tape, occasionally pinning down wind-blown mesh with a paw; nearby are a tiny electric fan, a mosquito-warning sign, a string spool, and a lotion bottle. Behind the workbench, a ball boy is handing freshly repaired rackets toward a practice hit. The scene should feel like a tiny detailed world with tilt-shift effect, toy-like scale model composition, sculptural twisted wire mesh and coiled metal strand textures, tangled iron-wire fencing details, and a bamboo jade-green color harmony of fresh emerald and malachite tones. Soft diffused natural light under an overcast sky, even illumination, no harsh shadows, gentle serene atmosphere. Include visually displayed Traditional Chinese text or English text showing the date and time: “2026-07-09 14:05 UTC”. The overall mood is cool verdant serenity, orderly, fresh, and quietly humorous, as if the cat is guarding the calm of an unexpectedly quiet summer match. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration_url": "https://www.theguardian.com/science/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+    "idea": "以漫畫風呈現的微縮立體模型場景，地點在一座倫敦草地網球場旁的球拍穿線工作台；一隻四腳橘白貓正專心用前掌把沾著貓薄荷乳液的小布擦在球網護邊上，旁邊還有一把小電風扇與防蚊告示牌，整體以竹影翠綠為主調，配上自然漫射光與鐵絲網纏繞的細節質感。",
+    "title": "草場清風",
+    "news_inspiration": [
+      {
+        "summary": "溫布頓黑馬亞瑟・費里連闖四強，英國網壇掀起新一波驚喜熱潮。",
+        "url": "https://www.theguardian.com/sport/2026/jul/08/arthur-fery-harnesses-power-of-intangibles-in-historic-wimbledon-run",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "科學家發現貓薄荷乳液對防蚊效果可媲美 DEET，帶來有趣又實用的新選擇。",
+        "url": "https://www.theguardian.com/science/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "墨爾本一場以孤獨與網路時代為題的藝術展，用金魚、梗圖與編織作品把現代情緒視覺化。",
+        "url": "https://www.theguardian.com/artanddesign/artandculture/2026/jul/08/bed-rot-doomscrolling-and-a-single-goldfish-the-melbourne-art-show-blowing-loneliness-open",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "「藍色空間療法」討論升溫，海洋、河流與湖泊被研究視為有助心理健康的自然資源。",
+        "url": "https://www.theguardian.com/society/health/2026/jul/08/the-rise-of-blue-space-therapy-how-the-sea-is-helping-people-deal-with-trauma-anxiety-and-addiction",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "英格蘭世界盃勝利引發對「共享目的」的討論，體育也成為反映現代社會多元性的故事。",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/08/england-world-cup-joy-national-belonging",
+        "source": "The Guardian"
+      }
+    ],
+    "comment_id": 4925910644,
+    "inspiration": "科學家發現貓薄荷乳液對防蚊效果可媲美 DEET，帶來有趣又實用的新選擇。",
+    "style_picks": {
+      "art_style": "Manga",
+      "composition": "Miniature Diorama",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Tangled Wire Mesh",
+      "color_palette": "Bamboo Jade Green"
+    }
   }
 ]
