@@ -3436,5 +3436,67 @@
       "懷舊褪色色調"
     ],
     "inspiration": "巴黎塞納河在整治後重新開放三個公共游泳點，為這座城市帶來難得的夏日清涼與新鮮水岸風景。"
+  },
+  {
+    "style_picks": {
+      "art_style": "Cyberpunk",
+      "composition": "Floating Island Scene",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Lace Openwork Texture",
+      "color_palette": "Crimson and Black"
+    },
+    "number": 78,
+    "news_inspiration": [
+      {
+        "summary": "科學家透過詹姆斯·韋伯望遠鏡在遙遠星際空間發現罕見新物質，替宇宙化學研究開啟新的線索。",
+        "url": "https://www.livescience.com/news/archive/2026/07",
+        "source": "Live Science"
+      },
+      {
+        "summary": "一位街頭藝術家在巴黎舊橋打造大型充氣裝置，吸引民眾拍照與圍觀，成為城市裡很有視覺感的公共藝術。",
+        "url": "https://www.ap.org/?temp-media-upload=facebook",
+        "source": "The Associated Press"
+      },
+      {
+        "summary": "世界盃熱潮帶動各地出現有趣的足球文化展覽，洛杉磯七月多場藝術展也把球類、壁畫與流行文化揉合在一起。",
+        "url": "https://www.wallpaper.com/art/los-angeles-art-exhibitions-guide",
+        "source": "Wallpaper"
+      },
+      {
+        "summary": "BBC 科技版最近聚焦 FIFA 總部的新科技應用，展現體育賽事與創新技術如何結合。",
+        "url": "https://rssorange.com/27790/",
+        "source": "BBC News via RSS Orange"
+      },
+      {
+        "summary": "AP 的體育照片專題呈現世界盃賽場與球迷畫面，從視覺上記錄全球共同追球的熱鬧氛圍。",
+        "url": "https://www.ap.org/news-highlights/type/sports/",
+        "source": "The Associated Press"
+      }
+    ],
+    "prompt": "Illustration / digital art, cyberpunk nocturnal floating-island night market scene on a levitating platform above white clouds, rain-slick dystopian atmosphere with holographic signage and neon reflections. Oreo, a literal agile tuxedo cat with glossy jet-black shorthair, crisp white chest bib, white chin and muzzle, white belly and four white socks, black head and ears with pink inner ears, fully black tail held upright, round bright yellow-green eyes, lean springy build, mischievous expression, is clearly shown crouching on a scooter seat piled with cardboard boxes, lowering one paw to push a soccer-ball-shaped LED glowing orb into a hole in the cardboard box stack. The cat is looking down at the orb while turning its head back with a playful, guilty expression. A small sign or label in the image must visibly display the text “2026-07-09 05:05 UTC” in Traditional Chinese or English styling. Use Rembrandt lighting with a single 45-degree key light, strong chiaroscuro, and a signature triangle of light on the shadowed cheek to spotlight Oreo’s eyes. Emphasize crimson and jet-black dominance, with dramatic deep blood-red against black shadows. Include lace openwork canopy textures, delicate floral cutout patterns, perforated fabric, fine translucent filigree, scalloped edges, and shadow projections from shop signs. Cinematic composition, medium close-up focusing on the cat and the glowing ball, high-contrast neon cyberpunk mood, seductive sinister atmosphere, crisp detail, no humans in foreground, the cat remains fully four-legged and natural. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4921760879,
+    "idea": "賽博龐克風格的夜市浮島場景中，黑白賓士貓奧利奧正蹲在一座堆滿紙箱的機車坐墊上，低頭把攤位邊一顆足球造型的LED發光球撥進紙箱洞口，胸前白色圍兜在霓虹紅與黑影裡格外醒目。畫面以倫勃朗光聚焦牠圓亮的黃綠眼睛，搭配蕾絲鏤空質感的棚布與招牌投影，呈現緋紅烏黑的濃烈對比。",
+    "story": "奧利奧在夜市巡邏時，趁攤販轉身的空檔，偷偷把發光球一路撥進紙箱山裡，像在進行一場只有牠懂的地下比賽。牠停下來回頭歪著頭，黑色尾巴豎得筆直，彷彿在說：「我只是幫你整理啦。」",
+    "title": "霓虹紙箱王",
+    "character": "oreo",
+    "avoid_list": [
+      "日期時間顯示",
+      "四腳貓專注撥弄物件",
+      "等距3D插圖構圖",
+      "傳統老舊工作檯",
+      "復古維修店場景",
+      "終端機黑底白字介面",
+      "日光燈均勻平光",
+      "直接閃光硬陰影",
+      "青橙電影調配色",
+      "穆夏拱框裝飾",
+      "浮世繪平面構圖",
+      "水彩潑濺墨點",
+      "微距寫實特寫",
+      "儀器監測螢幕",
+      "懷舊褪色色調"
+    ],
+    "inspiration": "original",
+    "character_name": "奧利奧"
   }
 ]
