@@ -3498,5 +3498,66 @@
     ],
     "inspiration": "original",
     "character_name": "奧利奧"
+  },
+  {
+    "idea": "在倫敦七月一座臨時當代藝術展的白色展廳裡，一隻四腳虎斑貓正沿著超長桌布的折角小心前行，鼻尖幾乎碰到前景一盒彩色球迷圍巾與霓虹紙摺旗。畫面以貢德畫的細密紋飾結合摺紙質感，採強制透視伸手構圖與電影感打光，讓貓爪與前景的巨型紙杯顯得誇張而生動，霓虹螢光色在深色展牆上格外跳躍。",
+    "inspiration_url": "https://apnews.com/article/a055e77692e95fda77fbcecbb99d70a9",
+    "title": "霓旗之間",
+    "story": "今晚的展廳因世界盃球迷攝影與拉丁美洲驕傲遊行的照片拼貼而熱鬧，牠像被那些旗幟與人群的色彩吸引，沿著桌邊緩緩巡視。當一位策展人彎腰把紙摺小旗放近時，牠停下來輕嗅，尾巴輕輕一擺，彷彿也在替這座城市收藏夏日的歡呼。",
+    "prompt": "Illustration / mixed-media art of a white temporary contemporary art gallery in London in July, featuring a four-legged tabby cat carefully walking along the folded corner of an extra-long tablecloth; the cat’s nose almost touching the foreground box of colorful football fan scarves and neon paper origami flags, with a curator bending in to place a folded paper pennant nearby. Make the cat clearly visible and central to the action, with exaggerated foreshortening and a forced perspective composition where the cat’s paws and a giant paper cup in the foreground appear oversized and lively, engaging the viewer. Combine Gond painting fine dot-and-line ornamentation, nature-inspired folk motifs, and origami paper-sculpture aesthetics with clean geometric creases, sharp angular folds, and precise minimal paper texture. Use vibrant neon fluorescent colors—electric pink, lime green, hot cyan—glowing against dark exhibition walls, with cinematic lighting, volumetric light rays, dramatic shadows, high dynamic range, and a film-quality mood. The gallery walls feature a lively collage of World Cup fan photography and Latin American Pride parade images, adding celebratory color and movement. Display the date and time clearly in the scene as Traditional Chinese or English text: “2026-07-09 06:05 UTC”. No resolution keywords. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "日期時間顯示",
+      "四腳貓專注撥弄物件",
+      "等距3D插圖構圖",
+      "傳統老舊工作檯",
+      "復古維修店場景",
+      "終端機黑底白字介面",
+      "日光燈均勻平光",
+      "直接閃光硬陰影",
+      "青橙電影調配色",
+      "穆夏拱框裝飾",
+      "浮世繪平面構圖",
+      "水彩潑濺墨點",
+      "微距寫實特寫",
+      "儀器監測螢幕",
+      "懷舊褪色色調"
+    ],
+    "comment_id": 4922083774,
+    "news_inspiration": [
+      {
+        "summary": "墨西哥隊在世界盃終結40年淘汰賽荒，擊敗厄瓜多晉級，為球迷帶來熱血又歡樂的體育時刻。",
+        "url": "https://apnews.com/article/a055e77692e95fda77fbcecbb99d70a9",
+        "source": "Associated Press"
+      },
+      {
+        "summary": "AP精選拉丁美洲與加勒比海地區照片中，除了委內瑞拉救援現場，也有五彩繽紛的驕傲遊行與世界盃球迷畫面，視覺張力十足。",
+        "url": "https://apnews.com/article/a055e77692e95fda77fbcecbb99d70a9",
+        "source": "Associated Press"
+      },
+      {
+        "summary": "《Wallpaper*》整理七月藝術展覽推薦，帶出倫敦當月值得一看的當代藝術與文化展覽，充滿靈感與夏日氣息。",
+        "url": "https://www.wallpaper.com/art/exhibitions-shows/london-art-exhibitions",
+        "source": "Wallpaper*"
+      },
+      {
+        "summary": "Reuters 的世界盃照片輯展現各國球迷、旗幟與球衣設計的文化巧思，兼具運動與設計美感。",
+        "url": "https://www.reutersconnect.com/feed/packages",
+        "source": "Reuters Connect"
+      },
+      {
+        "summary": "Live Science 的七月新聞檔案提到研究者發現尼安德塔人與現代人可能在約 59,000 年前共享文化，帶來有趣的人類學新線索。",
+        "url": "https://www.livescience.com/news/archive/2026/07",
+        "source": "Live Science"
+      }
+    ],
+    "number": 79,
+    "inspiration": "AP精選拉丁美洲與加勒比海地區照片中，除了委內瑞拉救援現場，也有五彩繽紛的驕傲遊行與世界盃球迷畫面，視覺張力十足。",
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Cinematic Lighting",
+      "texture": "Origami",
+      "color_palette": "Neon Fluorescent"
+    }
   }
 ]
