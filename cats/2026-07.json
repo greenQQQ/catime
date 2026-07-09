@@ -3620,5 +3620,70 @@
         "source": "Scientific American"
       }
     ]
+  },
+  {
+    "prompt": "Glitch art illustration of Snowball, a large gentle Ragdoll cat with long silky cloud-like cream-white fur (#F5EFE6), soft seal-brown point markings only on the ears and a gentle wash down the nose bridge, all four paws in clean white mittens, fluffy white chest ruff, magnificent plume tail lightly seal-tinted, large sapphire blue eyes (#2E5FA3), pink nose and paw pads, relaxed floppy doll-like posture, serene sweet expression. Scene: inside a Hong Kong self-driving technology company’s high-rise pantry beside an IPO listing ceremony, Snowball is sprawled lazily on the cool marble floor in an air-conditioned room, one front paw lightly resting on a rolled-open sheer lace mesh mat with delicate translucent netting, looking out through floor-to-ceiling windows; several busy office workers appear very small in the foreground as scale contrast. Display the text “2026-07-09 08:05 UTC” clearly on a visible screen or wall sign in Traditional Chinese / English only. Visual style: digital distortion, RGB channel shift, corrupted data aesthetic, scan-line artifacts, fragmented visuals, slight signal misalignment, retro faded tones, washed-out vintage warmth, low contrast, nostalgic film-era feel. Lighting: overhead fluorescent institutional flat illumination, neutral white 5000K, no dramatic shadows. Composition: lonely epic framing, monumental size contrast, tiny human figures dwarfed by the cat and the high-rise interior, clear focus on the cat, summer atmosphere, realistic four-legged cat anatomy, no accessories. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4922996009,
+    "character_name": "雪球",
+    "avoid_list": [
+      "倫勃朗光單點照明",
+      "青橙電影調對比",
+      "直接閃光硬陰影",
+      "貓用前爪按住圖紙",
+      "復古機房工作檯",
+      "等距3D插圖構圖",
+      "微距真實攝影感",
+      "夜市霓虹賽博龐克",
+      "黑紅高對比氛圍",
+      "滿版特寫邊緣裁切",
+      "透明控制台與監測螢幕",
+      "迷你世界與玩具化尺度",
+      "手作機關偶質感",
+      "對稱中央構圖",
+      "傳統中國紅金背景"
+    ],
+    "news_inspiration": [
+      {
+        "summary": "香港自駕技術公司 Momenta 在港交所舉行上市儀式，象徵自動駕駛產業持續升溫。",
+        "url": "https://www.reutersconnect.com/item/the-logo-and-stock-code-of-autonomous-driving-technology-company-momenta-are-displayed-on-a-screen-during-its-listing-ceremony-at-the-hong-kong-stock-exchange-in-hong-kong/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkM5TUFaS09FVQ",
+        "source": "Reuters Connect"
+      },
+      {
+        "summary": "香港排球國家聯賽上，義大利對烏克蘭的比賽畫面充滿速度與張力，十分有視覺感。",
+        "url": "https://www.reutersconnect.com/item/hong-kong-sportsvolleyball-nations-league-hong-kong/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBDRkVHSkI",
+        "source": "Reuters Connect"
+      },
+      {
+        "summary": "英國曼徹斯特舉行艾未未《Button Up!》展覽記者會，將當代藝術與公共空間結合。",
+        "url": "https://www.reutersconnect.com/item/artist-ai-weiwei-poses-in-front-of-his-exhibition-titled-button-up-during-a-photocall-at-aviva-studios-in-manchester/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlg0TUFOMkhVRQ",
+        "source": "Reuters Connect"
+      },
+      {
+        "summary": "布魯克林到洛杉磯等地的夏季美術館展覽持續登場，現代藝術收藏與展陳相當吸睛。",
+        "url": "https://www.wallpaper.com/art/los-angeles-art-exhibitions-guide",
+        "source": "Wallpaper"
+      },
+      {
+        "summary": "科學新聞指出，最新發現的古老類星體讓天文學界面臨新的未解之謎。",
+        "url": "https://www.streetinsider.com/Reuters/Ancient%2Bquasars%2Badd%2Bto%2Ba%2B%27major%2Bunsolved%2Bproblem%27%2Bin%2Bastrophysics/26746368.html",
+        "source": "StreetInsider / Reuters"
+      }
+    ],
+    "story": "雪球今天被安排在窗邊最涼的位置，像一朵慢慢融化的雲，安靜看著人群來來去去。當有人經過時，牠只是輕輕晃了晃尾巴，順勢把自己攤得更開，像在享受整個夏天都為牠準備好的冷氣。",
+    "inspiration_url": "https://www.reutersconnect.com/item/the-logo-and-stock-code-of-autonomous-driving-technology-company-momenta-are-displayed-on-a-screen-during-its-listing-ceremony-at-the-hong-kong-stock-exchange-in-hong-kong/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMkM5TUFaS09FVQ",
+    "number": 81,
+    "inspiration": "香港自駕技術公司 Momenta 在港交所舉行上市儀式，象徵自動駕駛產業持續升溫。",
+    "idea": "在一間香港自駕技術公司上市儀式旁的高樓茶水間裡，雪球慵懶地攤在冷氣房的大理石地板上，前腳輕搭著一卷飄散開的蕾絲紗網墊，藍寶石般的大眼睛望著落地窗外；整體以故障藝術呈現，螢光燈照明下帶著復古褪色色調與些微訊號錯位感，前景可見幾位忙碌的上班族被刻意放小作為渺小人物尺度對比。",
+    "season": "summer",
+    "style_picks": {
+      "art_style": "Glitch Art",
+      "composition": "Tiny Figure Scale Contrast",
+      "lighting": "Fluorescent Lighting",
+      "texture": "Sheer Gauze Mesh",
+      "color_palette": "Retro Faded Tones"
+    },
+    "character": "snowball",
+    "title": "冷房雲朵",
+    "is_seasonal": true
   }
 ]
