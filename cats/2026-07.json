@@ -3374,5 +3374,67 @@
     "prompt": "Photography, real-life handmade mechanical figurine aesthetic: a literal slender brown mackerel tabby shorthair cat named Blanli, warm grey-brown base coat #8A7358 with crisp dark brown-black #3B2F23 mackerel stripes, bold dark M on the forehead, emerald green #3FA66B almond eyes, long white whiskers, neat ringed tail with black tip, no collar, no white bib or paws. Blanli is curled and seated on the highest red-and-gold corner landing of an old apartment stairwell, in a calm watchful pose, head lowered as one front paw gently presses a ribbon bow drifting in the air; tail tip lightly flicks. Full-bleed frame-filling close-up composition, subject cropped to the edges, dense edge-to-edge detail, no empty margin, immersive scale. Background: walls covered with festive red lanterns and metal railings, auspicious Chinese red with bright gold accents, celebratory warmth. Realistic handmade mechanical figurine texture mixed with ceramic head and aged brass parts, copper gears and springs, soft pastel patina, translucent wireframe overlay and glowing geometric mesh lines like a delicate technical blueprint over the cat’s form, but still clearly a real cat. Rembrandt lighting from a single 45-degree light source, dramatic chiaroscuro, triangle of light on the shadowed cheek, shallow depth of field, artisan workshop realism, subtle grain, candid shot. Visibly display the text “2026-07-09 03:05 UTC” in Traditional Chinese/English style signage within the scene, integrated naturally on a small wall plaque or stairwell label. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "character": "blanli",
     "story": "牠向來只選最高、最安靜的位置，今晚卻因為一小段紅緞帶在地上輕晃而停下目光。布藍里沒有出聲，只用尾尖輕輕一甩，像是在確認整個樓梯間都仍在牠熟悉的節奏裡。"
+  },
+  {
+    "number": 77,
+    "style_picks": {
+      "art_style": "Levitation Photography",
+      "composition": "Symmetrical Composition",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Moonlit Indigo"
+    },
+    "prompt": "Realistic levitation photography of a four-legged white cat frozen mid-air in a natural pose, crouching at the newly opened Paris Seine riverside public swimming spot, pinning down a wet city map with its paws as if checking which stretch of riverfront is the liveliest today. Perfectly symmetrical composition, centered subject, mirror-like balance, architectural framing with railings on both sides, surrounding people in swimsuits holding towels, river reflections, urban backdrop with soft bokeh. White seamless studio-style lighting mixed with moonlit indigo night ambience, crisp shadowless subject separation, clean commercial clarity, deep night-blue and violet tones with cool silvery highlights. Add watercolor splatter and ink-spray texture, scattered dots and splashes, subtle dripping pigment, to suggest moisture and summer coolness. The image must visibly display the text “2026-07-09 04:05 UTC” on a sign or caption in the scene, in clear English or Traditional Chinese. Sharp focus on the cat, candid frozen jump captured at peak, 35mm lens, f/2.0, natural-looking photo realism, shallow depth of field, no illustration look. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4921470728,
+    "idea": "以人物懸浮攝影呈現一隻四腳白貓在巴黎塞納河畔的公共泳點前，正在用爪子按住一張濕潤的城市地圖，畫面以對稱構圖展開，四周是穿著泳衣與拿著毛巾的人群、欄杆與河面倒影；白底去背棚光讓主體銳利乾淨，月夜靛藍貫穿整體，並以水彩潑濺墨點增添水氣與夏日清涼感。",
+    "news_inspiration": [
+      {
+        "summary": "巴黎塞納河在整治後重新開放三個公共游泳點，為這座城市帶來難得的夏日清涼與新鮮水岸風景。",
+        "url": "https://www.reutersconnect.com/item/nature-environment/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBMMUNHV1c",
+        "source": "Reuters Connect"
+      },
+      {
+        "summary": "2026 世界盃的精彩照片集展現球迷、球場與高張力對決，包含哥倫比亞對迦納等多場賽事的視覺瞬間。",
+        "url": "https://www.reutersconnect.com/feed/packages",
+        "source": "Reuters"
+      },
+      {
+        "summary": "倫敦 2026 Pride 遊行以繽紛色彩與人潮登場，畫面充滿歡慶、身份認同與街頭文化能量。",
+        "url": "https://www.reutersconnect.com/collection/top-pictures",
+        "source": "Reuters Connect"
+      },
+      {
+        "summary": "羅馬尼亞與歐洲多地近期出現迷人晨曦與城市景觀照片，呈現節慶季的明亮氛圍與視覺美感。",
+        "url": "https://www.reutersconnect.com/collection/01-july-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDM1BLRzAwMDEwNzExOQ",
+        "source": "Reuters Connect"
+      },
+      {
+        "summary": "BBC 科技版面在過去一天持續更新，聚焦新技術如何被用在世界盃等大型體育活動中，兼具科技感與好奇心。",
+        "url": null,
+        "source": "BBC News"
+      }
+    ],
+    "story": "貓咪蹲在新開放的河岸入口旁，像是在確認今天哪一段水岸最熱鬧，耳朵隨著笑聲與水花輕輕轉動。當城市重新把河流還給人群，它也在這座乾淨明亮的夏日場景裡，替自己找到了最喜歡的觀景位。",
+    "inspiration_url": "https://www.reutersconnect.com/item/nature-environment/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBMMUNHV1c",
+    "crossover": true,
+    "title": "塞納貓影",
+    "avoid_list": [
+      "日期時間顯示",
+      "四腳貓專注撥弄物件",
+      "等距3D插圖構圖",
+      "傳統老舊工作檯",
+      "復古維修店場景",
+      "終端機黑底白字介面",
+      "日光燈均勻平光",
+      "直接閃光硬陰影",
+      "青橙電影調配色",
+      "穆夏拱框裝飾",
+      "浮世繪平面構圖",
+      "水彩潑濺墨點",
+      "微距寫實特寫",
+      "儀器監測螢幕",
+      "懷舊褪色色調"
+    ],
+    "inspiration": "巴黎塞納河在整治後重新開放三個公共游泳點，為這座城市帶來難得的夏日清涼與新鮮水岸風景。"
   }
 ]
