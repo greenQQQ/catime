@@ -3338,5 +3338,41 @@
     "character_name": "QQQ",
     "character": "qqq",
     "title": "花粉夜宴"
+  },
+  {
+    "inspiration": "original",
+    "style_picks": {
+      "art_style": "Handmade Mechanical Figurine",
+      "composition": "Full-Bleed Frame Fill",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Wireframe Overlay",
+      "color_palette": "Festive Red and Gold"
+    },
+    "idea": "布藍里蜷坐在老公寓樓梯間最高一級的紅金色轉角平台上，旁邊是掛滿節慶紅燈籠的牆面與金屬欄杆，牠正低頭專注用前爪輕輕按住一枚被風吹來的緞帶結，滿版特寫構圖把牠修長的身形、翠綠杏眼與深色鯖魚紋清楚填滿畫面。手作機關偶的真實質感配上倫勃朗光，讓棕灰毛色與中國紅金場景形成精緻對比，線框透明質感像是細緻的機械結構疊在牠安靜的輪廓上。",
+    "number": 76,
+    "character_name": "布藍里",
+    "news_inspiration": [],
+    "title": "紅階守望",
+    "avoid_list": [
+      "日期時間顯示",
+      "四腳貓專注撥弄物件",
+      "等距3D插圖構圖",
+      "傳統老舊工作檯",
+      "復古維修店場景",
+      "終端機黑底白字介面",
+      "日光燈均勻平光",
+      "直接閃光硬陰影",
+      "青橙電影調配色",
+      "穆夏拱框裝飾",
+      "浮世繪平面構圖",
+      "水彩潑濺墨點",
+      "微距寫實特寫",
+      "儀器監測螢幕",
+      "懷舊褪色色調"
+    ],
+    "comment_id": 4921217895,
+    "prompt": "Photography, real-life handmade mechanical figurine aesthetic: a literal slender brown mackerel tabby shorthair cat named Blanli, warm grey-brown base coat #8A7358 with crisp dark brown-black #3B2F23 mackerel stripes, bold dark M on the forehead, emerald green #3FA66B almond eyes, long white whiskers, neat ringed tail with black tip, no collar, no white bib or paws. Blanli is curled and seated on the highest red-and-gold corner landing of an old apartment stairwell, in a calm watchful pose, head lowered as one front paw gently presses a ribbon bow drifting in the air; tail tip lightly flicks. Full-bleed frame-filling close-up composition, subject cropped to the edges, dense edge-to-edge detail, no empty margin, immersive scale. Background: walls covered with festive red lanterns and metal railings, auspicious Chinese red with bright gold accents, celebratory warmth. Realistic handmade mechanical figurine texture mixed with ceramic head and aged brass parts, copper gears and springs, soft pastel patina, translucent wireframe overlay and glowing geometric mesh lines like a delicate technical blueprint over the cat’s form, but still clearly a real cat. Rembrandt lighting from a single 45-degree light source, dramatic chiaroscuro, triangle of light on the shadowed cheek, shallow depth of field, artisan workshop realism, subtle grain, candid shot. Visibly display the text “2026-07-09 03:05 UTC” in Traditional Chinese/English style signage within the scene, integrated naturally on a small wall plaque or stairwell label. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character": "blanli",
+    "story": "牠向來只選最高、最安靜的位置，今晚卻因為一小段紅緞帶在地上輕晃而停下目光。布藍里沒有出聲，只用尾尖輕輕一甩，像是在確認整個樓梯間都仍在牠熟悉的節奏裡。"
   }
 ]

@@ -733,5 +733,16 @@
     "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-09_0205_UTC.webp",
     "character_name": "QQQ",
     "title": "花粉夜宴"
+  },
+  {
+    "inspiration": "original",
+    "status": "success",
+    "number": 76,
+    "character_name": "布藍里",
+    "timestamp": "2026-07-09 03:05 UTC",
+    "character": "blanli",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "紅階守望",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-09_0305_UTC.webp"
   }
 ]
