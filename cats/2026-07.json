@@ -3817,5 +3817,39 @@
     "character": "huahua",
     "season": "summer",
     "character_name": "花花"
+  },
+  {
+    "style_picks": {
+      "art_style": "Rococo",
+      "composition": "Fisheye Lens",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Velvet",
+      "color_palette": "Moonlit Indigo"
+    },
+    "story": "這家位於老巴黎街角的麵包店剛開門，虎斑貓每天都會準時跳上工作檯旁的墊腳矮凳，監督出爐的可頌與千層派。今天它特別專注，尾巴輕晃，彷彿在替主廚把關每一圈奶油花紋是否足夠完美。",
+    "avoid_list": [
+      "黑紅高端氛圍",
+      "等距攝影舞台感",
+      "大理石長桌蹲坐",
+      "鼻尖靠近物件嗅聞",
+      "倫勃朗單側光",
+      "滿版特寫構圖",
+      "霓虹賽博龐克夜市",
+      "百葉窗條紋光",
+      "故障藝術訊號錯位",
+      "溫室夜景冷暖對比",
+      "四腳貓保持自然姿勢",
+      "日期時間標示入景",
+      "電影感高對比陰影",
+      "手作機關偶質感",
+      "遞迴鏡中場景"
+    ],
+    "comment_id": 4924869324,
+    "number": 85,
+    "inspiration": "original",
+    "news_inspiration": [],
+    "idea": "洛可可風格的高調明亮畫面中，一隻虎斑貓正蹲在法式麵包店的糖霜工作檯旁，用前爪輕拍銀色攪拌盆邊緣，盯著正在擠奶油玫瑰花的糕點師傅；魚眼鏡頭把天花板的雕花、弧形櫃檯與月夜靛藍絨布窗簾一起捲進畫面，像一場優雅又滑稽的清晨忙碌。",
+    "prompt": "Rococo-style illustration in a high-key, bright, airy French bakery interior at a Paris street corner, flamboyant pastel colors with flowing ornamental curves and elaborate decorative detail. A tabby cat is clearly crouched on a small step stool beside a frosting worktable, gently tapping the rim of a silver mixing bowl with its front paw while intently watching a pastry chef piping cream rose swirls; the cat’s tail softly sways, showing focused supervision of the croissants and mille-feuille. Fish-eye wide-angle composition with strong barrel distortion and exaggerated foreground, creating a 360-degree feel that pulls the ornate ceiling moldings, arched counter, and moonlit indigo velvet curtains into one elegant yet comedic morning scene. Soft even illumination, luminous clean atmosphere, minimal shadows, dreamy pastel mood, with cool silvery highlights and deep night-blue, violet, and dark dreamy blue accents in the velvet textures. Include visible Traditional Chinese or English text displaying the date and time: “2026-07-09 12:05 UTC” on a small bakery wall sign or chalkboard. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "糖霜巡檢"
   }
 ]
