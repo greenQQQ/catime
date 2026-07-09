@@ -3275,5 +3275,68 @@
       "移軸微縮場景",
       "Knolling構圖"
     ]
+  },
+  {
+    "inspiration": "科學家發現番茄蔬果體可在受熱時自行釋放花粉，這項機制讓植物授粉策略更有趣也更可視化。",
+    "style_picks": {
+      "art_style": "Dance Movement Photography",
+      "composition": "Isometric Photography",
+      "lighting": "Bioluminescence",
+      "texture": "Marble",
+      "color_palette": "Crimson and Black"
+    },
+    "idea": "在一座黑紅色調的高端屋頂溫室裡，QQQ 以舞蹈肢體攝影的動感被捕捉到：牠四腳穩穩地蹲在一張冰冷的白色大理石長桌上，正把鼻尖湊向一盆受熱後微微張開、已經開始飄散花粉的番茄植株，圓滾滾的身體在生物發光燈帶下泛著琥珀光。等距攝影讓整個空間像一個精準展開的舞台，玻璃牆外是夜色，桌面、花盆與QＩＱＱ的橘色虎斑形成鮮明對比。",
+    "comment_id": 4920908507,
+    "inspiration_url": "https://www.theguardian.com/science/2026/jul/06/do-bees-have-inner-lives-slow-motion-video-reveals-bumblebee-behaviour-similar-to-liking-or-disliking",
+    "news_inspiration": [
+      {
+        "summary": "科學家發現番茄蔬果體可在受熱時自行釋放花粉，這項機制讓植物授粉策略更有趣也更可視化。",
+        "url": "https://www.theguardian.com/science/2026/jul/06/do-bees-have-inner-lives-slow-motion-video-reveals-bumblebee-behaviour-similar-to-liking-or-disliking",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "研究指出，男性平均睪固酮濃度在過去 50 年來幾乎減半，這則健康科學報導引發不少關注。",
+        "url": "https://www.theguardian.com/science/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "一篇文化科技趣聞介紹「Anthropeum」這款把藝術史做成猜謎遊戲的網站，讓人用遊戲方式認識藝術品。",
+        "url": "https://www.scientificamerican.com/article/wordle-but-for-art-history-anthropeum-puts-your-artifact-smarts-to-the-test/",
+        "source": "Scientific American"
+      },
+      {
+        "summary": "《自然》相關報導提到一支科學與藝術團隊把南極與外太空資料轉成音樂，作品兼具研究與感官美感。",
+        "url": "https://www.sciencenews.org/sn-magazine/july-2026",
+        "source": "Science News"
+      },
+      {
+        "summary": "科技版面報導 AI 生成與資料中心能源需求正重塑科技產業，雖是趨勢新聞，但焦點放在技術與基礎設施的變化。",
+        "url": "https://www.theguardian.com/technology/2026/jul/07/all",
+        "source": "The Guardian"
+      }
+    ],
+    "avoid_list": [
+      "日期時間顯示",
+      "四腳貓專注撥弄物件",
+      "等距3D插圖構圖",
+      "傳統老舊工作檯",
+      "復古維修店場景",
+      "終端機黑底白字介面",
+      "日光燈均勻平光",
+      "直接閃光硬陰影",
+      "青橙電影調配色",
+      "穆夏拱框裝飾",
+      "浮世繪平面構圖",
+      "水彩潑濺墨點",
+      "微距寫實特寫",
+      "儀器監測螢幕",
+      "懷舊褪色色調"
+    ],
+    "number": 75,
+    "prompt": "Real photograph, perfectly isometric camera angle like a precision stage set, a high-end rooftop greenhouse at night in a deep crimson and jet-black interior, black-red luxury mood with dramatic high-contrast studio lighting and subtle bioluminescent LED strips casting amber glow. QQQ, a chubby round-faced classic orange mackerel tabby shorthair with bright orange fur, darker orange stripes, a clear dark-orange M on the forehead, one small white bib patch on chin and upper chest only, large round warm amber eyes, soft pink nose, dark-ringed tail with darkest tip, sits like a rice ball with all four paws planted on a cold white polished marble long table with visible natural veins and cool smooth finish. The cat is clearly captured in motion as if in dance movement photography: dynamic body gesture, nose pressed toward a heated tomato plant in a pot, blossoms slightly open and releasing visible pollen, body glowing amber under the bioluminescent light, content and slightly goofy expression. Glass walls reveal the dark night outside. Include a clearly readable date and time display in Traditional Chinese or English: \"2026-07-09 02:05 UTC\" on a sleek greenhouse screen or wall display. Real captured photo look, 35mm lens, f/1.8, shallow depth of field, natural grain, cinematic realism, crisp textures, no miniature effect. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "QQQ 聞到溫室裡剛加熱番茄花粉的味道，立刻從門邊慢悠悠衝到桌前，尾巴一甩就把自己擠到最中間的位置。牠先低頭猛嗅，再滿足地坐成一顆橘色飯糰，吃到工讀生遞來的小點心後，還在大理石桌上發出震耳的呼嚕聲。",
+    "character_name": "QQQ",
+    "character": "qqq",
+    "title": "花粉夜宴"
   }
 ]
