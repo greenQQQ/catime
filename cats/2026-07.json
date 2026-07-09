@@ -3685,5 +3685,39 @@
     "character": "snowball",
     "title": "冷房雲朵",
     "is_seasonal": true
+  },
+  {
+    "comment_id": 4923457966,
+    "style_picks": {
+      "art_style": "Embroidered Folk Doll Illustration",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Impasto Oil Texture",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "story": "這隻貓每天傍晚都會來洗衣店巡視，像是在確認所有鬆掉的線頭都被收好。今晚它叼著一小截白線跳上洗衣籃邊，店主在後方安靜看著，整間店只剩烘乾機低沉轉動聲，和黑光下不斷延伸的鏡中洗衣間。",
+    "prompt": "An embroidered folk-doll illustration of a black-and-white cat carefully pulling loose white cotton threads one by one back into a metal laundry basket beside the front of a rotating tumble dryer in a basement laundromat folding-and-drying area; the cat is the clear focal point, standing on the basket edge and gripping a short white thread in its mouth, while the shop owner watches quietly in the background. The scene is rendered like stitched textile patterns and decorative folkloric motifs, with warm handcrafted storybook charm mixed with thick impasto oil texture, visible brush gestures, raised paint ridges, and highly tactile fabric fibers, tile grout, and cat fur. Use blacklight UV illumination so the white thread ends and labels faintly glow against a black-and-white monochrome base with high contrast, rich tonal range, dramatic shadows and highlights, plus subtle fluorescent accents. Compose it as a recursive Droste effect: a round mirror on the wall reflects a deeper version of the same laundromat, the same cat, and smaller drying racks repeating into an infinite corridor. Visibly display the date and time exactly as '2026-07-09 09:05 UTC' on a laundromat sign or wall notice in Traditional Chinese or English text. Decorative self-referential picture-within-a-picture framing, surreal yet cozy, centered composition, layered depth, handcrafted folk-art mood. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 82,
+    "idea": "在一座地下洗衣店的折疊曬衣區，一隻黑白貓正專注地把滾筒烘乾機前的鬆脫棉線一條條拉回金屬籃裡；整個場景以刺繡民俗娃娃插畫呈現，黑光紫外線讓白色線頭與標籤在黑白單色中微微發亮，厚塗油彩肌理把布料纖維、磁磚縫與貓毛的層次堆得很立體。畫面以遞迴／德羅斯特效應展開，牆上的圓形鏡子裡又映出更深一層的洗衣店、同一隻貓與更小的曬衣架，像被一格格折進無限回廊。",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "avoid_list": [
+      "倫勃朗光單點照明",
+      "青橙電影調對比",
+      "直接閃光硬陰影",
+      "貓用前爪按住圖紙",
+      "復古機房工作檯",
+      "等距3D插圖構圖",
+      "微距真實攝影感",
+      "夜市霓虹賽博龐克",
+      "黑紅高對比氛圍",
+      "滿版特寫邊緣裁切",
+      "透明控制台與監測螢幕",
+      "迷你世界與玩具化尺度",
+      "手作機關偶質感",
+      "對稱中央構圖",
+      "傳統中國紅金背景"
+    ],
+    "title": "線海回廊"
   }
 ]
