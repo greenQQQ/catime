@@ -3753,5 +3753,69 @@
       "對稱中央構圖",
       "傳統中國紅金背景"
     ]
+  },
+  {
+    "avoid_list": [
+      "倫勃朗光單點照明",
+      "青橙電影調對比",
+      "直接閃光硬陰影",
+      "貓用前爪按住圖紙",
+      "復古機房工作檯",
+      "等距3D插圖構圖",
+      "微距真實攝影感",
+      "夜市霓虹賽博龐克",
+      "黑紅高對比氛圍",
+      "滿版特寫邊緣裁切",
+      "透明控制台與監測螢幕",
+      "迷你世界與玩具化尺度",
+      "手作機關偶質感",
+      "對稱中央構圖",
+      "傳統中國紅金背景"
+    ],
+    "inspiration": "original",
+    "idea": "以木刻版畫呈現的中景環境人像，花花這隻白底橘黑三花貓正趴在廟口石階上，身旁有一串隨風輕晃的風鈴與幾盞正在燃燒的矮燭，燭光在莫蘭迪色調裡映出柔和的陰影與低多邊形般簡潔的質感。牠微微側頭盯著石階旁聚在一起聊天的店家與香客，尾巴愉快地翹著，像下一秒就要湊進人群中央。",
+    "style_picks": {
+      "art_style": "Woodcut Print",
+      "composition": "Environmental Medium Portrait",
+      "lighting": "Candlelight",
+      "texture": "Low Poly",
+      "color_palette": "Morandi Color Palette"
+    },
+    "number": 84,
+    "comment_id": 4924424109,
+    "prompt": "Traditional Chinese-inspired woodcut print illustration with bold carved lines, rough wood grain texture, high-contrast black ink accents, and a low-poly geometric simplification in the shading and surfaces; medium environmental shot with balanced figure-and-context framing and natural depth perspective. Huahua, a small round calico shorthair cat with a clean white base coat, LEFT ear orange, RIGHT ear black, one orange patch above the LEFT eye, large orange-and-black patchwork saddle across the back, orange-black ringed tail, mostly white legs and belly, round warm light-amber eyes, pink nose and paw pads, cheerful upright tail, bright friendly scatterbrained expression, is clearly shown lying on the stone steps at the entrance of a temple, slightly turning its head to watch shopkeepers and pilgrims chatting beside the stairs, tail lifted happily as if about to join the crowd. Include a string of wind chimes swaying in the breeze beside Huahua and several small low burning candles nearby; warm candlelight casts soft dancing shadows and gentle orange flickers across a Morandi muted color palette of dusty grey undertones, desaturated soft pastels, and quiet elegance. The scene should feel intimate and storytelling-rich, with the cat placed in a meaningful setting. Add subtle summer atmosphere. Visibly display the text exactly as: \"2026-07-09 11:05 UTC\" in Traditional Chinese or English typography integrated into the scene, such as on a small temple sign or plaque. Keep the cat literal and four-legged, no human-like body, no collar, no accessories. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      {
+        "summary": "加拿大在世界盃首度闖進16強，靠艾斯誇伊圖在補時的進球以1比0擊敗南非，寫下隊史新頁。",
+        "url": "https://apnews.com/article/704407e25c4ec253daaa2803996d58b0",
+        "source": "AP News"
+      },
+      {
+        "summary": "大都會藝術博物館宣布將文物歸還義大利，並提到《拉斐爾：崇高詩意》成為該館自2018年以來最受歡迎的展覽之一。",
+        "url": "https://www.metmuseum.org/de/press-releases",
+        "source": "The Metropolitan Museum of Art"
+      },
+      {
+        "summary": "《Wallpaper*》整理出7月值得期待的藝術與文化行程，包含慕尼黑博物館與英國皇家學院夏季展覽等視覺靈感活動。",
+        "url": "https://www.wallpaper.com/art/wallpaper-editors-things-to-do-july-2026",
+        "source": "Wallpaper*"
+      },
+      {
+        "summary": "《衛報》報導巴西海域的海中科學研究，科學家利用先進科技以近乎破紀錄的速度進行深海調查。",
+        "url": "https://www.theguardian.com/science%2Btone/news",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "《衛報》科技版聚焦AI與資料中心的能源壓力，描寫大型科技公司如何在淨零目標與耗能AI之間重新調整策略。",
+        "url": "https://www.theguardian.com/technology/2026/jul/07/all",
+        "source": "The Guardian"
+      }
+    ],
+    "is_seasonal": true,
+    "title": "風鈴石階",
+    "story": "花花最愛熱鬧，今天一聽見廟口風鈴叮噹作響，就立刻在石階上找了個最醒目的位置趴下。牠不時抖抖耳朵，看人們在香火與燭影間說笑，還把一顆亮晶晶的小鈕扣悄悄藏到石獅子底下的縫隙裡。",
+    "character": "huahua",
+    "season": "summer",
+    "character_name": "花花"
   }
 ]
