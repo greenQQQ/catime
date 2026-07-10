@@ -898,5 +898,18 @@
     "title": "深海牽引",
     "status": "success",
     "inspiration": "original"
+  },
+  {
+    "inspiration": "original",
+    "is_seasonal": true,
+    "title": "冰地橘飯糰",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-10_0305_UTC.webp",
+    "character": "qqq",
+    "season": "summer",
+    "timestamp": "2026-07-10 03:05 UTC",
+    "character_name": "QQQ",
+    "number": 92,
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]

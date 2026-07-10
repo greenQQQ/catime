@@ -4189,5 +4189,43 @@
     "idea": "在一座停電中的海底研究站圓形觀測艙內，一隻紅白相間的四腳貓正用鼻尖把一條磁吸牽引帶拖向艙門，前景的巨大玻璃艙壁把牠的動作誇張拉近，形成強制透視伸手的構圖。暗黑微距花卉的視覺下，艙內一盆實驗用紅色海葵在星雲輝光般的警示燈裡泛出濕潤光澤，絨毛皮草質感與朱紅留白色調讓整個畫面像一場安靜卻緊繃的深海微觀事件。",
     "inspiration": "original",
     "comment_id": 4931321419
+  },
+  {
+    "inspiration": "original",
+    "avoid_list": [
+      "虎斑貓專注撥弄物件",
+      "四腳貓居中構圖",
+      "渺小人物尺度對比",
+      "工作台旁的安靜巡視",
+      "柔和自然或頂光照明",
+      "紙張與藍圖被前掌壓平",
+      "懷舊底片顆粒質感",
+      "強烈導引線與收斂透視",
+      "展廳或工作間的秩序感場景",
+      "金藍雙色調對比",
+      "復古故障與訊號錯位",
+      "紙質肌理與手工插畫感",
+      "俯身守護某項準備流程",
+      "溫室、廟口、洗衣店式日常空間",
+      "安靜卻帶任務感的夏日氛圍"
+    ],
+    "story": "QQQ聽見冰店後場「喀」的一聲開罐，立刻用牠那顆圓滾滾的身體滑到最涼的磁磚中央，肚子翻得四平八穩，像在宣告今天的散熱席位由牠全權接管。等罐頭被放到地上，牠便慢悠悠地伸長前掌，吃兩口就滿足得發出轟隆隆的呼嚕聲，連窗邊的霓虹反光都像在替牠打拍子。",
+    "season": "summer",
+    "prompt": "Traditional Chinese/English text visibly displayed in the scene: '2026-07-10 03:05 UTC'. A Fauvism-inspired illustration rendered as a miniature diorama, toy-like scale model, tilt-shift composition, with bold impasto brushwork, simplified forms, and high-contrast dramatic shadows. Scene: the back room of an old ice shop in summer heat, shown as a tiny detailed world on high-reflective glass/crystal-like tiled floor. Monochrome black-and-white overall, but with a nebula-like cold white sheen, soft cosmic glow, faint purple-blue starfield illumination, glowing particles, and prismatic reflections bouncing across the tiles. QQQ, a chubby round-faced classic orange mackerel tabby shorthair (#E8853A) with darker orange stripes (#C05A1A), clear dark-orange M on the forehead, one small white bib patch only, dark-orange ringed tail with darkest tip, large warm amber eyes (#E0A030), soft pink nose, sits like a rice ball and clearly lies belly-up with all four legs splayed on the cool tiles, content and goofy, half-lidded with satisfaction as if cooling off. Beside QQQ, a freshly opened can and a dripping ice cup are the visual focal points, with condensation and reflective highlights. The cat is clearly shown eating and relaxing after the can is opened, conveying a happy summer-night escape. Include subtle neon window reflections in the background, rich tonal range, crystalline clarity, no human subject in focus, cat remains a literal four-legged cat. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Fauvism",
+      "composition": "Miniature Diorama",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Glass / Crystal",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "character_name": "QQQ",
+    "number": 92,
+    "comment_id": 4931609909,
+    "is_seasonal": true,
+    "title": "冰地橘飯糰",
+    "character": "qqq",
+    "news_inspiration": [],
+    "idea": "以野獸派筆觸呈現一座老舊冰店後場的微縮立體模型場景，黑白單色中透出星雲般的冷白光澤與玻璃／水晶般的高反光磁磚。主角QQQ這隻圓潤橘貓正四肢攤開、肚子朝天躺在冰涼磁磚上散熱，旁邊一台正打開的罐頭與滴著水的冰杯成為視覺焦點，牠半瞇著琥珀大眼、尾巴帶著深色環紋，整個畫面像一個在夏夜悶熱裡偷得幸福的橘色飯糰。"
   }
 ]
