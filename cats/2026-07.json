@@ -4289,5 +4289,39 @@
     ],
     "comment_id": 4931897279,
     "number": 93
+  },
+  {
+    "inspiration": "original",
+    "story": "店主把巨大玻璃罐當作展示烘焙艙，沒想到貓鑽進去後，先蹲在溫熱的金屬底座旁，接著突然追著滾動的咖啡豆一路小跑。外頭的顧客隔著玻璃笑著拍照，而牠最後停在出口邊，滿嘴都是焦香氣，像剛完成一場認真的巡禮。",
+    "title": "玻璃罐追豆",
+    "avoid_list": [
+      "虎斑貓專注撥弄物件",
+      "四腳貓居中構圖",
+      "渺小人物尺度對比",
+      "工作台旁的安靜巡視",
+      "柔和自然或頂光照明",
+      "紙張與藍圖被前掌壓平",
+      "懷舊底片顆粒質感",
+      "強烈導引線與收斂透視",
+      "展廳或工作間的秩序感場景",
+      "金藍雙色調對比",
+      "復古故障與訊號錯位",
+      "紙質肌理與手工插畫感",
+      "俯身守護某項準備流程",
+      "溫室、廟口、洗衣店式日常空間",
+      "安靜卻帶任務感的夏日氛圍"
+    ],
+    "style_picks": {
+      "art_style": "Mosaic",
+      "composition": "Inside-the-Glass-Vessel Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Carbon Fiber",
+      "color_palette": "Earth Tones"
+    },
+    "idea": "在一間位於舊港邊的透明玻璃咖啡烘焙罐內，一隻四腳橘白貓正用鼻尖追著旋轉中的咖啡豆篩網，牠的身影被馬賽克般切割成細碎光塊；體積光穿過玻璃壁與空氣中的豆屑，落在碳纖維烘豆機與大地色系金屬管線上，形成一個既真實又陌生的Inside-the-Glass-Vessel Composition。",
+    "number": 94,
+    "prompt": "Illustration, mosaic art with small colored tiles and grouted texture, ancient Roman/Byzantine inspired surface treatment, inside-the-glass-vessel composition: a transparent giant glass coffee roasting jar in an old harbor café, refractive glass border framing a tiny contained world, a four-legged orange-and-white cat clearly visible inside, chasing a spinning coffee bean sieve with its nose, body fragmented into tiny mosaic light blocks as it moves, the cat sprinting through roasted beans toward the exit, mouth full of fragrant roast aroma, outside customers smiling and photographing through the glass. Volumetric lighting and god rays stream through the glass walls and floating coffee chaff, dust particles catching the light, dramatic depth, realistic carbon fiber weave pattern on the roaster machine, glossy clear coat finish on modern industrial metal pipes and terracotta, olive green, warm brown earth-tone equipment, natural organic harmony mixed with high-tech materials. Display the date and time exactly as visible text in the scene: “2026-07-10 05:05 UTC”, integrated on a small sign or digital label in Traditional Chinese or English only. Authentic contemporary-ancient hybrid visual style, contained miniature world, vivid but grounded lighting, cinematic composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4932187436,
+    "news_inspiration": []
   }
 ]
