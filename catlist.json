@@ -992,5 +992,16 @@
     "status": "success",
     "character_name": "花花",
     "inspiration": "original"
+  },
+  {
+    "number": 101,
+    "inspiration": "original",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-10_1205_UTC.webp",
+    "status": "success",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "夜市搗蛋記",
+    "character_name": "奧利奧",
+    "timestamp": "2026-07-10 12:05 UTC",
+    "character": "oreo"
   }
 ]
