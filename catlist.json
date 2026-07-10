@@ -971,5 +971,15 @@
     "character_name": "雪球",
     "number": 98,
     "title": "窗邊藍寶石"
+  },
+  {
+    "number": 99,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "熔脊夜影",
+    "inspiration_url": "https://www.nature.com/news/ocean-floor-witnessed-splitting-apart-for-the-first-time-releasing-lava-2026-07-08",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-10_1005_UTC.webp",
+    "timestamp": "2026-07-10 10:05 UTC",
+    "status": "success",
+    "inspiration": "科學家首次即時觀測到海底中洋脊裂開並噴出熔岩，讓人得以近距離看見新海洋地殼形成的過程。"
   }
 ]

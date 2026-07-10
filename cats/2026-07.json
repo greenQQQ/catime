@@ -4489,5 +4489,66 @@
     "title": "窗邊藍寶石",
     "comment_id": 4933809353,
     "idea": "在一間面向海港的貓咪咖啡廳窗位，雪球安靜地趴在鋪著蕾絲墊的飄窗軟墊上，正用鼻尖輕觸一台展示海洋與光影藝術展宣傳照片的平板螢幕；通透標本雕塑般的透明樹脂質感，把牠乳白長毛、海豹色重點與寶藍眼睛勾出銳利輪廓，滿版特寫中以背光/輪廓光讓蓬鬆尾巴與胸前白毛像被細緻切面包裹，整體維持莫蘭迪色調的靜謐高級感。"
+  },
+  {
+    "news_inspiration": [
+      {
+        "summary": "科學家首次即時觀測到海底中洋脊裂開並噴出熔岩，讓人得以近距離看見新海洋地殼形成的過程。",
+        "url": "https://www.nature.com/news/ocean-floor-witnessed-splitting-apart-for-the-first-time-releasing-lava-2026-07-08",
+        "source": "Nature"
+      },
+      {
+        "summary": "自然界最深處之一拍到多種新發現生物，深海探測團隊用3D雷射影像捕捉到迷人的海洋生物畫面。",
+        "url": "https://www.nature.com/articles/d41586-026-02130-2",
+        "source": "Nature"
+      },
+      {
+        "summary": "研究顯示，量子運算雖仍在早期階段，但已促使加密產業開始準備更安全的防護方案。",
+        "url": "https://ca.investing.com/news/stock-market-news/crypto-firms-prepare-defenses-as-quantum-threat-to-encryption-draws-nearer-4724687",
+        "source": "Reuters"
+      },
+      {
+        "summary": "《The Guardian》體育報導介紹挪威如何讓兒童運動更有趣，也帶來一支能擊敗巴西的足球隊。",
+        "url": "https://www.theguardian.com/theguardian/sport/news/2026/jul/08/all",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "ESports World Cup 2026 在利雅得開幕，將在夏季帶來一連串高視覺感的電競賽事。",
+        "url": "https://en.wikipedia.org/wiki/2026_Esports_World_Cup",
+        "source": "Wikipedia"
+      }
+    ],
+    "title": "熔脊夜影",
+    "style_picks": {
+      "art_style": "Dark Floral Portrait",
+      "composition": "Side Profile Portrait",
+      "lighting": "Butterfly Lighting",
+      "texture": "Frost Crystal",
+      "color_palette": "Moonlit Indigo"
+    },
+    "prompt": "Photorealistic Renaissance-influenced contemporary photography, a dark floral portrait inside a diving control capsule on the Icelandic coast, dedicated to studying submarine rift valleys; a four-legged black cat in side profile crouches beside a large observation window, clearly focused on the live screen showing molten lava imagery from the mid-ocean ridge, ears slightly forward as if listening to the Earth. Moonlit indigo dominant color scheme with deep night-blue and violet tones, cool silvery highlights, low-key lighting, butterfly lighting from above shaping a clean silhouette of the nose and chin, symmetrical shadow under the nose, delicate rim light on the whiskers and muzzle. The cat’s fur is covered with fine frost crystals and translucent ice-like texture. Dark bouquets of flowers, whitened by cold air, stand by the window like a melancholic vanitas still life, framing the scene with white daisies and baby's breath. Elegant lateral composition, subject viewed from the side, moody nocturnal atmosphere, sharp focus on the cat and screen, subtle grain, realistic reflections on glass and metal surfaces. The date and time '2026-07-10 10:05 UTC' must be visibly displayed on a monitor or panel in Traditional Chinese or English. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在一座位於冰島海岸、專門研究海底裂谷的潛水控制艙內，一隻四腳黑貓側臉蹲在大型觀測窗旁，專注盯著螢幕上即時傳回的中洋脊熔岩影像；整體以暗黑花卉肖像呈現，月夜靛藍為主調，蝴蝶光勾出牠的鼻樑與鬍鬚，毛髮上覆著細緻的冰霜結晶質感。",
+    "comment_id": 4934239125,
+    "number": 99,
+    "inspiration_url": "https://www.nature.com/news/ocean-floor-witnessed-splitting-apart-for-the-first-time-releasing-lava-2026-07-08",
+    "avoid_list": [
+      "四腳貓用前掌按住物件",
+      "貓咪專心監督工作檯",
+      "魚眼廣角誇張透視",
+      "直幅居中全身構圖",
+      "體積光穿過窗面",
+      "霓虹濕亮地面反光",
+      "微縮立體模型場景",
+      "低矮工作台與導引線",
+      "傳統日式浮世繪重構",
+      "黑金或藍金雙色調",
+      "生物發光與星雲光暈",
+      "柔和漫射自然光",
+      "牆面標牌日期時間",
+      "帶有手作紙質肌理",
+      "貓尾輕晃的專注姿態"
+    ],
+    "story": "夜班的海洋地質團隊正等待下一次海底裂開的數據，黑貓卻先一步被畫面裡翻湧的熔岩吸引，耳朵微微前傾，像在聆聽地球深處的聲音。窗邊插著幾枝被冷氣凍得發白的深色花束，讓這座控制艙看起來像一幅沉靜又危險的花園肖像。",
+    "inspiration": "科學家首次即時觀測到海底中洋脊裂開並噴出熔岩，讓人得以近距離看見新海洋地殼形成的過程。"
   }
 ]
