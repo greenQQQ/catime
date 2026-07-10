@@ -4095,5 +4095,65 @@
     "prompt": "Illustration, steampunk aesthetic with Victorian-era machinery and industrial retrofuturism, a full-body vertical portrait in a tall frame, entire figure centered, head-to-toe framing, balanced standing composition. In a coastal observatory steampunk viewing corridor, a four-legged orange-and-white cat is clearly shown pressing an unfolded star map flat with its front paws on a low worktable, while looking up at a wall-mounted navigation model made of copper pipes, brass gears, iron wire mesh, and coiled woven metal strands; the cat’s nose is not touching the map. Environmental context visible: round porthole windows, seaside observatory interior, researchers adjusting a projection in the background, a screen showing the red glow of the ‘宇宙蝙蝠星雲’. Strong volumetric lighting with visible light rays, god rays, dust particles catching light through the portholes, dramatic depth. Duotone color treatment in only two contrasting colors, gold and blue, bold graphic impact with modern design feel. Show the date and time clearly as visible text in Traditional Chinese or English: ‘2026-07-09 16:05 UTC’. The scene should feel like a quiet, strange deep-space departure. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "inspiration": "天文照片《宇宙蝙蝠星雲的紅色微光》以壯麗星空視角登上今日焦點，視覺效果相當驚艷。",
     "inspiration_url": "https://apod.nasa.gov/apod/ap260709.html"
+  },
+  {
+    "inspiration": "近24小時內一則科學報導聚焦於新發現與研究進展，帶來對宇宙與自然更深的好奇。",
+    "idea": "在一座東京地鐵車站入口旁的自動販賣機牆前，一隻四腳貓正用鼻尖追著地面上滾動的發光小球，身旁的廣告螢幕映出分割畫面：左側是星空與潮汐般流動的科學影像，右側是霓虹展覽海報。整體以錦鯉浮世繪美人風格重構現代車站景致，搭配體積光穿過玻璃棚與亮面塑膠／玩具質感，霓虹螢光色在濕亮地面上跳動。",
+    "number": 90,
+    "avoid_list": [
+      "虎斑貓專注撥弄物件",
+      "四腳貓居中構圖",
+      "渺小人物尺度對比",
+      "工作台旁的安靜巡視",
+      "柔和自然或頂光照明",
+      "紙張與藍圖被前掌壓平",
+      "懷舊底片顆粒質感",
+      "強烈導引線與收斂透視",
+      "展廳或工作間的秩序感場景",
+      "金藍雙色調對比",
+      "復古故障與訊號錯位",
+      "紙質肌理與手工插畫感",
+      "俯身守護某項準備流程",
+      "溫室、廟口、洗衣店式日常空間",
+      "安靜卻帶任務感的夏日氛圍"
+    ],
+    "story": "這隻貓每次等列車時都會來這裡追逐販賣機掉落的小圓蓋，像在破解一場只有牠懂的城市遊戲。今晚螢幕上的宇宙新發現與藝術展覽同時閃爍，牠停下來抬頭看了一眼，又立刻低頭把那顆小球撥進更亮的光裡。",
+    "style_picks": {
+      "art_style": "Koi Ukiyo-e Beauty",
+      "composition": "Split View",
+      "lighting": "Volumetric Light",
+      "texture": "Glossy Plastic / Toy",
+      "color_palette": "Neon Fluorescent"
+    },
+    "prompt": "Neo-ukiyo-e beauty illustration of a modern Tokyo subway station entrance beside a wall of vending machines, reimagined with elegant ornamental Japanese woodblock styling: flat decorative color areas, bold flowing outlines, swirling koi-and-wave motifs integrated into the architecture, and a split-view composition on the nearby advertising screen. A four-legged cat is clearly shown in the foreground, pressing its nose and paw toward a small glowing ball rolling across the wet ground, as if chasing a dropped vending-machine cap in a city game. The cat briefly glances up at the screen, then returns to nudging the ball into a brighter pool of neon light. The advertising screen shows a sharp vertical split: left half a science image of starry cosmos and tide-like flowing data imagery, right half a neon exhibition poster. Display the date and time exactly as visible text in Traditional Chinese or English: “2026-07-10 01:45 UTC”. Volumetric lighting streams through the glass canopy with visible god rays, dust particles, and dramatic depth; glossy plastic toy texture and smooth high-shine surfaces on the cat, vending machines, and station details; neon fluorescent electric pink, lime green, and hot cyan reflections dancing on the wet, mirror-like pavement. Cinematic yet illustrative, ornamental, luminous, and slightly surreal, with the modern station scene reconstructed as a refined ukiyo-e-inspired beauty illustration. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "霓光車站貓",
+    "news_inspiration": [
+      {
+        "summary": "近24小時內一則科學報導聚焦於新發現與研究進展，帶來對宇宙與自然更深的好奇。",
+        "url": null,
+        "source": "AP News"
+      },
+      {
+        "summary": "近24小時內的文化新聞呈現藝術與設計的創意交會，充滿視覺想像與展覽亮點。",
+        "url": "https://apnews.com/article/a6e5458e4c6ce7f22fe043cddedba3df",
+        "source": "AP News"
+      },
+      {
+        "summary": "近24小時內的體育消息帶來賽事、球員與國際競技的精彩看點，氛圍相當正向熱血。",
+        "url": null,
+        "source": "AP News"
+      },
+      {
+        "summary": "近24小時內的科技新聞談到科技如何走入日常與公共空間，既新奇又具未來感。",
+        "url": "https://www.reutersconnect.com/item/science-museum-brings-soccer-tech-to-world-cup-fans/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1ZBMTgzNjIzMDYyMDI2UlAx",
+        "source": "Reuters Connect"
+      },
+      {
+        "summary": "近24小時內的自然／環境相關報導以新發現或保育視角呈現世界之美，畫面感很強。",
+        "url": null,
+        "source": "Live Science"
+      }
+    ],
+    "comment_id": 4931239003
   }
 ]
