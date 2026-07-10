@@ -4155,5 +4155,39 @@
       }
     ],
     "comment_id": 4931239003
+  },
+  {
+    "news_inspiration": [],
+    "avoid_list": [
+      "虎斑貓專注撥弄物件",
+      "四腳貓居中構圖",
+      "渺小人物尺度對比",
+      "工作台旁的安靜巡視",
+      "柔和自然或頂光照明",
+      "紙張與藍圖被前掌壓平",
+      "懷舊底片顆粒質感",
+      "強烈導引線與收斂透視",
+      "展廳或工作間的秩序感場景",
+      "金藍雙色調對比",
+      "復古故障與訊號錯位",
+      "紙質肌理與手工插畫感",
+      "俯身守護某項準備流程",
+      "溫室、廟口、洗衣店式日常空間",
+      "安靜卻帶任務感的夏日氛圍"
+    ],
+    "prompt": "Illustration / digital painting, dark moody floral macro fused with deep-sea sci-fi realism: inside a powered-down circular observation dome of an underwater research station, a red-and-white four-legged cat clearly visible in the foreground uses its nose and paws to drag a magnetic tether strap toward the airlock door, the cat’s body and the strap thrust toward the camera with exaggerated forced perspective and strong foreshortening, dynamic confrontational framing. The huge glass wall in front magnifies the cat’s motion like an object reaching at the viewer, with outside ocean pressure looming against the glass. In the dim interior, a potted experimental red anemone blooms like a single flower against a deep black void, lit by flashing warning lights and nebula-like cosmic glow, with soft purple-blue starfield illumination, glowing particles, and galactic haze. Rich saturated darks, vermilion and white accents, minimalist oriental balance, crisp graphic elegance, wet glossy reflections, plush fur and soft fuzzy fibers catching the light, tactile velvety texture. Quiet but tense vanitas atmosphere, low-key dramatic lighting, moody shadows, deep blacks, bright cinnabar highlights. Display the date and time clearly somewhere in the scene as Traditional Chinese or English text: “2026-07-10 02:05 UTC”. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 91,
+    "story": "研究站的夜班剛結束，貓卻盯上了那條被放在艙門邊的牽引帶，專心用爪子和鼻尖把它一路拖過狹窄的圓艙地板。外面的海水壓在玻璃上，紅色警示燈一閃一閃，牠的尾巴偶爾掃過地面，像在為這場無聲的撤離做最後確認。",
+    "title": "深海牽引",
+    "style_picks": {
+      "art_style": "Dark Moody Floral Macro",
+      "composition": "Forced Perspective Reach",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Fur / Plush Texture",
+      "color_palette": "Vermilion and White"
+    },
+    "idea": "在一座停電中的海底研究站圓形觀測艙內，一隻紅白相間的四腳貓正用鼻尖把一條磁吸牽引帶拖向艙門，前景的巨大玻璃艙壁把牠的動作誇張拉近，形成強制透視伸手的構圖。暗黑微距花卉的視覺下，艙內一盆實驗用紅色海葵在星雲輝光般的警示燈裡泛出濕潤光澤，絨毛皮草質感與朱紅留白色調讓整個畫面像一場安靜卻緊繃的深海微觀事件。",
+    "inspiration": "original",
+    "comment_id": 4931321419
   }
 ]
