@@ -931,5 +931,16 @@
     "inspiration": "original",
     "number": 94,
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "character": "blanli",
+    "title": "樓梯間守望",
+    "character_name": "布藍里",
+    "number": 95,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-10_0605_UTC.webp",
+    "inspiration": "original",
+    "status": "success",
+    "timestamp": "2026-07-10 06:05 UTC"
   }
 ]

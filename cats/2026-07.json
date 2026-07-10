@@ -4323,5 +4323,41 @@
     "prompt": "Illustration, mosaic art with small colored tiles and grouted texture, ancient Roman/Byzantine inspired surface treatment, inside-the-glass-vessel composition: a transparent giant glass coffee roasting jar in an old harbor café, refractive glass border framing a tiny contained world, a four-legged orange-and-white cat clearly visible inside, chasing a spinning coffee bean sieve with its nose, body fragmented into tiny mosaic light blocks as it moves, the cat sprinting through roasted beans toward the exit, mouth full of fragrant roast aroma, outside customers smiling and photographing through the glass. Volumetric lighting and god rays stream through the glass walls and floating coffee chaff, dust particles catching the light, dramatic depth, realistic carbon fiber weave pattern on the roaster machine, glossy clear coat finish on modern industrial metal pipes and terracotta, olive green, warm brown earth-tone equipment, natural organic harmony mixed with high-tech materials. Display the date and time exactly as visible text in the scene: “2026-07-10 05:05 UTC”, integrated on a small sign or digital label in Traditional Chinese or English only. Authentic contemporary-ancient hybrid visual style, contained miniature world, vivid but grounded lighting, cinematic composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "comment_id": 4932187436,
     "news_inspiration": []
+  },
+  {
+    "character_name": "布藍里",
+    "story": "牠一向只在高處觀察，這次卻把目光牢牢鎖在那枚小小的發條玩具上，尾巴不自覺地繃直。等樓梯間安靜下來，布藍里才悄悄往前挪了一步，用鼻尖輕碰那個仍在顫動的小東西，像是在確認它是否值得守護。",
+    "prompt": "Illustration / fine art poster: Blanli, a slender elegant brown mackerel tabby shorthair with a warm grey-brown base coat and crisp dark brown-black mackerel stripes, a bold dark M on the forehead, almond-shaped emerald green eyes, long white whiskers, and a neat ringed tail with a black tip, crouched on the highest landing of an old apartment staircase corner, intensely staring at a tiny wind-up beetle toy slowly crawling along the wall edge; tail held straight and tense, then a subtle forward lean with the nose nearly touching the trembling toy, clearly showing a literal four-legged cat. Neo-Impressionism pointillism with tiny dabs of pure color and optical color mixing, luminous surface, systematic dot technique combined with thick impasto oil texture, raised palette-knife ridges, visible brush gestures, photorealistic central focal point, East Asian movie poster framing, vertical poster composition with a side calligraphy panel, ornamental border elements, red seal accents, multi-layered depth. Golden hour lighting, warm sunset glow, long soft shadows, golden rim light on the cat, rich tactile painterly surface. Dominant Chinese red and gold palette with auspicious vivid contrast, festive warmth. Display the date and time clearly in Traditional Chinese or English: '2026-07-10 06:05 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "布藍里蹲在老公寓樓梯轉角的最高台階上，正專注盯著一隻沿牆邊緩慢爬行的發條小甲蟲玩具；畫面以新印象派點描法呈現，搭配直式書法海報構圖、黃金時刻與厚塗油彩肌理，整體以中國紅金為主調，牠棕灰鯖魚紋短毛與翠綠杏眼在暖金光裡格外醒目。",
+    "inspiration": "original",
+    "number": 95,
+    "style_picks": {
+      "art_style": "Neo-Impressionism / Pointillism",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Golden Hour",
+      "texture": "Impasto Oil Texture",
+      "color_palette": "Festive Red and Gold"
+    },
+    "character": "blanli",
+    "title": "樓梯間守望",
+    "news_inspiration": [],
+    "avoid_list": [
+      "四腳貓用前掌按住物件",
+      "貓咪專心監督工作檯",
+      "魚眼廣角誇張透視",
+      "直幅居中全身構圖",
+      "體積光穿過窗面",
+      "霓虹濕亮地面反光",
+      "微縮立體模型場景",
+      "低矮工作台與導引線",
+      "傳統日式浮世繪重構",
+      "黑金或藍金雙色調",
+      "生物發光與星雲光暈",
+      "柔和漫射自然光",
+      "牆面標牌日期時間",
+      "帶有手作紙質肌理",
+      "貓尾輕晃的專注姿態"
+    ],
+    "comment_id": 4932495402
   }
 ]
