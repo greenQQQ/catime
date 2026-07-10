@@ -4227,5 +4227,67 @@
     "character": "qqq",
     "news_inspiration": [],
     "idea": "以野獸派筆觸呈現一座老舊冰店後場的微縮立體模型場景，黑白單色中透出星雲般的冷白光澤與玻璃／水晶般的高反光磁磚。主角QQQ這隻圓潤橘貓正四肢攤開、肚子朝天躺在冰涼磁磚上散熱，旁邊一台正打開的罐頭與滴著水的冰杯成為視覺焦點，牠半瞇著琥珀大眼、尾巴帶著深色環紋，整個畫面像一個在夏夜悶熱裡偷得幸福的橘色飯糰。"
+  },
+  {
+    "title": "冰聲貓譜",
+    "prompt": "Embroidery-style illustration on visible linen fabric, handcrafted textile art with satin stitch, French knots, and layered appliqué textures. A four-legged black cat is the clear focal point, crouched and seated in an Antarctic research station acoustic control room, gently touching a cable connected to a sampler with its nose, as if directing the audio stream. The cat sits before a row of glowing mixing knobs and luminous meters; behind it, the room is lit by bioluminescent instrument glow and neon fluorescent gauges in hot cyan, electric pink, and lime green against deep blue-green shadows. Through the window, an icy Antarctic ice field stretches outside. The walls are covered with pressed botanical layers of dried seaweed and lichen specimens, like an herbarium collage with flattened translucent textures. Use dramatic scale contrast: several distant researchers appear as tiny figures in the background, making the cat feel like the commanding operator of the scene. Include the date and time clearly displayed in the image in Traditional Chinese or English: '2026-07-10 04:05 UTC'. Composition should feel lonely, epic, and spacious, with the cat sharply emphasized in the foreground, glowing controls, organic natural textures, and a subtle sense of sound waves and low-frequency vibration moving across the desk. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Tiny Figure Scale Contrast",
+      "lighting": "Bioluminescence",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "Neon Fluorescent"
+    },
+    "story": "這隻黑貓每天都會溜進聲學室，守在來自南極與外太空的資料轉譯器旁，像是在確認每一段音訊是否準確落在節拍上。當低頻震動沿著桌面傳來，它會輕輕擺尾，盯著跳動的波形，彷彿連冰層深處的呼吸都能被它聽懂。",
+    "inspiration_url": "https://www.sciencenews.org/article/otherworldly-music-albums-feature-space-weather-data",
+    "idea": "以刺繡風格呈現一隻四腳黑貓，在南極研究站的聲學控制室裡，蹲坐在一排發光的混音旋鈕前，專注用鼻尖輕碰一根連著採樣器的線纜；窗外是冰原，室內則被生物發光的儀器光與霓虹螢光色儀表照亮，牆面上還覆著壓花植物疊層般的乾燥海藻與地衣標本。畫面以小人物對比強化空間感，幾位遠處的研究員只剩微小身影，讓貓成為最醒目的現場指揮者。",
+    "avoid_list": [
+      "虎斑貓專注撥弄物件",
+      "四腳貓居中構圖",
+      "渺小人物尺度對比",
+      "工作台旁的安靜巡視",
+      "柔和自然或頂光照明",
+      "紙張與藍圖被前掌壓平",
+      "懷舊底片顆粒質感",
+      "強烈導引線與收斂透視",
+      "展廳或工作間的秩序感場景",
+      "金藍雙色調對比",
+      "復古故障與訊號錯位",
+      "紙質肌理與手工插畫感",
+      "俯身守護某項準備流程",
+      "溫室、廟口、洗衣店式日常空間",
+      "安靜卻帶任務感的夏日氛圍"
+    ],
+    "inspiration": "一支科學與藝術團隊把南極和外太空的研究資料做成音樂，把宇宙數據變成可聽見的作品。",
+    "crossover": true,
+    "news_inspiration": [
+      {
+        "summary": "科學家透過探測器近距離拍到一顆小行星竟是兩塊連體岩石，外形像花生，畫面相當吸睛。",
+        "url": "https://www.smithsonianmag.com/smart-news/new-images-reveal-that-this-asteroid-is-actually-two-conjoined-space-rocks-they-form-a-peanut-shaped-object-called-a-contact-binary-180987466/",
+        "source": "Smithsonian Magazine"
+      },
+      {
+        "summary": "一項新 DNA 分析可能解開美第奇家族數百年懸案，甚至指出這位公爵兄弟之死或與瘧疾有關。",
+        "url": "https://www.smithsonianmag.com/smart-news/did-this-duke-poison-his-brother-a-new-dna-analysis-may-solve-the-centuries-old-medici-mystery-180987464/",
+        "source": "Smithsonian Magazine"
+      },
+      {
+        "summary": "研究人員發現，北極洋可能已跨過關鍵臨界點，這是關於氣候與海洋生態的重要新發現。",
+        "url": "https://www.smithsonianmag.com/smart-news/the-arctic-ocean-may-have-passed-a-crucial-tipping-point-that-could-harm-food-webs-and-worsen-climate-change-180987463/",
+        "source": "Smithsonian Magazine"
+      },
+      {
+        "summary": "一支科學與藝術團隊把南極和外太空的研究資料做成音樂，把宇宙數據變成可聽見的作品。",
+        "url": "https://www.sciencenews.org/article/otherworldly-music-albums-feature-space-weather-data",
+        "source": "Science News"
+      },
+      {
+        "summary": "《Nature》報導顯示，海底中脊被科學家首次實時觀測到裂開並噴出熔岩，畫面與研究都很罕見。",
+        "url": "https://www.nature.com/articles/d41586-026-02043-2",
+        "source": "Nature"
+      }
+    ],
+    "comment_id": 4931897279,
+    "number": 93
   }
 ]
