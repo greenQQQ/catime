@@ -1023,5 +1023,14 @@
     "title": "黑夜回聲",
     "inspiration_url": "https://www.livescience.com/space/black-holes/a-new-way-to-study-the-edge-of-a-black-hole-physicists-just-got-the-closest-ever-look-at-a-black-holes-event-horizon",
     "inspiration": "物理學家首次偵測到黑洞事件視界附近的全新重力波訊號，讓人更接近看見黑洞最邊緣的真實樣貌。"
+  },
+  {
+    "status": "success",
+    "title": "烘焙晨光",
+    "number": 104,
+    "timestamp": "2026-07-10 15:05 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-10_1505_UTC.webp",
+    "inspiration": "original"
   }
 ]
