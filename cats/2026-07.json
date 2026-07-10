@@ -4550,5 +4550,67 @@
     ],
     "story": "夜班的海洋地質團隊正等待下一次海底裂開的數據，黑貓卻先一步被畫面裡翻湧的熔岩吸引，耳朵微微前傾，像在聆聽地球深處的聲音。窗邊插著幾枝被冷氣凍得發白的深色花束，讓這座控制艙看起來像一幅沉靜又危險的花園肖像。",
     "inspiration": "科學家首次即時觀測到海底中洋脊裂開並噴出熔岩，讓人得以近距離看見新海洋地殼形成的過程。"
+  },
+  {
+    "character": "huahua",
+    "number": 100,
+    "style_picks": {
+      "art_style": "Psychedelic Art",
+      "composition": "Eye-Level Frontal Composition",
+      "lighting": "White Seamless Studio Light",
+      "texture": "Marble",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "character_name": "花花",
+    "avoid_list": [
+      "四腳貓前景特寫",
+      "鼻尖與前爪輕推物件",
+      "強制透視伸手構圖",
+      "分割視窗廣告螢幕",
+      "星雲般冷白光澤",
+      "體積光與神光穿透",
+      "霓虹螢光反射濕地面",
+      "微縮立體模型場景",
+      "透明玻璃／水晶容器世界",
+      "東亞海報式垂直構圖",
+      "莫蘭迪低飽和靜謐色調",
+      "花卉與深海科幻混搭",
+      "高反光亮面材質",
+      "夜班研究站控制艙",
+      "貓像在指揮儀器"
+    ],
+    "title": "茶櫃好運",
+    "comment_id": 4934673935,
+    "news_inspiration": [
+      {
+        "summary": "AP 以一張奧運金牌時刻的特寫，捕捉到運動員與親友在終點瞬間爆發的感動。",
+        "url": "https://apnews.com/article/872cd0bf6229c5c8100f3190aed79dc4",
+        "source": "The Associated Press"
+      },
+      {
+        "summary": "大都會博物館新展《Costume Art》把時尚與藝術史直接連結，展示服裝如何成為一種藝術語言。",
+        "url": "https://apnews.com/article/a6e5458e4c6ce7f22fe043cddedba3df",
+        "source": "The Associated Press"
+      },
+      {
+        "summary": "《衛報》科學版報導一艘前往北極的漂浮實驗室，將在冰封海域研究生命與氣候。",
+        "url": "https://www.theguardian.com/science/all",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "《衛報》科技版聚焦數位與社群平台的新趨勢，反映科技公司與公眾之間正在出現新的拉扯。",
+        "url": "https://www.theguardian.com/technology/technology%2Bmedia/media",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "AP 科學版也整理了多篇科技與科學內容，包含以高科技釣魚設備引發的湖畔爭論。",
+        "url": "https://www.ap.org/news-highlights/type/science/",
+        "source": "The Associated Press"
+      }
+    ],
+    "inspiration": "original",
+    "prompt": "Illustration / psychedelic art with crisp commercial clarity: a straight-on, eye-level frontal composition of Huahua, a small round calico shorthair cat with a clean white base coat, LEFT ear orange, RIGHT ear black, one orange patch above the LEFT eye, a large orange-and-black patchwork saddle on the back, orange-black ringed tail, round warm light-amber eyes, pink nose and paw pads, cheerful upright tail, shown as a literal four-legged cat. Huahua is on a polished marble tea-shop counter with natural vein patterns and cool smooth finish, carefully using her nose and front paws to arrange several sparkling candy wrappers and metal tea tags into a neat circle. Around her, a few tea shop staff and passersby smile and watch. Psychedelic swirling patterns and vibrant clashing neon colors subtly radiate through the scene, with melting distorted forms in the background, while the cat and counter remain sharply legible. White seamless studio lighting, evenly lit on a pure white cyclorama, shadowless high-key backdrop, cool blue-teal color grading with icy undertones, serene yet playful mood. Huahua looks up with warm amber eyes and a happily raised tail, as if she just found the coziest spot in the middle of the lively crowd. Clearly display the Traditional Chinese date and time text: '2026-07-10 11:05 UTC' somewhere visible in the image, integrated naturally into the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "在老街茶行的石紋櫃檯上，花花正用鼻子和前爪仔細把幾枚亮晶晶的小糖紙與金屬茶標排成一圈，周圍幾位店員與路人正笑著圍觀；整體以迷幻風格呈現，平視正面構圖，白底去背棚光讓三花毛色在冷色調藍青與大理石質感櫃檯之間格外醒目。花花抬著溫暖琥珀色圓眼，尾巴愉快翹起，像剛在熱鬧人群中央找到最舒服的位置。",
+    "story": "花花一聽見茶行門口有人聊得正熱鬧，立刻從紅磚街角輕快鑽進人群中央，結果大家一邊泡茶一邊忍不住先來摸摸牠。牠把自己珍藏的亮晶晶小東西一件件拖到櫃檯邊，最後還因為被稱讚可愛，開心地在原地轉了兩圈，把整個老街午後都轉得更有好運。"
   }
 ]
