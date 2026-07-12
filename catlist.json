@@ -1041,5 +1041,16 @@
     "number": 105,
     "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-10_1605_UTC.webp",
     "status": "success"
+  },
+  {
+    "timestamp": "2026-07-12 17:00 UTC",
+    "number": 106,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-12_1700_UTC.webp",
+    "title": "玻璃櫃搗蛋",
+    "character_name": "奧利奧",
+    "character": "oreo",
+    "inspiration": "original",
+    "status": "success"
   }
 ]
