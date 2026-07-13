@@ -5038,5 +5038,69 @@
         "source": "The Guardian"
       }
     ]
+  },
+  {
+    "inspiration": "一項分析 70,000 份研究的新研究顯示，預印本的核心結論多半在正式發表後仍維持穩定。",
+    "crossover": true,
+    "inspiration_url": "https://www.nature.com/news",
+    "style_picks": {
+      "art_style": "Smartphone Snapshot",
+      "composition": "Bird's-Eye View",
+      "lighting": "Window Light",
+      "texture": "Wireframe Overlay",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "number": 109,
+    "title": "預印本守望",
+    "character_name": "布藍里",
+    "comment_id": 4954333464,
+    "idea": "手機隨拍視角的鳥瞰畫面中，布藍里安靜地蹲坐在一間現代實驗室的玻璃書桌上，低頭用鼻尖輕碰一疊印滿標註的研究預印本，旁邊還有研究員剛放下的筆記本與咖啡杯；窗邊柔光斜灑進來，竹影翠綠的色調映在牠棕色鯖魚紋短毛上，線框透明質感像是疊在桌面與文件上的細緻結構圖。",
+    "story": "布藍里總愛待在最高、最安靜的位置，這次牠選中了書房裡最亮的一角，默默盯著那些被翻過無數次的研究稿。等人離開後，牠才用尾尖輕輕掃過紙角，像是在確認這個夜晚仍屬於自己的觀察時刻。",
+    "news_inspiration": [
+      {
+        "summary": "科學家首次即時目睹海底板塊分裂並噴出熔岩，畫面與規模都令人震撼。",
+        "url": "https://www.nature.com/articles/d41586-026-02139-7",
+        "source": "Nature"
+      },
+      {
+        "summary": "人工智慧「humanizer」工具可抹去生成文本的 AI 痕跡，凸顯學術寫作與倫理的新爭議。",
+        "url": "https://www.nature.com/articles/d41586-026-02105-3",
+        "source": "Nature"
+      },
+      {
+        "summary": "Nature 盤點 2026 年 6 月最佳深海科學影像，呈現新物種與海洋奇觀。",
+        "url": "https://www.nature.com/articles/d41586-026-02054-x",
+        "source": "Nature"
+      },
+      {
+        "summary": "科學家在實驗中更接近以幹細胞製造人類精子，可能為未來生殖醫學帶來突破。",
+        "url": "https://www.nature.com/news",
+        "source": "Nature"
+      },
+      {
+        "summary": "一項分析 70,000 份研究的新研究顯示，預印本的核心結論多半在正式發表後仍維持穩定。",
+        "url": "https://www.nature.com/news",
+        "source": "Nature"
+      }
+    ],
+    "prompt": "Photorealistic smartphone snapshot, bird’s-eye top-down view looking straight down on Blanli, a slender elegant brown mackerel tabby shorthair with a warm grey-brown coat, crisp dark mackerel stripes, bold forehead M, emerald green eyes, long white whiskers, and a black-tipped ringed tail. Blanli is quietly crouched on a glass desk in a modern laboratory study, lowering its nose to gently touch a stack of annotated research preprints; beside the papers lie a researcher’s notebook and a coffee cup just set down. Include visible Traditional Chinese text in the image: '2026-07-13 04:05 UTC' printed clearly on the desk notes or document header. Soft window light slants in from the side, with gentle directional daylight, smooth falloff into shadow, intimate still-life mood, classic Vermeer-like illumination, authentic everyday moment, casual composition, miniature world effect. A translucent wireframe overlay texture and glowing geometric mesh lines subtly trace the desk, papers, and cat form like a futuristic blueprint, layered delicately over the real scene. Color mood: bamboo jade-green, fresh emerald and malachite tones, cool verdant serenity, elegant oriental green harmony, with green window-side reflections washing over the tabby fur. Natural camera look, 35mm lens, f/2.0, shallow depth of field, subtle grain, candid real-photo feel. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "四腳貓正面特寫",
+      "鼻尖與前爪輕推",
+      "尾巴繃直警戒姿勢",
+      "黃金時刻暖金輪廓光",
+      "直式海報書法構圖",
+      "新印象派點描厚塗",
+      "莫蘭迪低飽和色調",
+      "穆夏式拱框裝飾",
+      "正交投影平面視角",
+      "淺景深近距離特寫",
+      "暮色海港／港口窗景",
+      "老公寓樓梯轉角",
+      "紙箱縫隙探險場景",
+      "白底棚拍高鍵光",
+      "霧面花卉暗黑氛圍"
+    ],
+    "character": "blanli"
   }
 ]
