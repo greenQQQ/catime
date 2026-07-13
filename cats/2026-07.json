@@ -5163,5 +5163,43 @@
     "comment_id": 4954619330,
     "story": "考古學家正在墓室外小心記錄，而這隻貓成了最意外的「協助者」，總在碎石與布條間來回巡視。牠專注地按住一角紙片，彷彿知道那些沉睡三千年的痕跡正等待被重新拼起。",
     "idea": "在埃及路克索附近一座新發現的古墓深處，一隻黑金虎斑貓正蹲在石階旁，低頭用爪子輕撥一張攤開的金箔紙折模型，像是在替考古團隊整理剛出土的封印碎片。畫面以寫實人形機器人風格呈現，淺景深特寫下，牆面的摺紙般刻紋與金黑奢華色調在蝴蝶光中清晰浮現。"
+  },
+  {
+    "news_inspiration": [],
+    "comment_id": 4954924828,
+    "inspiration": "original",
+    "character": "qqq",
+    "is_seasonal": true,
+    "prompt": "Vintage poster art illustration of QQQ, a chubby round-faced classic orange mackerel tabby shorthair with bright orange fur #E8853A, darker orange #C05A1A stripes, a clear dark-orange M marking on the forehead, one small white bib patch only on the chin and upper chest #FFFFFF, dark-orange ringed tail with the darkest tip, large round warm amber eyes #E0A030, soft pink nose, plump rice-ball silhouette, content and slightly goofy expression. QQQ is lying belly-up on the tiled floor of an old apartment kitchen, all four legs spread out, clearly cooling down after eating, relaxed and happy like a satisfied orange cat hero; show the cat clearly and prominently. Fish-eye wide-angle lens with strong barrel distortion, exaggerated foreground, 360-degree feel. Retro faded summer afternoon color palette, low contrast, nostalgic film-era warmth, washed-out vintage tones. Dappled sunlight and soft mottled shadow patterns from window blinds spill across QQQ’s round orange belly and white bib, with gilded ink outline texture, fine black brush lines edged with metallic gold, lustrous gilt contours, ornamental hand-drawn detailing. In the scene, a fridge door is half open and a can of cat food sits on the floor nearby. Add bold mid-century modern poster typography showing the text exactly: '2026-07-13 06:05 UTC' in Traditional Chinese or English only, integrated as part of the poster design. Serene, cozy, nostalgic summer kitchen atmosphere. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Vintage Poster",
+      "composition": "Fisheye Lens",
+      "lighting": "Dappled Light",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "Retro Faded Tones"
+    },
+    "avoid_list": [
+      "平視正面構圖",
+      "白底去背棚光",
+      "四腳貓直視鏡頭",
+      "鼻尖撥弄小物件",
+      "尾巴高舉的俏皮姿勢",
+      "穆夏式拱框構圖",
+      "霧面柔焦迷幻風",
+      "倫勃朗光明暗對比",
+      "玻璃容器內側構圖",
+      "線框透明質感疊加",
+      "螢光生物發光色調",
+      "高對比冷暖互補色",
+      "研究站與儀器檯面",
+      "夜市紙箱縫隙探險",
+      "日期時間文字標示"
+    ],
+    "season": "summer",
+    "number": 111,
+    "character_name": "QQQ",
+    "idea": "以復古海報風呈現的魚眼鏡頭廣角畫面中，QQQ四肢攤開躺在老公寓廚房的磁磚地板上，肚子朝天散熱，陽光從百葉窗斑駁落在牠圓滾滾的橘色肚皮與白色圍兜毛上，描金墨線勾出牠滿足到微瞇的琥珀色大眼。旁邊的冰箱門半開、罐頭放在地上，牠像剛衝來吃完一輪的幸福橘貓主角，整體色調是復古褪色色調的夏日午後。",
+    "story": "今天的廚房是QQQ認定的天堂：有罐頭、有涼涼的磁磚、還有剛好能曬到肚子的陽光。牠吃飽後發出巨大呼嚕聲，整隻貓像一顆鬆軟的橘色飯糰，安穩地躺在地上散熱，連尾巴都懶得多動一下。",
+    "title": "磁磚午睡"
   }
 ]

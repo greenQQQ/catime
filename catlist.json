@@ -1095,5 +1095,18 @@
     "inspiration_url": "https://www.cbsnews.com/world/archaeologists-uncover-3000-year-old-tomb-near-egypts-luxor/",
     "timestamp": "2026-07-13 05:05 UTC",
     "number": 110
+  },
+  {
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-13_0605_UTC.webp",
+    "season": "summer",
+    "inspiration": "original",
+    "status": "success",
+    "timestamp": "2026-07-13 06:05 UTC",
+    "character": "qqq",
+    "number": 111,
+    "character_name": "QQQ",
+    "is_seasonal": true,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "title": "磁磚午睡"
   }
 ]
