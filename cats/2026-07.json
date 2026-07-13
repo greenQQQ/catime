@@ -5393,5 +5393,66 @@
       }
     ],
     "title": "窗邊雲影"
+  },
+  {
+    "news_inspiration": [
+      {
+        "summary": "西班牙科學家宣佈發現一顆像棉花糖般鬆軟、密度極低的「超輕」系外行星，讓天文學家能更細看行星如何形成。",
+        "url": "https://apnews.com/article/f0c0f0e4f6f44b3c8c2b1e9d8c9f4d1a",
+        "source": "Associated Press"
+      },
+      {
+        "summary": "邁阿密海灘打造的水下雕塑公園正把 22 輛車沉入海底，結合藝術與珊瑚復育，畫面很吸睛也很環保。",
+        "url": "https://apnews.com/article/bff00fedee83c8686b189ed56fabd40d",
+        "source": "Associated Press"
+      },
+      {
+        "summary": "2026 世界盃在北美的開幕儀式將首度在三個主辦國同步舉行，試圖用音樂與文化展現跨國合作的氣勢。",
+        "url": "https://apnews.com/article/0dd9cf253252861914d876a9e7521faa",
+        "source": "Associated Press"
+      },
+      {
+        "summary": "AP 報導韓國科技圈出現以 AI 製作逝者短影音的新創服務，引發外界對科技、記憶與哀悼方式的好奇。",
+        "url": "https://central.newschannelnebraska.com/story/321001708/ap-technology-summarybrief-at-1259-am-edt",
+        "source": "AP"
+      },
+      {
+        "summary": "AP 圖輯回顧六月世界各地精彩瞬間，從震撼影像到日常小景，呈現出一份具視覺衝擊力的國際週記。",
+        "url": "https://www.ap.org/news-highlights/spotlights/2026/week-in-pictures-80/",
+        "source": "Associated Press"
+      }
+    ],
+    "story": "工作人員正把一輛車緩緩沉入海底，準備成為珊瑚復育的雕塑之一，而這隻貓卻把整個碼頭當成自己的跑道。牠一次次追著球衝刺、急煞、轉身，像在替這場藝術與環保工程按下最生動的節拍。",
+    "avoid_list": [
+      "橘白貓主角",
+      "前腳輕按物件",
+      "斜向對角構圖",
+      "東京地下鐵維修場景",
+      "透明玻璃容器視角",
+      "復古褪色低飽和",
+      "藍綠生物發光",
+      "柔光全景寫實",
+      "百葉窗條紋光",
+      "近距離桌面特寫",
+      "細密裝飾插畫",
+      "螢光紫藍車廂",
+      "工作檯與儀器道具",
+      "安靜專注神情",
+      "玻璃反射與透明質感"
+    ],
+    "title": "海岸旋步",
+    "prompt": "Realistic photography, candid action shot at the entrance pier of Miami Beach underwater sculpture park: a black-and-white cat sprinting after a rolling lifebuoy ball along a wooden boardwalk, captured mid-leap, landing, and tail-swish like dance movement photography. Low-angle 35mm lens, f/2.0, shallow depth of field, harsh direct on-camera flash, sharp crisp reflections on the water, blown-out highlights and hard shadows, raw snapshot feel, frozen motion, expressive gesture and line, kinetic energy. Spiral vortex composition with a centered vanishing point pulling in nearby divers, a car being slowly suspended for submersion, and weathered wood railing with visible grain, knots, and warm tactile texture. Teal-and-orange cinematic grading, cool blue-green shadows against warm tones, punchy balanced contrast, blockbuster film look. Include clearly visible text in Traditional Chinese or English reading: \"2026-07-13 11:05 UTC\". IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "邁阿密海灘打造的水下雕塑公園正把 22 輛車沉入海底，結合藝術與珊瑚復育，畫面很吸睛也很環保。",
+    "idea": "在邁阿密海灘的水下雕塑公園入口碼頭，一隻黑白花貓正追著一顆滾動的救生球沿著木棧道飛奔，海面反光被閃光燈直打得銳利而乾脆，畫面以舞蹈肢體攝影捕捉牠騰躍、落地、甩尾的瞬間，螺旋漩渦構圖把周圍潛水員、吊掛中的車體與木紋欄杆一起捲進青橙電影調之中。",
+    "style_picks": {
+      "art_style": "Dance Movement Photography",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Direct Flash",
+      "texture": "Wood Grain",
+      "color_palette": "Teal and Orange"
+    },
+    "number": 116,
+    "comment_id": 4957312160,
+    "inspiration_url": "https://apnews.com/article/bff00fedee83c8686b189ed56fabd40d"
   }
 ]
