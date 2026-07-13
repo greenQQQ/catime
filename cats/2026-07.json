@@ -5671,5 +5671,39 @@
       }
     ],
     "comment_id": 4959425198
+  },
+  {
+    "number": 121,
+    "avoid_list": [
+      "淺景深近距離特寫",
+      "貓咪作為主角焦點",
+      "蝴蝶光與對稱陰影",
+      "復古海報風格",
+      "魚眼廣角誇張透視",
+      "黑金奢華配色",
+      "寫實照片感結合插畫",
+      "背景人物柔焦陪襯",
+      "貓用前掌整理紙張",
+      "日落邊緣輪廓光",
+      "霓虹黑光紫藍光暈",
+      "海邊／港口場景",
+      "俯視或低角度構圖",
+      "金箔紙張與亮片元素",
+      "膠片懷舊褪色質感"
+    ],
+    "idea": "賽博龐克風格的東京地下自動販賣機維修走廊裡，一隻虎斑貓蹲在打開的維修箱旁，用鼻尖和前爪細看散落的螺絲與纜線，旁邊的玻璃地面映出月夜靛藍的鏡面水反射。畫面採服裝多視角展示般的構圖，把貓、工具包、警示燈與牆面廣告在同一空間中分層呈現，並以三點打光清楚勾勒牠專注的身形。",
+    "style_picks": {
+      "art_style": "Cyberpunk",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Three-Point Lighting",
+      "texture": "Mirror Water Reflection",
+      "color_palette": "Moonlit Indigo"
+    },
+    "comment_id": 4960041910,
+    "story": "夜班技師剛離開，虎斑貓就溜到維修箱邊，像在巡查這條走廊的秘密。牠用爪子輕碰一枚掉落的螺絲，水窪裡的倒影跟著晃動，整個站台只剩風扇聲和遠處列車進站前的低鳴。",
+    "news_inspiration": [],
+    "prompt": "Cyberpunk illustration, Tokyo underground vending machine maintenance corridor at night, a tabby cat crouching beside an open maintenance box and carefully inspecting scattered screws and cables with its nose and front paws, clearly showing the cat’s focused action. Compose the scene like a fashion design sheet / multi-view product showcase layout: layered spatial arrangement with the cat, tool bag, warning light, wall advertisements, and corridor elements separated in the same frame, with front-view clarity, side-view depth, and detail close-up feel in organized panels. Include a glass floor reflecting moonlit indigo mirror water, a serene mirrored surface with subtle ripples and a symmetrical inverted image. Classic three-point lighting: strong key light with soft shadows, gentle fill light, and subtle rim light outlining the cat’s silhouette. Color mood in dark dreamy blue dominance with deep night-blue, violet tones, cool silvery highlights, neon signage, holographic accents, and a mysterious nocturnal atmosphere. The maintenance corridor should feel dystopian and rain-washed, with glowing signage, vending machine panels, exposed wiring, and distant platform ambiance. Visually display the exact date and time text: “2026-07-13 16:05 UTC” in Traditional Chinese or English signage style, integrated clearly into the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "月夜維修站",
+    "inspiration": "original"
   }
 ]
