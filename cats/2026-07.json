@@ -5454,5 +5454,67 @@
     "number": 116,
     "comment_id": 4957312160,
     "inspiration_url": "https://apnews.com/article/bff00fedee83c8686b189ed56fabd40d"
+  },
+  {
+    "character": "huahua",
+    "title": "紅磚拾光",
+    "prompt": "Illustration / fine-art print in a cross-processing retro vintage style with experimental color shifts and unpredictable color cast, dramatic high-contrast intensity, crimson-and-black dominant tones, backlighting with a glowing rim light. A small round calico shorthair cat named Huahua is the clear subject, four-legged and literal, on the red brick step at the entrance of an old street grocery shop. Huahua has a clean white base coat, LEFT ear orange, RIGHT ear black, a single orange patch above the LEFT eye, a large orange-and-black patchwork saddle across the back, orange-black ringed tail, mostly white legs and belly, warm light-amber eyes, pink nose and paw pads, cheerful upright tail and bright scatterbrained expression. Huahua is actively carrying fallen shiny silver candy wrappers one by one in its mouth into a paper-box nest behind it. Show a lively evening old-street atmosphere with a few smiling bystanders and flower-market aunties in the background, but keep Huahua dominant. Composition: off-center placement, small subject in expansive empty negative space, calm uncluttered framing, large blank sky/air area behind the cat, silhouette edges lit by the sunset. Add whimsical cotton-candy cloud texture in the open sky area, softly marshmallow-like pastel pink and blue cumulus forms, while the overall scene remains deep blood-red against jet black with surreal unconventional hues. Include the date and time clearly visible in Traditional Chinese or English text somewhere in the image: '2026-07-13 12:05 UTC'. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 117,
+    "comment_id": 4957781862,
+    "story": "傍晚的老街剛熱鬧起來，店家、路人和隔壁花市的阿姨都被花花吸引，圍在雜貨店門口笑著看牠把小亮片藏寶似地搬運回窩。牠一聽見有人誇可愛，尾巴就開心得翹高，原地轉了兩圈，彷彿整條街的好運都跟著牠的腳步一起轉了起來。",
+    "avoid_list": [
+      "橘白貓主角",
+      "前腳輕按物件",
+      "斜向對角構圖",
+      "東京地下鐵維修場景",
+      "透明玻璃容器視角",
+      "復古褪色低飽和",
+      "藍綠生物發光",
+      "柔光全景寫實",
+      "百葉窗條紋光",
+      "近距離桌面特寫",
+      "細密裝飾插畫",
+      "螢光紫藍車廂",
+      "工作檯與儀器道具",
+      "安靜專注神情",
+      "玻璃反射與透明質感"
+    ],
+    "news_inspiration": [
+      {
+        "summary": "科學家讓幹細胞在小鼠腎囊中發育出未成熟人類精子，朝不孕症治療邁出一步。",
+        "url": "https://www.nature.com/articles/d41586-026-02172-6",
+        "source": "Nature"
+      },
+      {
+        "summary": "研究顯示，7萬篇生醫預印本的核心結論大多在正式發表後仍維持不變，為預印本可信度帶來新觀點。",
+        "url": "https://www.nature.com/articles/d41586-026-02167-3",
+        "source": "Nature"
+      },
+      {
+        "summary": "基因編輯公司正把焦點擴展到表觀基因組，嘗試以新路徑治療疾病。",
+        "url": "https://www.nature.com/articles/d41586-026-01976-w",
+        "source": "Nature"
+      },
+      {
+        "summary": "來自潘普洛納街頭的「奔牛節」照片集，呈現西班牙夏季最具視覺衝擊的傳統活動。",
+        "url": "https://www.reutersconnect.com/collection/running-with-the-bulls-scenes-from-the-streets-of-pamplona/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDM1BLRzAwMDEwNzE1OQ",
+        "source": "Reuters Connect"
+      },
+      {
+        "summary": "紐約港湧入滿載風帆的高桅帆船，慶祝 America 250，畫面壯觀而具節慶感。",
+        "url": "https://www.reutersconnect.com/collection/parade-of-tall-ships-sail-into-new-york-to-celebrate-america-250/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDM1BLRzAwMDEwNzEzMQ",
+        "source": "Reuters Connect"
+      }
+    ],
+    "character_name": "花花",
+    "inspiration": "original",
+    "idea": "花花在老街雜貨店門口的紅磚階上，忙著把攤位旁掉落的亮銀糖紙一張張叼進自己身後的紙箱窩裡；牠白底三花毛色在緋紅與黑色的交叉沖洗質感裡格外鮮明，背後大片留白讓夕陽的輪廓光把牠圓潤的身影勾得發亮。",
+    "style_picks": {
+      "art_style": "Cross Processing",
+      "composition": "Negative Space Composition",
+      "lighting": "Backlighting / Rim Light",
+      "texture": "Cotton Candy Clouds",
+      "color_palette": "Crimson and Black"
+    }
   }
 ]
