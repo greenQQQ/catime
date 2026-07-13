@@ -5201,5 +5201,39 @@
     "idea": "以復古海報風呈現的魚眼鏡頭廣角畫面中，QQQ四肢攤開躺在老公寓廚房的磁磚地板上，肚子朝天散熱，陽光從百葉窗斑駁落在牠圓滾滾的橘色肚皮與白色圍兜毛上，描金墨線勾出牠滿足到微瞇的琥珀色大眼。旁邊的冰箱門半開、罐頭放在地上，牠像剛衝來吃完一輪的幸福橘貓主角，整體色調是復古褪色色調的夏日午後。",
     "story": "今天的廚房是QQQ認定的天堂：有罐頭、有涼涼的磁磚、還有剛好能曬到肚子的陽光。牠吃飽後發出巨大呼嚕聲，整隻貓像一顆鬆軟的橘色飯糰，安穩地躺在地上散熱，連尾巴都懶得多動一下。",
     "title": "磁磚午睡"
+  },
+  {
+    "idea": "以貢德畫風的細密圖樣重新詮釋一座粉彩色系的海邊溫室走道，低角度的引導線從濕亮的石板一路延伸到盡頭的窗邊工作桌，貓咪正專注地用前掌把掉落的番茄苗扶回花盆裡，身上沾著晶亮水珠，在高調明亮光下顯得清澈又真實。整個場景保持寫實攝影感，柔和卻不失細節，背景有幾位園丁正忙著搬運灑水壺與木箱。",
+    "prompt": "Illustration / art, inspired by Gond painting with intricate dot-and-line patterns and nature-inspired motifs, but rendered as a realistic-looking scene with soft painted detail: a pastel seaside greenhouse walkway at dawn, low-angle leading lines from wet glossy stone slabs guiding the eye toward a window-side worktable at the far end, converging perspective, strong directional depth. A gray-white cat is clearly visible in the foreground, crouched on the stone path and using its front paw to carefully push a fallen tomato seedling back into its pot, tiny sparkling water droplets clinging to its fur and whiskers, fresh wet sheen, hydrated luminous detail. High-key bright morning light, airy overexposed feel, soft even illumination, minimal shadows, clean luminous atmosphere, dreamy pastel tones of gentle pink, lavender, mint, and baby blue. In the background, several gardeners carry watering cans and wooden crates, slightly softer focus but still readable. Display the text “2026-07-13 07:05 UTC” clearly somewhere in the image, in English or Traditional Chinese, as part of a sign or label. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "comment_id": 4955358638,
+    "title": "溫室晨工",
+    "story": "清晨的海風穿過溫室，讓每片葉子都帶著細小水珠。那隻灰白貓蹲在石板路中央，安靜地用爪子幫忙整理翻倒的苗盆，像是早已熟悉這裡的節奏。園丁們笑著放慢腳步，讓牠在陽光最亮的地方繼續完成自己的小任務。",
+    "avoid_list": [
+      "平視正面構圖",
+      "白底去背棚光",
+      "四腳貓直視鏡頭",
+      "鼻尖撥弄小物件",
+      "尾巴高舉的俏皮姿勢",
+      "穆夏式拱框構圖",
+      "霧面柔焦迷幻風",
+      "倫勃朗光明暗對比",
+      "玻璃容器內側構圖",
+      "線框透明質感疊加",
+      "螢光生物發光色調",
+      "高對比冷暖互補色",
+      "研究站與儀器檯面",
+      "夜市紙箱縫隙探險",
+      "日期時間文字標示"
+    ],
+    "number": 112,
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Leading Lines Composition",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Pastel Colors"
+    },
+    "inspiration": "original"
   }
 ]
