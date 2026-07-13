@@ -1085,5 +1085,15 @@
     "status": "success",
     "character": "blanli",
     "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-13_0405_UTC.webp"
+  },
+  {
+    "title": "金墓守影",
+    "status": "success",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-13_0505_UTC.webp",
+    "inspiration": "考古學家在埃及路克索附近發現一座約3000年的墓葬，為古埃及歷史研究帶來新線索。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration_url": "https://www.cbsnews.com/world/archaeologists-uncover-3000-year-old-tomb-near-egypts-luxor/",
+    "timestamp": "2026-07-13 05:05 UTC",
+    "number": 110
   }
 ]

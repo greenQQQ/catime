@@ -5102,5 +5102,66 @@
       "霧面花卉暗黑氛圍"
     ],
     "character": "blanli"
+  },
+  {
+    "style_picks": {
+      "art_style": "Photorealistic Sci-Fi Robot Concept",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Butterfly Lighting",
+      "texture": "Origami",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "avoid_list": [
+      "平視正面構圖",
+      "白底去背棚光",
+      "四腳貓直視鏡頭",
+      "鼻尖撥弄小物件",
+      "尾巴高舉的俏皮姿勢",
+      "穆夏式拱框構圖",
+      "霧面柔焦迷幻風",
+      "倫勃朗光明暗對比",
+      "玻璃容器內側構圖",
+      "線框透明質感疊加",
+      "螢光生物發光色調",
+      "高對比冷暖互補色",
+      "研究站與儀器檯面",
+      "夜市紙箱縫隙探險",
+      "日期時間文字標示"
+    ],
+    "inspiration": "考古學家在埃及路克索附近發現一座約3000年的墓葬，為古埃及歷史研究帶來新線索。",
+    "inspiration_url": "https://www.cbsnews.com/world/archaeologists-uncover-3000-year-old-tomb-near-egypts-luxor/",
+    "prompt": "Photorealistic sci-fi concept art, humanoid-robot cinematic realism, a black-and-gold tabby cat crouched beside stone steps deep inside a newly discovered tomb near Luxor, Egypt, clearly using one paw to gently sort and press a spread-out gold foil origami fragment as if helping an archaeological team reconstruct broken seal pieces; the cat is the unmistakable focal subject, sharp and detailed. Near-object intimate close-up, shallow depth of field, creamy blurred background, soft bokeh, butterfly lighting with overhead key light, symmetrical shadow under the nose, glamorous cinematic studio lighting. Luxurious black and metallic gold color scheme, opulent mood, deep shadowed tomb interior, tactile stone texture, folded-paper relief carvings on the walls like origami creases, clean geometric folds, paper sculpture aesthetic. The archaeologist team is only faintly visible outside the chamber in the background taking notes. Display the date and time clearly in the image as Traditional Chinese text: 「2026-07-13 05:05 UTC」, integrated on a small excavation label or digital field tag. Blockbuster VFX quality, hard-surface detail, realistic materials, crisp focus on the cat and gold paper fragment. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [
+      {
+        "summary": "考古學家在埃及路克索附近發現一座約3000年的墓葬，為古埃及歷史研究帶來新線索。",
+        "url": "https://www.cbsnews.com/world/archaeologists-uncover-3000-year-old-tomb-near-egypts-luxor/",
+        "source": "CBS News"
+      },
+      {
+        "summary": "Nature 報導人類胚胎幹細胞培養出更接近成熟的精子細胞，讓生育醫學出現令人好奇的新突破。",
+        "url": "https://www.nature.com/articles/d41586-026-02157-5",
+        "source": "Nature"
+      },
+      {
+        "summary": "Nature 介紹科學家在海底中脊首次即時觀測到地殼分裂與熔岩噴發，畫面與研究都很震撼。",
+        "url": "https://www.nature.com/articles/d41586-026-02201-4",
+        "source": "Nature"
+      },
+      {
+        "summary": "ABC News 報導一位花農在世界社群媒體日分享創業故事，顯示社群平台如何讓小型夢想被更多人看見。",
+        "url": "https://abcnews.com/news/inside-the-life-of-a-florist-who-learned-the-power-of-social-media",
+        "source": "ABC News"
+      },
+      {
+        "summary": "CNA 的視覺故事呈現挪威球迷用維京風格為 2026 世界盃加油，兼具運動熱情與強烈畫面感。",
+        "url": "https://www.channelnewsasia.com/visual-stories/norwegian-fans-bring-viking-energy-world-cup-2026-5012341",
+        "source": "CNA"
+      }
+    ],
+    "number": 110,
+    "title": "金墓守影",
+    "comment_id": 4954619330,
+    "story": "考古學家正在墓室外小心記錄，而這隻貓成了最意外的「協助者」，總在碎石與布條間來回巡視。牠專注地按住一角紙片，彷彿知道那些沉睡三千年的痕跡正等待被重新拼起。",
+    "idea": "在埃及路克索附近一座新發現的古墓深處，一隻黑金虎斑貓正蹲在石階旁，低頭用爪子輕撥一張攤開的金箔紙折模型，像是在替考古團隊整理剛出土的封印碎片。畫面以寫實人形機器人風格呈現，淺景深特寫下，牆面的摺紙般刻紋與金黑奢華色調在蝴蝶光中清晰浮現。"
   }
 ]
