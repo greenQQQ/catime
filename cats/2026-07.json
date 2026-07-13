@@ -5550,5 +5550,66 @@
     },
     "number": 118,
     "inspiration": "original"
+  },
+  {
+    "inspiration_url": "https://www.nature.com/news?error=cookies_not_supported&code=9094dcb4-5e01-4320-81fb-ce4d920c0c05",
+    "number": 119,
+    "comment_id": 4958864506,
+    "story": "今天的潮聲異常低沉，研究員們在遠處記錄海底裂谷擴張的最後一道熱浪，而那隻貓卻對飄動的旗繩與滾落的熔岩石更感興趣，沿著平台邊緣敏捷追跑。當海面蒸氣散開，牠停在一塊溫熱的岩石旁回頭張望，彷彿也在看這場剛剛誕生的地貌變化。",
+    "style_picks": {
+      "art_style": "Suminagashi",
+      "composition": "Handscroll Panoramic Layout",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Impasto Oil Texture",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "idea": "在一座臨海的熔岩觀測台階上，一隻黑白貓正追逐被海風捲起的標記旗繩，腳邊是剛從海底裂谷噴出的黑色玄武岩碎屑與鹽白浪花；畫面以墨流感的長卷全景展開，朱紅與描金在硬光日照下撞出厚塗油彩肌理，像一條沿岸延伸的震撼紀錄。",
+    "prompt": "A continuous panoramic handscroll illustration in Japanese sumi-e inspired marbling and impasto oil painting, showing a seaside lava observation platform along a volcanic coast. Oblique bird’s-eye angle, extreme wide composition, multiple focal points spread horizontally, and a right-to-left reading flow across layered foreground, middleground, and background. In the foreground, a black-and-white cat is actively chasing a flag rope whipped by the sea wind, paws mid-run along the platform edge; nearby lie freshly erupted black basalt fragments and salt-white spray from a sea trench fissure. In the middleground, steaming rocks, heat haze, and research staff in the distance document the last wave of the submarine rift expansion. In the background, the ocean and coastal cliffs recede into a dramatic narrative landscape. Display the date and time clearly and legibly in Traditional Chinese or English: \"2026-07-13 14:05 UTC\". Harsh midday sunlight, hard-edged shadows, strong directional light, high contrast natural daylight. Vermilion and gilt palette with refined cinnabar red, metallic gold outlines, elegant lacquer-like richness, thick palette-knife strokes, visible brush gestures, raised paint ridges, tactile painterly surface, gritty realism, continuous panoramic narrative, meditative marbled ink patterns, and a震撼紀錄感 along the coastline. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "橘白貓主角",
+      "前腳輕按物件",
+      "斜向對角構圖",
+      "東京地下鐵維修場景",
+      "透明玻璃容器視角",
+      "復古褪色低飽和",
+      "藍綠生物發光",
+      "柔光全景寫實",
+      "百葉窗條紋光",
+      "近距離桌面特寫",
+      "細密裝飾插畫",
+      "螢光紫藍車廂",
+      "工作檯與儀器道具",
+      "安靜專注神情",
+      "玻璃反射與透明質感"
+    ],
+    "inspiration": "Nature報導科學家首次直接觀測到海底裂谷擴張並噴出熔岩，畫面與過程都相當震撼。",
+    "news_inspiration": [
+      {
+        "summary": "Nature刊出最新文章介紹AI科學工具如何協助研究者選擇適合實驗室的模型。",
+        "url": "https://www.nature.com/news?error=cookies_not_supported&code=9094dcb4-5e01-4320-81fb-ce4d920c0c05",
+        "source": "Nature"
+      },
+      {
+        "summary": "Nature報導科學家首次直接觀測到海底裂谷擴張並噴出熔岩，畫面與過程都相當震撼。",
+        "url": "https://www.nature.com/news?error=cookies_not_supported&code=9094dcb4-5e01-4320-81fb-ce4d920c0c05",
+        "source": "Nature"
+      },
+      {
+        "summary": "Nature最新科學圖片輯展示了六月在深海與新物種探索中拍攝到的奇特生物影像。",
+        "url": "https://www.nature.com/immersive/d41586-026-02087-2/index.html?error=cookies_not_supported&code=70838ee2-a217-466d-96b5-e88d22671ca3",
+        "source": "Nature"
+      },
+      {
+        "summary": "Positive News整理本週好消息，提到美國東北部森林大規模復育，堪稱全球最驚人的森林回復之一。",
+        "url": "https://www.positive.news/society/good-news-stories-from-week-28-of-2026/",
+        "source": "Positive News"
+      },
+      {
+        "summary": "Smithsonian雜誌的藝術文化版面持續更新，聚焦流行文化與文化現象的精彩故事。",
+        "url": "https://www.smithsonianmag.com/category/arts-culture/?page=1",
+        "source": "Smithsonian Magazine"
+      }
+    ],
+    "title": "熔岸追影"
   }
 ]
