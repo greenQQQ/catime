@@ -5296,5 +5296,39 @@
       "夜市紙箱縫隙探險",
       "日期時間文字標示"
     ]
+  },
+  {
+    "number": 114,
+    "prompt": "Retro shoujo manga illustration with nostalgic 1970s–80s girls’-comic styling: a four-legged orange-and-white cat in a Tokyo subway car by the vending machine corner, carefully pinning scattered plastic card holders and transit tickets with its front paws as if organizing a commuter’s lost pass; the cat clearly shown doing this task, while a nearby office worker crouches and reaches out. Diagonal composition, tilted framing, slanted corridor lines, energetic off-axis motion, dynamic visual flow. Blacklight UV illumination washes the train interior signs and edges in soft glowing purple-blue, fluorescent pigments gleam on a dark background, with warm amber reflections from platform lights in the window. Delicate screentone, expressive big eyes, subtle floral manga accents, nostalgic vintage texture. Seat surfaces feature a discreet carbon-fiber weave pattern with glossy clear-coat finish and modern industrial feel. Visible text in Traditional Chinese or English only, including a clearly displayed timestamp: 2026-07-13 09:05 UTC. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "story": "列車進站時，黑光把車廂裡的標示邊緣刷成柔亮的紫藍，貓咪卻只盯著地上的卡片，時不時低頭用鼻尖輕推，像在確認每一張都屬於某個匆忙的人。旁邊的上班族蹲下來伸手，它卻先把一張票券壓好，尾巴平穩地掃過地面，整個車廂都安靜地看著這場小小的秩序重整。",
+    "comment_id": 4956296914,
+    "avoid_list": [
+      "平視正面構圖",
+      "白底去背棚光",
+      "四腳貓直視鏡頭",
+      "鼻尖撥弄小物件",
+      "尾巴高舉的俏皮姿勢",
+      "穆夏式拱框構圖",
+      "霧面柔焦迷幻風",
+      "倫勃朗光明暗對比",
+      "玻璃容器內側構圖",
+      "線框透明質感疊加",
+      "螢光生物發光色調",
+      "高對比冷暖互補色",
+      "研究站與儀器檯面",
+      "夜市紙箱縫隙探險",
+      "日期時間文字標示"
+    ],
+    "title": "月台拾卡貓",
+    "style_picks": {
+      "art_style": "Retro Shoujo Manga Illustration",
+      "composition": "Diagonal Composition",
+      "lighting": "Blacklight / UV Glow",
+      "texture": "Carbon Fiber",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "idea": "復古少女漫畫插畫風格的黑光螢光場景：一隻四腳橘白貓在東京地下鐵的自動販賣機角落，沿著斜向構圖的走道，專心用前掌按住散落的塑膠卡套與票券，像在替主人整理遺失的通勤證件；車窗反射出暖琥珀色月台燈，座椅表面帶著低調的碳纖維紋理。",
+    "news_inspiration": []
   }
 ]
