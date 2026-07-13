@@ -1117,5 +1117,15 @@
     "title": "溫室晨工",
     "inspiration": "original",
     "status": "success"
+  },
+  {
+    "inspiration_url": "https://www.nature.com/articles/d41586-026-02136-w",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-13_0805_UTC.webp",
+    "number": 113,
+    "status": "success",
+    "title": "陽台香草圖",
+    "timestamp": "2026-07-13 08:05 UTC",
+    "inspiration": "美國出現可用貓薄荷油製成、效果接近 DEET 的驅蚊乳液，兼具趣味與實用性。"
   }
 ]

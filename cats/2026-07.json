@@ -5235,5 +5235,66 @@
       "color_palette": "Pastel Colors"
     },
     "inspiration": "original"
+  },
+  {
+    "comment_id": 4955788938,
+    "number": 113,
+    "inspiration": "美國出現可用貓薄荷油製成、效果接近 DEET 的驅蚊乳液，兼具趣味與實用性。",
+    "story": "午後風從玻璃拉門縫隙吹進來，桌上幾盆薄荷與迷迭香微微晃動，貓卻一動不動盯著那張被壓住的地圖。主人剛把驅蚊乳液放進藤籃，貓便伸爪輕碰瓶身旁的紙角，像在確認今晚的陽台花園是否安全又安靜。",
+    "style_picks": {
+      "art_style": "Oriental Floral Still Life",
+      "composition": "Isometric Photography",
+      "lighting": "Butterfly Lighting",
+      "texture": "Liquid Metal",
+      "color_palette": "Morandi Color Palette"
+    },
+    "inspiration_url": "https://www.nature.com/articles/d41586-026-02136-w",
+    "prompt": "Real captured photograph of an oriental floral still life in a Tokyo old apartment balcony greenhouse, perfectly isometric overhead angle, no miniature effect, 35mm lens, f/4, natural soft overhead key light with butterfly lighting, even illumination and gentle symmetrical shadows, realistic candid photo. Meticulous arrangement of potted herbs, pruning shears, muddy ceramic saucers, a reflective watering can with liquid-metal mercury-like surface and chrome dripping texture, Morandi muted color palette with desaturated soft pastels and dusty grey undertones, quiet elegance. A four-legged orange cat is clearly visible, carefully pressing a hand-drawn map down with its front paw on the corner of a wooden table, as if helping plan the next herb placement; the cat is also lightly touching the edge of the paper near a mosquito-repellent lotion bottle in a wicker basket, alert and focused, looking at the pinned map. Afternoon breeze subtly moving mint and rosemary near a glass sliding door. Include the date and time visibly in the image as readable text in Traditional Chinese or English: \"2026-07-13 08:05 UTC\". Oriental floral still life, refined decorative arrangement, gongbi-fine botanical detail translated into realistic photographic detail, soft morning-like glow, symmetrical composition, serene balcony garden atmosphere. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "title": "陽台香草圖",
+    "news_inspiration": [
+      {
+        "summary": "科學家首次即時觀測到海底板塊分裂並釋放大量熔岩，畫面與規模都十分震撼。",
+        "url": "https://www.nature.com/articles/d41586-026-02139-7",
+        "source": "Nature"
+      },
+      {
+        "summary": "研究團隊成功把幹細胞培養成接近可用的精子，生殖醫學再向前邁進一步。",
+        "url": "https://www.nature.com/articles/d41586-026-02172-6",
+        "source": "Nature"
+      },
+      {
+        "summary": "中國一些工程博士改以產品或技術成果畢業，呈現學術與產業結合的新路徑。",
+        "url": "https://www.nature.com/articles/d41586-026-01242-z",
+        "source": "Nature"
+      },
+      {
+        "summary": "美國出現可用貓薄荷油製成、效果接近 DEET 的驅蚊乳液，兼具趣味與實用性。",
+        "url": "https://www.nature.com/articles/d41586-026-02136-w",
+        "source": "Nature"
+      },
+      {
+        "summary": "研究者在大尺度宇宙結構中偵測到各向異性訊號，帶來令人著迷的新宇宙學線索。",
+        "url": "https://www.nature.com/articles/s41586-026-10785-0",
+        "source": "Nature"
+      }
+    ],
+    "idea": "以東方花卉靜物的細緻視覺語感呈現一間東京老公寓的陽台溫室，等距攝影俯視整齊的盆栽、剪枝鉗與沾著泥的陶盤，蝴蝶光從上方柔亮地落在莫蘭迪色的葉片與液態金屬般反光的噴壺上。一隻四腳橘貓正專注地用前掌把一張手繪地圖按在木桌角落，像是在幫忙規劃下一盆香草的擺位。",
+    "avoid_list": [
+      "平視正面構圖",
+      "白底去背棚光",
+      "四腳貓直視鏡頭",
+      "鼻尖撥弄小物件",
+      "尾巴高舉的俏皮姿勢",
+      "穆夏式拱框構圖",
+      "霧面柔焦迷幻風",
+      "倫勃朗光明暗對比",
+      "玻璃容器內側構圖",
+      "線框透明質感疊加",
+      "螢光生物發光色調",
+      "高對比冷暖互補色",
+      "研究站與儀器檯面",
+      "夜市紙箱縫隙探險",
+      "日期時間文字標示"
+    ]
   }
 ]
