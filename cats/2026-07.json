@@ -5516,5 +5516,39 @@
       "texture": "Cotton Candy Clouds",
       "color_palette": "Crimson and Black"
     }
+  },
+  {
+    "prompt": "Psychedelic illustration, shallow depth-of-field close-up, intimate near-object framing: a black-and-white tabby cat crouches at the open service window of a 1950s New Orleans donut truck, nose chasing a strawberry-frosted berry sprinkle that has rolled into a mound of flour, clearly showing the cat in action. Hard midday sunlight with unforgiving illumination casts sharp moonlit indigo neon-sign shadows across the cat’s back; high-contrast natural daylight against deep night-blue and violet tones, with cool silvery highlights. Background: busy shop staff flipping fresh donuts with tongs, softened into creamy bokeh. Vibrant clashing neon colors, swirling psychedelic patterns, melting distorted forms, gritty urban realism, tactile detail, strong directional sun, hot steam, oil sheen, and the smell of fried dough implied through atmosphere. Gold foil flecks and scattered metallic gold leaf shards glint like sweet dust on the metal counter, hand-applied foil splatter texture. Include visible text in the scene reading exactly: 2026-07-13 13:05 UTC. Also include the donut truck sign and any captions in Traditional Chinese or English only. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "迷幻風格的淺景深特寫中，一隻黑白虎斑貓蹲在新奧爾良一間1950年代甜甜圈餐車的開放式窗口前，正用鼻尖追著掉進麵粉堆裡的莓果糖霜，硬光日照把月夜靛藍的霓虹招牌陰影壓在牠背上，金箔潑點肌理像灑落在金屬檯面上的甜粉。背景裡忙碌的店員手持夾子翻動剛炸好的圈圈甜點，整個畫面充滿熱氣、油香與怪誕鮮明的色塊對比。",
+    "comment_id": 4958272703,
+    "title": "糖霜追逐",
+    "avoid_list": [
+      "橘白貓主角",
+      "前腳輕按物件",
+      "斜向對角構圖",
+      "東京地下鐵維修場景",
+      "透明玻璃容器視角",
+      "復古褪色低飽和",
+      "藍綠生物發光",
+      "柔光全景寫實",
+      "百葉窗條紋光",
+      "近距離桌面特寫",
+      "細密裝飾插畫",
+      "螢光紫藍車廂",
+      "工作檯與儀器道具",
+      "安靜專注神情",
+      "玻璃反射與透明質感"
+    ],
+    "news_inspiration": [],
+    "story": "今天中午最忙的時候，那隻黑白貓忽然鑽上餐車外的小台階，對著剛出爐的甜甜圈箱子發現了新目標。牠不是來搗亂，而是精準地把一顆滾落的草莓糖粒一路追到窗邊，連店員都忍不住笑著替牠讓出位置。",
+    "style_picks": {
+      "art_style": "Psychedelic Art",
+      "composition": "Shallow Depth-of-Field Close-up",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Gold Foil Flecks",
+      "color_palette": "Moonlit Indigo"
+    },
+    "number": 118,
+    "inspiration": "original"
   }
 ]
