@@ -5330,5 +5330,68 @@
     },
     "idea": "復古少女漫畫插畫風格的黑光螢光場景：一隻四腳橘白貓在東京地下鐵的自動販賣機角落，沿著斜向構圖的走道，專心用前掌按住散落的塑膠卡套與票券，像在替主人整理遺失的通勤證件；車窗反射出暖琥珀色月台燈，座椅表面帶著低調的碳纖維紋理。",
     "news_inspiration": []
+  },
+  {
+    "prompt": "Ethereal nocturnal fantasy illustration rendered with a realistic photo-like finish, combining dreamy blue nocturne atmosphere with sculpted clay and matte ceramic softness, subtle surface imperfections, and crisp photoreal texture. Scene: inside a seaside cat café by a large floor-to-ceiling window during a snowy stormy night, Snowball — a large gentle Ragdoll cat with long silky cream-white fur, soft seal-brown point markings only on the ears and a gentle wash down the nose bridge, all four paws in clean white mittens, fluffy white chest ruff, magnificent plume tail lightly seal-tinted, large deep sapphire blue eyes, pink nose and paw pads — is curled on a lace-covered long sofa while a groomer carefully brushes and fluffs its coat into a cloud-like puff. Snowball’s half-lidded serene expression, floppy doll-like posture, and slowly sweeping tail brushing the shoe of a nearby seated customer must be clearly visible; the cat should be the main focus and unmistakably doing the described grooming activity. Include a café screen in the background showing a Wimbledon final replay, with a small party atmosphere for “冠軍之夜”. On the window or a tabletop sign, clearly display the date and time exactly as text: “2026-07-13 10:05 UTC” in Traditional Chinese/English-compatible clean lettering. Composition should feel like a cinematic hero shot with elegant centered framing, lace textures in the foreground, glowing reflections in the window, and a soft view of nearby patrons and the groomer. Lighting: cold blue-white storm glow, diffused moonlit ambience, fogged glass, heavy falling snow veil outside, soft bloom, gentle contrast, serene calm mood. Color grading: icy blue-teal with muted cool tones, highlighting Snowball’s white mittens, cream fur, and seal-point accents against the stormy blur. Incorporate ornate iron floral lattice details, subtle glowing flowers and butterflies motifs around the café décor for a magical nocturnal fantasy feel, while keeping the cat realistic and tangible. No accessories on the cat. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration_url": "https://www.theguardian.com/sport/2026/jul/12/jannik-sinner-powers-past-alexander-zverev-in-four-sets-to-retain-wimbledon-title",
+    "character_name": "雪球",
+    "number": 115,
+    "style_picks": {
+      "art_style": "Ethereal Nocturnal Fantasy Illustration",
+      "composition": "Multi-View Fashion Display",
+      "lighting": "Snowstorm Haze",
+      "texture": "Clay / Ceramic",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "character": "snowball",
+    "avoid_list": [
+      "橘白貓主角",
+      "前腳輕按物件",
+      "斜向對角構圖",
+      "東京地下鐵維修場景",
+      "透明玻璃容器視角",
+      "復古褪色低飽和",
+      "藍綠生物發光",
+      "柔光全景寫實",
+      "百葉窗條紋光",
+      "近距離桌面特寫",
+      "細密裝飾插畫",
+      "螢光紫藍車廂",
+      "工作檯與儀器道具",
+      "安靜專注神情",
+      "玻璃反射與透明質感"
+    ],
+    "comment_id": 4956840429,
+    "idea": "在海邊貓咪咖啡廳的落地窗旁，雪球蜷在鋪著蕾絲墊的長沙發上，正被梳毛整理成一團蓬鬆的雲；牠的深藍眼睛半睜半閉，尾巴緩緩掃過坐在旁邊客人的鞋邊。整體以空靈夜花奇幻插畫呈現，但維持寫實照片感與黏土／陶瓷般的柔潤質地，冷色藍青在暴風雪朦朧裡映出牠雪白手套襪與海豹色重點的高級輪廓。",
+    "story": "今晚咖啡廳舉辦「冠軍之夜」小型觀賽派對，螢幕上正播著溫布頓決賽的重播，雪球卻比任何人都更像主角——安安靜靜地躺在窗邊，接受梳毛師細心照料。每當有人停下來拍照，牠就微微偏頭，讓藍寶石般的眼睛正對鏡頭，像早已知道自己會是這一晚最受歡迎的風景。",
+    "inspiration": "Sinner 在溫布頓決賽成功衛冕，展現頂尖球技與強大心理素質。",
+    "news_inspiration": [
+      {
+        "summary": "Sinner 在溫布頓決賽成功衛冕，展現頂尖球技與強大心理素質。",
+        "url": "https://www.theguardian.com/sport/2026/jul/12/jannik-sinner-powers-past-alexander-zverev-in-four-sets-to-retain-wimbledon-title",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "Tom Kim 在蘇格蘭公開賽奪冠，結束長達 1,001 天的冠軍荒。",
+        "url": "https://www.theguardian.com/sport/2026/jul/12/tom-kim-surges-to-scottish-open-victory-for-his-first-title-in-1001-days",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "Guardian 報導一幅充滿巴西利亞與攝影實驗感的藝術作品，展現文化混血與城市想像。",
+        "url": "https://www.theguardian.com/artanddesign/art",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "科學報導提到，數位影像技術成功保存了世界上最稀有海洋哺乳動物的骨骼標本。",
+        "url": "https://www.theguardian.com/technology/technology%2Bscience/science",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "科技版面指出，澳洲電台熱播歌曲是否為生成式 AI 作品，引發音樂與科技交界的新討論。",
+        "url": "https://www.theguardian.com/technology/all",
+        "source": "The Guardian"
+      }
+    ],
+    "title": "窗邊雲影"
   }
 ]
