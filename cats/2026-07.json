@@ -5611,5 +5611,65 @@
       }
     ],
     "title": "熔岸追影"
+  },
+  {
+    "avoid_list": [
+      "淺景深近距離特寫",
+      "貓咪作為主角焦點",
+      "蝴蝶光與對稱陰影",
+      "復古海報風格",
+      "魚眼廣角誇張透視",
+      "黑金奢華配色",
+      "寫實照片感結合插畫",
+      "背景人物柔焦陪襯",
+      "貓用前掌整理紙張",
+      "日落邊緣輪廓光",
+      "霓虹黑光紫藍光暈",
+      "海邊／港口場景",
+      "俯視或低角度構圖",
+      "金箔紙張與亮片元素",
+      "膠片懷舊褪色質感"
+    ],
+    "idea": "以鉛筆素描呈現一間位於資料中心機房深處的冷卻維修通道，魚眼鏡頭讓管線、風扇與結霜金屬環繞畫面，斑駁光影從格柵灑下，表面佈滿水珠濕膚肌理與復古褪色色調。一隻四腳貓正專注地用鼻尖嗅著掉落的纜線接頭，旁邊還有技師蹲在地上檢查過熱警報箱，整體像一場關於能源焦慮與機器呼吸聲的靜默現場。",
+    "title": "機房微光",
+    "style_picks": {
+      "art_style": "Pencil Sketch",
+      "composition": "Fisheye Lens",
+      "lighting": "Dappled Light",
+      "texture": "Water Droplets on Skin",
+      "color_palette": "Retro Faded Tones"
+    },
+    "story": "深夜裡，資料中心的冷卻系統因耗能過高而頻頻跳警報，牠卻闖進了最吵雜的維修通道，沿著滴水的管線慢慢巡視。當技師發現貓咪一直盯著同一個鬆脫的接頭時，才趕緊停下手邊工作，機房裡短暫安靜得只剩風扇與貓的呼吸。",
+    "number": 120,
+    "prompt": "Pencil sketch illustration on paper of a deep maintenance cooling corridor inside a data center, shown with a fisheye wide-angle lens and strong barrel distortion, exaggerated foreground and a 360-degree feel; pipes, fans, frosted metal surfaces, and cable bundles curve around the frame. The scene uses graphite shading, hatching and cross-hatching, visible pencil strokes, and soft dappled light spilling through grates, creating mottled shadow patterns. Surfaces are covered in water droplets and a wet sheen, with reflective micro-highlights on dewy metal and cables; overall color mood is retro faded, washed-out vintage tones, low contrast, nostalgic film-era warmth. A four-legged cat is clearly visible in the foreground, intently sniffing the tip of a fallen cable connector with its nose, while a technician crouches nearby checking an overheating alarm box. Display the date and time clearly in the image as text: “2026-07-13 15:05 UTC”. Quiet, tense atmosphere of energy anxiety and machine breathing, realistic industrial details, intimate silent moment. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "科技版報導大型資料中心因耗能問題而受挫，反映 AI 與能源轉型之間的新挑戰。",
+    "news_inspiration": [
+      {
+        "summary": "國際足總宣布由 Justin Bieber、Madonna、Shakira 與 BTS 等人領銜世界盃決賽中場秀，並為全球教育募款。",
+        "url": "https://apnews.com/article/9587b78ba94ac915b4b2dd208f9a6eed",
+        "source": "AP News"
+      },
+      {
+        "summary": "美國世界盃主場開幕戰以 4 比 1 擊敗巴拉圭，巴洛根梅開二度，現場氣氛熱烈。",
+        "url": "https://apnews.com/article/46d54749fcebbf18100fa901d56c4119",
+        "source": "AP News"
+      },
+      {
+        "summary": "科學視覺化報導解析剛果民主共和國伊波拉擴散的原因，把複雜疫情變成直觀圖像。",
+        "url": null,
+        "source": "The Guardian"
+      },
+      {
+        "summary": "文化版報導英國影集與影壇人士的最新話題，從影集提名到明星聲明，聚焦娛樂圈動態。",
+        "url": null,
+        "source": "The Guardian"
+      },
+      {
+        "summary": "科技版報導大型資料中心因耗能問題而受挫，反映 AI 與能源轉型之間的新挑戰。",
+        "url": null,
+        "source": "The Guardian"
+      }
+    ],
+    "comment_id": 4959425198
   }
 ]
