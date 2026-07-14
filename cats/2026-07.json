@@ -6186,5 +6186,66 @@
     "number": 130,
     "story": "牠原本只是跟著木屑味走進來，卻在師傅調整雕塑骨架時，安靜地守在那團線旁邊。每當紅線被風吹動一下，牠就輕輕伸爪碰一下，像是在替這座倉庫裡的漂流木作品做最後的檢查。",
     "title": "紅線工坊"
+  },
+  {
+    "prompt": "Dreamy pastel editorial photography, real photograph of a four-legged tortoiseshell cat in elegant side profile, crouching attentively beside a long worktable in an Italian Etruscan tomb mural restoration studio, nose almost touching a freshly revealed painted fragment, clearly inspecting the ancient scene as if checking time itself. The cat’s clean silhouette of nose and chin is defined from the side, focused gaze tracing flaking lines; the table is scattered with pigment swatches, a magnifying glass, and labeled cards. Soft silk fabric covers, pale plaster walls, and luminous smooth surfaces create a delicate archaeological atmosphere. Natural diffused light pours from a high window, even illumination, no harsh shadows, gentle reflections, soft pastel color tones in pink, lavender, mint, and baby blue, whimsical surreal yet realistic high-key mood, candy-colored styling, cotton-candy softness. Include visible text in Traditional Chinese or English only, with the date and time clearly displayed as: 2026-07-14 12:05 UTC. 35mm lens, f/2.0, shallow depth of field, candid shot, subtle film grain, side-framed composition, realistic textures, documentary editorial styling. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "關於義大利展示古伊特魯里亞墓葬畫作的報導，兼具考古、藝術與文化魅力。",
+    "title": "壁畫之息",
+    "comment_id": 4968969666,
+    "avoid_list": [
+      "魚眼廣角與強烈桶狀變形",
+      "微縮移軸場景",
+      "工作台邊嗅聞零件",
+      "四腳貓專注巡查",
+      "霓虹賽博地下維修走廊",
+      "午夜藍紫主色調",
+      "三點打光側逆光",
+      "月光鏡面倒影地面",
+      "復古底片顆粒質感",
+      "穆夏式拱框構圖",
+      "傍晚屋頂金屬質感",
+      "傳統市場旁老屋場景",
+      "地鐵站出口鏡面販賣機",
+      "秋日琥珀暖色調",
+      "風扇聲與靜默氛圍"
+    ],
+    "style_picks": {
+      "art_style": "Dreamy Pastel Editorial",
+      "composition": "Side Profile Portrait",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Silk",
+      "color_palette": "Pastel Colors"
+    },
+    "news_inspiration": [
+      {
+        "summary": "科學家直接觀察到海底板塊裂開並噴出熔岩，畫面罕見又震撼。",
+        "url": "https://www.nature.com/articles/d41586-026-02175-1",
+        "source": "Nature"
+      },
+      {
+        "summary": "最新科學照片集呈現深海奇觀與新物種，充滿視覺張力與探索感。",
+        "url": "https://www.nature.com/articles/d41586-026-02137-7",
+        "source": "Nature"
+      },
+      {
+        "summary": "研究人員用 AI 來幫忙發現可用於清潔能源的催化劑，展現科技加速新材料發明。",
+        "url": "https://phys.org/news/2026-07-large-language-model-catalysts-energy.html",
+        "source": "Phys.org"
+      },
+      {
+        "summary": "自我組裝分子環讓新一代藥物傳遞與智慧材料更接近實用，屬於很新穎的化學進展。",
+        "url": "https://phys.org/news/2026-07-self-building-molecular-rings-drug-delivery.html",
+        "source": "Phys.org"
+      },
+      {
+        "summary": "關於義大利展示古伊特魯里亞墓葬畫作的報導，兼具考古、藝術與文化魅力。",
+        "url": "https://phys.org/news/2026-07-italy-displays-paintings-ancient-etruscan-tomb.html",
+        "source": "Phys.org"
+      }
+    ],
+    "story": "修復師剛揭開一層保護紙，貓就安靜地湊近那幅沉睡千年的祭宴圖，像是在替時間做最後一次檢查。牠的目光沿著剝落的線條滑過，彷彿整間房都因這短暫的凝視而更輕、更明亮。",
+    "idea": "夢幻粉彩編輯攝影風格，一隻四腳玳瑁貓側臉入鏡，專注蹲在義大利一座古伊特魯里亞墓葬壁畫修復室的長桌旁，鼻尖幾乎貼著剛曝光的彩繪碎片，桌面散落著顏料試片、放大鏡與標註卡。自然漫射光從高窗灑下，粉彩色系與絲綢般的布罩、石灰牆面交疊出柔和而精準的考古氣息。",
+    "inspiration_url": "https://phys.org/news/2026-07-italy-displays-paintings-ancient-etruscan-tomb.html",
+    "number": 131
   }
 ]
