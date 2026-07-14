@@ -6378,5 +6378,38 @@
       "秋日琥珀暖色調",
       "風扇聲與靜默氛圍"
     ]
+  },
+  {
+    "prompt": "Pop art illustration in a modern graphic design feel, inspired by Warhol, with bold primary color blocking, thick outlines, and Ben-Day dots, combined with Knolling photography composition and flat lay overhead view. Scene: inside a Tokyo subway maintenance garage at dawn, a tabby cat clearly visible and crouching beside neatly arranged tools and dismantled circuit boards, sniffing a half-open metal parts box with its nose, tail slightly swaying as if inspecting loose screws for the technicians. Arrange wrenches, screws, a flashlight, coils, and circuit pieces in a precise 90-degree grid layout, clean background, organized square alignment. Illuminate the scene with nebula-like cosmic glow, soft starfield lighting, glowing particles, and ethereal purple-blue space light, creating a strong duotone treatment with only cool violet and electric blue. Overlay a layered pressed botanical texture with flattened dried flowers, leaves, and herbarium-like plant specimens across the whole image, adding translucent organic collage depth. Include the date and time clearly displayed in Traditional Chinese or English text: \"2026-07-14 16:05 UTC\". IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Pop Art",
+      "composition": "Knolling Photography",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Pressed Botanical Layers",
+      "color_palette": "Duotone"
+    },
+    "inspiration": "original",
+    "idea": "在一間東京地鐵維修車庫裡，一隻虎斑貓正蹲在整齊的工具與拆開的電路板旁，專心用鼻尖嗅聞一只半開的金屬零件盒，畫面以普普藝術呈現，採用 Knolling 排列攝影把扳手、螺絲、手電筒與線圈排成俐落方格，整體被星雲輝光般的冷紫與電藍照亮，並覆上一層壓花植物疊層的質感，形成強烈雙色調。",
+    "number": 135,
+    "title": "車庫貓工",
+    "avoid_list": [
+      "老屋屋頂晚霞",
+      "雙重曝光剪影",
+      "復古少女漫畫風",
+      "穆夏式拱框構圖",
+      "倫勃朗側光",
+      "金黑奢華大廳",
+      "色鉛筆故事分格",
+      "粉彩編輯攝影",
+      "夜間溫室蘭花",
+      "配色條邊框",
+      "老港口夜市",
+      "粗糙混凝土牆",
+      "暖琥珀秋色",
+      "貓用前爪輕推物件"
+    ],
+    "comment_id": 4971345644,
+    "story": "凌晨的車庫很安靜，只有冷氣與遠處列車測試聲，虎斑貓在一排整齊工具中來回巡看，像是牠在替技師把關每一顆螺絲。當工作燈一亮，貓便低頭盯住那顆鬆動的螺帽，尾巴輕輕擺動，整個場景像一幅被精準整理過的都市節奏。",
+    "news_inspiration": []
   }
 ]
