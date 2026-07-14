@@ -1325,5 +1325,15 @@
     "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-14_1305_UTC.webp",
     "number": 132,
     "status": "success"
+  },
+  {
+    "inspiration_url": "https://apnews.com/article/e3e69ad0a4900b484b0eccd2751923e0",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-14_1405_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-07-14 14:05 UTC",
+    "inspiration": "辛納在溫布頓男單決賽逆轉擊敗澤維列夫，拿下生涯第二座溫網冠軍。",
+    "number": 133,
+    "status": "success",
+    "title": "草地終局"
   }
 ]

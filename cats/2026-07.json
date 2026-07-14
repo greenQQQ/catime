@@ -6281,5 +6281,66 @@
     "inspiration": "original",
     "number": 132,
     "comment_id": 4969509813
+  },
+  {
+    "number": 133,
+    "title": "草地終局",
+    "style_picks": {
+      "art_style": "Pixel Art",
+      "composition": "Split View",
+      "lighting": "Venetian Blind Light",
+      "texture": "Translucent Resin",
+      "color_palette": "Teal and Orange"
+    },
+    "story": "這隻貓是場館裡的臨時賽事助理，負責在決賽後把散亂的標示牌與賽程紙整理好。它一邊用爪子壓住被風吹起的頁角，一邊把頭湊近螢幕，像是在確認這場逆轉冠軍是否真的落定。",
+    "comment_id": 4970132337,
+    "inspiration_url": "https://apnews.com/article/e3e69ad0a4900b484b0eccd2751923e0",
+    "news_inspiration": [
+      {
+        "summary": "辛納在溫布頓男單決賽逆轉擊敗澤維列夫，拿下生涯第二座溫網冠軍。",
+        "url": "https://apnews.com/article/e3e69ad0a4900b484b0eccd2751923e0",
+        "source": "Associated Press"
+      },
+      {
+        "summary": "溫布頓決賽後，威廉王子與凱特王妃在皇家包廂和辛納短暫交流，畫面相當亮眼。",
+        "url": "https://apnews.com/article/7226960903887d409737fa903bd6a90b",
+        "source": "Associated Press"
+      },
+      {
+        "summary": "AP精選本週全球最精彩照片，呈現各地鮮明且視覺衝擊力十足的瞬間。",
+        "url": "https://apnews.com/article/4c9a94ac270243ad96e65210c9cd007e",
+        "source": "Associated Press"
+      },
+      {
+        "summary": "AP整理的垂直版全球精選照片，帶來一週內最吸睛的國際影像。",
+        "url": "https://apnews.com/article/665c7b3d35f0d887f4f29b0fa1a8f4bd",
+        "source": "Associated Press"
+      },
+      {
+        "summary": "英國溫布頓草地在高溫下仍維持翠綠，展現園藝與運動場地維護的精緻細節。",
+        "url": "https://apnews.com/article/eb0d46bb32591c636d08a5945d8e1048",
+        "source": "Associated Press"
+      }
+    ],
+    "inspiration": "辛納在溫布頓男單決賽逆轉擊敗澤維列夫，拿下生涯第二座溫網冠軍。",
+    "idea": "像素藝術的分割畫面中，左側是溫布頓中央球場草地邊的新聞攝影席，右側是場館內的維修控制室；一隻四腳虎斑貓正用前爪按著比分控制面板旁的紙本賽程表，尾巴微彎，眼睛盯著螢幕上辛納奪冠後與威廉王子、凱特王妃短暫致意的瞬間。百葉窗條紋光斜切在透明樹脂質感的按鍵與綠草地上，青橙電影調讓整個畫面既冷靜又鮮明。",
+    "prompt": "Pixel art illustration, retro 8-bit style with crisp blocky pixels and a limited color palette, split view composition with a sharp vertical cut line: left side shows the Wimbledon Centre Court grass edge and the press photography seats, right side shows the stadium maintenance control room. A four-legged tabby cat is clearly visible as a temporary venue assistant, pressing a paw on a paper match schedule beside the scoreboard control panel while holding down a wind-lifted page corner, tail slightly curved, eyes focused on a monitor showing Sinner’s championship moment briefly greeting Prince William and Princess Kate. Display the date and time clearly in Traditional Chinese or English as visible text: 2026-07-14 14:05 UTC. Venetian blind striped lighting slices diagonally across the scene, casting hard parallel bands of light and shadow over translucent resin-like buttons and the green grass, with embedded elements visible inside glossy smooth surfaces. Use teal and orange cinematic color grading, cool blue-green shadows contrasted with warm highlights, film-noir mood, dramatic graphic shadow patterns, moody interior, punchy balanced contrast, blockbuster film look. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "魚眼廣角與強烈桶狀變形",
+      "微縮移軸場景",
+      "工作台邊嗅聞零件",
+      "四腳貓專注巡查",
+      "霓虹賽博地下維修走廊",
+      "午夜藍紫主色調",
+      "三點打光側逆光",
+      "月光鏡面倒影地面",
+      "復古底片顆粒質感",
+      "穆夏式拱框構圖",
+      "傍晚屋頂金屬質感",
+      "傳統市場旁老屋場景",
+      "地鐵站出口鏡面販賣機",
+      "秋日琥珀暖色調",
+      "風扇聲與靜默氛圍"
+    ]
   }
 ]
