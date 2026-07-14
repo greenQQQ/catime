@@ -5829,5 +5829,66 @@
     "idea": "在一間位於大阪科學館地下層的鈉電池測試實驗室裡，一隻虎斑貓專心用鼻尖追蹤桌上 knolling 排列的微型電芯、導線與計時器，周圍是藍黃互補色的工具與摺紙標籤；畫面以柯達 Portra 底片質感呈現，硬光日照從高窗斜灑進來，讓每個零件都像被精準擺放的標本。",
     "story": "研究員剛把「四分鐘快充」的新型鈉金屬電池樣品排開，貓就跳上工作台，在一整列整齊的小零件間輕輕嗅聞，像在巡視一場安靜的發明。它最後停在一顆尚未接線的電芯旁，尾巴一甩，彷彿替這座實驗室下了結論：最靈敏的測試員，永遠是那隻不說話的貓。",
     "comment_id": 4965303388
+  },
+  {
+    "comment_id": 4965601277,
+    "number": 124,
+    "news_inspiration": [
+      {
+        "summary": "國際太空站與多個天文攝影合作推出的 7 月夜空指南，整理流星雨、滿月與銀河觀賞時機，讓人適合今晚抬頭看天。",
+        "url": "https://www.nationalgeographic.com/science/article/july-night-sky-events-2026",
+        "source": "National Geographic"
+      },
+      {
+        "summary": "《國家地理》7 月號聚焦一項全球實驗，透過把志願者放進地球最極端環境，模擬人類未來在月球與火星生活的可能性。",
+        "url": "https://www.nationalgeographic.com/magazine/issue/july-2026",
+        "source": "National Geographic"
+      },
+      {
+        "summary": "世界最大冰山 A23a 結束漫長漂流，這篇報導以壯觀影像與科學角度回顧它如何為海洋研究帶來重要觀察。",
+        "url": "https://www.nationalgeographic.com/environment/article/the-extraordinary-life-and-quiet-death-of-the-worlds-largest-iceberg",
+        "source": "National Geographic"
+      },
+      {
+        "summary": "Nature 的最新科學新聞頁提到一篇關於「高流動、高風險、允許失敗」的研究文化訪談，呈現科學界如何鼓勵創新。",
+        "url": "https://www.nature.com/news",
+        "source": "Nature"
+      },
+      {
+        "summary": "國際奧委會最新聲明談到 Milano Cortina 2026 在即，強調運動員精神與持續學習的價值，帶來一則正向的體育新聞。",
+        "url": "https://newsroom.olympics.com/record/3169/media_id/6799",
+        "source": "IOC Newsroom"
+      }
+    ],
+    "prompt": "Three-dimensional paper diorama, miniature handmade Antarctic research station at moonlit indigo night, pop-up book aesthetic with layered paper sculpture and laser-cut silhouettes, toy-like scale model, tilt-shift composition. A tabby cat is clearly shown crouching beside the worktable, using its nose and front paw to carefully nudge and adjust a small camera gimbal, tail gently swishing with concentration. On the desk lies an open night-sky observing chart labeled in Traditional Chinese with meteor shower and Milky Way time windows, and the date/time displayed clearly as “2026-07-14 05:05 UTC” in Traditional Chinese or English text. Outside the window, deep blue violet night sky; inside, quiet instruments, forms, and a focused solitary cat. Harsh direct on-camera flash, blown-out highlights, hard shadows, raw candid snapshot look, frost-crystal paper edges, delicate frozen textures, translucent ice shards, cool silvery highlights, dark dreamy blue dominance, mysterious nocturnal mood, backlit warm glow through translucent layers, miniature scientific base just covered in cold IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "idea": "月夜靛藍的立體紙藝景、微縮立體模型中，一隻虎斑貓蹲在南極科考站的工作台旁，用鼻尖和前爪仔細推動一台小型攝影機的雲台，桌面上攤著標註流星雨與銀河時段的夜空觀測圖。整個場景以閃光燈直打拍出冰霜結晶般的紙層邊緣，像一座剛被寒氣覆住的迷你科研基地。",
+    "style_picks": {
+      "art_style": "Paper Diorama Layered Scene",
+      "composition": "Miniature Diorama",
+      "lighting": "Direct Flash",
+      "texture": "Frost Crystal",
+      "color_palette": "Moonlit Indigo"
+    },
+    "inspiration": "國際太空站與多個天文攝影合作推出的 7 月夜空指南，整理流星雨、滿月與銀河觀賞時機，讓人適合今晚抬頭看天。",
+    "title": "夜空值班",
+    "inspiration_url": "https://www.nationalgeographic.com/science/article/july-night-sky-events-2026",
+    "story": "今晚輪值的是這隻不肯離開工作台的貓，牠把鏡頭角度一點點調正，彷彿真懂得要捕捉最佳的觀星窗口。站外的夜空在窗格外深得發藍，室內則只有表格、儀器和牠專注搖動尾巴的身影，讓整個科考站都安靜下來。",
+    "avoid_list": [
+      "淺景深近距離特寫",
+      "貓咪作為主角焦點",
+      "蝴蝶光與對稱陰影",
+      "復古海報風格",
+      "魚眼廣角誇張透視",
+      "黑金奢華配色",
+      "寫實照片感結合插畫",
+      "背景人物柔焦陪襯",
+      "貓用前掌整理紙張",
+      "日落邊緣輪廓光",
+      "霓虹黑光紫藍光暈",
+      "海邊／港口場景",
+      "俯視或低角度構圖",
+      "金箔紙張與亮片元素",
+      "膠片懷舊褪色質感"
+    ]
   }
 ]

@@ -1228,5 +1228,15 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "inspiration": "新型鈉金屬電池設計可在4分鐘內充電，且容量維持多年。",
     "title": "電芯巡檢"
+  },
+  {
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-14_0505_UTC.webp",
+    "number": 124,
+    "inspiration": "國際太空站與多個天文攝影合作推出的 7 月夜空指南，整理流星雨、滿月與銀河觀賞時機，讓人適合今晚抬頭看天。",
+    "title": "夜空值班",
+    "status": "success",
+    "inspiration_url": "https://www.nationalgeographic.com/science/article/july-night-sky-events-2026",
+    "timestamp": "2026-07-14 05:05 UTC",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)"
   }
 ]
