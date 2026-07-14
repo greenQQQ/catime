@@ -1206,5 +1206,16 @@
     "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-13_1605_UTC.webp",
     "inspiration": "original",
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "character_name": "奧利奧",
+    "timestamp": "2026-07-14 02:59 UTC",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-14_0259_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 122,
+    "inspiration": "original",
+    "status": "success",
+    "character": "oreo",
+    "title": "箱中小搗蛋"
   }
 ]

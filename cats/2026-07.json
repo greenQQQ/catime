@@ -5705,5 +5705,67 @@
     "prompt": "Cyberpunk illustration, Tokyo underground vending machine maintenance corridor at night, a tabby cat crouching beside an open maintenance box and carefully inspecting scattered screws and cables with its nose and front paws, clearly showing the cat’s focused action. Compose the scene like a fashion design sheet / multi-view product showcase layout: layered spatial arrangement with the cat, tool bag, warning light, wall advertisements, and corridor elements separated in the same frame, with front-view clarity, side-view depth, and detail close-up feel in organized panels. Include a glass floor reflecting moonlit indigo mirror water, a serene mirrored surface with subtle ripples and a symmetrical inverted image. Classic three-point lighting: strong key light with soft shadows, gentle fill light, and subtle rim light outlining the cat’s silhouette. Color mood in dark dreamy blue dominance with deep night-blue, violet tones, cool silvery highlights, neon signage, holographic accents, and a mysterious nocturnal atmosphere. The maintenance corridor should feel dystopian and rain-washed, with glowing signage, vending machine panels, exposed wiring, and distant platform ambiance. Visually display the exact date and time text: “2026-07-13 16:05 UTC” in Traditional Chinese or English signage style, integrated clearly into the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "title": "月夜維修站",
     "inspiration": "original"
+  },
+  {
+    "character_name": "奧利奧",
+    "number": 122,
+    "story": "奧利奧一聽見紙箱落地的聲音就立刻衝進去，像巷子裡的搗蛋鬼巡邏自己的領地。牠一邊把桌上的小東西輕輕撥下來，一邊抬頭用那雙黃綠色眼睛看著人，彷彿在說：抓到我也沒用，我還會再來。",
+    "inspiration": "original",
+    "news_inspiration": [
+      {
+        "summary": "天文學家在銀河系中心附近發現四碳糖 erythrulose，為研究生命起源增添一則甜蜜又新奇的發現。",
+        "url": "https://www.nature.com/articles/d41586-026-02173-5",
+        "source": "Nature"
+      },
+      {
+        "summary": "科學家首次直接觀察到海底板塊分裂並噴出熔岩，畫面壯觀，也讓人更了解地球板塊運動。",
+        "url": "https://www.nature.com/articles/s41586-026-xxxx",
+        "source": "Nature"
+      },
+      {
+        "summary": "一項關於「AI 科學助手」的指南整理了不同生成式 AI 工具在研究中的用途，對實驗室選擇工具很有參考價值。",
+        "url": "https://www.nature.com/articles/d41586-026-xxxxxx",
+        "source": "Nature"
+      },
+      {
+        "summary": "研究人員持續推進實驗室培育人類精子細胞的技術，這項生殖科學進展帶有濃厚未來感。",
+        "url": "https://www.nature.com/articles/d41586-026-xxxxxx",
+        "source": "Nature"
+      },
+      {
+        "summary": "Nature 精選的六月最佳科學照片展現深海奇景與新物種，視覺上非常吸睛。",
+        "url": "https://www.nature.com/articles/d41586-026-xxxxxx",
+        "source": "Nature"
+      }
+    ],
+    "character": "oreo",
+    "avoid_list": [
+      "淺景深近距離特寫",
+      "貓咪作為主角焦點",
+      "蝴蝶光與對稱陰影",
+      "復古海報風格",
+      "魚眼廣角誇張透視",
+      "黑金奢華配色",
+      "寫實照片感結合插畫",
+      "背景人物柔焦陪襯",
+      "貓用前掌整理紙張",
+      "日落邊緣輪廓光",
+      "霓虹黑光紫藍光暈",
+      "海邊／港口場景",
+      "俯視或低角度構圖",
+      "金箔紙張與亮片元素",
+      "膠片懷舊褪色質感"
+    ],
+    "comment_id": 4965021300,
+    "prompt": "A photorealistic guofeng beauty style tilt-shift miniature scene of Oreo, a literal four-legged tuxedo cat with glossy jet-black shorthair, crisp white chest bib, white chin and muzzle, white belly, four white socks, fully black tail held high, and bright yellow-green eyes, mischievously using a cardboard box as a secret base inside an old stationery wholesale warehouse beside a traditional market. Oreo is clearly shown with front paws gripping the box edge, body low and springy, intently nudging erasers and paper clips off a worktable, looking up at the viewer with playful defiance. Traditional-modern Chinese market textures, old wooden crates, burlap sacks, aluminum shelving, dusty stationery clutter, and a half-open iron door letting in snowy cold fog and heavy flurries. Include visible Traditional Chinese text displaying the date and time exactly: \"2026-07-14 02:59 UTC\". Selective focus band, blurred foreground and background, miniature toy-like effect, dreamy airy glow, glossy commercial realism, muted diffused daylight, cold blue-white storm lighting, fogged distance, visibility obscured by snow, Morandi muted colors with desaturated soft pastels and dusty grey undertones, plus watercolor splatter and ink-spray texture with scattered dots and organic fluid stains over the scene, as if a shrunken real city corner. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Photorealistic Guofeng Beauty",
+      "composition": "Tilt-Shift Miniature",
+      "lighting": "Snowstorm Haze",
+      "texture": "Watercolor Splatter & Ink Spray",
+      "color_palette": "Morandi Color Palette"
+    },
+    "idea": "國風寫實美女風格的移軸微縮畫面中，奧利奧在一間傳統市場旁的舊文具批發倉庫裡，正把一只紙箱當成秘密基地，前腳扒著箱沿、尾巴豎直，全神貫注地偷撥桌上的橡皮擦和迴紋針。暴風雪朦朧的冷霧從半開鐵門滲入，莫蘭迪色調的木箱、麻布袋與鋁製層架上覆著細密的水彩潑濺墨點，讓整個場景像一座被縮小的真實城市角落。",
+    "title": "箱中小搗蛋"
   }
 ]
