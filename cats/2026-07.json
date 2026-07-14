@@ -6087,5 +6087,70 @@
         "source": "The Guardian"
       }
     ]
+  },
+  {
+    "style_picks": {
+      "art_style": "X-Ray Style",
+      "composition": "Color Palette Swatch Frame",
+      "lighting": "Soft Diffused Natural Light",
+      "texture": "Wrought Iron Filigree",
+      "color_palette": "Gold and Black Luxury"
+    },
+    "is_seasonal": true,
+    "story": "雪球原本只是想找最涼的地方睡午覺，沒想到一攤開就成了整個大廳最吸睛的主角。牠懶懶地用尾巴掃過路過女孩的腳邊，藍寶石般的大眼睛半閉著，像在對這個夏天說：這裡，很舒服。",
+    "character_name": "雪球",
+    "idea": "在一間金黑色復古飯店的冷氣大廳裡，雪球這隻布偶貓正優雅地攤成一片雲，四腳伸開躺在大理石地板上，旁邊服務員推著一台用於博物館授粉昆蟲標本數位化的金屬輸送車緩緩經過；畫面以X光透視風格呈現，外層保留牠蓬鬆的乳白長毛與海豹色重點，內部則以精細線條透出牠放鬆蜷伸的骨架輪廓，配色條邊框像高級調色盤一樣圍住整個畫面，自然漫射光落在鑄鐵雕花鏤空的屏風與黑金地磚上，顯得安靜又奢華。",
+    "comment_id": 4967992959,
+    "prompt": "Illustration, X-ray radiograph style mixed with high-end editorial moodboard presentation, showing Snowball as a literal four-legged Ragdoll cat lounging like a cloud on a cool marble hotel lobby floor in a gold-and-black vintage luxury hotel. The cat must be clearly visible: long silky cream-white fur #F5EFE6, soft seal-brown #8A6A50 colorpoint only on ears and a gentle wash along the nose bridge, all four paws clean white mittens, fluffy white chest ruff, magnificent plume tail lightly seal-tinted, large deep sapphire blue #2E5FA3 eyes half-closed, pink nose and paw pads, serene and sweet expression, relaxed floppy posture with all four legs stretched out. X-ray translucent skeletal view: outer fur rendered as soft cream-white and seal-point form, inner anatomy shown with fine clean linework revealing the relaxed stretched skeleton beneath, high-contrast negative medical-imaging aesthetic in monochrome blue-white with subtle gold accents. A service attendant pushes a metal conveyor cart used for digitizing museum insect specimens past the cat in the background. The lobby features wrought-iron filigree, ornate black scrollwork, Victorian cast-iron lace, black-and-gold tiled floor, and a decorative screen with openwork patterns. Soft diffused natural light, overcast-like even illumination, no harsh shadows, quiet luxurious atmosphere. Frame the composition with stacked vertical color swatch bars on both sides like a premium palette board, design portfolio layout. Display the date and time clearly in Traditional Chinese or English text within the image: 2026-07-14 10:05 UTC. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "美國自然史博物館為授粉昆蟲標本數位化導入先進輸送系統，兼具科技感與保存價值。",
+    "avoid_list": [
+      "冷色藍青夜景",
+      "落地窗旁的貓咖啡廳",
+      "窗邊梳毛蓬鬆特寫",
+      "螺旋漩渦構圖",
+      "硬光直打閃光燈",
+      "魚眼廣角變形",
+      "移軸微縮場景",
+      "紙藝立體模型",
+      "莫蘭迪霧感配色",
+      "三點打光輪廓光",
+      "淺景深近距離特寫",
+      "木棧道追逐奔跑",
+      "機房維修通道巡查",
+      "黑白虎斑貓主角",
+      "日期時間文字標示"
+    ],
+    "news_inspiration": [
+      {
+        "summary": "詹姆斯·韋伯太空望遠鏡捕捉到獵戶座A恆星形成雲的震撼細節，畫面極為壯觀。",
+        "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-captures-the-star-forming-clouds-of-orion-a-in-stunning-detail-space-photo-of-the-day-for-june-22-2026",
+        "source": "Space"
+      },
+      {
+        "summary": "NASA 的羅曼太空望遠鏡已在佛州進入發射前整備，為八月升空做準備。",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-prepares-for-launch-space-photo-of-the-day-for-july-8-2026",
+        "source": "Space"
+      },
+      {
+        "summary": "SpaceX 火箭發射在夜空中形成繽紛的「水母雲」景象，畫面相當夢幻。",
+        "url": "https://www.space.com/space-exploration/spacex-launch-creates-colorful-jellyfish-in-the-night-sky-space-photo-of-the-day-for-july-10-2026",
+        "source": "Space"
+      },
+      {
+        "summary": "自然界最新發現：科學家在太陽系外首次找到「真正的糖」分子，可能與生命起源有關。",
+        "url": "https://www.nature.com/news",
+        "source": "Nature"
+      },
+      {
+        "summary": "美國自然史博物館為授粉昆蟲標本數位化導入先進輸送系統，兼具科技感與保存價值。",
+        "url": "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2026/",
+        "source": "Smithsonian Magazine"
+      }
+    ],
+    "title": "雲躺午後",
+    "character": "snowball",
+    "number": 129,
+    "inspiration_url": "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2026/",
+    "season": "summer"
   }
 ]

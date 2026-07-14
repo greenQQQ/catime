@@ -1283,5 +1283,19 @@
     "inspiration": "科學報導提到，貓薄荷乳液在實驗中展現出接近 DEET 的防蚊效果，帶來有趣又實用的天然替代方案。",
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "status": "success"
+  },
+  {
+    "is_seasonal": true,
+    "timestamp": "2026-07-14 10:05 UTC",
+    "character_name": "雪球",
+    "title": "雲躺午後",
+    "character": "snowball",
+    "number": 129,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "美國自然史博物館為授粉昆蟲標本數位化導入先進輸送系統，兼具科技感與保存價值。",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-14_1005_UTC.webp",
+    "inspiration_url": "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2026/",
+    "season": "summer",
+    "status": "success"
   }
 ]
