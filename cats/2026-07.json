@@ -5955,5 +5955,39 @@
     "prompt": "Illustration / concept art in a cinematic double-exposure style: Blanli, a slender elegant brown mackerel tabby shorthair with a warm grey-brown base coat, crisp dark brown-black mackerel stripes, bold dark forehead M, emerald green almond eyes, long white whiskers, and a black-tipped ringed tail, is shown as a literal four-legged cat crouched quietly on an old apartment rooftop in a summer evening breeze. The cat lowers one front paw to gently tap a rolling red-and-gold tennis ball, with a calm watchful expression and a tiny tail flick, while several tiny rooftop workers in the far background adjust laundry lines for scale. Blend the cat silhouette with sunset clouds and metallic rooftop textures through double exposure, ethereal transparency, overlapping images, and sharp dramatic light edges; add a narrow beam of spotlight-like sunset illuminating the emerald eyes and dark tabby stripes. The rooftop should feel cold, hard, and finely metallic with brushed steel reflections, industrial premium detail, and deep darkness falloff. Dominant Chinese red and bright gold accents, festive auspicious warmth, vivid contrast, slightly lonely epic framing, dramatic size contrast. Include clearly visible Traditional Chinese or English text in the scene reading: '2026-07-14 06:05 UTC' on the rooftop scoreboard or a nearby metal sign. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "character_name": "布藍里",
     "character": "blanli"
+  },
+  {
+    "style_picks": {
+      "art_style": "Retro Shoujo Manga Illustration",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Candlelight",
+      "texture": "Concrete",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "avoid_list": [
+      "冷色藍青夜景",
+      "落地窗旁的貓咖啡廳",
+      "窗邊梳毛蓬鬆特寫",
+      "螺旋漩渦構圖",
+      "硬光直打閃光燈",
+      "魚眼廣角變形",
+      "移軸微縮場景",
+      "紙藝立體模型",
+      "莫蘭迪霧感配色",
+      "三點打光輪廓光",
+      "淺景深近距離特寫",
+      "木棧道追逐奔跑",
+      "機房維修通道巡查",
+      "黑白虎斑貓主角",
+      "日期時間文字標示"
+    ],
+    "title": "鏡前尋路",
+    "idea": "復古少女漫畫插畫風格中，一隻橘貓在地鐵站出口旁的老式鏡面販賣機前，正用前腳按著一張皺皺的地圖，認真比對轉角方向；鏡面裡映出牠身後手拎菜籃的阿嬤與暖黃燭光，整個場景帶著琥珀色秋日氣息與粗糙混凝土牆面的質感。",
+    "news_inspiration": [],
+    "inspiration": "original",
+    "comment_id": 4966335469,
+    "number": 126,
+    "story": "牠原本只是跟著香味一路走到這座老站，卻在出口處被一張掉落的手繪地圖絆住了注意力。燭光從販賣機旁的小祭臺微微晃動，照見牠專注翻找路線的模樣，也照見那位阿嬤笑著停下腳步，替牠把地圖角落壓平。",
+    "prompt": "Retro shoujo manga illustration in nostalgic 1970s–80s girls'-comic style, delicate screentone, sparkling big-eyed charm, intimate close-up composition with a mirror-reflection scene: an orange cat stands beside a subway station exit, pressing one front paw on a crumpled hand-drawn map and carefully comparing the corner directions, clearly focused and expressive. Next to it is an old mirrored vending machine; in the mirror, reflect an elderly grandmother holding a vegetable basket, a small altar with warm candlelight, and the cat’s back view, with the grandmother smiling as she flattens the map’s corner. Show the date and time clearly in Traditional Chinese or English text: '2026-07-14 07:05 UTC'. Warm orange flickering glow, soft dancing shadows, candlelight, cozy intimate atmosphere, warm amber color grading, autumn palette of golden yellows and burnt orange, floral background accents mixed with raw concrete wall texture, visible rough aggregate surface, brutalist urban minimalism, nostalgic vintage girls'-comic styling, mirror selfie composition, casual framing, visible reflection, urban station exit details, subtle retro signage in Traditional Chinese, refined linework and screen tones, sentimental autumn mood IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
