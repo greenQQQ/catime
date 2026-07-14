@@ -1238,5 +1238,19 @@
     "inspiration_url": "https://www.nationalgeographic.com/science/article/july-night-sky-events-2026",
     "timestamp": "2026-07-14 05:05 UTC",
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "number": 125,
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "timestamp": "2026-07-14 06:05 UTC",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-14_0605_UTC.webp",
+    "inspiration": "AP攝影師精選溫布頓網球賽的精彩照片，捕捉到許多動感又具視覺張力的瞬間。",
+    "season": "summer",
+    "character_name": "布藍里",
+    "title": "夕照守球",
+    "inspiration_url": "https://www.ap.org/news-highlights/spotlights/2026/ap-photographers-pick-their-favorite-photos-from-wimbledon/",
+    "is_seasonal": true,
+    "status": "success",
+    "character": "blanli"
   }
 ]

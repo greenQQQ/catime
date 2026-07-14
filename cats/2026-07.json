@@ -5890,5 +5890,70 @@
       "金箔紙張與亮片元素",
       "膠片懷舊褪色質感"
     ]
+  },
+  {
+    "season": "summer",
+    "title": "夕照守球",
+    "news_inspiration": [
+      {
+        "summary": "AP攝影師精選溫布頓網球賽的精彩照片，捕捉到許多動感又具視覺張力的瞬間。",
+        "url": "https://www.ap.org/news-highlights/spotlights/2026/ap-photographers-pick-their-favorite-photos-from-wimbledon/",
+        "source": "The Associated Press"
+      },
+      {
+        "summary": "Katalyst 發射一枚可為老化 NASA 觀測衛星補給軌道的太空船，展現新的在軌抓取與救援技術。",
+        "url": "https://www.investing.com/news/economy-news/space-startup-katalyst-launches-orbital-rescue-mission-for-aging-nasa-observatory-4775255",
+        "source": "Reuters"
+      },
+      {
+        "summary": "AP 以照片專題回顧溫布頓網球賽，展現世界級賽事中的美感、速度與表情。",
+        "url": "https://www.ap.org/news-highlights/spotlights/2026/ap-photographers-pick-their-favorite-photos-from-wimbledon/",
+        "source": "The Associated Press"
+      },
+      {
+        "summary": "AP 的世界盃四分之一決賽照片集，呈現球迷與球員在大型體育盛事中的熱情與色彩。",
+        "url": "https://www.ap.org/news-highlights/",
+        "source": "The Associated Press"
+      },
+      {
+        "summary": "聯合國秘書長呼籲全球對人工智慧建立更快、更一致的規範，以跟上技術發展步伐。",
+        "url": "https://www.investing.com/news/world-news/un-chief-warns-ai-is-developing-faster-than-rules-can-keep-up-4775663",
+        "source": "Reuters"
+      }
+    ],
+    "is_seasonal": true,
+    "idea": "在一座老公寓屋頂的夏日晚風裡，布藍里安靜蹲坐在一台老式金屬記分板旁，低頭用前爪撥弄一顆滾來滾去的紅金色網球，身後遠處還能看見幾個像小人般渺小的屋頂工人在整理晾衣繩。雙重曝光將牠的剪影與晚霞和金屬屋頂細節疊在一起，聚光燈般的夕照落在翠綠杏眼與深色鯖魚紋上，整體以中國紅金為主調，質感帶著冷硬卻細膩的金屬光澤。",
+    "number": 125,
+    "story": "布藍里一向只坐在最高處，這天卻被那顆不聽話的小球吸引，尾巴在背後極輕地甩了兩下。牠沒有追得喧鬧，只是靜靜伸爪、輕觸、再目送球滾向屋頂邊緣，像在觀察一場只屬於傍晚的比賽。",
+    "comment_id": 4965937292,
+    "inspiration": "AP攝影師精選溫布頓網球賽的精彩照片，捕捉到許多動感又具視覺張力的瞬間。",
+    "avoid_list": [
+      "冷色藍青夜景",
+      "落地窗旁的貓咖啡廳",
+      "窗邊梳毛蓬鬆特寫",
+      "螺旋漩渦構圖",
+      "硬光直打閃光燈",
+      "魚眼廣角變形",
+      "移軸微縮場景",
+      "紙藝立體模型",
+      "莫蘭迪霧感配色",
+      "三點打光輪廓光",
+      "淺景深近距離特寫",
+      "木棧道追逐奔跑",
+      "機房維修通道巡查",
+      "黑白虎斑貓主角",
+      "日期時間文字標示"
+    ],
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Tiny Figure Scale Contrast",
+      "lighting": "Spotlight",
+      "texture": "Metallic Surface",
+      "color_palette": "Festive Red and Gold"
+    },
+    "inspiration_url": "https://www.ap.org/news-highlights/spotlights/2026/ap-photographers-pick-their-favorite-photos-from-wimbledon/",
+    "prompt": "Illustration / concept art in a cinematic double-exposure style: Blanli, a slender elegant brown mackerel tabby shorthair with a warm grey-brown base coat, crisp dark brown-black mackerel stripes, bold dark forehead M, emerald green almond eyes, long white whiskers, and a black-tipped ringed tail, is shown as a literal four-legged cat crouched quietly on an old apartment rooftop in a summer evening breeze. The cat lowers one front paw to gently tap a rolling red-and-gold tennis ball, with a calm watchful expression and a tiny tail flick, while several tiny rooftop workers in the far background adjust laundry lines for scale. Blend the cat silhouette with sunset clouds and metallic rooftop textures through double exposure, ethereal transparency, overlapping images, and sharp dramatic light edges; add a narrow beam of spotlight-like sunset illuminating the emerald eyes and dark tabby stripes. The rooftop should feel cold, hard, and finely metallic with brushed steel reflections, industrial premium detail, and deep darkness falloff. Dominant Chinese red and bright gold accents, festive auspicious warmth, vivid contrast, slightly lonely epic framing, dramatic size contrast. Include clearly visible Traditional Chinese or English text in the scene reading: '2026-07-14 06:05 UTC' on the rooftop scoreboard or a nearby metal sign. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character_name": "布藍里",
+    "character": "blanli"
   }
 ]
