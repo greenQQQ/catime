@@ -5767,5 +5767,67 @@
     },
     "idea": "國風寫實美女風格的移軸微縮畫面中，奧利奧在一間傳統市場旁的舊文具批發倉庫裡，正把一只紙箱當成秘密基地，前腳扒著箱沿、尾巴豎直，全神貫注地偷撥桌上的橡皮擦和迴紋針。暴風雪朦朧的冷霧從半開鐵門滲入，莫蘭迪色調的木箱、麻布袋與鋁製層架上覆著細密的水彩潑濺墨點，讓整個場景像一座被縮小的真實城市角落。",
     "title": "箱中小搗蛋"
+  },
+  {
+    "style_picks": {
+      "art_style": "Kodak Portra Film",
+      "composition": "Knolling Photography",
+      "lighting": "Harsh Midday Sun",
+      "texture": "Origami",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "number": 123,
+    "crossover": true,
+    "prompt": "Realistic photography, shot on Kodak Portra 400, warm film tones, subtle grain, soft focus, dreamy nostalgic atmosphere, 35mm lens, natural light, shallow depth of field, candid documentary style. In a basement sodium battery testing lab inside the Osaka Science Museum, a tabby cat is clearly shown on a workbench, carefully sniffing with its nose along a knolling layout of miniature battery cells, wires, and a timer, as if inspecting the setup. The research samples are arranged in a clean grid with precise 90-degree angles, flat lay overhead composition mixed with a slightly elevated documentary perspective so the cat is visible. Blue and yellow complementary tools and folded origami labels surround the objects, with sharp geometric paper creases and minimal paper-sculpture accents. Hard midday sunlight pours in diagonally from a high window, creating strong directional sun, hard edge shadows, high contrast natural daylight, and unforgiving illumination that makes each component look like a carefully placed specimen. Include clearly visible Traditional Chinese or English text showing the date and time: '2026-07-14 04:05 UTC'. Gritty urban realism, clean background, crisp lab details, the cat’s tail flicking as it pauses beside an unplugged cell, quiet inventive atmosphere. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration_url": "https://www.livescience.com/news/archive/2026/07",
+    "news_inspiration": [
+      {
+        "summary": "法國出土稀有的鐵製腳鐐，揭示了凱爾特奴隸貿易的古老歷史。",
+        "url": "https://www.livescience.com/news/archive/2026/07",
+        "source": "Live Science"
+      },
+      {
+        "summary": "天文學家在銀河中心附近發現覆盆莓所含的糖分，暗示生命原料在宇宙中可能很常見。",
+        "url": "https://www.livescience.com/news/archive/2026/07",
+        "source": "Live Science"
+      },
+      {
+        "summary": "埃及海岸附近發現18座古埃及墓葬，內含多枚金色「舌頭」陪葬品。",
+        "url": "https://www.livescience.com/news/archive/2026/07",
+        "source": "Live Science"
+      },
+      {
+        "summary": "NASA在國際太空站打造第五態物質的實驗邁出新一步，使用的是微型量子實驗室升級裝置。",
+        "url": "https://www.livescience.com/news/archive/2026/07",
+        "source": "Live Science"
+      },
+      {
+        "summary": "新型鈉金屬電池設計可在4分鐘內充電，且容量維持多年。",
+        "url": "https://www.livescience.com/news/archive/2026/07",
+        "source": "Live Science"
+      }
+    ],
+    "avoid_list": [
+      "淺景深近距離特寫",
+      "貓咪作為主角焦點",
+      "蝴蝶光與對稱陰影",
+      "復古海報風格",
+      "魚眼廣角誇張透視",
+      "黑金奢華配色",
+      "寫實照片感結合插畫",
+      "背景人物柔焦陪襯",
+      "貓用前掌整理紙張",
+      "日落邊緣輪廓光",
+      "霓虹黑光紫藍光暈",
+      "海邊／港口場景",
+      "俯視或低角度構圖",
+      "金箔紙張與亮片元素",
+      "膠片懷舊褪色質感"
+    ],
+    "inspiration": "新型鈉金屬電池設計可在4分鐘內充電，且容量維持多年。",
+    "title": "電芯巡檢",
+    "idea": "在一間位於大阪科學館地下層的鈉電池測試實驗室裡，一隻虎斑貓專心用鼻尖追蹤桌上 knolling 排列的微型電芯、導線與計時器，周圍是藍黃互補色的工具與摺紙標籤；畫面以柯達 Portra 底片質感呈現，硬光日照從高窗斜灑進來，讓每個零件都像被精準擺放的標本。",
+    "story": "研究員剛把「四分鐘快充」的新型鈉金屬電池樣品排開，貓就跳上工作台，在一整列整齊的小零件間輕輕嗅聞，像在巡視一場安靜的發明。它最後停在一顆尚未接線的電芯旁，尾巴一甩，彷彿替這座實驗室下了結論：最靈敏的測試員，永遠是那隻不說話的貓。",
+    "comment_id": 4965303388
   }
 ]
