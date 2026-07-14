@@ -1274,5 +1274,14 @@
     "status": "success",
     "is_seasonal": true,
     "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-14_0805_UTC.webp"
+  },
+  {
+    "number": 128,
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-14_0905_UTC.webp",
+    "title": "港市貓香",
+    "timestamp": "2026-07-14 09:05 UTC",
+    "inspiration": "科學報導提到，貓薄荷乳液在實驗中展現出接近 DEET 的防蚊效果，帶來有趣又實用的天然替代方案。",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success"
   }
 ]

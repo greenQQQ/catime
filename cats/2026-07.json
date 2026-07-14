@@ -6027,5 +6027,65 @@
     "story": "QQQ 聽見冰箱門輕輕一響，先慢吞吞抬起圓臉，接著整隻貓像被開罐頭的聲音召喚似地，晃到騎樓磁磚上繼續翻肚散熱，等人把小魚乾放到牠鼻子前。吃飽後牠發出巨大又滿足的呼嚕聲，尾巴深橘色環紋一節一節輕輕拍著地面，彷彿在宣布：這裡就是牠的夏日天堂。",
     "prompt": "Chromolithograph-style illustration with vibrant saturated colors and multi-layered printing, decorative Art Nouveau/Victorian-era poster composition, full-body vertical portrait, entire figure centered in a tall frame, head-to-toe framing. Depict QQQ, a chubby round-faced classic orange mackerel tabby shorthair cat only: bright orange fur #E8853A with darker orange #C05A1A stripes, clear dark-orange M marking on the forehead, one small white bib patch on chin and upper chest only, dark-orange ringed tail with the darkest tip, large round warm amber eyes #E0A030, soft pink nose, plump rice-ball body, content and slightly goofy expression. The cat is lying on its back sprawled on cool tiled floor under a Tainan old house arcade, belly up, front paws relaxed open, four legs splayed, clearly napping in summer heat and looking like a warmed orange rice ball; include subtle indication that it just came over after the refrigerator door opened and is waiting for dried anchovies near its nose, with a satisfied post-snack mood and gently tapping tail. Show realistic environmental context with old Taiwanese arcade tiles, summer noon atmosphere, Shibori-inspired resist-dyed cloth towels nearby, and warm amber autumn-like grading blended with cozy nostalgic summer heat. Add underwater caustic lighting motifs: rippling light patterns dancing across the cat and floor like refracted sun shafts through water, with blue-green aquatic glow mixed with golden yellows, burnt orange, and amber highlights. Make the scene feel real yet dreamlike, with ornate poster balance and refined decorative elements. Visibly display the date and time text exactly as: “2026-07-14 08:05 UTC” in Traditional Chinese/English signage style integrated into the composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
     "character": "qqq"
+  },
+  {
+    "number": 128,
+    "story": "夜市還沒散，攤主忙著替孩子們測試天然防蚊乳液，玳瑁貓卻被那股氣味吸引，蹲在銅盤旁不停嗅聞，偶爾伸爪去碰一下。幾隻蚊子繞著燈罩飛，貓的尾巴輕輕一甩，像是在替這個喧鬧的港口守住一小塊安靜。",
+    "title": "港市貓香",
+    "prompt": "Dark gothic beauty illustration in a Mucha-style arched frame composition: an ornate rounded arch encloses a busy old-port seaside mosquito-net market tent, with wall-to-wall vines, hanging cloths, decorative border halo, and symmetrical Art Nouveau framing. In the center, a tortoiseshell cat is clearly shown crouching and concentrating, using its paw to push a small bronze dish dusted with catnip lotion, trying to lure mosquitoes away from the stall edge; the cat’s tail flicks as several mosquitoes circle a lamp shade nearby. The scene should feel like decadent macabre elegance mixed with a humid harbor night market. Include a visible date/time sign reading “2026-07-14 09:05 UTC” in Traditional Chinese/English-friendly signage. Rembrandt lighting with a single 45-degree light source, dramatic chiaroscuro, signature triangle of light on the shadowed cheek area, deep shadows, moody crimson accents, and bamboo jade-green / emerald / malachite tones in the curtains and metal utensils. Add visible film grain, analog texture, subtle noise, organic photographic imperfections, lush bamboo shadows, wet sheen, and a slightly romantic yet eerie old-port atmosphere. The cat must be the focal action, actively pushing the bronze dish. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Dark Gothic Beauty Illustration",
+      "composition": "Mucha Arched Frame Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Film Grain",
+      "color_palette": "Bamboo Jade Green"
+    },
+    "idea": "在一座位於舊港口的海風帳篷式蚊帳市集裡，一隻玳瑁貓正專心用爪子推著灑上貓薄荷乳液的小銅盤，試圖把攤位邊緣的蚊子引開；場景以暗黑哥德麗人插畫呈現，穆夏式拱框構圖包住滿牆藤蔓與掛布，倫勃朗光從上方斜落，讓竹影翠綠的布簾與金屬器具在底片顆粒中顯得既華麗又潮濕。",
+    "inspiration": "科學報導提到，貓薄荷乳液在實驗中展現出接近 DEET 的防蚊效果，帶來有趣又實用的天然替代方案。",
+    "comment_id": 4967287350,
+    "avoid_list": [
+      "冷色藍青夜景",
+      "落地窗旁的貓咖啡廳",
+      "窗邊梳毛蓬鬆特寫",
+      "螺旋漩渦構圖",
+      "硬光直打閃光燈",
+      "魚眼廣角變形",
+      "移軸微縮場景",
+      "紙藝立體模型",
+      "莫蘭迪霧感配色",
+      "三點打光輪廓光",
+      "淺景深近距離特寫",
+      "木棧道追逐奔跑",
+      "機房維修通道巡查",
+      "黑白虎斑貓主角",
+      "日期時間文字標示"
+    ],
+    "news_inspiration": [
+      {
+        "summary": "研究顯示，世界上最快的蜘蛛之一其速度遠超先前想像，讓人重新認識牠的獵食與移動能力。",
+        "url": "https://www.theguardian.com/science/all",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "AP 報導指出，世界盃正激勵許多孩子嘗試新運動，也讓家長重新思考如何用健康方式支持孩子參與體育。",
+        "url": "https://apnews.com/article/77970b7cc380aaee18d21fcc2dee387b",
+        "source": "Associated Press"
+      },
+      {
+        "summary": "大都會博物館下一檔大型展覽將以時尚連結各種藝術史作品，呈現服裝如何成為藝術的一部分。",
+        "url": "https://apnews.com/article/a6e5458e4c6ce7f22fe043cddedba3df",
+        "source": "Associated Press"
+      },
+      {
+        "summary": "科學報導提到，貓薄荷乳液在實驗中展現出接近 DEET 的防蚊效果，帶來有趣又實用的天然替代方案。",
+        "url": null,
+        "source": "The Guardian"
+      },
+      {
+        "summary": "The Guardian 的科技版面近期聚焦 AI 與媒體、鳥鳴解碼等題材，反映科技如何持續改變我們理解世界的方式。",
+        "url": "https://www.theguardian.com/technology/technology%2Bscience/science",
+        "source": "The Guardian"
+      }
+    ]
   }
 ]
