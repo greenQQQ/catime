@@ -6152,5 +6152,39 @@
     "number": 129,
     "inspiration_url": "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2026/",
     "season": "summer"
+  },
+  {
+    "news_inspiration": [],
+    "prompt": "Illustration/art of a driftwood assemblage sculpture workshop inside a harbor warehouse, with a four-legged tabby cat crouching beside a long guiding line of timber, nose close to a rolling red yarn ball, one paw lightly touching it as if checking it, clearly visible and central. Long wooden beams, scattered gilt lacquer brushes, and half-finished driftwood artworks on the table; the scene uses strong leading lines and converging perspective to guide the eye toward the wall, architectural path-driven framing, strong directional depth. Rembrandt lighting from a high window at 45 degrees, dramatic chiaroscuro with a triangular highlight on the cat’s shadowed cheek. Rich impasto oil texture, thick palette-knife strokes, raised paint ridges, visible brush gestures, realistic tactile surface. Color palette of vermilion, cinnabar red, and metallic gold with elegant lacquer-like warmth. Include the date and time clearly displayed in Traditional Chinese or English as: 2026-07-14 11:05 UTC. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "original",
+    "comment_id": 4968506452,
+    "avoid_list": [
+      "魚眼廣角與強烈桶狀變形",
+      "微縮移軸場景",
+      "工作台邊嗅聞零件",
+      "四腳貓專注巡查",
+      "霓虹賽博地下維修走廊",
+      "午夜藍紫主色調",
+      "三點打光側逆光",
+      "月光鏡面倒影地面",
+      "復古底片顆粒質感",
+      "穆夏式拱框構圖",
+      "傍晚屋頂金屬質感",
+      "傳統市場旁老屋場景",
+      "地鐵站出口鏡面販賣機",
+      "秋日琥珀暖色調",
+      "風扇聲與靜默氛圍"
+    ],
+    "style_picks": {
+      "art_style": "Driftwood Assemblage Sculpture",
+      "composition": "Leading Lines Composition",
+      "lighting": "Rembrandt Lighting",
+      "texture": "Impasto Oil Texture",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "idea": "在一座位於海港倉庫內的漂流木雕塑工作坊裡，一隻四腳虎斑貓正蹲在長長的木材導引線旁，用鼻尖盯著滾落的紅色線團，桌面上散著鎏金漆筆與半完成的漂流木作品；畫面以引導線構圖把視線帶向牆邊，倫勃朗光從高窗斜落，讓朱紅與金色在厚塗油彩肌理般的真實表面上發亮。",
+    "number": 130,
+    "story": "牠原本只是跟著木屑味走進來，卻在師傅調整雕塑骨架時，安靜地守在那團線旁邊。每當紅線被風吹動一下，牠就輕輕伸爪碰一下，像是在替這座倉庫裡的漂流木作品做最後的檢查。",
+    "title": "紅線工坊"
   }
 ]

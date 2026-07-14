@@ -1297,5 +1297,14 @@
     "inspiration_url": "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2026/",
     "season": "summer",
     "status": "success"
+  },
+  {
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-14_1105_UTC.webp",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "number": 130,
+    "inspiration": "original",
+    "status": "success",
+    "timestamp": "2026-07-14 11:05 UTC",
+    "title": "紅線工坊"
   }
 ]
