@@ -5989,5 +5989,43 @@
     "number": 126,
     "story": "牠原本只是跟著香味一路走到這座老站，卻在出口處被一張掉落的手繪地圖絆住了注意力。燭光從販賣機旁的小祭臺微微晃動，照見牠專注翻找路線的模樣，也照見那位阿嬤笑著停下腳步，替牠把地圖角落壓平。",
     "prompt": "Retro shoujo manga illustration in nostalgic 1970s–80s girls'-comic style, delicate screentone, sparkling big-eyed charm, intimate close-up composition with a mirror-reflection scene: an orange cat stands beside a subway station exit, pressing one front paw on a crumpled hand-drawn map and carefully comparing the corner directions, clearly focused and expressive. Next to it is an old mirrored vending machine; in the mirror, reflect an elderly grandmother holding a vegetable basket, a small altar with warm candlelight, and the cat’s back view, with the grandmother smiling as she flattens the map’s corner. Show the date and time clearly in Traditional Chinese or English text: '2026-07-14 07:05 UTC'. Warm orange flickering glow, soft dancing shadows, candlelight, cozy intimate atmosphere, warm amber color grading, autumn palette of golden yellows and burnt orange, floral background accents mixed with raw concrete wall texture, visible rough aggregate surface, brutalist urban minimalism, nostalgic vintage girls'-comic styling, mirror selfie composition, casual framing, visible reflection, urban station exit details, subtle retro signage in Traditional Chinese, refined linework and screen tones, sentimental autumn mood IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "comment_id": 4966793747,
+    "number": 127,
+    "idea": "以彩色石版印刷呈現一隻經典橘貓 QQQ，圓潤微胖的全身居中直幅構圖，四腳攤在台南老屋騎樓的磁磚地板上納涼，肚子朝天、前掌鬆鬆攤開，像一顆被陽光烘暖的橘色飯糰。地面映著水下焦散光般的斑斕光影，搭配絞染布巾與暖色調琥珀、秋日色彩，畫面真實又充滿夏日熱氣。",
+    "title": "騎樓納涼貓",
+    "inspiration": "original",
+    "season": "summer",
+    "character_name": "QQQ",
+    "style_picks": {
+      "art_style": "Chromolithography",
+      "composition": "Full-Body Vertical Portrait",
+      "lighting": "Underwater Caustics",
+      "texture": "Shibori Textile",
+      "color_palette": "Warm Tones (Amber / Autumn)"
+    },
+    "is_seasonal": true,
+    "news_inspiration": [],
+    "avoid_list": [
+      "冷色藍青夜景",
+      "落地窗旁的貓咖啡廳",
+      "窗邊梳毛蓬鬆特寫",
+      "螺旋漩渦構圖",
+      "硬光直打閃光燈",
+      "魚眼廣角變形",
+      "移軸微縮場景",
+      "紙藝立體模型",
+      "莫蘭迪霧感配色",
+      "三點打光輪廓光",
+      "淺景深近距離特寫",
+      "木棧道追逐奔跑",
+      "機房維修通道巡查",
+      "黑白虎斑貓主角",
+      "日期時間文字標示"
+    ],
+    "story": "QQQ 聽見冰箱門輕輕一響，先慢吞吞抬起圓臉，接著整隻貓像被開罐頭的聲音召喚似地，晃到騎樓磁磚上繼續翻肚散熱，等人把小魚乾放到牠鼻子前。吃飽後牠發出巨大又滿足的呼嚕聲，尾巴深橘色環紋一節一節輕輕拍著地面，彷彿在宣布：這裡就是牠的夏日天堂。",
+    "prompt": "Chromolithograph-style illustration with vibrant saturated colors and multi-layered printing, decorative Art Nouveau/Victorian-era poster composition, full-body vertical portrait, entire figure centered in a tall frame, head-to-toe framing. Depict QQQ, a chubby round-faced classic orange mackerel tabby shorthair cat only: bright orange fur #E8853A with darker orange #C05A1A stripes, clear dark-orange M marking on the forehead, one small white bib patch on chin and upper chest only, dark-orange ringed tail with the darkest tip, large round warm amber eyes #E0A030, soft pink nose, plump rice-ball body, content and slightly goofy expression. The cat is lying on its back sprawled on cool tiled floor under a Tainan old house arcade, belly up, front paws relaxed open, four legs splayed, clearly napping in summer heat and looking like a warmed orange rice ball; include subtle indication that it just came over after the refrigerator door opened and is waiting for dried anchovies near its nose, with a satisfied post-snack mood and gently tapping tail. Show realistic environmental context with old Taiwanese arcade tiles, summer noon atmosphere, Shibori-inspired resist-dyed cloth towels nearby, and warm amber autumn-like grading blended with cozy nostalgic summer heat. Add underwater caustic lighting motifs: rippling light patterns dancing across the cat and floor like refracted sun shafts through water, with blue-green aquatic glow mixed with golden yellows, burnt orange, and amber highlights. Make the scene feel real yet dreamlike, with ornate poster balance and refined decorative elements. Visibly display the date and time text exactly as: “2026-07-14 08:05 UTC” in Traditional Chinese/English signage style integrated into the composition. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "character": "qqq"
   }
 ]

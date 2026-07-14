@@ -1261,5 +1261,18 @@
     "title": "鏡前尋路",
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "inspiration": "original"
+  },
+  {
+    "number": 127,
+    "timestamp": "2026-07-14 08:05 UTC",
+    "character": "qqq",
+    "title": "騎樓納涼貓",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "inspiration": "original",
+    "season": "summer",
+    "character_name": "QQQ",
+    "status": "success",
+    "is_seasonal": true,
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-14_0805_UTC.webp"
   }
 ]
