@@ -6592,5 +6592,55 @@
       "color_palette": "High Saturation Vivid"
     },
     "prompt": "A panoramic Chinese scroll painting of an Antarctic seabird research station’s platform and ice shoreline, composed like a Song dynasty jie hua architectural scroll with meticulous linework, orthographic projection, and no perspective distortion, flattening the entire scene into a city-long-scroll tableau. Traditional aged silk texture with muted pigments plus high-saturation vivid accents, energetic contrast, and countless tiny daily-life details. Three-point lighting illuminates the wet cold metal equipment and puddled ground: key light with soft shadows, fill light, and subtle rim light separation. Mirror-like standing water reflects colorful flags, a searchlight, and distant flying seabirds with a glassy inverted image and gentle ripples. In the foreground, a four-legged tabby cat is clearly visible, standing on the supply platform edge and intently sniffing the researcher's recently placed insulated cooler box with its nose, as if inspecting the sample bags and marked specimens inside; the cat’s posture is focused and curious, clearly performing the described activity. Nearby, wet wooden posts for seabird perches, rolling record tags, sample crates, trackers, cable reels, and scientific gear suggest a busy breakfast-time research station. Include the date and time displayed clearly in Traditional Chinese or English within the scene: “2026-07-15 08:05 UTC”. Serene yet active Antarctic atmosphere, Chinese panoramic scroll painting, technical illustration style, oblique aerial feeling, vivid but traditional colors, reflective sheen, detailed daily life at the station. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "title": "地鐵追票",
+    "avoid_list": [
+      "四腳貓為主角",
+      "貓用爪子輕推物件",
+      "貓低頭專注凝視",
+      "側臉特寫構圖",
+      "導引線與分割構圖",
+      "配色條調色盤邊框",
+      "倫勃朗斜角光",
+      "高窗自然漫射光",
+      "粉彩編輯攝影風",
+      "復古褪色色調",
+      "金黑奢華空間",
+      "港口倉庫場景",
+      "溫室夜景微光",
+      "紙藝立體場景",
+      "像素藝術分割畫面"
+    ],
+    "comment_id": 4978868861,
+    "news_inspiration": [
+      {
+        "summary": "抱歉，我目前無法可靠找到符合你條件、且可驗證為最近 24–48 小時內的 3–5 則世界新聞文章網址。",
+        "url": null,
+        "source": "null"
+      },
+      {
+        "summary": "我已嘗試搜尋科學、文化、體育與科技等正向題材，但可直接核對的即時文章結果不足。",
+        "url": null,
+        "source": "null"
+      },
+      {
+        "summary": "若你願意，我可以改用更窄的媒體範圍或只找特定主題，再整理成你要的 JSON。",
+        "url": null,
+        "source": "null"
+      }
+    ],
+    "prompt": "Embossed embroidered illustration on linen fabric of a Tokyo subway car corner at early morning, visible needlework, satin stitch and French knots, handcrafted textile art. A four-legged white cat is clearly chasing with its nose a wind-lifted folded map corner and a fallen platform ticket stub along the narrow gap between seats, tail slightly raised, not looking at people. The scene is set inside a real subway carriage with passengers half-asleep, handrails, windows showing a tunnel rhythm outside, and a central electronic ad board casting a narrow spotlight down onto the cat. Spiral vortex composition with strong rotational perspective, centered vanishing point, dizzying depth, passengers, rails, and tunnel lines coiling in a circular motion around the subject; cinematic low angle, dramatic high-contrast lighting, sharp light edges, deep darkness falloff. Blue and yellow complementary palette, vivid contrasting cool blue and warm yellow, bold balanced energy. Fine black brush lines edged with metallic gold, gilded ink outline texture, lustrous gilt contours, ornamental hand-drawn detailing on dark ground. Include clearly legible text in Traditional Chinese or English showing the date and time: \"2026-07-15 09:05 UTC\" displayed on the subway electronic board or a nearby sign. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Embroidery",
+      "composition": "Spiral Vortex Frame",
+      "lighting": "Spotlight",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "number": 142,
+    "idea": "在東京地鐵車廂的轉角，一隻四腳白貓正專心用鼻尖追著掉落的月台票根，車廂中央的電子廣告牌照下來形成聚光燈，整個畫面以刺繡質感呈現，搭配藍黃互補色與描金墨線，螺旋漩渦構圖把乘客、扶手與車窗外的隧道節奏捲成一圈。貓不是在看人，而是在追著一張被風捲起的地圖摺角，像是準備在下一站跳下去找一個秘密出口。",
+    "inspiration": "original",
+    "story": "早班列車進站時，車廂裡的乘客還沒完全醒來，只有那隻白貓先注意到地上飄來的票根。它沿著座椅間的狹窄縫隙一路追趕，尾巴微微翹起，像在解開一個只有地鐵才懂的謎題。"
   }
 ]
