@@ -1418,5 +1418,18 @@
     "number": 142,
     "inspiration": "original",
     "model": "gpt-image-2 (codex-image-service / $imagegen)"
+  },
+  {
+    "is_seasonal": true,
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-15_1005_UTC.webp",
+    "season": "summer",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "status": "success",
+    "title": "晚霞守望",
+    "number": 143,
+    "character_name": "布藍里",
+    "character": "blanli",
+    "timestamp": "2026-07-15 10:05 UTC",
+    "inspiration": "original"
   }
 ]
