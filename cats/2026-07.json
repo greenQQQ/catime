@@ -6903,5 +6903,61 @@
       "地鐵維修車廂或車庫",
       "老街雜貨店門口"
     ]
+  },
+  {
+    "number": 148,
+    "inspiration": "天文攝影師獎 2026 入圍作品公開，呈現銀河與星空的壯麗視覺。",
+    "comment_id": 4982161890,
+    "idea": "在一座位於海邊懸崖上的天文台溫室裡，一隻四腳橘貓正蹲坐在巨大的磨砂玻璃星圖圓桌旁，專心用鼻尖追著桌面上旋轉投影般的金黃光斑看銀河資料；整體以錦鯉浮世繪美人風格呈現，藍黃互補色在星雲輝光中交錯，並以遞迴／德羅斯特效應讓牆上拱窗內一層層映出更小的天文台。",
+    "title": "星廳貓影",
+    "style_picks": {
+      "art_style": "Koi Ukiyo-e Beauty",
+      "composition": "Recursive / Droste Effect",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Frosted Glass",
+      "color_palette": "Blue and Yellow Complementary"
+    },
+    "prompt": "Neo-ukiyo-e illustration of a seaside cliff observatory greenhouse at night, with a four-legged orange cat crouched beside a large frosted glass star-map round table, actively following a rotating projected golden light spot with its nose and paw as it studies Milky Way data; the cat is clearly the main subject and is shown circling the table edge while gazing up at the ceiling star chart. An observatory attendant in the background places a galaxy photo beneath the translucent matte glass, while the cat presses a paw to the light-shadow edge as if guarding a secret. Bold flowing outlines, flat decorative color areas, ornamental Japanese woodblock-inspired styling, elegant beauty-illustration composition, swirling koi and wave motifs integrated into the greenhouse architecture, recursive Droste effect with arched windows repeating smaller and smaller observatories inside, picture-within-a-picture self-referential loop. Nebula cosmic glow, soft colorful starfield illumination, glowing particles and galactic haze, blue and yellow complementary palette with vivid contrasting cool blue and warm yellow, balanced graphic vibrancy, frosted glass texture and diffused light transmission. Include clearly visible Traditional Chinese or English date/time text: '2026-07-15 15:05 UTC' displayed on a small observatory plaque or screen within the scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "四腳虎斑貓專注巡視",
+      "前爪按住物件的維修姿勢",
+      "夜間工作場景",
+      "透明霓光與冷暖對比",
+      "配色條邊框構圖",
+      "分割畫面雙場景",
+      "百葉窗條紋光影",
+      "長卷式展開構圖",
+      "手作紙藝立體景",
+      "刺繡布面質感",
+      "藍青紫冷色調",
+      "螢光微粒與夢幻光點",
+      "便利商店自助微波區",
+      "地鐵維修車廂或車庫",
+      "老街雜貨店門口"
+    ],
+    "news_inspiration": [
+      {
+        "summary": "《世界盃》四分之一決賽精彩照片集展現球迷熱情與賽場張力，畫面非常吸睛。",
+        "url": "https://apnews.com/article/4396211a892584579eb924e0f0291f22",
+        "source": "Associated Press"
+      },
+      {
+        "summary": "天文攝影師獎 2026 入圍作品公開，呈現銀河與星空的壯麗視覺。",
+        "url": "https://www.theguardian.com/technology/technology%2Bscience/science",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "《Live Science》七月科學新聞回顧提到多個有趣發現，包含巨型樹冠、古代人類文化與天文新觀測。",
+        "url": "https://www.livescience.com/space/science-news-this-week-james-webb-telescope-finds-a-never-before-seen-substance-chinas-great-green-wall-grows-faster-than-natural-trees-and-a-medici-murder-mystery-is-solved",
+        "source": "Live Science"
+      },
+      {
+        "summary": "《Nature》最新科學新聞整理涵蓋前沿研究與自然相關主題，內容新鮮又有知識性。",
+        "url": "https://www.nature.com/news",
+        "source": "Nature"
+      }
+    ],
+    "story": "今晚的海風很安靜，只有溫室裡的儀器輕輕嗡鳴，那隻貓沿著圓桌邊緣緩慢繞行，時不時停下來凝視天頂的星圖。值班的觀測員笑著把一張銀河照片放到磨砂玻璃下，貓立刻把爪子按在光影邊緣，像是在替這座小小宇宙保守秘密。",
+    "inspiration_url": "https://www.theguardian.com/technology/technology%2Bscience/science"
   }
 ]
