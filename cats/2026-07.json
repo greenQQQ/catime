@@ -6835,5 +6835,39 @@
     },
     "character_name": "雪球",
     "inspiration": "original"
+  },
+  {
+    "comment_id": 4980945674,
+    "prompt": "35mm film photography, real photograph, vertical East Asian movie poster composition with a side calligraphy panel and ornamental border elements, photorealistic central focal point. Inside an old observatory at midnight, a four-legged orange cat is crouching beside the circular dome observation window, actively following a rolled star chart paper strip with its nose, carefully tracing the curled edge as if helping organize tonight’s constellation route; the cat must be clearly visible doing this action. Moonlight spills from the dome edge across metallic instruments and a stone floor, cool blue-green shadows with teal and orange cinematic grading, warm orange fur against silvery moonlit highlights, clean punchy contrast, nostalgic film look, visible grain, slight vignette, shallow depth of field, 35mm lens, f/1.8, candid natural lighting. Add subtle sparkle and glitter only on the glass reflections and along the cat’s fur edges, with tiny star-shaped highlights and shimmering particles, not overdone. Include Traditional Chinese text in the image as part of the poster design, clearly displaying: 「2026-07-15 13:05 UTC」. Quiet nighttime atmosphere, layered depth, realistic textures, no illustration look. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "35mm Film Photography",
+      "composition": "Vertical Calligraphy Poster",
+      "lighting": "Moonlight",
+      "texture": "Sparkle Glitter Accents",
+      "color_palette": "Teal and Orange"
+    },
+    "story": "午夜的天文台只剩輪替值班的研究員和一隻常來巡門的貓。今天牠盯上了散落的星圖紙帶，沿著紙張蜷起的邊緣一格一格聞過去，最後安靜坐在觀測窗下，像替誰守住了今晚的方向。",
+    "avoid_list": [
+      "四腳虎斑貓專注巡視",
+      "前爪按住物件的維修姿勢",
+      "夜間工作場景",
+      "透明霓光與冷暖對比",
+      "配色條邊框構圖",
+      "分割畫面雙場景",
+      "百葉窗條紋光影",
+      "長卷式展開構圖",
+      "手作紙藝立體景",
+      "刺繡布面質感",
+      "藍青紫冷色調",
+      "螢光微粒與夢幻光點",
+      "便利商店自助微波區",
+      "地鐵維修車廂或車庫",
+      "老街雜貨店門口"
+    ],
+    "news_inspiration": [],
+    "idea": "35mm底片攝影的直式書法海報構圖中，一隻四腳橘貓蹲在古老天文台的圓頂觀測窗旁，專心用鼻尖追著地上的星圖紙帶，像是在幫忙整理今晚要觀測的星座路線。月光從穹頂邊緣灑落，青橙電影調把金屬儀器與石造地板映得乾淨利落，細微的閃光亮粉效果只在玻璃反光與貓毛邊緣閃一下。",
+    "inspiration": "original",
+    "title": "星圖窗下",
+    "number": 146
   }
 ]
