@@ -1366,5 +1366,13 @@
     "model": "gpt-image-2 (codex-image-service / $imagegen)",
     "number": 136,
     "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-15_0328_UTC.webp"
+  },
+  {
+    "url": null,
+    "error": "codex-image-service job failed: Codex timed out after 360 seconds",
+    "number": null,
+    "model": "all failed",
+    "status": "failed",
+    "timestamp": "2026-07-15 04:05 UTC"
   }
 ]
