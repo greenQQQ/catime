@@ -6411,5 +6411,66 @@
     "comment_id": 4971345644,
     "story": "凌晨的車庫很安靜，只有冷氣與遠處列車測試聲，虎斑貓在一排整齊工具中來回巡看，像是牠在替技師把關每一顆螺絲。當工作燈一亮，貓便低頭盯住那顆鬆動的螺帽，尾巴輕輕擺動，整個場景像一幅被精準整理過的都市節奏。",
     "news_inspiration": []
+  },
+  {
+    "news_inspiration": [
+      {
+        "summary": "太空攝影捕捉到 SpaceX 發射在夜空中形成夢幻「水母」光影。",
+        "url": "https://www.space.com/space-exploration/spacex-launch-creates-colorful-jellyfish-in-the-night-sky-space-photo-of-the-day-for-july-10-2026",
+        "source": "Space.com"
+      },
+      {
+        "summary": "從太空看，巴哈馬群島的藍綠色海水展現出極為鮮明的熱帶色彩。",
+        "url": "https://www.space.com/astronomy/earth/take-a-trip-to-the-turquoise-waters-of-the-bahamas-from-space-space-photo-of-the-day-for-july-9-2026",
+        "source": "Space.com"
+      },
+      {
+        "summary": "科學家首次在現場觀察到海底裂谷張開並噴出熔岩，記錄到地殼真實變動。",
+        "url": "https://www.nature.com/articles/d41586-026-02006-7",
+        "source": "Nature"
+      },
+      {
+        "summary": "本週科學新聞聚焦迷你宇宙、人工增厚北極海冰等令人好奇的前沿研究。",
+        "url": "https://www.livescience.com/physics-mathematics/science-news-this-week-time-emerges-inside-a-mini-universe-scientists-thicken-arctic-ice-and-one-of-the-oldest-graves-of-a-free-black-person-in-the-us-found",
+        "source": "Live Science"
+      },
+      {
+        "summary": "藝術週報帶來涵蓋展覽、影像與創作的多元亮點，畫面感與文化性都很強。",
+        "url": "https://www.theguardian.com/artanddesign/series/art-weekly",
+        "source": "The Guardian"
+      }
+    ],
+    "avoid_list": [
+      "老屋屋頂晚霞",
+      "雙重曝光剪影",
+      "復古少女漫畫風",
+      "穆夏式拱框構圖",
+      "倫勃朗側光",
+      "金黑奢華大廳",
+      "色鉛筆故事分格",
+      "粉彩編輯攝影",
+      "夜間溫室蘭花",
+      "配色條邊框",
+      "老港口夜市",
+      "粗糙混凝土牆",
+      "暖琥珀秋色",
+      "貓用前爪輕推物件"
+    ],
+    "idea": "在一間24小時便利商店門口的自助微波區，奧利奧正把頭鑽進一個被丟棄的紙箱裡，尾巴豎得筆直，黃綠色眼睛警覺地盯著旁邊掉落的罐頭蓋；畫面以蒸氣波風格呈現，冷色調藍青霓光映著店內燭光般溫暖的櫃檯反射，搭配對角線構圖與描金墨線質感，讓牠像巷口最會闖禍的小紳士一樣成為整張畫面的主角。",
+    "title": "箱影夜巡",
+    "style_picks": {
+      "art_style": "Vaporwave",
+      "composition": "Diagonal Composition",
+      "lighting": "Candlelight",
+      "texture": "Gilded Ink Outline",
+      "color_palette": "Cool Tones (Blue / Teal)"
+    },
+    "number": 136,
+    "story": "奧利奧半夜又跑來便利商店巡邏，先把自己塞進紙箱，接著對桌邊的小零件起了興趣，把一枚瓶蓋撥到地上，然後歪著頭等人來撿。店員和路人都忍不住笑，因為牠那身黑白小燕尾服配上無辜眼神，永遠像在說：我只是幫大家整理一下。",
+    "character_name": "奧利奧",
+    "character": "oreo",
+    "comment_id": 4976620410,
+    "inspiration": "original",
+    "prompt": "Illustration / digital art in vaporwave aesthetic: Oreo, a lean agile tuxedo cat with glossy jet-black shorthair and crisp white bib, chin, muzzle, belly, and four white socks, black ears and head, fully black tail held straight up, round yellow-green eyes, small black nose, mischievous alert expression, literally a cat with four legs, no clothing or accessories. Scene: at the self-service microwave area outside a 24-hour convenience store entrance at midnight, Oreo has pushed his head into a discarded cardboard box, tail vertical, staring intently at a fallen bottle cap nearby, playful troublemaker vibe like a small dapper gentleman of the alley. Include the date and time clearly visible in Traditional Chinese or English text: “2026-07-15 03:28 UTC”. Composition: dramatic diagonal composition, tilted framing, off-axis tension, kinetic visual flow, dynamic slanted lines, Oreo as the main focal point. Lighting and color: cool blue-teal icy undertones with pastel pink and cyan vaporwave gradients, neon reflections from the store, warm orange candlelight-like glow from the counter, soft flickering shadows, serene yet energetic mood. Style details: retro 80s digital elements, Greek statues-inspired vaporwave accents, gilded ink outline texture, fine black brush lines edged with metallic gold, lustrous gilt contours, ornamental hand-drawn detailing on dark ground, crisp atmosphere, subtle steam and reflective surfaces. Background shows convenience store signage and microwave station in Traditional Chinese or English, with the cat clearly visible and central. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
