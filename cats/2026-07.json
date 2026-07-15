@@ -6532,5 +6532,65 @@
     "inspiration": "英國《衛報》報導，人工智慧與資料中心的耗電與擴張，引發全球科技產業對能源與基礎建設的新一輪關注。",
     "title": "霧海機房",
     "number": 139
+  },
+  {
+    "news_inspiration": [
+      {
+        "summary": "科學家在銀河系中心附近的星際空間偵測到一種四碳糖分子，為生命起源研究帶來新線索。",
+        "url": "https://www.nature.com/articles/d41586-026-02173-5",
+        "source": "Nature"
+      },
+      {
+        "summary": "澳洲研究團隊正將無尾熊卵子與精子深度冷凍作為基因備份，希望降低物種未來滅絕風險。",
+        "url": "https://www.livescience.com/animals/land-mammals/scientists-are-deep-freezing-koala-eggs-and-sperm-to-protect-the-species-from-extinction",
+        "source": "Live Science"
+      },
+      {
+        "summary": "研究人員在黑猩猩的不同社群中觀察到多樣化的擴香與敲擊行為，顯示牠們可能有比想像中更豐富的「文化」。",
+        "url": "https://www.science.org/doi/10.1126/science.adi2642",
+        "source": "Science"
+      },
+      {
+        "summary": "最新研究指出，海底地殼形成過程首次被直接觀測到，科學家得以一窺海洋板塊如何裂開並生成新岩石。",
+        "url": "https://www.nature.com/articles/d41586-026-02173-5",
+        "source": "Nature"
+      },
+      {
+        "summary": "研究顯示，南極附近一些海鳥正因氣候變遷而改變覓食路徑與繁殖節奏，呈現自然界適應環境變化的奇特樣貌。",
+        "url": null,
+        "source": "N/A"
+      }
+    ],
+    "number": 141,
+    "title": "冰岸巡檢",
+    "comment_id": 4978323590,
+    "inspiration": "研究顯示，南極附近一些海鳥正因氣候變遷而改變覓食路徑與繁殖節奏，呈現自然界適應環境變化的奇特樣貌。",
+    "story": "研究站的早餐時間總是很忙，這隻貓每天都會準時跳上補給台邊緣，檢查研究員拆封的標本袋與紙箱縫隙，像在巡視整個港灣的秩序。今天牠追著一只被風吹滾的紀錄牌穿過積水，最後停在海鳥停棲的木樁旁，看著人類把新的追蹤器裝進保冷箱，彷彿也在替這片冰海守護一場緩慢的適應。",
+    "avoid_list": [
+      "四腳貓為主角",
+      "貓用爪子輕推物件",
+      "貓低頭專注凝視",
+      "側臉特寫構圖",
+      "導引線與分割構圖",
+      "配色條調色盤邊框",
+      "倫勃朗斜角光",
+      "高窗自然漫射光",
+      "粉彩編輯攝影風",
+      "復古褪色色調",
+      "金黑奢華空間",
+      "港口倉庫場景",
+      "溫室夜景微光",
+      "紙藝立體場景",
+      "像素藝術分割畫面"
+    ],
+    "idea": "以清明上河圖式長卷描繪一座南極海鳥研究站的月台與冰岸，正交投影將整個場景攤開如城市長卷，三點打光打亮濕冷的金屬設備與積水地面；一隻四腳虎斑貓正專心用鼻尖嗅聞研究員剛放下的保冷箱，保冷箱內是為海鳥食物路徑與繁殖節奏做標記的樣本，地面鏡面水反射出彩色旗標、探照燈與遠處飛掠的海鳥。",
+    "style_picks": {
+      "art_style": "Chinese Panoramic Scroll Painting",
+      "composition": "Orthographic Projection",
+      "lighting": "Three-Point Lighting",
+      "texture": "Mirror Water Reflection",
+      "color_palette": "High Saturation Vivid"
+    },
+    "prompt": "A panoramic Chinese scroll painting of an Antarctic seabird research station’s platform and ice shoreline, composed like a Song dynasty jie hua architectural scroll with meticulous linework, orthographic projection, and no perspective distortion, flattening the entire scene into a city-long-scroll tableau. Traditional aged silk texture with muted pigments plus high-saturation vivid accents, energetic contrast, and countless tiny daily-life details. Three-point lighting illuminates the wet cold metal equipment and puddled ground: key light with soft shadows, fill light, and subtle rim light separation. Mirror-like standing water reflects colorful flags, a searchlight, and distant flying seabirds with a glassy inverted image and gentle ripples. In the foreground, a four-legged tabby cat is clearly visible, standing on the supply platform edge and intently sniffing the researcher's recently placed insulated cooler box with its nose, as if inspecting the sample bags and marked specimens inside; the cat’s posture is focused and curious, clearly performing the described activity. Nearby, wet wooden posts for seabird perches, rolling record tags, sample crates, trackers, cable reels, and scientific gear suggest a busy breakfast-time research station. Include the date and time displayed clearly in Traditional Chinese or English within the scene: “2026-07-15 08:05 UTC”. Serene yet active Antarctic atmosphere, Chinese panoramic scroll painting, technical illustration style, oblique aerial feeling, vivid but traditional colors, reflective sheen, detailed daily life at the station. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
   }
 ]
