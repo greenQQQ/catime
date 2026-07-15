@@ -6472,5 +6472,65 @@
     "comment_id": 4976620410,
     "inspiration": "original",
     "prompt": "Illustration / digital art in vaporwave aesthetic: Oreo, a lean agile tuxedo cat with glossy jet-black shorthair and crisp white bib, chin, muzzle, belly, and four white socks, black ears and head, fully black tail held straight up, round yellow-green eyes, small black nose, mischievous alert expression, literally a cat with four legs, no clothing or accessories. Scene: at the self-service microwave area outside a 24-hour convenience store entrance at midnight, Oreo has pushed his head into a discarded cardboard box, tail vertical, staring intently at a fallen bottle cap nearby, playful troublemaker vibe like a small dapper gentleman of the alley. Include the date and time clearly visible in Traditional Chinese or English text: “2026-07-15 03:28 UTC”. Composition: dramatic diagonal composition, tilted framing, off-axis tension, kinetic visual flow, dynamic slanted lines, Oreo as the main focal point. Lighting and color: cool blue-teal icy undertones with pastel pink and cyan vaporwave gradients, neon reflections from the store, warm orange candlelight-like glow from the counter, soft flickering shadows, serene yet energetic mood. Style details: retro 80s digital elements, Greek statues-inspired vaporwave accents, gilded ink outline texture, fine black brush lines edged with metallic gold, lustrous gilt contours, ornamental hand-drawn detailing on dark ground, crisp atmosphere, subtle steam and reflective surfaces. Background shows convenience store signage and microwave station in Traditional Chinese or English, with the cat clearly visible and central. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "prompt": "A cinematic paper diorama illustration of a storm-lashed data center machine room on a cliff above the North Sea coast, built as a three-dimensional layered paper sculpture with pop-up book aesthetic, laser-cut silhouettes, soft textured paper cliffs and industrial structures, tiny engineers bundled against the wind for scale, dwarfed by gigantic wind turbines and heat towers. Neon fluorescent cooling pipes in electric pink, lime green, and hot cyan snake across the scene, partially swallowed by a blizzard haze and fogged distance, with muted diffused daylight and cold blue-white storm lighting. In the foreground, a small four-legged black-and-white cat is clearly visible, head lowered and intently chasing water splashes on the wet floor near a drainage nozzle, watching the bursting droplets and flying spray frozen mid-motion in crystalline arcs with wet highlights sparkling between the paper layers. Blue-green warning lights reflect in puddles along the edge. Include the date and time clearly displayed in Traditional Chinese or English as visible signage: “2026-07-15 06:05 UTC”. Dramatic size contrast, lonely epic framing, heavy falling snow veil, atmospheric weather mood, backlit glow through translucent layers, dynamic water splash texture, miniature handmade landscape, highly detailed paper craft scene. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "老屋屋頂晚霞",
+      "雙重曝光剪影",
+      "復古少女漫畫風",
+      "穆夏式拱框構圖",
+      "倫勃朗側光",
+      "金黑奢華大廳",
+      "色鉛筆故事分格",
+      "粉彩編輯攝影",
+      "夜間溫室蘭花",
+      "配色條邊框",
+      "老港口夜市",
+      "粗糙混凝土牆",
+      "暖琥珀秋色",
+      "貓用前爪輕推物件"
+    ],
+    "comment_id": 4977454800,
+    "style_picks": {
+      "art_style": "Paper Diorama Layered Scene",
+      "composition": "Tiny Figure Scale Contrast",
+      "lighting": "Snowstorm Haze",
+      "texture": "Dynamic Water Splash",
+      "color_palette": "Neon Fluorescent"
+    },
+    "news_inspiration": [
+      {
+        "summary": "科學家警告，蘇富比拍賣一具高達數百萬美元的暴龍骨架，可能讓珍稀化石更難用於研究。",
+        "url": "https://www.theguardian.com/science/2026/jul/14/sale-of-multimillion-dollar-t-rex-skeleton-is-big-headache-for-scientists",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "英國《衛報》報導，人工智慧與資料中心的耗電與擴張，引發全球科技產業對能源與基礎建設的新一輪關注。",
+        "url": "https://www.theguardian.com/technology/2026/jul/14/ibm-loses-quarter-of-its-value-as-tech-giants-shares-plunge-and-profits-falter",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "世界盃 2026 半決賽前夕，英國《衛報》整理了賽事現場與球隊動態，為足球迷帶來濃厚的體育氛圍。",
+        "url": "https://www.theguardian.com/sport/us-sport/2026/jul/14/live-world-cup-2026-france-v-spain-semi-final-buildup-rice-set-to-start-for-england-against-argentina-live",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "出版商對 Google 以 Gemini AI 訓練資料提告，反映生成式 AI 與創作產業之間的版權爭議持續升溫。",
+        "url": "https://www.theguardian.com/culture/culture-tone/news/2026/jul/14/book-publishers-sue-google-for-copyright-infringement-over-gemini-ai-training",
+        "source": "The Guardian"
+      },
+      {
+        "summary": "一份科技評論提到，Microsoft Surface Laptop 8 以新式觸控板與長續航表現，展現消費電子的設計亮點。",
+        "url": "https://www.theguardian.com/technology/2026/jul/14/microsoft-surface-laptop-8-review-a-quality-pc-whose-trackpad-taps-you-back",
+        "source": "The Guardian"
+      }
+    ],
+    "inspiration_url": "https://www.theguardian.com/technology/2026/jul/14/ibm-loses-quarter-of-its-value-as-tech-giants-shares-plunge-and-profits-falter",
+    "story": "工程師們縮著身子穿越風雪檢查電力模組，貓卻完全不理會忙亂，只沿著藍綠色警示燈下的積水邊緣巡視。每當冷卻系統噴出一陣水霧，它就停下來盯著濺起的水花，像是在守著這座發光機房的呼吸節奏。",
+    "idea": "在一座位於北海岸懸崖上的資料中心機房外，霓虹螢光色的冷卻管線被暴風雪朦朧吞沒，畫面以立體紙藝景呈現、用渺小人物對比凸顯巨大的風機與散熱塔。一隻四腳黑白貓正低頭專注地追著地面上被排水噴口濺起的水花，濕亮的飛沫在紙雕層次間閃出刺眼光點。",
+    "inspiration": "英國《衛報》報導，人工智慧與資料中心的耗電與擴張，引發全球科技產業對能源與基礎建設的新一輪關注。",
+    "title": "霧海機房",
+    "number": 139
   }
 ]
