@@ -1445,5 +1445,18 @@
     "number": 144,
     "title": "罐頭與涼地",
     "character": "qqq"
+  },
+  {
+    "character": "snowball",
+    "number": 145,
+    "title": "雲落窗邊",
+    "model": "gpt-image-2 (codex-image-service / $imagegen)",
+    "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-15_1205_UTC.webp",
+    "season": "summer",
+    "character_name": "雪球",
+    "is_seasonal": true,
+    "status": "success",
+    "inspiration": "original",
+    "timestamp": "2026-07-15 12:05 UTC"
   }
 ]

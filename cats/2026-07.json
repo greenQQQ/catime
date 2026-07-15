@@ -6771,5 +6771,69 @@
     "inspiration_url": "https://techcrunch.com/2026/07/",
     "number": 144,
     "prompt": "Photorealistic handheld slow-shutter photography of QQQ, a chubby classic orange mackerel tabby shorthair cat with bright orange fur, darker orange stripes, a clear dark-orange M on the forehead, one small white bib patch only on the chin and upper chest, warm amber eyes, pink nose, and a plump rice-ball body, lying belly-up on the tiled floor of an old Taipei ice dessert shop, four legs splayed wide, round belly exposed, content and goofy, slowly turning its head with subtle motion blur and a gently swishing tail while the fur stays sharp enough to show the orange-white markings; centered composition with the cat occupying most of the frame, a freshly opened tuna can and a blue-and-yellow shell smart-glasses display stand placed beside it as props; visible Traditional Chinese date/time text in the scene reading “2026-07-15 11:05 UTC”; classic three-point lighting with soft key light, gentle fill, and subtle rim separation; vivid blue-and-yellow complementary color contrast against the orange tabby, cool tile reflections, dreamy time-passing effect, light streaks, flowing movement, candid real-world textures, shallow depth of field, natural grain, no studio look, no illustration, no extra accessories on the cat. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字)."
+  },
+  {
+    "character": "snowball",
+    "number": 145,
+    "story": "雪球今天又守在最受歡迎的窗位，客人們在窗外排隊拍照時，牠只是慢慢把身體攤平，像一朵被冷氣吹散的雲。店員把梳子放到旁邊，牠便舒服地閉上眼，連呼吸都顯得很優雅，彷彿整間咖啡廳都在配合牠的節奏。",
+    "idea": "以貢德畫的細緻筆觸呈現一間貓咪咖啡廳的飄窗角落，從鳥瞰視角看見雪球在冷氣房的大理石地板上優雅地攤成一片蓬鬆白雲，身旁是鋪著蕾絲邊的皮革沙發與一張下午茶小桌。環形燈柔和照亮牠海豹色重點與寶藍色大眼睛，青橙電影調讓整個窗位既清爽又溫暖，雪球正安靜地盯著桌上的小碟子，尾巴輕輕掃過桌腳。",
+    "news_inspiration": [
+      {
+        "summary": "研究人員正嘗試重建胸腺這個免疫器官，希望能延緩老化。",
+        "url": "https://www.nature.com/news",
+        "source": "Nature"
+      },
+      {
+        "summary": "科學家在深海探測技術上有新進展，利用鑽探船、海底感測器與改造網路電纜研究地球最後的未知區域。",
+        "url": "https://www.nature.com/news",
+        "source": "Nature"
+      },
+      {
+        "summary": "瓜地馬拉的馬雅遺址牆面出現數學公式，顯示古代天文研究可能比想像更精密。",
+        "url": "https://www.nature.com/news",
+        "source": "Nature"
+      },
+      {
+        "summary": "科學家在太陽系外首次找到「真正的糖」分子，為生命起源提供新線索。",
+        "url": "https://www.nature.com/news",
+        "source": "Nature"
+      },
+      {
+        "summary": "美國大聯盟與奧運的結合讓女子旗式美式足球在校園體育中快速升溫。",
+        "url": "https://apnews.com/article/834a8df578cce5f11595c31dd46801ce",
+        "source": "Associated Press"
+      }
+    ],
+    "season": "summer",
+    "is_seasonal": true,
+    "comment_id": 4980386502,
+    "avoid_list": [
+      "四腳虎斑貓專注巡視",
+      "前爪按住物件的維修姿勢",
+      "夜間工作場景",
+      "透明霓光與冷暖對比",
+      "配色條邊框構圖",
+      "分割畫面雙場景",
+      "百葉窗條紋光影",
+      "長卷式展開構圖",
+      "手作紙藝立體景",
+      "刺繡布面質感",
+      "藍青紫冷色調",
+      "螢光微粒與夢幻光點",
+      "便利商店自助微波區",
+      "地鐵維修車廂或車庫",
+      "老街雜貨店門口"
+    ],
+    "title": "雲落窗邊",
+    "prompt": "Traditional Gond painting illustration, intricate dot-and-line patterns, vibrant colors, nature-inspired motifs, mystical miniature-world composition, bird’s-eye top-down view looking straight down into a cat café bay window corner. Snowball, a large gentle Ragdoll cat with long silky cloud-like cream-white fur (#F5EFE6), soft seal-brown colorpoint markings only on the ears and a gentle wash down the nose bridge, all four paws white mittens, long white chest ruff, magnificent fluffy plume tail lightly seal-tinted, large deep sapphire blue eyes (#2E5FA3), pink nose and paw pads, relaxed floppy doll-like posture, serene sweet expression, is clearly shown slowly flattening into a fluffy white cloud on the cool marble floor in the air-conditioned room, calmly staring at a small plate on the tea table while the tail lightly sweeps the table leg. Beside her are a lace-trimmed genuine leather sofa with rich grain, warm aged patina, supple creased surface, and a petite afternoon tea table. Soft ring light illumination creates circular catchlights in her eyes and even frontal lighting, beauty-portrait quality; teal-and-orange cinematic color grading with fresh cool blue-green shadows and warm accents, punchy balanced contrast, cozy yet refreshing summer mood. Include the date and time visibly in Traditional Chinese or English as readable text: “2026-07-15 12:05 UTC”. Show the window seat as the most popular spot, with faint queueing customers outside the window only as background silhouettes, while Snowball remains the literal four-legged cat focal point. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "style_picks": {
+      "art_style": "Gond Painting",
+      "composition": "Bird's-Eye View",
+      "lighting": "Ring Light",
+      "texture": "Leather",
+      "color_palette": "Teal and Orange"
+    },
+    "character_name": "雪球",
+    "inspiration": "original"
   }
 ]
