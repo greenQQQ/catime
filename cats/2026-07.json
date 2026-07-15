@@ -6869,5 +6869,39 @@
     "inspiration": "original",
     "title": "星圖窗下",
     "number": 146
+  },
+  {
+    "number": 147,
+    "prompt": "PHOTOGRAPHY, real candid photograph of a white four-paw cat in a small independent photo studio with white walls and a red chair, standing on its hind legs and perching on its front paws in front of a mirror, gently bringing a cream-covered bread roll close to the glass as if secretly checking its snack trophy; clear double exposure effect with two overlapping images blended, the mirror reflection also revealing neatly arranged strawberries and a butter knife on the countertop behind it, mirror-selfie composition, intimate close-up perspective, casual framing, visible reflection, volumetric lighting with visible light rays and dust particles from a side window, dramatic depth, crisp graphic elegance, minimalist oriental balance, bold cinnabar red and clean white negative space, soft inflated padded quilted down-like texture in the cat’s fur and surrounding props, glossy puffer-like softness, natural light, 35mm lens, f/1.8, shallow depth of field, subtle film grain, highly detailed realistic textures, and the date/time text ‘2026-07-15 14:05 UTC’ clearly displayed in Traditional Chinese or English on a small sign in the scene IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "news_inspiration": [],
+    "comment_id": 4981518836,
+    "style_picks": {
+      "art_style": "Double Exposure",
+      "composition": "Mirror Selfie Composition",
+      "lighting": "Volumetric Light",
+      "texture": "Puffy Quilted Down",
+      "color_palette": "Vermilion and White"
+    },
+    "title": "鏡前甜偷",
+    "inspiration": "original",
+    "idea": "在一間白牆紅椅的獨立照相館裡，一隻四腳白貓正踮坐在鏡子前，把嘴邊沾著的鮮奶油麵包湊近玻璃，像是在偷偷確認自己的成果；畫面以雙重曝光呈現，鏡中同時疊映出它身後檯面上整齊排列的草莓與奶油刀，體積光從窗側斜斜灑入，讓朱紅與留白的空間帶著乾淨又鮮明的層次，並帶出膨脹絎縫羽絨般柔軟的觸感。",
+    "story": "這天午後，貓咪溜進照相館旁的甜點試吃角，趁店員轉身時偷偷叼走一小塊鮮奶油麵包。它沒有急著逃跑，反而跑到鏡子前端詳自己的戰利品，像在替這份小小的午茶冒險留影。",
+    "avoid_list": [
+      "四腳虎斑貓專注巡視",
+      "前爪按住物件的維修姿勢",
+      "夜間工作場景",
+      "透明霓光與冷暖對比",
+      "配色條邊框構圖",
+      "分割畫面雙場景",
+      "百葉窗條紋光影",
+      "長卷式展開構圖",
+      "手作紙藝立體景",
+      "刺繡布面質感",
+      "藍青紫冷色調",
+      "螢光微粒與夢幻光點",
+      "便利商店自助微波區",
+      "地鐵維修車廂或車庫",
+      "老街雜貨店門口"
+    ]
   }
 ]
