@@ -7243,5 +7243,69 @@
       "閃爍粒子亮粉",
       "繁體中文日期標示"
     ]
+  },
+  {
+    "number": 155,
+    "prompt": "Colored pencil illustration on rough sketchbook paper with visible pencil grain and layered hues, depicting a summer evening on an old apartment rooftop in vermilion red and gilt accents. Use a strong diagonal composition with tilted framing and dynamic slanted lines that connect the sunset sky, the roof ridge, and a single flickering candle into one off-axis visual flow. Show the date and time clearly as handwritten Traditional Chinese text on a small rooftop sign or note: “2026-07-16 10:05 UTC”. In the rooftop corner, Blanli, a slender elegant brown mackerel tabby shorthair with a warm grey-brown base coat, crisp dark brown-black stripes, bold forehead M, emerald green eyes, neat ringed tail with black tip, and long white whiskers, is curled quietly on an old wooden crate. The cat is literally four-legged and clearly visible, calmly pressing one front paw onto a tray of wind-scattered tuning forks and music paper strips, as if holding down the score; ears subtly twitching, tail gently flicking toward sparrows passing below. Add a faint iridescent holographic sheen only as subtle rainbow edge reflections along the dark tabby fur and around the emerald eyes, like transparent PVC/prismatic shimmer, without changing the natural cat design. Warm candlelight glows orange and flickers softly, casting intimate dancing shadows across lacquer-like cinnabar-red rooftop tiles with restrained metallic gold outlines; the late sunset sky bathes the scene in soft warm light, elegant and quiet, with kinetic tension across the frame. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "avoid_list": [
+      "直式書法海報構圖",
+      "鳥瞰俯視視角",
+      "四腳貓作為主體",
+      "慢動作轉頭與尾巴輕晃",
+      "三點打光與環形燈",
+      "青橙電影調配色",
+      "底片顆粒與35mm寫實感",
+      "貓趴在磁磚或石階上",
+      "鼻尖追逐紙帶或小物件",
+      "窗位與排隊人群背景",
+      "老式店舖與台北街景",
+      "藍黃互補色強烈對比",
+      "多層次裝飾邊框元素",
+      "柔和夢幻光暈效果"
+    ],
+    "story": "布藍里一如既往選了屋頂最高、最安靜的位置，在晚霞裡守著那張被風吹得半開的樂譜。牠不急不躁地用爪子壓住紙角，像在聽一場只有自己明白的音樂；直到樓下傳來熟悉的腳步聲，牠才低頭眨了眨眼，悄悄把身子再縮得更安穩一些。",
+    "character": "blanli",
+    "is_seasonal": true,
+    "comment_id": 4990663236,
+    "idea": "以色鉛筆畫呈現朱紅描金的老公寓屋頂傍晚，對角線構圖把晚霞、屋脊與一盞搖曳燭光串成斜向視線；布藍里蜷在屋頂角落一張舊木箱上，正專注用前掌按著一盤被風吹亂的音叉與音樂紙帶，耳尖微動，尾巴對著樓下掠過的麻雀輕輕一甩，虹彩全息質感在牠深色虎斑與綠眼邊緣細微閃現。",
+    "style_picks": {
+      "art_style": "Colored Pencil Drawing",
+      "composition": "Diagonal Composition",
+      "lighting": "Candlelight",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Vermilion and Gilt"
+    },
+    "season": "summer",
+    "character_name": "布藍里",
+    "news_inspiration": [
+      {
+        "summary": "科學家發現非洲的 DNA 可能可保存長達 5 萬年，為研究古人類與生態演化提供新線索。",
+        "url": "https://www.livescience.com/news/science-news/dna-can-last-for-up-to-50000-years-in-africa-much-longer-than-previously-thought",
+        "source": "Live Science"
+      },
+      {
+        "summary": "研究團隊正在以冷凍方式保存無尾熊卵子與精子，盼能為瀕危物種建立更強的保育後盾。",
+        "url": "https://www.livescience.com/news/science-news/scientists-are-deep-freezing-koala-eggs-and-sperm-to-protect-the-species-from-extinction",
+        "source": "Live Science"
+      },
+      {
+        "summary": "科學家首次直接觀測到海底板塊分裂並噴出熔岩，畫面罕見且有助理解板塊構造。",
+        "url": "https://www.nature.com/articles/d41586-026-02155-8",
+        "source": "Nature"
+      },
+      {
+        "summary": "一個科學與藝術合作團隊把研究資料轉譯成音樂，讓南極與外太空的聲音變成可聽見的作品。",
+        "url": "https://www.sciencenews.org/article/science-art-team-music-antarctica-space",
+        "source": "Science News"
+      },
+      {
+        "summary": "Fanatics Studios 正式登場，將與奧運、ESPN 等合作，把體育內容、紀錄片與現場活動做得更像跨界娛樂。",
+        "url": "https://apnews.com/article/fbe080f9c2c50e13b9cd3530673154d0",
+        "source": "AP News"
+      }
+    ],
+    "title": "霞頂聽音",
+    "inspiration_url": "https://www.sciencenews.org/article/science-art-team-music-antarctica-space",
+    "inspiration": "一個科學與藝術合作團隊把研究資料轉譯成音樂，讓南極與外太空的聲音變成可聽見的作品。"
   }
 ]
