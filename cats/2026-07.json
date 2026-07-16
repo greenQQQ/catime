@@ -7369,5 +7369,62 @@
         "source": "anydayguide.com"
       }
     ]
+  },
+  {
+    "avoid_list": [
+      "直式書法海報構圖",
+      "鳥瞰俯視視角",
+      "四腳貓作為主體",
+      "慢動作轉頭與尾巴輕晃",
+      "三點打光與環形燈",
+      "青橙電影調配色",
+      "底片顆粒與35mm寫實感",
+      "貓趴在磁磚或石階上",
+      "鼻尖追逐紙帶或小物件",
+      "窗位與排隊人群背景",
+      "老式店舖與台北街景",
+      "藍黃互補色強烈對比",
+      "多層次裝飾邊框元素",
+      "柔和夢幻光暈效果"
+    ],
+    "inspiration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJlBJgJ89BQTdoAG5Iy77uZ0cq9AN6X9USBxuJBx6lxbMYBEvp3ioywacshxAqkJJpOcxgO24VvFWD0l50Cah_MbkKyKOkIkGzKrBdDTzuQG_hzunz54v2CH5i_DLzzqCkIqlpO0Lc8aQH4OY3-M_tbYyLoVTouA==",
+    "style_picks": {
+      "art_style": "Kimono Beauty Illustration",
+      "composition": "Diagonal Composition",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Aged Silk Scroll",
+      "color_palette": "Crimson and Black"
+    },
+    "comment_id": 4991658671,
+    "character_name": "雪球",
+    "idea": "一幅以和服美人插畫風格呈現的畫面，雪球優雅地斜臥於鋪著緋紅絲綢的烏木矮几上，享受著身著烏黑和服的藝伎溫柔梳理毛髮，牠舒服地閉著眼，周圍瀰漫著星雲般的柔和輝光，整體透出古絹絹本的質感。",
+    "inspiration": "日本京都的祇園祭於七月登場，以其壯觀的花車和歷史悠久的遊行，為城市帶來豐富的文化氣息。",
+    "title": "絨雪逸光",
+    "story": "在古老京都町屋的深處，祇園祭的熱鬧聲響被輕柔的障子門阻隔。雪球在一名身著緋紅與烏黑相間和服的藝伎輕撫下，將全身化作一團棉花糖，牠享受地半閉雙眼，尾巴輕柔掃過身下的絲綢墊，彷彿整個世界只剩下梳子溫柔的摩挲聲與牠滿足的低鳴。",
+    "character": "snowball",
+    "prompt": "A highly detailed kimono beauty illustration, featuring a large, gentle Ragdoll cat, Snowball, with long, silky, cloud-like cream-white fur (#F5EFE6), soft seal-brown (#8A6A50) point markings on its ears and nose bridge ONLY, all four paws with clean white mittens (#FFFFFF), a long white ruff fur on its chest, a magnificent fluffy plume tail lightly seal-tinted, large, deep sapphire blue (#2E5FA3) eyes comfortably closed in a serene, sweet expression, and pink paw pads and nose. Snowball elegantly reclines diagonally in a relaxed, floppy, doll-like posture on a low ebony table, sumptuously draped with crimson silk. A graceful Japanese woman, adorned in an elaborate, jet-black kimono with crimson accents, gilt decorative motifs, and flowing traditional patterns, gently grooms Snowball's fur with a delicate comb. The composition utilizes dynamic slanted lines and off-axis tension, creating kinetic visual flow typical of refined wa-style ornamental rendering. The scene is bathed in a nebula cosmic glow, with soft colorful starfield illumination, ethereal purple and blue space light, glowing particles, and galactic haze, casting an otherworldly radiance. The overall aesthetic mimics an aged silk scroll surface, with a warm sepia patina, visible silk weave, subtle weathered paper stains, and delicate crease lines, conveying an antique manuscript texture. The dominant color palette is crimson and black, showcasing deep blood-red against jet black with dramatic high-contrast intensity, evoking an elegant and mysterious mood. The date and time '2026-07-16 12:05 UTC' is elegantly incorporated into the illustration as an aged, calligraphic text overlay, seamlessly blending with the scroll's texture. IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 157,
+    "news_inspiration": [
+      {
+        "summary": "日本京都的祇園祭於七月登場，以其壯觀的花車和歷史悠久的遊行，為城市帶來豐富的文化氣息。",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJlBJgJ89BQTdoAG5Iy77uZ0cq9AN6X9USBxuJBx6lxbMYBEvp3ioywacshxAqkJJpOcxgO24VvFWD0l50Cah_MbkKyKOkIkGzKrBdDTzuQG_hzunz54v2CH5i_DLzzqCkIqlpO0Lc8aQH4OY3-M_tbYyLoVTouA==",
+        "source": "globalglam.com"
+      },
+      {
+        "summary": "法屬玻里尼西亞帕皮提正在舉辦「Heiva i Tahiti」傳統節日，以充滿活力的歌聲、鼓樂和臀部搖擺舞為特色。",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdAEZpt1GNsExHnadYPJSTbujJlOEi6HBws1SocsQZ7caU2mzvIKdzTZl4FNr0NU7DoRCwY4fZZbfu8AJovpJPyV819jJM9sDVbWROF83MlHF-gAuMwDbRb7AvbIJcacl37Rw4NxyZLiPqNZld-3qBGNtuW-GcJc5Jl8qqcmUCQuFbXIJNnP9D1h4aC0Xg284EsZM3stmhgQ==",
+        "source": "amexessentials.com"
+      },
+      {
+        "summary": "英國華威大學和美國科羅拉多大學波德分校的科學家們宣布，在地球附近發現了四顆之前隱藏的白矮星。",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG8L2sV--v2rww5wWhdqKvyJ7bL_FzVnZ7gZ6yEkynq9N2s8cgYfgzSmTxp5sgnKnHqkDx4Mz98sKIqc35zzLdQ6j1D23pN6TXSMIOzsQ-jl0Mcc2y0s4m5kdJRjSfofX-pBoUerANHduu8SH1nXR8EV1DO3bWGkU=",
+        "source": "sciencedaily.com"
+      },
+      {
+        "summary": "葡萄牙波爾圖市推出免費公共交通，以改善城市居民的流動性和生活方式。",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfnQ0bE3T1U_NhZ29cKSbEBhIiJcFwvjpn3wjR8jEmf3w4nFAR9sZxlgpS1EgdTLgfQ8R2auo6gq8_JC4YkR4L8Uq0QJxSgkSt2benHmCQTrs=",
+        "source": "goodnews.eu"
+      }
+    ]
   }
 ]
