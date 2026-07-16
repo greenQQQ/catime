@@ -7459,5 +7459,38 @@
     "inspiration": "original",
     "prompt": "A cute cat with the date and time '2026-07-16 13:05 UTC' displayed in the image, high quality, detailed",
     "idea": ""
+  },
+  {
+    "inspiration": "original",
+    "number": 159,
+    "news_inspiration": [],
+    "style_picks": {
+      "art_style": "Polaroid",
+      "composition": "Side Profile Portrait",
+      "lighting": "High-Key Bright Lighting",
+      "texture": "Wireframe Overlay",
+      "color_palette": "Monochrome / Black and White"
+    },
+    "title": "齒輪靜思",
+    "comment_id": 4992868902,
+    "idea": "一張拍立得風格的黑白側臉特寫，捕捉了一隻貓咪在高調明亮光線下，專注於老式鐘錶店工作檯上複雜的微型齒輪，畫面覆蓋著一層若隱若現的線框透明質感。",
+    "prompt": "一張拍立得風格的黑白側臉特寫，捕捉了一隻貓咪在高調明亮光線下，專注於老式鐘錶店工作檯上複雜的微型齒輪，畫面覆蓋著一層若隱若現的線框透明質感。. The date and time '2026-07-16 14:05 UTC' is visually displayed in the image. Polaroid instant photo, white border frame, slightly faded colors, soft warm tones, side profile portrait, subject viewed from the side, clean silhouette of nose and chin, profile-defining contour, elegant lateral framing, high-key bright lighting, airy overexposed feel, soft even illumination, minimal shadows, luminous clean atmosphere, dreamy pastel mood, wireframe overlay texture, glowing geometric mesh lines over the form, translucent technical grid, digital blueprint feel, futuristic see-through structure, black and white monochrome, high contrast, rich tonal range, dramatic shadows and highlights IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "story": "在陽光灑落的鐘錶修復工坊裡，一隻毛茸茸的黑貓側臥於古舊木桌。牠的眼神銳利，前爪輕巧地觸碰著散落的黃銅齒輪，彷彿正在仔細檢查每一個細節。周圍彌漫著機油與歲月的氣息，每一個物件都承載著時間的秘密。",
+    "avoid_list": [
+      "直式書法海報構圖",
+      "鳥瞰俯視視角",
+      "四腳貓作為主體",
+      "慢動作轉頭與尾巴輕晃",
+      "三點打光與環形燈",
+      "青橙電影調配色",
+      "底片顆粒與35mm寫實感",
+      "貓趴在磁磚或石階上",
+      "鼻尖追逐紙帶或小物件",
+      "窗位與排隊人群背景",
+      "老式店舖與台北街景",
+      "藍黃互補色強烈對比",
+      "多層次裝飾邊框元素",
+      "柔和夢幻光暈效果"
+    ]
   }
 ]
