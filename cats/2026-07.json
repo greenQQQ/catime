@@ -7307,5 +7307,67 @@
     "title": "霞頂聽音",
     "inspiration_url": "https://www.sciencenews.org/article/science-art-team-music-antarctica-space",
     "inspiration": "一個科學與藝術合作團隊把研究資料轉譯成音樂，讓南極與外太空的聲音變成可聽見的作品。"
+  },
+  {
+    "story": "QQQ 對於宇宙的奧秘沒有太大的興趣，牠只知道香甜的氣味是幸福的線索。當人類研究人員忙於分析星際糖分子的資料時，QQQ 悄悄地跳上桌，發現了這個發光的模型，牠圓滾滾的琥珀色大眼緊盯著，粉紅色的小鼻子快速抽動，心中盤算著這是否能成為下一頓美味的點心。",
+    "avoid_list": [
+      "直式書法海報構圖",
+      "鳥瞰俯視視角",
+      "四腳貓作為主體",
+      "慢動作轉頭與尾巴輕晃",
+      "三點打光與環形燈",
+      "青橙電影調配色",
+      "底片顆粒與35mm寫實感",
+      "貓趴在磁磚或石階上",
+      "鼻尖追逐紙帶或小物件",
+      "窗位與排隊人群背景",
+      "老式店舖與台北街景",
+      "藍黃互補色強烈對比",
+      "多層次裝飾邊框元素",
+      "柔和夢幻光暈效果"
+    ],
+    "character": "qqq",
+    "idea": "一隻圓滾滾的橘貓QQQ，在像素藝術風格、燭光照亮的莫蘭迪色調實驗室中，以憨厚的表情好奇地嗅聞著碳纖維紋理桌上一個對稱擺放的像素化「糖分子」模型。",
+    "style_picks": {
+      "art_style": "Pixel Art",
+      "composition": "Symmetrical Composition",
+      "lighting": "Candlelight",
+      "texture": "Carbon Fiber",
+      "color_palette": "Morandi Color Palette"
+    },
+    "character_name": "QQQ",
+    "title": "星際糖球探測員",
+    "number": 156,
+    "inspiration_url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEs4ZDfPTTfKDy3xpNzxwdA7SRJdojHgTtJmeb7oXWP1_MfBwZS76dm3ZGb49qqxTXy6pEwJg2azhaPtkJ4rf6B7xe70tGFSxuGYRreONrVgfooiIMrF2arhqg0Sq68TbeeWPZSqXtiCjinYfuioJxMy2Uz5UXzYnftCgMkpxeVdC-w5FST9fJjV4UqKShclmC3IYP95_27it61L8Kdbxq4-GBlPbiy8XSAzYK0GV_9g==",
+    "prompt": "A perfectly symmetrical composition in retro 8-bit pixel art style, depicting QQQ, a chubby, round-faced classic orange mackerel tabby shorthair cat. QQQ has bright orange fur (#E8853A) with darker orange stripes (#C05A1A), a clear dark-orange 'M' marking on its forehead, and one small white bib patch (#FFFFFF) on its chin and upper chest. Its tail has dark-orange rings with the darkest tip. Its large, round, warm amber eyes (#E0A030) and soft pink nose are prominent as it sits like a rice ball, with a content, slightly goofy, utterly happy expression. QQQ is centered, curiously sniffing a glowing, perfectly symmetrical, pixelated 'sugar molecule' model placed on a carbon fiber weave pattern table with a glossy clear coat finish, within a laboratory setting. The scene is illuminated by candlelight, casting a warm orange flickering glow, creating an intimate atmosphere with soft dancing shadows. The entire image uses a Morandi muted color palette, featuring desaturated soft pastels and dusty grey undertones, conveying quiet elegance. Visually displayed in English within the pixel art, \"2026-07-16 11:05 UTC\". IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "inspiration": "西班牙天文生物學中心等國際團隊首次在銀河系中心附近的星際空間中偵測到一種天然糖分子，這對生命起源的宇宙故事提出了新的疑問。",
+    "comment_id": 4991120182,
+    "news_inspiration": [
+      {
+        "summary": "美國約翰霍普金斯大學的研究人員發現了一種腸道細菌毒素引發結腸癌的機制，並設計出一種誘餌蛋白成功阻斷其作用，為預防與治療提供新方向。",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-EBuyk7qmr_jWn_pEDe0YDDvNMXyBX1PPI15i-MJ3KfiQkeO5e2dvVMiXOU46AR7Ue0U0Jy1rzjBEqxUkwJCRe2ByOIgfKg1ORdzJKq-3CiecyuboMfLjbbOYX0XYGQaBBGGQhE44eJ6Y8GWdKTcEGVoQ9mK_66E7",
+        "source": "sciencedaily.com"
+      },
+      {
+        "summary": "西班牙天文生物學中心等國際團隊首次在銀河系中心附近的星際空間中偵測到一種天然糖分子，這對生命起源的宇宙故事提出了新的疑問。",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEs4ZDfPTTfKDy3xpNzxwdA7SRJdojHgTtJmeb7oXWP1_MfBwZS76dm3ZGb49qqxTXy6pEwJg2azhaPtkJ4rf6B7xe70tGFSxuGYRreONrVgfooiIMrF2arhqg0Sq68TbeeWPZSqXtiCjinYfuioJxMy2Uz5UXzYnftCgMkpxeVdC-w5FST9fJjV4UqKShclmC3IYP95_27it61L8Kdbxq4-GBlPbiy8XSAzYK0GV_9g==",
+        "source": "openthemagazine.com"
+      },
+      {
+        "summary": "日本廣島大學的國際研究團隊開發了一種新方法，能夠在肉眼可見的損傷出現前，檢測出人體皮膚膠原蛋白的早期細微變化。",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEryH7YhfpilYDQi42o6PFqJy8jnEBF1RiE3gMlRNoQA2-xxwObALb15VqFwYZZ-4Msuv-D9ot6qMkdu-V6IB3RPQj_tUV5I0BsOAbYBdyUr12PHNPwuml7-yaUuQJvglwN34i2xw1zAYGYUURwV4oisBAh9yqU2jVHn8jDehOxK5ccqbcEtehVrym3hjAhfgAjHzXNTAjzGA==",
+        "source": "asiaresearchnews.com"
+      },
+      {
+        "summary": "地面交通整合商Omio集團將收購總部位於法國巴黎的Rail Europe鐵路分銷平台，旨在實現更便捷、易於負擔的火車旅行。",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqo1jqR_YX1A100NPKFa2Z3-n2MPIe9L4deUHfagR4NAe6dgqFbVLu-Jj73OIV4PfCMki48-E_2t2EW0zWYGpgRnBnf-xbHZaWX5NgOyx9GjsCeXzMoeRuX52tdpoJnhrfNkmVeyUR9Rd_fR0Xha-mbUqPmCseGOTUb51SB51WF7-hR3olkun_tvE63xz86VN0p7PGiRI=",
+        "source": "businesstravelnewseurope.com"
+      },
+      {
+        "summary": "瑞士韋爾比耶正在舉辦一場從7月16日持續到8月2日的國際音樂節，匯聚了世界各地的音樂家。",
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGu8d8Hsg1PXTWfpg0CTRvEIBpTqmsjYt4T2B-JV4xZciWhq4GHjcX4qgb541e9sgtb7xwSWUWZA3XBg220pl2wb7DIoTsxyxlH-2slVM2malYr04CBIOkWQ7gyMBBGHmU86eZ2T0=",
+        "source": "anydayguide.com"
+      }
+    ]
   }
 ]
