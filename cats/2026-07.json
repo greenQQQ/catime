@@ -7182,5 +7182,66 @@
     "idea": "一隻四腳黑貓蹲在紐約老式消防站的洗手台邊，專心用前掌把一顆番茄壓進磨碗裡，檯面上散著蒜頭、羅勒與金屬湯匙，畫面以米提拉畫的繁複線條重現牆面徽章與瓷磚花紋。頭肩特寫中，體積光從高窗斜落，緋紅與烏黑的色塊在亮面塑膠/玩具質感上閃出俐落反光。",
     "comment_id": 4989142698,
     "story": "消防站的晚餐時間總是嘈雜，只有這隻黑貓最懂得守著番茄醬的火候。牠一邊用爪尖慢慢推動磨碗，一邊抬眼看著廚房裡忙亂的隊員，像是在監督一場嚴格而安靜的儀式。"
+  },
+  {
+    "prompt": "1990s documentary photography, real photograph, side-profile close-up of a four-legged orange-and-white cat in a seaside harbor shrimp-shell circular laboratory kitchen, the cat focused and calmly supervising while pressing a carbon-negative material mold with its front paws, nose slightly touching a freshly baking fuel brick, clear profile of nose and chin, elegant lateral framing, 35mm lens, direct flash, f/1.8, shallow depth of field, candid shot, slightly muted warm tones, nostalgic glow, clean silhouette, metallic worktable, matte walls, vermilion and white lab tools, industrial seaside port atmosphere, nebula-like edge lighting with subtle rainbow iridescent holographic highlights from luminous tubes, glowing particles and soft cosmic haze at the frame edges, the date and time '2026-07-16 09:05 UTC' visibly displayed in Traditional Chinese or English signage within the scene, bold cinnabar-red block material emerging from the press, minimal negative-space composition, crisp graphic elegance, authentic film grain IMPORTANT: any text rendered in the image (date/time, title, signs, captions) must use Traditional Chinese (繁體中文 / 正體字) glyphs or English only. NEVER render Simplified Chinese (简体字).",
+    "number": 154,
+    "news_inspiration": [
+      {
+        "summary": "科學家將蝦殼轉化為可用於燃料、食物與建材的「碳負」材料，展現循環經濟新進展。",
+        "url": "https://www.smithsonianmag.com/science-nature/how-shrimp-shells-are-being-turned-into-carbon-negative-fuel-food-and-construction-materials-180986687/",
+        "source": "Smithsonian Magazine"
+      },
+      {
+        "summary": "一顆罕見彗星被證實是第三個已知穿越太陽系的星際天體，天文觀測正揭開它的神秘起源。",
+        "url": "https://www.smithsonianmag.com/science-nature/a-rare-comet-made-history-as-the-third-known-interstellar-object-to-fly-through-our-solar-system-studies-are-now-revealing-the-mysterious-conditions-in-which-it-formed-180986686/",
+        "source": "Smithsonian Magazine"
+      },
+      {
+        "summary": "科學家用來自南極與外太空的研究數據製作音樂，把科研資料變成可聽見的藝術。",
+        "url": "https://www.sciencenews.org/article/otherworldly-music-albums-feature-space-weather-data",
+        "source": "Science News"
+      },
+      {
+        "summary": "阿斯本藝術博物館的 AIR 藝術節由 Miranda July 領銜，結合表演、山景與當代創作，視覺感十足。",
+        "url": "https://news.artnet.com/art-world/miranda-july-aspen-art-air-festival-2782188",
+        "source": "Artnet News"
+      },
+      {
+        "summary": "大英博物館的貝葉掛毯展票務收入亮眼，也反映出世界各地民眾對歷史文化展覽的熱烈興趣。",
+        "url": "https://news.artnet.com/market/paint-drippings-art-industry-news-jul-6-2786089?amp=1",
+        "source": "Artnet News"
+      }
+    ],
+    "story": "港邊的人們把蝦殼送進這間小實驗廚房，等著它變成燃料、食物與建材都能用上的新材料。貓坐在工作台前，安靜盯著壓模機吐出的朱紅色塊狀材料，像是在監工一場關於循環未來的午后。",
+    "inspiration_url": "https://www.smithsonianmag.com/science-nature/how-shrimp-shells-are-being-turned-into-carbon-negative-fuel-food-and-construction-materials-180986687/",
+    "style_picks": {
+      "art_style": "1990s Film Aesthetic",
+      "composition": "Side Profile Portrait",
+      "lighting": "Nebula Cosmic Glow",
+      "texture": "Iridescent Holographic",
+      "color_palette": "Vermilion and White"
+    },
+    "idea": "90年代底片風格的側臉特寫，畫面位於一間位在海邊港口旁的蝦殼循環實驗廚房：一隻四腳橘白貓正專注地用前爪按著碳負材料壓模，鼻子微微貼近正在烘烤的燃料磚，空氣裡有朱紅與白色的器具、金屬台面與霧面牆面，星雲輝光般的燈管在邊緣泛出虹彩全息質感。",
+    "title": "蝦殼之光",
+    "comment_id": 4990092115,
+    "inspiration": "科學家將蝦殼轉化為可用於燃料、食物與建材的「碳負」材料，展現循環經濟新進展。",
+    "avoid_list": [
+      "四腳貓專注追逐",
+      "鼻尖追著飄動物件",
+      "鏡面積水反射",
+      "青橙電影調",
+      "藍黃互補色",
+      "三點打光",
+      "直式電影海報構圖",
+      "書法海報側欄",
+      "微縮模型場景",
+      "立體紙雕層次",
+      "清明上河圖式長卷",
+      "傳統東亞繪畫質感",
+      "夜景月光氛圍",
+      "閃爍粒子亮粉",
+      "繁體中文日期標示"
+    ]
   }
 ]
