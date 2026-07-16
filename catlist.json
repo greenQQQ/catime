@@ -1531,5 +1531,13 @@
     "number": 152,
     "url": "https://github.com/greenQQQ/catime/releases/download/cats-2026-07/cat_2026-07-16_0705_UTC.webp",
     "title": "番茄夜巡"
+  },
+  {
+    "status": "failed",
+    "timestamp": "2026-07-16 08:05 UTC",
+    "model": "all failed",
+    "url": null,
+    "number": null,
+    "error": "codex-image-service job failed: Codex timed out after 360 seconds"
   }
 ]
